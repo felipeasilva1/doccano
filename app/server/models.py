@@ -182,6 +182,9 @@ class Document(models.Model):
     text = models.TextField()
     project = models.ForeignKey(Project, related_name='documents', on_delete=models.CASCADE)
     meta = models.TextField(default='{}')
+    start_offset = models.IntegerField(default=-1)
+    end_offset = models.IntegerField(default=-1)
+    parent_document = models.IntegerField(default=-1)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
 

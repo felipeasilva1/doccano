@@ -17,14 +17,8 @@ def setup_environment():
     django.setup()
 
 def retrieve_annotated_text(label):
-    if label == 'Precedente':
-        label_id = 18
-    elif label == 'Doutrinador':
-        label_id = 19
-    else:
-        raise Exception('There is no such label for 2nd phase')
-    
-    objects = SequenceAnnotation.objects.all().filter(label=label_id)
+    label = Label.objects.all().filter(text=label).first()
+    objects = SequenceAnnotation.objects.all().filter(label=label.id)
 
     return [{'text': parse_annotation_and_get_payload(obj)} for obj in objects]
 
@@ -36,7 +30,7 @@ def parse_annotation_and_get_payload(annotation):
 
 if __name__ == '__main__':
     setup_environment()
-    from server.models import SequenceAnnotation, Document
+    from server.models import SequenceAnnotation, Document, Label
 
     annotations = retrieve_annotated_text(label='Precedente')
 

@@ -12,7 +12,15 @@ from requests.auth import HTTPBasicAuth
 from string import ascii_letters, digits
 from elasticsearch import Elasticsearch, RequestsHttpConnection
 
+from text_sweeper import to_sweep
 from labels import LABELS_PROPERTIES
+
+sys.path.append(os.path.abspath('../../app'))
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'app.settings')
+django.setup()
+from django.contrib.auth.models import User
+from django.shortcuts import get_object_or_404
+from server.models import Project, SequenceLabelingProject, Label
 
 connection = Elasticsearch([{'host': 'aplcldrjvpr0017.acad.fgv.br', 'port': 9200}],
                            connection_class=RequestsHttpConnection,
@@ -20,6 +28,8 @@ connection = Elasticsearch([{'host': 'aplcldrjvpr0017.acad.fgv.br', 'port': 9200
                            use_ssl=True,
                            verify_certs=False,
                            timeout=180)
+
+DATASET = 'data/df_14_mono_coleg.csv'
 
 def setup_environment():
     """
@@ -67,6 +77,7 @@ def create_project(owner, project_phase=None):
 
     project_phase = project_phase if project_phase else 'Documentos'
     user = User.objects.all().filter(username=owner).first()
+    admin = User.objects.all().filter(username='admin').first()
 
     payload = {
         'name': '{0} - {1}'.format(project_phase, owner),
@@ -80,27 +91,34 @@ def create_project(owner, project_phase=None):
                                      guideline=payload['guideline'])
 
     project.users.add(user)
+    project.users.add(admin)
     project.save()
 
     return project.id
 
-def retrieve_documents_for_annotator(annotator_id=None):
+def retrieve_documents_for_annotator(ids=None, annotator_id=None):
     """
     Query the elasticsearch and retrieve the documents separated for a given annotator.
     
     The data is returned in the proper format for the next stages of the pipeline.
     """
-    if annotator_id:
-        query = { "query": { "match_all": {}}}  # we need to decide how we're gonna query for this
-    else:
-        query = { "query": { "match_all": {}}}
     
     urllib3.disable_warnings()
 
-    resultset = elasticsearch.helpers.scan(connection, query, 
-                                            index='annotation_test_index', request_timeout=60)
-    
-    return [{'text': document['_source']['raw_text']} for document in resultset]
+    resultset = []
+    for id in ids:
+        document = connection.get(index='stf_prod', doc_type='decisoes', id=id)
+        resultset.append(document)
+
+    doccano_documents = []
+    for document in resultset:
+        _, sigla, numero, _ = document['_id'].split('_')
+        text = document['_source']['raw_text']
+        is_monocratica = document['_source']['monocratica']
+        text = to_sweep(text, sigla, numero, is_monocratica)[0]
+        doccano_documents.append(text)
+
+    return [{'text': document} for document in doccano_documents]
 
 def create_documents_and_associate_to_project(project_id, owner, payload=None):
     """
@@ -128,16 +146,25 @@ def run_pipeline_for(username):
     user_id, user = create_user(username, password)
     project_id = create_project(owner=user)
 
-    payload = retrieve_documents_for_annotator(annotator_id=user)
+    ids = read_csv(DATASET)
+    payload = retrieve_documents_for_annotator(ids=ids, annotator_id=user)
     create_documents_and_associate_to_project(project_id, user, payload)
     create_project_labels(project_id)
 
-if __name__ == '__main__':
-    setup_environment()
+def read_csv(filename):
+    with open(filename, 'r') as fh:
+        data = fh.readlines()
+        data = [datum.split(',') for datum in data[1:]]
+        data = [datum[1] for datum in data]
 
-    from django.contrib.auth.models import User
-    from django.shortcuts import get_object_or_404
-    from server.models import Project, SequenceLabelingProject, Label
+    return data
+
+if __name__ == '__main__':
+    # setup_environment()
+
+    # from django.contrib.auth.models import User
+    # from django.shortcuts import get_object_or_404
+    # from server.models import Project, SequenceLabelingProject, Label
 
     cli = parse_command_line_arguments()
     username = cli.annotator

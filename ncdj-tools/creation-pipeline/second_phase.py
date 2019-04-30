@@ -1,6 +1,7 @@
 import os
 import sys
 import django
+import argparse
 
 from django.shortcuts import get_object_or_404
 
@@ -15,6 +16,13 @@ def setup_environment():
     sys.path.append(os.path.abspath('../../app'))
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'app.settings')
     django.setup()
+
+def parse_command_line_arguments():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--annotator', help='annotator unique identifier', required=True)
+    cli = parser.parse_args()
+
+    return cli
 
 def retrieve_annotated_text(label):
     label = Label.objects.all().filter(text=label).first()
@@ -32,10 +40,15 @@ if __name__ == '__main__':
     setup_environment()
     from server.models import SequenceAnnotation, Document, Label
 
-    annotations = retrieve_annotated_text(label='Precedente')
+    annotator = parse_command_line_arguments().annotator
 
-    project_id = create_project('felipe', project_type='Precedente')
+    annotations_p = retrieve_annotated_text(label='Precedente')
+    project_id_p = create_project(annotator, project_phase='Precedente')
+    create_project_labels(project_id_p, project_type='Precedente')
+    
+    annotations_d = retrieve_annotated_text(label='Doutrinador')
+    project_id_d = create_project(annotator, project_phase='Doutrinador')
+    create_project_labels(project_id_d, project_type='Doutrinador')
 
-    create_project_labels(project_id, project_type='Precedente')
-
-    create_documents_and_associate_to_project(project_id, annotations)
+    create_documents_and_associate_to_project(project_id_p, annotator, annotations_p)
+    create_documents_and_associate_to_project(project_id_d, annotator, annotations_d)

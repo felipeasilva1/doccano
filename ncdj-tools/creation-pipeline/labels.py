@@ -1,16 +1,17 @@
 
 LABELS_PROPERTIES = {
         'Documento': {
-            'Precedente': (None, 'p', '#e5c494', '#ffffff'),
+            'Precedente': (None, 'p', '#eea420', '#ffffff'),
             'Doutrinador': (None, 'd', '#ee3720', '#ffffff'),
             'Ref. Legislativa': (None, 'r', '#2ca014', '#ffffff'),
-            'Pessoa': ('shift', 'p', '#eea420', '#ffffff')
+            'Pessoa': ('shift', 'p', '#34495e', '#ffffff')
         },
         'Precedente': {
             'Número': (None, 'n', '#9b59b6', '#ffffff'),
             'Origem': (None, 'o', '#3498db', '#ffffff'),
             'Tipo': (None, 't', '#95a5a6', '#ffffff'),
             'Relator': (None, 'r', '#e74c3c', '#ffffff'),
+            'Pessoa - Não Relator': (None, 'r', '#FF930E', '#ffffff'),
             'Data de Julgamento': (None, 'd', '#34495e', '#ffffff'),
             'Data de Publicação': (None, 'p', '#2ecc71', '#ffffff'),
             'Corte': (None, 'c', '#dbc256', '#ffffff'),

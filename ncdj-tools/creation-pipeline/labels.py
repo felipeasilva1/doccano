@@ -11,7 +11,7 @@ LABELS_PROPERTIES = {
             'Origem': (None, 'o', '#3498db', '#ffffff'),
             'Tipo': (None, 't', '#95a5a6', '#ffffff'),
             'Relator': (None, 'r', '#e74c3c', '#ffffff'),
-            'Pessoa - Não Relator': (None, 'r', '#FF930E', '#ffffff'),
+            'Pessoa - Não Relator': ('shift', 'n', '#FF930E', '#ffffff'),
             'Data de Julgamento': (None, 'd', '#34495e', '#ffffff'),
             'Data de Publicação': (None, 'p', '#2ecc71', '#ffffff'),
             'Corte': (None, 'c', '#dbc256', '#ffffff'),

@@ -173,11 +173,11 @@ def remove_header_process_parts_acordaos(text):
     idx_start = re.search('\n\ne ?m ?e ?n ?t ?a ?:? ', text, flags=re.IGNORECASE)
     if idx_start:
         threshold_colons = 0
+        idx_start = idx_start.start()
         if idx_start > 500:
             # if the beggning of the text content itself (the text after the process' parts) is not in beginning of text, 
             # then we need to be a little more restrict
             threshold_colons += 1
-        idx_start = idx_start.start()
         header = text[:idx_start]
         paragraphs = header.split('\n\n')
         for i in range(len(paragraphs)-1, -1, -1):

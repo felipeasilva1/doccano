@@ -37,32 +37,50 @@ def to_sweep(text, sig, num, monocratic=True):
 
     if monocratic:
         text = remove_header_process_parts(text)
+    else:
+        text = remove_header_process_parts_acordaos(text)
 
     text = re.sub(' +', ' ', text).strip()  
     text = re.sub('\t',' ', text)
     
     report['size_header'] = old_size - len(text)
 
+    text = re.sub(r"<Pagina (\d+)>", r"\n\n<Pagina \1>\n\n", text)
+    text = re.sub(r"\n\n+", "\n\n", text)
+
     paragraphs = [t.strip() for t in text.split('\n\n') if t]
 
     sanitazied_content = []
+    new_page = False
     for paragraph in paragraphs:
-        token_01 = "<Pagina "
-        if token_01 in paragraph and len(paragraph) < 2 * len(token_01):
-            report['ref_pag'] += 1
+
+        # eliminates title at the very start of the page
+        if new_page:
+            new_page = False
             continue
 
+        # eliminates page counter
+        token_01 = "<Pagina"
+        if token_01 in paragraph and len(paragraph) < 2 * len(token_01):
+            report['ref_pag'] += 1
+            if not monocratic:
+                new_page = True
+            continue
+
+        # eliminates the digital signature at the end of every page
         token_02 = "Documento assinado digitalmente "
         if token_02 in paragraph and len(paragraph) <  400:
             report['ref_ass_dig'] += 1
             continue
 
+        # eliminates the self reference title at the beginning of the page
         token_03 = "%s %s " % (sig.lower(), num)
-        if token_03 in paragraph.lower() and len(paragraph) < len(token_03) + 10:
+        if len(set(token_03) - set(paragraph.lower())) == 0 and len(paragraph) < len(token_03) + 10:
             report['ref_sig_num'] += 1
             continue
-            
-        if len(paragraph.replace(" ", "")) == 0:
+
+        # eliminates very short rows, usually only with number or empty spaces
+        if len(paragraph.replace(" ", "")) < 4:
             continue
         
         sanitazied_content.append(paragraph)
@@ -146,6 +164,29 @@ def remove_header_process_parts(text):
                 break
         paragraphs = [par for par in paragraphs[i+1:]]
         return '\n\n'.join(paragraphs) + '\n\n' + text[idx_start + 2:]
+    return text
+
+
+def remove_header_process_parts_acordaos(text):
+    """ Finds beginning of relevant text content, then loops backwards to remove paragraphs which refer to parts of process 
+    """
+    idx_start = re.search('\n\ne ?m ?e ?n ?t ?a ?:? ', text, flags=re.IGNORECASE)
+    if idx_start:
+        threshold_colons = 0
+        if idx_start > 500:
+            # if the beggning of the text content itself (the text after the process' parts) is not in beginning of text, 
+            # then we need to be a little more restrict
+            threshold_colons += 1
+        idx_start = idx_start.start()
+        header = text[:idx_start]
+        paragraphs = header.split('\n\n')
+        for i in range(len(paragraphs)-1, -1, -1):
+            number_of_colons = paragraphs[i].count(':')
+            number_of_line_breaks = paragraphs[i].count('\n')
+            if (number_of_colons > threshold_colons) and (number_of_line_breaks > 0) and (number_of_colons >= number_of_line_breaks/2.) and paragraphs[i].isupper():
+                break
+        paragraphs = [par for par in paragraphs[i+1:]]
+        return '\n\n'.join(paragraphs) + '\n\n' + text[idx_start+2:]
     return text
 
 

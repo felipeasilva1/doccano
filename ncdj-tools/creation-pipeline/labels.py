@@ -4,7 +4,7 @@ LABELS_PROPERTIES = {
             'Precedente': (None, 'p', '#eea420', '#ffffff'),
             'Doutrinador': (None, 'd', '#ee3720', '#ffffff'),
             'Ref. Legislativa': (None, 'r', '#2ca014', '#ffffff'),
-            'Pessoa': ('shift', 'p', '#34495e', '#ffffff')
+            'Pessoa': (None, 'e', '#34495e', '#ffffff')
         },
         'Precedente': {
             'Número': (None, 'n', '#9b59b6', '#ffffff'),

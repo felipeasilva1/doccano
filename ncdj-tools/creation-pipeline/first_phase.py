@@ -52,8 +52,8 @@ def create_user(username, password):
     Create Django User and return the tuple containing the name and it's id
     """
     user = User.objects.create_user(username, password=password)
-    user.is_superuser=True
-    user.is_staff=True
+    user.is_superuser=False
+    user.is_staff=False
     user.save()
 
     return (user.id, user.username)

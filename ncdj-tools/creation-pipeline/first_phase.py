@@ -78,6 +78,7 @@ def create_project(owner, project_phase=None):
     project_phase = project_phase if project_phase else 'Documentos'
     user = User.objects.all().filter(username=owner).first()
     admin = User.objects.all().filter(username='admin').first()
+    carla = User.objects.all().filter(username='carla').first()
 
     payload = {
         'name': '{0} - {1}'.format(project_phase, owner),
@@ -92,6 +93,7 @@ def create_project(owner, project_phase=None):
 
     project.users.add(user)
     project.users.add(admin)
+    project.users.add(carla)
     project.save()
 
     return project.id

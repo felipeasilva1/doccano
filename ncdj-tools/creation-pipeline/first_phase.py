@@ -29,7 +29,7 @@ connection = Elasticsearch([{'host': 'aplcldrjvpr0017.acad.fgv.br', 'port': 9200
                            verify_certs=False,
                            timeout=180)
 
-DATASET = 'data/df_14_mono_coleg.csv'
+DATASET = 'data/df_4_mono_coleg.csv'
 
 def setup_environment():
     """
@@ -42,7 +42,7 @@ def setup_environment():
 
 def parse_command_line_arguments():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--annotator', help='annotator unique identifier', required=True)
+    parser.add_argument('--annotators', help='annotators .csv', required=True)
     cli = parser.parse_args()
 
     return cli
@@ -140,9 +140,9 @@ def create_project_labels(project_id, project_type='Documento'):
                                      background_color=value[2], text_color=value[3])
         label.save()
 
-def run_pipeline_for(username):
-    password = generate_password(password_length=6)
-    print(username, password)
+def run_pipeline_for(username, password):
+    # password = generate_password(password_length=6)
+    print('Running pipeline for {}'.format(username))
     user_id, user = create_user(username, password)
     project_id = create_project(owner=user)
 
@@ -159,6 +159,16 @@ def read_csv(filename):
 
     return data
 
+def get_username_and_password_tuple_from(file_):
+    with open(file_, 'r') as fh:
+        data = fh.readlines()
+        data = [datum[:-1] for datum in data[1:]]
+        data = [datum.split(',') for datum in data if datum]
+        data = [datum[1:] for datum in data if datum]
+
+    return data
+
+
 if __name__ == '__main__':
     # setup_environment()
 
@@ -167,5 +177,7 @@ if __name__ == '__main__':
     # from server.models import Project, SequenceLabelingProject, Label
 
     cli = parse_command_line_arguments()
-    username = cli.annotator
-    run_pipeline_for(username)
+    file_ = cli.annotators
+    for datum in get_username_and_password_tuple_from(file_):
+        username, password = datum
+        run_pipeline_for(username, password)

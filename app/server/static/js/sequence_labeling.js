@@ -158,7 +158,7 @@ Vue.component('annotator', {
     },
   },
 
-  template: '<div @click="setSelectedRange">'
+  template: '<div @click="setSelectedRange" style="padding: 1.5rem;">'
           + '       <span class="text-sequence"'
           + '            v-for="r in chunks"'
           + '            v-if="id2label[r.label]"'

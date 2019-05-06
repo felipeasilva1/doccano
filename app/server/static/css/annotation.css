@@ -285,3 +285,7 @@ body {
 }
 
 [v-cloak] { display: none; }
+
+.card-content {
+  padding: 0%;
+}

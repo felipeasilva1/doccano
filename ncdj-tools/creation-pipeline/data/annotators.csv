@@ -1,51 +1,56 @@
-Aluno,Matrícula / Login,Senha
-Amanda Petrillo de Lima,181300028,enMsl
-Ana Luiza Reis de Oliveira Brito,171300044,ekc2m
-Ana Paula Pereira Salvador,191300901,njeYQ
-Anandha Nicolau da Costa Mendonça,181300053,i2u2F
-Beatriz Villa Leão Ferreira,181300039,xqKIb
-Bernardo Murilo Graça Rubião,171300023,pQyGB
-Bernardo Vargas da Motta Alves,181300026,2OOU2
-Bianca Coupe Foradine da Motta,181300052,4Wc7u
-Bianca Oliveira Goncalves Gomes,181300005,EaGyu
-Bruna Babo Araujo de Matos,181300038,yBdZA
-Catarina Corrêa Messenberg,171300045,ABQzY
-Dandara Perassa Coelho,191300709,YgMbw
-Daniel Moreira Rosas,182300901,BFb52
-Diogo Fernandes Elvas,181300062,jLSac
-Eduardo Barbosa Carreiro Tavares,181300019,gmw8h
-Egmon Henrique de Oliveira Costa,181300040,TZ05T
-Fernanda Abreu de Oliveira,181300029,QMgMp
-Fernanda Frisch Rozes Dawidowitsch,171300018,sSTsa
-Gabriel da Silva Freire,181300055,EfYls
-Gabriel Rodrigues Corrêa,181300059,hLcPu
-Giulia Russo Guedes Ferreira,181300025,t1XUW
-Guilherme Soares Rodrigues da Silva,181300001,93KSS
-Helena Szczupak,181300060,bTB7Q
-Heloisa Moreira Leitão,181300018,y8aHS
-Isael Dias Meneses,181300006,Tlamw
-João Pedro Hennings de Lara,181300033,7dFnm
-Julia Barbieri Filgueiras,182300301,gl4zK
-Julia Gardel Khayat de Sousa,181300023,18yWT
-Julia Vianna Hannig da Gama,181300022,Bi79v
-Juliana de Oliveira Delfino,181300037,ESipR
-Jullia Silva Correia,181300034,QSZzC
-Larissa Duarte Merheb Brandão,181300071,k3TcH
-Luiz Matheus Tavares Pompeu,181300003,QfvOd
-Maria Fernanda Valadão Arruda Quelhas,181300501,SQ1HM
-Mariana Goldberg,181300024,7DUAj
-Mariana Novotny Muniz,182300904,DVDhR
-Mariana Rodrigues da Costa,181300030,SXtAb
-Matheus Rezende de Carvalho,181300008,5iIoF
-Maya Goldfajn,171300011,oqwFT
-Miguel Ceccato Machado,181300014,uBHBG
-Nina Varela Minas,181300904,MBOFd
-Pedro Canellas Cavalcanti Vieira,181300036,8SI7e
-Pedro Henrique Ribeiro de Freitas,181300020,E2V9H
-Rafael Henrique Figueiredo da Purificação,161704902,UQ1CZ
-Rodrigo de Oliveira Franco Freitas Câmara,181300041,c00gp
-Saulo Rodrigues Rocha,181300068,6QSJ4
-Tadeu Emilio de Oliveira Cavaliere Sartorio,172300501,BFoDy
-Victor Rondon de Paula Moura,181300072,j0Dlv
-Vinicius Brandão Salomão,181300004,q2qqQ
-Igor Martins,igor,IJwmT
+Aluno,Matrícula / Login,Senha,email
+Amanda Petrillo de Lima,181300028,enMsl,
+Ana Luiza Reis de Oliveira Brito,171300044,ekc2m,
+Ana Paula Pereira Salvador,191300901,njeYQ,
+Anandha Nicolau da Costa Mendonça,181300053,i2u2F,
+Beatriz Villa Leão Ferreira,181300039,xqKIb,
+Bernardo Murilo Graça Rubião,171300023,pQyGB,
+Bernardo Vargas da Motta Alves,181300026,2OOU2,
+Bianca Coupe Foradine da Motta,181300052,4Wc7u,
+Bianca Oliveira Goncalves Gomes,181300005,EaGyu,
+Bruna Babo Araujo de Matos,181300038,yBdZA,
+Catarina Corrêa Messenberg,171300045,ABQzY,
+Dandara Perassa Coelho,191300709,YgMbw,
+Daniel Moreira Rosas,182300901,BFb52,
+Diogo Fernandes Elvas,181300062,jLSac,
+Eduardo Barbosa Carreiro Tavares,181300019,gmw8h,
+Egmon Henrique de Oliveira Costa,181300040,TZ05T,
+Fernanda Abreu de Oliveira,181300029,QMgMp,
+Fernanda Frisch Rozes Dawidowitsch,171300018,sSTsa,
+Gabriel da Silva Freire,181300055,EfYls,
+Gabriel Rodrigues Corrêa,181300059,hLcPu,
+Giulia Russo Guedes Ferreira,181300025,t1XUW,
+Guilherme Soares Rodrigues da Silva,181300001,93KSS,
+Helena Szczupak,181300060,bTB7Q,
+Heloisa Moreira Leitão,181300018,y8aHS,
+Isael Dias Meneses,181300006,Tlamw,
+João Pedro Hennings de Lara,181300033,7dFnm,
+Julia Barbieri Filgueiras,182300301,gl4zK,
+Julia Gardel Khayat de Sousa,181300023,18yWT,
+Julia Vianna Hannig da Gama,181300022,Bi79v,
+Juliana de Oliveira Delfino,181300037,ESipR,
+Jullia Silva Correia,181300034,QSZzC,
+Larissa Duarte Merheb Brandão,181300071,k3TcH,
+Luiz Matheus Tavares Pompeu,181300003,QfvOd,
+Maria Fernanda Valadão Arruda Quelhas,181300501,SQ1HM,
+Mariana Goldberg,181300024,7DUAj,
+Mariana Novotny Muniz,182300904,DVDhR,
+Mariana Rodrigues da Costa,181300030,SXtAb,
+Matheus Rezende de Carvalho,181300008,5iIoF,
+Maya Goldfajn,171300011,oqwFT,
+Miguel Ceccato Machado,181300014,uBHBG,
+Nina Varela Minas,181300904,MBOFd,
+Pedro Canellas Cavalcanti Vieira,181300036,8SI7e,
+Pedro Henrique Ribeiro de Freitas,181300020,E2V9H,
+Rafael Henrique Figueiredo da Purificação,161704902,UQ1CZ,
+Rodrigo de Oliveira Franco Freitas Câmara,181300041,c00gp,
+Saulo Rodrigues Rocha,181300068,6QSJ4,
+Tadeu Emilio de Oliveira Cavaliere Sartorio,172300501,BFoDy,
+Victor Rondon de Paula Moura,181300072,j0Dlv,
+Vinicius Brandão Salomão,181300004,q2qqQ,
+Igor Martins,igor,IJwmT,
+Pillar Develly,pillar,6amiio,devellypillar@gmail.com
+Vinícius Bertolini,vinicius,k6lfv8,vincasaca@gmail.com
+Guilherme Cândido ,guilherme,8fceuw,gco.magalhaes@gmail.com
+Pedro Angelito,pedro,j7q8xd,pedroangelito22@gmail.com
+Mariana Plácido,mariana,37crev,mariplcd13@gmail.com

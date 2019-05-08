@@ -118,6 +118,7 @@ def retrieve_documents_for_annotator(ids=None, annotator_id=None):
         text = document['_source']['raw_text']
         is_monocratica = document['_source']['monocratica']
         text = to_sweep(text, sigla, numero, is_monocratica)[0]
+        text += '\nid: {0}'.format(document['_id'])
         doccano_documents.append(text)
 
     return [{'text': document} for document in doccano_documents]
@@ -166,7 +167,7 @@ def get_username_and_password_tuple_from(file_):
         data = fh.readlines()
         data = [datum[:-1] for datum in data[1:]]
         data = [datum.split(',') for datum in data if datum]
-        data = [datum[1:] for datum in data if datum]
+        data = [datum[1:3] for datum in data if datum]
 
     return data
 

@@ -27,7 +27,13 @@ def parse_command_line_arguments():
 
 def retrieve_annotated_text(label, annotator):
     user = User.objects.filter(username=annotator).first()
-    project = Project.objects.all().filter(users__username=user).first()
+    if not suffix:
+        project = Project.objects.all().filter(users__username=user,
+                                               name='Documentos - {0}'.format(user.username)).first()
+    else:
+        project = Project.objects.all().filter(users__username=user,
+                                               name='Documentos - {0} - {1}'.format(user.username, suffix)).first()
+
     documents = Document.objects.all().filter(project=project)
     label = Label.objects.all().filter(text=label, project=project).first()
     objects = SequenceAnnotation.objects.all().filter(document__in=documents, label=label)

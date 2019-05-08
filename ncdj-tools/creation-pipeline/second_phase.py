@@ -20,6 +20,7 @@ def setup_environment():
 def parse_command_line_arguments():
     parser = argparse.ArgumentParser()
     parser.add_argument('--annotator', help='annotator unique identifier', required=True)
+    parser.add_argument('--suffix', help='identification of phase', required=False)
     cli = parser.parse_args()
 
     return cli
@@ -43,14 +44,16 @@ if __name__ == '__main__':
     setup_environment()
     from server.models import SequenceAnnotation, Document, Label, User, Project
 
-    annotator = parse_command_line_arguments().annotator
+    cli = parse_command_line_arguments()
+    annotator = cli.annotator
+    suffix = cli.suffix
 
     annotations_p = retrieve_annotated_text(label='Precedente', annotator=annotator)
-    project_id_p = create_project(annotator, project_phase='Precedente')
+    project_id_p = create_project(annotator, project_phase='Precedente', suffix=suffix)
     create_project_labels(project_id_p, project_type='Precedente')
-    
+
     annotations_d = retrieve_annotated_text(label='Doutrinador', annotator=annotator)
-    project_id_d = create_project(annotator, project_phase='Doutrinador')
+    project_id_d = create_project(annotator, project_phase='Doutrinador', suffix=suffix)
     create_project_labels(project_id_d, project_type='Doutrinador')
 
     create_documents_and_associate_to_project(project_id_p, annotator, annotations_p)

@@ -29,7 +29,7 @@ connection = Elasticsearch([{'host': 'aplcldrjvpr0017.acad.fgv.br', 'port': 9200
                            verify_certs=False,
                            timeout=180)
 
-DATASET = 'data/df_4_mono_coleg.csv'
+DATASET = 'data/df_10_mono_coleg.csv'
 
 def setup_environment():
     """
@@ -43,6 +43,7 @@ def setup_environment():
 def parse_command_line_arguments():
     parser = argparse.ArgumentParser()
     parser.add_argument('--annotators', help='annotators .csv', required=True)
+    parser.add_argument('--suffix', help='identification of phase', required=False)
     cli = parser.parse_args()
 
     return cli
@@ -51,6 +52,9 @@ def create_user(username, password):
     """
     Create Django User and return the tuple containing the name and it's id
     """
+    existing_user = User.objects.filter(username=username).first()
+    if existing_user:
+        return (existing_user.id, existing_user.username)
     user = User.objects.create_user(username, password=password)
     user.is_superuser=False
     user.is_staff=False
@@ -66,7 +70,7 @@ def generate_password(password_length=12):
     
     return ''.join(random.choice(chars) for _ in range(password_length))
 
-def create_project(owner, project_phase=None):
+def create_project(owner, project_phase=None, suffix=None):
     """
     Creating an Project object using Doccano's assets.
     
@@ -80,8 +84,13 @@ def create_project(owner, project_phase=None):
     admin = User.objects.all().filter(username='admin').first()
     carla = User.objects.all().filter(username='carla').first()
 
+    if suffix:
+        project_name = '{0} - {1} - {2}'.format(project_phase, owner, suffix)
+    else:
+        project_name = '{0} - {1}'.format(project_phase, owner)
+
     payload = {
-        'name': '{0} - {1}'.format(project_phase, owner),
+        'name': project_name,
         'description': 'Insert description here',
         'project_type': 'SequenceLabeling',
         'guideline': 'Insert guideline here',
@@ -143,11 +152,10 @@ def create_project_labels(project_id, project_type='Documento'):
                                      background_color=value[2], text_color=value[3])
         label.save()
 
-def run_pipeline_for(username, password):
-    # password = generate_password(password_length=6)
+def run_pipeline_for(username, password, suffix):
     print('Running pipeline for {}'.format(username))
     user_id, user = create_user(username, password)
-    project_id = create_project(owner=user)
+    project_id = create_project(owner=user, suffix=suffix)
 
     ids = read_csv(DATASET)
     payload = retrieve_documents_for_annotator(ids=ids, annotator_id=user)
@@ -173,14 +181,9 @@ def get_username_and_password_tuple_from(file_):
 
 
 if __name__ == '__main__':
-    # setup_environment()
-
-    # from django.contrib.auth.models import User
-    # from django.shortcuts import get_object_or_404
-    # from server.models import Project, SequenceLabelingProject, Label
-
     cli = parse_command_line_arguments()
     file_ = cli.annotators
+    suffix = cli.suffix
     for datum in get_username_and_password_tuple_from(file_):
         username, password = datum
-        run_pipeline_for(username, password)
+        run_pipeline_for(username, password, suffix)

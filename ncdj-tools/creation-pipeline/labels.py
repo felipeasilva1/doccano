@@ -2,7 +2,7 @@
 LABELS_PROPERTIES = {
         'Documento': {
             'Precedente': (None, 'p', '#eea420', '#ffffff'),
-            'Doutrinador': (None, 'd', '#ee3720', '#ffffff'),
+            'Doutrina': (None, 'd', '#ee3720', '#ffffff'),
             'Ref. Legislativa': (None, 'r', '#2ca014', '#ffffff'),
             'Pessoa': (None, 'e', '#34495e', '#ffffff')
         },

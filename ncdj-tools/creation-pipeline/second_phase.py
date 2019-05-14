@@ -1,5 +1,6 @@
 import os
 import sys
+import json
 import django
 import argparse
 
@@ -38,7 +39,7 @@ def retrieve_annotated_text(label, annotator):
     label = Label.objects.all().filter(text=label, project=project).first()
     objects = SequenceAnnotation.objects.all().filter(document__in=documents, label=label)
 
-    return [{'text': parse_annotation_and_get_payload(obj), 'meta': str({'doc_id': obj.document.id})} for obj in objects]
+    return [{'text': parse_annotation_and_get_payload(obj), 'meta': json.dumps({'parent_doc_id': obj.document.id})} for obj in objects]
 
 def parse_annotation_and_get_payload(annotation):
     document = get_object_or_404(Document, pk=annotation.document.id)

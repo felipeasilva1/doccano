@@ -1,5 +1,6 @@
 import os
 import sys
+import json
 import django
 import random
 import urllib3
@@ -30,6 +31,9 @@ connection = Elasticsearch([{'host': 'aplcldrjvpr0017.acad.fgv.br', 'port': 9200
                            timeout=180)
 
 DATASET = 'data/df_10_mono_coleg.csv'
+
+with open('data/df_1a_fase_pratica.json', 'r') as fh:
+    DATASET_WITH_LOOKUP = json.load(fh)
 
 def setup_environment():
     """
@@ -157,7 +161,7 @@ def run_pipeline_for(username, password, suffix):
     user_id, user = create_user(username, password)
     project_id = create_project(owner=user, suffix=suffix)
 
-    ids = read_csv(DATASET)
+    ids = DATASET_WITH_LOOKUP[username]
     payload = retrieve_documents_for_annotator(ids=ids, annotator_id=user)
     create_documents_and_associate_to_project(project_id, user, payload)
     create_project_labels(project_id)

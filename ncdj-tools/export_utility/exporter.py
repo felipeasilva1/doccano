@@ -44,7 +44,6 @@ def get_documents_for_project(project):
     return Document.objects.filter(project=project).all()
 
 def get_annotations_for_document(project, document):
-    # labels = Label.objects.filter(text__in=['Precedente', 'Doutrinador'], project=project)
     labels = Label.objects.filter(project=project)
     annotations = SequenceAnnotation.objects.filter(document=document, label__in=labels)
 
@@ -77,15 +76,21 @@ def run(id_, doc_type, phase=None):
     phase = parse_phase_from_project_name(project.name)
     documents = get_documents_for_project(project)
     
-    data = merge_documents_and_annotations(project, documents)
+    data = merge_documents_and_annotations(project, documents, doc_type)
     create_directories_structure(user, phase, project, data)
 
-def merge_documents_and_annotations(project, documents):
+def merge_documents_and_annotations(project, documents, doc_type=None):
     output = {}
     for document in documents:
         annotations = get_annotations_for_document(project, document)
         document_payload = document.text
-        document_id = parse_id_from_document_text(document_payload)
+        if doc_type in ['Doutrinador', 'Precedente']:
+            deserialized_meta = json.loads(document.meta)
+            parent_document_id = deserialized_meta['parent_doc_id']
+            parent_document = Document.objects.get(pk=parent_document_id)
+            document_id = parse_id_from_document_text(parent_document.text)
+        else:
+            document_id = parse_id_from_document_text(document_payload)
         output[document_id] = {'text': document_payload, 'annotations': {}}
         parsed_annotations = [parse_annotation_and_get_payload(a) for a in annotations]
         for ann in parsed_annotations:
@@ -114,6 +119,5 @@ def create_directories_structure(user, phase, project, data):
                 json.dump(content, fh)
 
 if __name__ == '__main__':
-    # annotator_id = '181300028'
     cli = parse_command_line_arguments()
     run(cli.annotator, cli.prefix, cli.suffix)

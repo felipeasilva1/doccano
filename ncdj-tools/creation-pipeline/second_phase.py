@@ -38,7 +38,7 @@ def retrieve_annotated_text(label, annotator):
     label = Label.objects.all().filter(text=label, project=project).first()
     objects = SequenceAnnotation.objects.all().filter(document__in=documents, label=label)
 
-    return [{'text': parse_annotation_and_get_payload(obj)} for obj in objects]
+    return [{'text': parse_annotation_and_get_payload(obj), 'meta': str({'doc_id': obj.document.id})} for obj in objects]
 
 def parse_annotation_and_get_payload(annotation):
     document = get_object_or_404(Document, pk=annotation.document.id)
@@ -58,7 +58,7 @@ if __name__ == '__main__':
     project_id_p = create_project(annotator, project_phase='Precedente', suffix=suffix)
     create_project_labels(project_id_p, project_type='Precedente')
 
-    annotations_d = retrieve_annotated_text(label='Doutrinador', annotator=annotator)
+    annotations_d = retrieve_annotated_text(label='Doutrina', annotator=annotator)
     project_id_d = create_project(annotator, project_phase='Doutrinador', suffix=suffix)
     create_project_labels(project_id_d, project_type='Doutrinador')
 

@@ -47,7 +47,7 @@ def get_annotations_for_document(project, document):
     labels = Label.objects.filter(project=project)
     annotations = SequenceAnnotation.objects.filter(document=document, label__in=labels)
 
-    return annotations
+    return annotations if annotations.count() > 0 else None
 
 def parse_phase_from_project_name(name):
     components = name.split(' - ')
@@ -77,12 +77,14 @@ def run(id_, doc_type, phase=None):
     documents = get_documents_for_project(project)
     
     data = merge_documents_and_annotations(project, documents, doc_type)
-    create_directories_structure(user, phase, project, data)
+    create_directories_structure(user, phase, doc_type, project, data)
 
 def merge_documents_and_annotations(project, documents, doc_type=None):
     output = {}
     for document in documents:
         annotations = get_annotations_for_document(project, document)
+        if not annotations:
+            continue
         document_payload = document.text
         if doc_type in ['Doutrinador', 'Precedente']:
             deserialized_meta = json.loads(document.meta)
@@ -101,22 +103,20 @@ def merge_documents_and_annotations(project, documents, doc_type=None):
 
     return output
 
-def create_directories_structure(user, phase, project, data):
+def create_directories_structure(user, phase, doc_type, project, data):
     for id_, payload in data.items():
         top_dir = os.path.join(BASEDIR, user.username, phase)
         fname = '{0}.json'.format(id_)
         if 'annotations' not in payload:
             return None
         annotations = payload['annotations']
-        for annotation_type in annotations:
-            filtered_annotations = annotations[annotation_type]
-            dir_ = os.path.join(top_dir, annotation_type.lower())
-            if not os.path.exists(dir_):
-                os.makedirs(dir_)
-            fullname = os.path.join(dir_, fname)
-            with open(fullname, 'w') as fh:
-                content = {'text': payload['text'], 'annotations': filtered_annotations}
-                json.dump(content, fh)
+        dir_ = os.path.join(top_dir, doc_type)
+        if not os.path.exists(dir_):
+            os.makedirs(dir_)
+        fullname = os.path.join(dir_, fname)
+        with open(fullname, 'w') as fh:
+            content = {'text': payload['text'], 'annotations': annotations}
+            json.dump(content, fh)
 
 if __name__ == '__main__':
     cli = parse_command_line_arguments()

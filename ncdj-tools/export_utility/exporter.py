@@ -68,38 +68,67 @@ def parse_annotation_and_get_payload(annotation):
     document = Document.objects.get(pk=annotation.document.id)
     text = document.text[annotation.start_offset:annotation.end_offset]
 
-    return (annotation.label.text, annotation.start_offset, annotation.end_offset, text)
+    return (annotation.label.text, annotation.id, annotation.start_offset, annotation.end_offset, text)
 
 def run(id_, doc_type, phase=None):
     user = get_user(id_)
     project = get_user_project(user, doc_type=doc_type, phase=phase)
     phase = parse_phase_from_project_name(project.name)
     documents = get_documents_for_project(project)
-    
-    data = merge_documents_and_annotations(project, documents, doc_type)
+   
+    if doc_type not in ['Precedente', 'Doutrinador']:
+        data = merge_documents_and_annotations_1st_stage(project, documents, doc_type)
+    else:
+        data = merge_documents_and_annotations_2nd_stage(project, documents, doc_type)
+
     create_directories_structure(user, phase, doc_type, project, data)
 
-def merge_documents_and_annotations(project, documents, doc_type=None):
+def merge_documents_and_annotations_1st_stage(project, documents, doc_type=None):
     output = {}
     for document in documents:
         annotations = get_annotations_for_document(project, document)
         if not annotations:
             continue
         document_payload = document.text
-        if doc_type in ['Doutrinador', 'Precedente']:
-            deserialized_meta = json.loads(document.meta)
-            parent_document_id = deserialized_meta['parent_doc_id']
-            parent_document = Document.objects.get(pk=parent_document_id)
-            document_id = parse_id_from_document_text(parent_document.text)
-        else:
-            document_id = parse_id_from_document_text(document_payload)
-        output[document_id] = {'text': document_payload, 'annotations': {}}
+        document_id = parse_id_from_document_text(document_payload)
+        output[document_id] = {'text': document_payload, 
+                               'annotations': {},
+                               'source': document_id}
         parsed_annotations = [parse_annotation_and_get_payload(a) for a in annotations]
         for ann in parsed_annotations:
             label = ann[0]
             if label not in output[document_id]['annotations']:
                 output[document_id]['annotations'][label] = []
             output[document_id]['annotations'][label].append(ann[1:])
+    return output
+
+def merge_documents_and_annotations_2nd_stage(project, documents, doc_type=None):
+    output = {}
+    for document in documents:
+        annotations = get_annotations_for_document(project, document)
+        if not annotations:
+            continue
+        
+        document_payload = document.text
+
+        deserialized_meta = json.loads(document.meta)
+        parent_document_id = deserialized_meta['parent_doc_id']
+        # parent_document = Document.objects.get(pk=parent_document_id)
+
+        # document_id_elasticsearch = parse_id_from_document_text(parent_document.text)
+        document_id_doccano = document.id
+
+        output[document_id_doccano] = {'text': document_payload,
+                                       'annotations': {},
+                                       'source': parent_document_id}
+
+        parsed_annotations = [parse_annotation_and_get_payload(a) for a in annotations]
+
+        for ann in parsed_annotations:
+            label = ann[0]
+            if label not in output[document_id_doccano]['annotations']:
+                output[document_id_doccano]['annotations'][label] = []
+            output[document_id_doccano]['annotations'][label].append(ann[1:])
 
     return output
 
@@ -115,7 +144,7 @@ def create_directories_structure(user, phase, doc_type, project, data):
             os.makedirs(dir_)
         fullname = os.path.join(dir_, fname)
         with open(fullname, 'w') as fh:
-            content = {'text': payload['text'], 'annotations': annotations}
+            content = {'text': payload['text'], 'annotations': annotations, 'source': payload['source']}
             json.dump(content, fh)
 
 if __name__ == '__main__':

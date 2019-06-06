@@ -33,10 +33,22 @@ BASEDIR='data/'
 def parse_command_line_arguments():
     parser = argparse.ArgumentParser()
     parser.add_argument('--doctype', help='identification of doc type', required=True)
-    parser.add_argument('--phase', help='identification of phase', required=True)
+    parser.add_argument('--phase', help='identification of phase', required=False)
+    parser.add_argument('--outdir', help='base directory for exports', required=True)
     cli = parser.parse_args()
 
     return cli
+
+def parse_id(phase, document):
+
+    if phase == 'treino_1' or phase == 'treino_2':
+        id_ = document.id
+    elif phase == '[PRATICA_ETAPA_1]':
+        id_ = document.text.split('\n')[-1].split(': ')[-1]
+    elif phase == 'PRATICA_ETAPA1':
+        id_ = document.text.split('\n')[-1].split(': ')[-1]
+
+    return id_
 
 def build_pattern():
     whole_pattern = r'|'.join(PATTERNS)
@@ -72,7 +84,7 @@ def process(text, offsets):
 
 def save(username, doctype, phase, data):
     id_, payload = data
-    dirname = os.path.join(BASEDIR, username, doc_type, phase)
+    dirname = os.path.join(BASEDIR, username, phase, doc_type)
     if not os.path.exists(dirname):
         os.makedirs(dirname)
     fullname = os.path.join(dirname, '%s.ner.csv' % (id_))
@@ -90,18 +102,24 @@ if __name__ == '__main__':
 
     cli = parse_command_line_arguments()
 
-    phase = cli.phase
+    phase = cli.phase or 'treino_1'
     doc_type = cli.doctype
+    BASEDIR = cli.outdir
 
     for user in users:
 
-        project = Project.objects.filter(users__username=user.username, 
-                    name__startswith=doc_type, name__endswith=phase).first()
+        if phase == 'treino_1':
+            project = Project.objects.filter(users__username=user.username,
+                        name__startswith=doc_type, name__endswith=user.users__username).first()
+        else:
+            project = Project.objects.filter(users__username=user.username,
+                        name__startswith=doc_type, name__endswith=phase).first()
 
         documents = Document.objects.filter(project=project)
 
         for document in documents:
-            id_ = document.text.split('\n')[-1].split(': ')[-1]
+            # id_ = document.text.split('\n')[-1].split(': ')[-1]
+            id_ = parse_id(phase, document)
             annotations = SequenceAnnotation.objects.filter(document=document)
             offsets = [(a.start_offset, a.end_offset, a.label.text) for a in annotations]
             if annotations.count() > 0:

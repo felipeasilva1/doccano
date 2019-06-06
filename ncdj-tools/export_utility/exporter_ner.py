@@ -110,7 +110,7 @@ if __name__ == '__main__':
 
         if phase == 'treino_1':
             project = Project.objects.filter(users__username=user.username,
-                        name__startswith=doc_type, name__endswith=user.users__username).first()
+                        name__startswith=doc_type, name__endswith=user.username).first()
         else:
             project = Project.objects.filter(users__username=user.username,
                         name__startswith=doc_type, name__endswith=phase).first()

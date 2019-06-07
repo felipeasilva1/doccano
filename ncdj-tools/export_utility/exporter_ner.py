@@ -80,7 +80,12 @@ def process(text, offsets):
                 
                 output[index] = 'B_' + label if before_increment == start_offset else 'I_' + label
 
-    return list(zip(splitted, output))
+    zipped = zip(splitted, output)
+
+    # filtering unwanted chars (improve regex later, maybe?)
+    zipped = [(token, label) for token, label in zipped if token not in [r'', r' ', r'\n']]
+
+    return zipped
 
 def save(username, doctype, phase, data):
     id_, payload = data

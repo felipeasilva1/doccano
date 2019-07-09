@@ -83,7 +83,7 @@ def process(text, offsets):
     zipped = zip(splitted, output)
 
     # filtering unwanted chars (improve regex later, maybe?)
-    zipped = [(token, label) for token, label in zipped if token not in [r'', r' ', r'\n']]
+    zipped = [(token, label) for token, label in zipped if token not in [r'', r'\n']]
 
     return zipped
 

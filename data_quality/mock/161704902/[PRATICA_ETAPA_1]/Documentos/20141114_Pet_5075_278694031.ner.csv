@@ -1,0 +1,5158 @@
+Token;Tag
+Ementa;O
+ ;O
+e;O
+ ;O
+Acórdão;O
+ ;O
+"
+";O
+"
+";O
+23/09/2014;O
+ ;O
+PRIMEIRA;O
+ ;O
+TURMA;O
+ ;O
+"
+";O
+"
+";O
+RELATOR;O
+ ;O
+:;O
+ ;O
+MIN;B_Pessoa
+.;I_Pessoa
+ ;I_Pessoa
+MARCO;I_Pessoa
+ ;I_Pessoa
+AURÉLIOREQTE;O
+.;O
+(;O
+S;O
+);O
+ ;O
+:;O
+MINISTÉRIO;O
+ ;O
+PÚBLICO;O
+ ;O
+FEDERAL;O
+ ;O
+PROC;O
+.;O
+(;O
+A;O
+/;O
+S;O
+);O
+(;O
+ES;O
+);O
+ ;O
+:;O
+PROCURADOR;O
+-;O
+GERAL;O
+ ;O
+DA;O
+ ;O
+REPÚBLICA;O
+ ;O
+INTDO;O
+.;O
+(;O
+A;O
+/;O
+S;O
+);O
+ ;O
+:;O
+MINISTÉRIO;O
+ ;O
+PÚBLICO;O
+ ;O
+DO;O
+ ;O
+ESTADO;O
+ ;O
+DO;O
+ ;O
+PARÁ;O
+ ;O
+PROC;O
+.;O
+(;O
+A;O
+/;O
+S;O
+);O
+(;O
+ES;O
+);O
+ ;O
+:;O
+PROCURADOR;O
+-;O
+GERAL;O
+ ;O
+DE;O
+ ;O
+JUSTIÇA;O
+ ;O
+DO;O
+ ;O
+ESTADO;O
+ ;O
+DO;O
+ ;O
+"
+";O
+"
+";O
+PARÁ;O
+ ;O
+"
+";O
+"
+";O
+COMPETÊNCIA;O
+ ;O
+–;O
+ ;O
+CONFLITO;O
+ ;O
+DE;O
+ ;O
+ATRIBUIÇÕES;O
+ ;O
+–;O
+ ;O
+MINISTÉRIO;O
+ ;O
+PÚBLICO;O
+ ;O
+FEDERAL;O
+ ;O
+VERSUS;O
+ ;O
+MINISTÉRIO;O
+ ;O
+PÚBLICO;O
+ ;O
+ESTADUAL;O
+.;O
+ ;O
+Compete;O
+ ;O
+ao;O
+ ;O
+Supremo;O
+ ;O
+a;O
+ ;O
+solução;O
+ ;O
+de;O
+ ;O
+conflito;O
+ ;O
+de;O
+ ;O
+atribuições;O
+ ;O
+entre;O
+ ;O
+o;O
+ ;O
+Ministério;O
+ ;O
+Público;O
+ ;O
+Federal;O
+ ;O
+e;O
+ ;O
+Ministério;O
+ ;O
+Público;O
+ ;O
+estadual;O
+.;O
+ ;O
+Precedente;O
+ ;O
+–;O
+ ;O
+Petição;B_Precedente
+ ;I_Precedente
+nº;I_Precedente
+ ;I_Precedente
+3.528-3;I_Precedente
+/;I_Precedente
+BA;I_Precedente
+,;I_Precedente
+ ;I_Precedente
+de;I_Precedente
+ ;I_Precedente
+minha;I_Precedente
+ ;I_Precedente
+relatoria;I_Precedente
+,;I_Precedente
+ ;I_Precedente
+acórdão;I_Precedente
+ ;I_Precedente
+publicado;I_Precedente
+ ;I_Precedente
+no;I_Precedente
+ ;I_Precedente
+Diário;I_Precedente
+ ;I_Precedente
+da;I_Precedente
+ ;I_Precedente
+Justiça;I_Precedente
+ ;I_Precedente
+de;I_Precedente
+ ;I_Precedente
+3;I_Precedente
+ ;I_Precedente
+de;I_Precedente
+ ;I_Precedente
+março;I_Precedente
+ ;I_Precedente
+de;I_Precedente
+ ;I_Precedente
+2006;I_Precedente
+.;I_Precedente
+ ;O
+"
+";O
+"
+";O
+INQUÉRITO;O
+ ;O
+–;O
+ ;O
+CRIME;O
+ ;O
+AMBIENTAL;O
+ ;O
+–;O
+ ;O
+MINISTÉRIO;O
+ ;O
+PÚBLICO;O
+ ;O
+–;O
+ ;O
+ATUAÇÃO;O
+.;O
+ ;O
+A;O
+ ;O
+inexistência;O
+ ;O
+de;O
+ ;O
+envolvimento;O
+ ;O
+de;O
+ ;O
+terras;O
+ ;O
+da;O
+ ;O
+União;O
+ ;O
+conduz;O
+ ;O
+a;O
+ ;O
+concluir;O
+ ;O
+pela;O
+ ;O
+atuação;O
+ ;O
+do;O
+ ;O
+Ministério;O
+ ;O
+Público;O
+ ;O
+estadual;O
+.;O
+ ;O
+"
+";O
+"
+";O
+A;O
+ ;O
+C;O
+ ;O
+Ó;O
+ ;O
+R;O
+ ;O
+D;O
+ ;O
+Ã;O
+ ;O
+O;O
+ ;O
+"
+";O
+"
+";O
+Vistos;O
+,;O
+ ;O
+relatados;O
+ ;O
+e;O
+ ;O
+discutidos;O
+ ;O
+estes;O
+ ;O
+autos;O
+,;O
+ ;O
+acordam;O
+ ;O
+os;O
+ ;O
+Ministros;O
+ ;O
+da;O
+ ;O
+Primeira;O
+ ;O
+Turma;O
+ ;O
+do;O
+ ;O
+Supremo;O
+ ;O
+Tribunal;O
+ ;O
+Federal;O
+ ;O
+em;O
+ ;O
+indeferir;O
+ ;O
+o;O
+ ;O
+adiamento;O
+ ;O
+e;O
+ ;O
+assentar;O
+ ;O
+a;O
+ ;O
+atribuição;O
+ ;O
+do;O
+ ;O
+Ministério;O
+ ;O
+Público;O
+ ;O
+estadual;O
+ ;O
+para;O
+ ;O
+atuar;O
+ ;O
+na;O
+ ;O
+espécie;O
+,;O
+ ;O
+nos;O
+ ;O
+termos;O
+ ;O
+do;O
+ ;O
+voto;O
+ ;O
+do;O
+ ;O
+relator;O
+ ;O
+e;O
+ ;O
+por;O
+ ;O
+unanimidade;O
+,;O
+ ;O
+em;O
+ ;O
+sessão;O
+ ;O
+presidida;O
+ ;O
+pelo;O
+ ;O
+Ministro;B_Pessoa
+ ;I_Pessoa
+Marco;I_Pessoa
+ ;I_Pessoa
+Aurélio;I_Pessoa
+,;I_Pessoa
+ ;O
+na;O
+ ;O
+conformidade;O
+ ;O
+da;O
+ ;O
+ata;O
+ ;O
+do;O
+ ;O
+julgamento;O
+ ;O
+e;O
+ ;O
+das;O
+ ;O
+respectivas;O
+ ;O
+notas;O
+ ;O
+taquigráficas;O
+.;O
+ ;O
+"
+";O
+"
+";O
+Brasília;O
+,;O
+ ;O
+23;O
+ ;O
+de;O
+ ;O
+setembro;O
+ ;O
+de;O
+ ;O
+2014;O
+.;O
+ ;O
+"
+";O
+"
+";O
+MINISTRO;B_Pessoa
+ ;I_Pessoa
+MARCO;I_Pessoa
+ ;I_Pessoa
+AURÉLIO;I_Pessoa
+ ;I_Pessoa
+–;O
+ ;O
+PRESIDENTE;O
+ ;O
+E;O
+ ;O
+RELATOR;O
+ ;O
+"
+";O
+"
+";O
+23/09/2014;O
+ ;O
+PRIMEIRA;O
+ ;O
+TURMA;O
+ ;O
+"
+";O
+"
+";O
+RELATOR;O
+ ;O
+:;O
+ ;O
+MIN;B_Pessoa
+.;I_Pessoa
+ ;I_Pessoa
+MARCO;I_Pessoa
+ ;I_Pessoa
+AURÉLIOREQTE;O
+.;O
+(;O
+S;O
+);O
+ ;O
+:;O
+MINISTÉRIO;O
+ ;O
+PÚBLICO;O
+ ;O
+FEDERAL;O
+ ;O
+PROC;O
+.;O
+(;O
+A;O
+/;O
+S;O
+);O
+(;O
+ES;O
+);O
+ ;O
+:;O
+PROCURADOR;O
+-;O
+GERAL;O
+ ;O
+DA;O
+ ;O
+REPÚBLICA;O
+ ;O
+INTDO;O
+.;O
+(;O
+A;O
+/;O
+S;O
+);O
+ ;O
+:;O
+MINISTÉRIO;O
+ ;O
+PÚBLICO;O
+ ;O
+DO;O
+ ;O
+ESTADO;O
+ ;O
+DO;O
+ ;O
+PARÁ;O
+ ;O
+PROC;O
+.;O
+(;O
+A;O
+/;O
+S;O
+);O
+(;O
+ES;O
+);O
+ ;O
+:;O
+PROCURADOR;O
+-;O
+GERAL;O
+ ;O
+DE;O
+ ;O
+JUSTIÇA;O
+ ;O
+DO;O
+ ;O
+ESTADO;O
+ ;O
+DO;O
+ ;O
+"
+";O
+"
+";O
+PARÁ;O
+ ;O
+"
+";O
+"
+";O
+O;O
+ ;O
+SENHOR;B_Pessoa
+ ;I_Pessoa
+MINISTRO;I_Pessoa
+ ;I_Pessoa
+MARCO;I_Pessoa
+ ;I_Pessoa
+AURÉLIO;I_Pessoa
+ ;I_Pessoa
+(;O
+PRESIDENTE;O
+ ;O
+E;O
+ ;O
+RELATOR;O
+);O
+ ;O
+–;O
+ ;O
+Há;O
+ ;O
+petição;O
+,;O
+ ;O
+neste;O
+ ;O
+caso;O
+,;O
+ ;O
+do;O
+ ;O
+Procurador;O
+-;O
+Geral;O
+ ;O
+da;O
+ ;O
+República;O
+ ;O
+requerendo;O
+ ;O
+que;O
+,;O
+ ;O
+simplesmente;O
+,;O
+ ;O
+não;O
+ ;O
+se;O
+ ;O
+julgue;O
+ ;O
+o;O
+ ;O
+pedido;O
+ ;O
+formulado;O
+ ;O
+na;O
+ ;O
+petição;O
+.;O
+ ;O
+É;O
+ ;O
+apontado;O
+ ;O
+como;O
+ ;O
+móvel;O
+ ;O
+do;O
+ ;O
+pleito;O
+ ;O
+de;O
+ ;O
+adiamento;O
+ ;O
+a;O
+ ;O
+circunstância;O
+ ;O
+de;O
+ ;O
+o;O
+ ;O
+tema;O
+ ;O
+de;O
+ ;O
+fundo;O
+ ;O
+–;O
+ ;O
+o;O
+ ;O
+alusivo;O
+ ;O
+à;O
+ ;O
+competência;O
+ ;O
+para;O
+ ;O
+dirimir;O
+ ;O
+conflito;O
+ ;O
+de;O
+ ;O
+atribuições;O
+ ;O
+entre;O
+ ;O
+dois;O
+ ;O
+ministérios;O
+ ;O
+públicos;O
+,;O
+ ;O
+o;O
+ ;O
+federal;O
+ ;O
+e;O
+ ;O
+o;O
+ ;O
+estadual;O
+ ;O
+–;O
+ ;O
+estar;O
+ ;O
+sob;O
+ ;O
+o;O
+ ;O
+crivo;O
+ ;O
+do;O
+ ;O
+Colegiado;O
+.;O
+ ;O
+"
+";O
+"
+";O
+Ante;O
+ ;O
+a;O
+ ;O
+sobrecarga;O
+ ;O
+suportada;O
+ ;O
+pelo;O
+ ;O
+Plenário;O
+,;O
+ ;O
+e;O
+ ;O
+precedente;O
+ ;O
+deste;O
+ ;O
+–;O
+ ;O
+caso;O
+ ;O
+da;O
+ ;O
+Bahia;O
+ ;O
+–;O
+,;O
+ ;O
+não;O
+ ;O
+cabe;O
+ ;O
+suspender;O
+ ;O
+a;O
+ ;O
+jurisdição;O
+ ;O
+na;O
+ ;O
+Turma;O
+.;O
+ ;O
+"
+";O
+"
+";O
+Preconizo;O
+ ;O
+que;O
+ ;O
+se;O
+ ;O
+indefira;O
+ ;O
+o;O
+ ;O
+adiamento;O
+.;O
+ ;O
+"
+";O
+"
+";O
+23/09/2014;O
+ ;O
+PRIMEIRA;O
+ ;O
+TURMA;O
+ ;O
+"
+";O
+"
+";O
+RELATOR;O
+ ;O
+:;O
+ ;O
+MIN;B_Pessoa
+.;I_Pessoa
+ ;I_Pessoa
+MARCO;I_Pessoa
+ ;I_Pessoa
+AURÉLIOREQTE;O
+.;O
+(;O
+S;O
+);O
+ ;O
+:;O
+MINISTÉRIO;O
+ ;O
+PÚBLICO;O
+ ;O
+FEDERAL;O
+ ;O
+PROC;O
+.;O
+(;O
+A;O
+/;O
+S;O
+);O
+(;O
+ES;O
+);O
+ ;O
+:;O
+PROCURADOR;O
+-;O
+GERAL;O
+ ;O
+DA;O
+ ;O
+REPÚBLICA;O
+ ;O
+INTDO;O
+.;O
+(;O
+A;O
+/;O
+S;O
+);O
+ ;O
+:;O
+MINISTÉRIO;O
+ ;O
+PÚBLICO;O
+ ;O
+DO;O
+ ;O
+ESTADO;O
+ ;O
+DO;O
+ ;O
+PARÁ;O
+ ;O
+PROC;O
+.;O
+(;O
+A;O
+/;O
+S;O
+);O
+(;O
+ES;O
+);O
+ ;O
+:;O
+PROCURADOR;O
+-;O
+GERAL;O
+ ;O
+DE;O
+ ;O
+JUSTIÇA;O
+ ;O
+DO;O
+ ;O
+ESTADO;O
+ ;O
+DO;O
+ ;O
+"
+";O
+"
+";O
+PARÁ;O
+ ;O
+"
+";O
+"
+";O
+R;O
+ ;O
+E;O
+ ;O
+L;O
+ ;O
+A;O
+ ;O
+T;O
+ ;O
+Ó;O
+ ;O
+R;O
+ ;O
+I;O
+ ;O
+O;O
+ ;O
+"
+";O
+"
+";O
+O;O
+ ;O
+SENHOR;B_Pessoa
+ ;I_Pessoa
+MINISTRO;I_Pessoa
+ ;I_Pessoa
+MARCO;I_Pessoa
+ ;I_Pessoa
+AURÉLIO;I_Pessoa
+ ;I_Pessoa
+–;O
+ ;O
+Adoto;O
+,;O
+ ;O
+a;O
+ ;O
+título;O
+ ;O
+de;O
+ ;O
+relatório;O
+,;O
+ ;O
+as;O
+ ;O
+informações;O
+ ;O
+prestadas;O
+ ;O
+pelo;O
+ ;O
+Gabinete;O
+:;O
+ ;O
+"
+";O
+"
+";O
+A;O
+ ;O
+Divisão;O
+ ;O
+de;O
+ ;O
+Investigações;O
+ ;O
+e;O
+ ;O
+Operações;O
+ ;O
+Especiais;O
+ ;O
+da;O
+ ;O
+Polícia;O
+ ;O
+Civil;O
+ ;O
+do;O
+ ;O
+Estado;O
+ ;O
+do;O
+ ;O
+Pará;O
+,;O
+ ;O
+com;O
+ ;O
+base;O
+ ;O
+em;O
+ ;O
+documentação;O
+ ;O
+remetida;O
+ ;O
+pela;O
+ ;O
+Fundação;O
+ ;O
+Parques;O
+ ;O
+e;O
+ ;O
+Áreas;O
+ ;O
+Verdes;O
+ ;O
+de;O
+ ;O
+Belém;O
+,;O
+ ;O
+apontando;O
+ ;O
+suposto;O
+ ;O
+desmatamento;O
+ ;O
+ostensivo;O
+ ;O
+em;O
+ ;O
+área;O
+ ;O
+considerada;O
+ ;O
+de;O
+ ;O
+preservação;O
+ ;O
+ambiental;O
+,;O
+ ;O
+instaurou;O
+ ;O
+o;O
+ ;O
+Inquérito;B_Precedente
+ ;I_Precedente
+Policial;I_Precedente
+ ;I_Precedente
+nº;I_Precedente
+ ;I_Precedente
+182/00;I_Precedente
+-;I_Precedente
+DEMA;I_Precedente
+/;I_Precedente
+DIOE;I_Precedente
+.;I_Precedente
+ ;O
+"
+";O
+"
+";O
+Consoante;O
+ ;O
+relatório;O
+ ;O
+de;O
+ ;O
+vistoria;O
+ ;O
+confeccionado;O
+ ;O
+pela;O
+ ;O
+referida;O
+ ;O
+fundação;O
+,;O
+ ;O
+o;O
+ ;O
+desmatamento;O
+,;O
+ ;O
+com;O
+ ;O
+abertura;O
+ ;O
+de;O
+ ;O
+uma;O
+ ;O
+clareira;O
+ ;O
+de;O
+ ;O
+oito;O
+ ;O
+ou;O
+ ;O
+nove;O
+ ;O
+metros;O
+ ;O
+de;O
+ ;O
+diâmetro;O
+ ;O
+na;O
+ ;O
+margem;O
+ ;O
+esquerda;O
+ ;O
+do;O
+ ;O
+rio;O
+ ;O
+Igarapé;O
+,;O
+ ;O
+compreendido;O
+ ;O
+entre;O
+ ;O
+a;O
+ ;O
+Rua;O
+ ;O
+Alfa;O
+ ;O
+e;O
+ ;O
+a;O
+ ;O
+Rua;O
+ ;O
+Prosperidade;O
+,;O
+ ;O
+acarretou;O
+ ;O
+o;O
+ ;O
+processo;O
+ ;O
+de;O
+ ;O
+assoreamento;O
+ ;O
+do;O
+ ;O
+curso;O
+ ;O
+d’agua;O
+.;O
+ ;O
+Solicitada;O
+ ;O
+perícia;O
+ ;O
+técnica;O
+ ;O
+do;O
+ ;O
+local;O
+,;O
+ ;O
+foram;O
+ ;O
+designados;O
+ ;O
+dois;O
+ ;O
+peritos;O
+ ;O
+do;O
+ ;O
+Instituto;O
+ ;O
+de;O
+ ;O
+Criminalística;O
+ ;O
+do;O
+ ;O
+Centro;O
+ ;O
+de;O
+ ;O
+Perícias;O
+ ;O
+Científicas;O
+ ;O
+“Renato;O
+ ;O
+Chaves”;O
+,;O
+ ;O
+no;O
+ ;O
+Estado;O
+ ;O
+do;O
+ ;O
+Pará;O
+,;O
+ ;O
+para;O
+ ;O
+examinar;O
+ ;O
+eventuais;O
+ ;O
+danos;O
+ ;O
+ao;O
+ ;O
+meio;O
+ ;O
+ambiente;O
+ ;O
+na;O
+ ;O
+margem;O
+ ;O
+direita;O
+ ;O
+do;O
+ ;O
+rio;O
+ ;O
+Curuperé;O
+,;O
+ ;O
+Água;O
+ ;O
+Cristina;O
+,;O
+ ;O
+no;O
+ ;O
+Distrito;O
+ ;O
+de;O
+ ;O
+Oiteiro;O
+.;O
+ ;O
+Observou;O
+-;O
+se;O
+,;O
+ ;O
+então;O
+,;O
+ ;O
+ter;O
+ ;O
+ocorrido;O
+ ;O
+desmatamento;O
+ ;O
+parcial;O
+ ;O
+da;O
+ ;O
+mata;O
+ ;O
+ciliar;O
+,;O
+ ;O
+localizada;O
+ ;O
+à;O
+ ;O
+margem;O
+ ;O
+direita;O
+ ;O
+do;O
+ ;O
+rio;O
+ ;O
+Curuperé;O
+,;O
+ ;O
+com;O
+ ;O
+retirada;O
+ ;O
+da;O
+ ;O
+vegetação;O
+ ;O
+de;O
+ ;O
+cobertura;O
+ ;O
+e;O
+ ;O
+arbustos;O
+ ;O
+de;O
+ ;O
+pequeno;O
+ ;O
+porte;O
+,;O
+ ;O
+podendo;O
+ ;O
+carrear;O
+ ;O
+material;O
+ ;O
+arenoso;O
+ ;O
+para;O
+ ;O
+o;O
+ ;O
+curso;O
+ ;O
+d’agua;O
+,;O
+ ;O
+provocando;O
+,;O
+ ;O
+assim;O
+,;O
+ ;O
+o;O
+ ;O
+assoreamento;O
+,;O
+ ;O
+que;O
+ ;O
+produzirá;O
+ ;O
+efeitos;O
+ ;O
+indesejáveis;O
+ ;O
+ao;O
+ ;O
+ecossistema;O
+ ;O
+da;O
+ ;O
+região;O
+.;O
+ ;O
+"
+";O
+"
+";O
+A;O
+ ;O
+Promotoria;O
+ ;O
+de;O
+ ;O
+Justiça;O
+ ;O
+Distrital;O
+ ;O
+de;O
+ ;O
+Icoaraci;O
+,;O
+ ;O
+no;O
+ ;O
+Estado;O
+ ;O
+do;O
+ ;O
+Pará;O
+,;O
+ ;O
+sustentou;O
+ ;O
+a;O
+ ;O
+necessidade;O
+ ;O
+de;O
+ ;O
+esclarecer;O
+-;O
+se;O
+ ;O
+a;O
+ ;O
+titularidade;O
+ ;O
+do;O
+ ;O
+terreno;O
+ ;O
+que;O
+ ;O
+alberga;O
+ ;O
+a;O
+ ;O
+área;O
+ ;O
+degradada;O
+,;O
+ ;O
+tendo;O
+ ;O
+em;O
+ ;O
+vista;O
+ ;O
+informações;O
+ ;O
+de;O
+ ;O
+uma;O
+ ;O
+das;O
+ ;O
+testemunhas;O
+ ;O
+de;O
+ ;O
+que;O
+ ;O
+o;O
+ ;O
+local;O
+ ;O
+pertenceria;O
+ ;O
+à;O
+ ;O
+União;O
+.;O
+ ;O
+"
+";O
+"
+";O
+A;O
+ ;O
+Gerência;O
+ ;O
+Regional;O
+ ;O
+do;O
+ ;O
+Patrimônio;O
+ ;O
+da;O
+ ;O
+União;O
+ ;O
+no;O
+ ;O
+Pará;O
+,;O
+ ;O
+reportando;O
+-;O
+se;O
+ ;O
+ao;O
+ ;O
+pedido;O
+ ;O
+de;O
+ ;O
+diligência;O
+,;O
+ ;O
+esclareceu;O
+ ;O
+que;O
+ ;O
+os;O
+ ;O
+terrenos;O
+ ;O
+de;O
+ ;O
+marinha;O
+,;O
+ ;O
+de;O
+ ;O
+acordo;O
+ ;O
+com;O
+ ;O
+o;O
+ ;O
+artigo;B_Ref. Legislativa
+ ;I_Ref. Legislativa
+1º;I_Ref. Legislativa
+,;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+alínea;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+“a”;I_Ref. Legislativa
+,;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+do;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+Decreto;I_Ref. Legislativa
+-;I_Ref. Legislativa
+Lei;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+nº;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+9.760/46;I_Ref. Legislativa
+,;I_Ref. Legislativa
+ ;O
+são;O
+ ;O
+os;O
+ ;O
+que;O
+ ;O
+se;O
+ ;O
+encontram;O
+ ;O
+em;O
+ ;O
+uma;O
+ ;O
+profundidade;O
+ ;O
+de;O
+ ;O
+33;O
+ ;O
+metros;O
+ ;O
+medidos;O
+ ;O
+horizontalmente;O
+ ;O
+para;O
+ ;O
+a;O
+ ;O
+parte;O
+ ;O
+da;O
+ ;O
+terra;O
+,;O
+ ;O
+da;O
+ ;O
+posição;O
+ ;O
+da;O
+ ;O
+Linha;O
+ ;O
+Preamar;O
+ ;O
+Médio;O
+ ;O
+–;O
+ ;O
+LPM;O
+ ;O
+de;O
+ ;O
+1831;O
+.;O
+ ;O
+Como;O
+ ;O
+na;O
+ ;O
+área;O
+ ;O
+apontada;O
+ ;O
+não;O
+ ;O
+se;O
+ ;O
+determinou;O
+ ;O
+a;O
+ ;O
+posição;O
+ ;O
+da;O
+ ;O
+Linha;O
+ ;O
+Preamar;O
+ ;O
+Médio;O
+,;O
+ ;O
+os;O
+ ;O
+terrenos;O
+ ;O
+de;O
+ ;O
+propriedade;O
+ ;O
+da;O
+ ;O
+União;O
+ ;O
+não;O
+ ;O
+tinham;O
+ ;O
+sido;O
+ ;O
+demarcados;O
+ ;O
+até;O
+ ;O
+então;O
+.;O
+ ;O
+"
+";O
+"
+";O
+A;O
+ ;O
+Juíza;O
+ ;O
+da;O
+ ;O
+1ª;O
+ ;O
+Vara;O
+ ;O
+Penal;O
+ ;O
+do;O
+ ;O
+Distrito;O
+ ;O
+de;O
+ ;O
+Icoaraci;O
+/;O
+PA;O
+,;O
+ ;O
+após;O
+ ;O
+audiência;O
+ ;O
+do;O
+ ;O
+Ministério;O
+ ;O
+Público;O
+ ;O
+estadual;O
+,;O
+ ;O
+declinou;O
+ ;O
+da;O
+ ;O
+competência;O
+ ;O
+para;O
+ ;O
+a;O
+ ;O
+Justiça;O
+ ;O
+Federal;O
+.;O
+ ;O
+Recebidos;O
+ ;O
+os;O
+ ;O
+autos;O
+,;O
+ ;O
+o;O
+ ;O
+procedimento;O
+ ;O
+foi;O
+ ;O
+encaminhado;O
+ ;O
+ao;O
+ ;O
+Ministério;O
+ ;O
+Público;O
+ ;O
+Federal;O
+,;O
+ ;O
+que;O
+ ;O
+suscitou;O
+ ;O
+conflito;O
+ ;O
+negativo;O
+ ;O
+de;O
+ ;O
+atribuição;O
+ ;O
+em;O
+ ;O
+face;O
+ ;O
+do;O
+ ;O
+Ministério;O
+ ;O
+Público;O
+ ;O
+estadual;O
+.;O
+ ;O
+Argumentou;O
+-;O
+se;O
+ ;O
+com;O
+ ;O
+a;O
+ ;O
+inexistência;O
+ ;O
+de;O
+ ;O
+comprovação;O
+ ;O
+de;O
+ ;O
+que;O
+ ;O
+o;O
+ ;O
+crime;O
+ ;O
+ambiental;O
+ ;O
+tenha;O
+ ;O
+se;O
+ ;O
+verificado;O
+ ;O
+dentro;O
+ ;O
+do;O
+ ;O
+limite;O
+ ;O
+horizontal;O
+ ;O
+de;O
+ ;O
+33;O
+ ;O
+metros;O
+ ;O
+da;O
+ ;O
+Linha;O
+ ;O
+de;O
+ ;O
+Preamar;O
+ ;O
+Médio;O
+ ;O
+de;O
+ ;O
+1831;O
+,;O
+ ;O
+conforme;O
+ ;O
+preconizado;O
+ ;O
+pelo;O
+ ;O
+Decreto;B_Ref. Legislativa
+-;I_Ref. Legislativa
+Lei;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+nº;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+9.760/46;I_Ref. Legislativa
+,;I_Ref. Legislativa
+ ;O
+pressuposto;O
+ ;O
+para;O
+ ;O
+caracterizar;O
+-;O
+se;O
+ ;O
+o;O
+ ;O
+terreno;O
+ ;O
+como;O
+ ;O
+de;O
+ ;O
+marinha;O
+,;O
+ ;O
+não;O
+ ;O
+sendo;O
+ ;O
+possível;O
+ ;O
+assegurar;O
+ ;O
+se;O
+ ;O
+o;O
+ ;O
+dano;O
+ ;O
+ocorrera;O
+ ;O
+dentro;O
+ ;O
+ou;O
+ ;O
+fora;O
+ ;O
+da;O
+ ;O
+propriedade;O
+ ;O
+federal;O
+.;O
+ ;O
+"
+";O
+"
+";O
+Em;O
+ ;O
+virtude;O
+ ;O
+do;O
+ ;O
+conflito;O
+ ;O
+suscitado;O
+,;O
+ ;O
+os;O
+ ;O
+autos;O
+ ;O
+foram;O
+ ;O
+remetidos;O
+ ;O
+ao;O
+ ;O
+Supremo;O
+.;O
+ ;O
+"
+";O
+"
+";O
+O;O
+ ;O
+Procurador;O
+-;O
+Geral;O
+ ;O
+da;O
+ ;O
+República;O
+,;O
+ ;O
+no;O
+ ;O
+parecer;O
+ ;O
+de;O
+ ;O
+folhas;O
+ ;O
+80;O
+ ;O
+a;O
+ ;O
+85;O
+,;O
+ ;O
+destaca;O
+ ;O
+que;O
+ ;O
+o;O
+ ;O
+caso;O
+ ;O
+em;O
+ ;O
+exame;O
+ ;O
+afigura;O
+-;O
+se;O
+ ;O
+como;O
+ ;O
+verdadeiro;O
+ ;O
+conflito;O
+ ;O
+de;O
+ ;O
+atribuições;O
+,;O
+ ;O
+tendo;O
+ ;O
+em;O
+ ;O
+vista;O
+ ;O
+a;O
+ ;O
+ausência;O
+ ;O
+de;O
+ ;O
+decisões;O
+ ;O
+jurisdicionais;O
+ ;O
+expressas;O
+ ;O
+a;O
+ ;O
+dar;O
+ ;O
+suporte;O
+ ;O
+à;O
+ ;O
+existência;O
+ ;O
+de;O
+ ;O
+um;O
+ ;O
+conflito;O
+ ;O
+de;O
+ ;O
+competência;O
+.;O
+ ;O
+Na;O
+ ;O
+sequência;O
+,;O
+ ;O
+anota;O
+ ;O
+assistir;O
+ ;O
+razão;O
+ ;O
+ao;O
+ ;O
+Ministério;O
+ ;O
+Público;O
+ ;O
+Federal;O
+,;O
+ ;O
+pois;O
+,;O
+ ;O
+considerando;O
+ ;O
+os;O
+ ;O
+termos;O
+ ;O
+da;O
+ ;O
+prova;O
+ ;O
+técnica;O
+ ;O
+realizada;O
+ ;O
+e;O
+ ;O
+das;O
+ ;O
+informações;O
+ ;O
+prestadas;O
+ ;O
+pela;O
+ ;O
+Gerência;O
+ ;O
+Regional;O
+ ;O
+do;O
+ ;O
+Patrimônio;O
+ ;O
+da;O
+ ;O
+União;O
+ ;O
+no;O
+ ;O
+Pará;O
+,;O
+ ;O
+não;O
+ ;O
+foi;O
+ ;O
+possível;O
+ ;O
+afirmar;O
+ ;O
+se;O
+ ;O
+a;O
+ ;O
+supressão;O
+ ;O
+parcial;O
+ ;O
+da;O
+ ;O
+vegetação;O
+ ;O
+que;O
+ ;O
+compõe;O
+ ;O
+a;O
+ ;O
+mata;O
+ ;O
+ciliar;O
+ ;O
+do;O
+ ;O
+rio;O
+ ;O
+Curuperé;O
+ ;O
+ocorreu;O
+ ;O
+dentro;O
+ ;O
+da;O
+ ;O
+propriedade;O
+ ;O
+da;O
+ ;O
+União;O
+ ;O
+ante;O
+ ;O
+a;O
+ ;O
+inexistência;O
+ ;O
+de;O
+ ;O
+demarcação;O
+ ;O
+disciplinada;O
+ ;O
+pelo;O
+ ;O
+mencionado;O
+ ;O
+decreto;O
+-;O
+lei;O
+.;O
+ ;O
+Assim;O
+,;O
+ ;O
+não;O
+ ;O
+há;O
+ ;O
+como;O
+ ;O
+dizer;O
+ ;O
+da;O
+ ;O
+competência;O
+ ;O
+da;O
+ ;O
+Justiça;O
+ ;O
+Federal;O
+ ;O
+para;O
+,;O
+ ;O
+nos;O
+ ;O
+termos;O
+ ;O
+do;O
+ ;O
+artigo;B_Ref. Legislativa
+ ;I_Ref. Legislativa
+109;I_Ref. Legislativa
+,;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+inciso;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+IV;I_Ref. Legislativa
+,;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+do;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+Diploma;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+Maior;I_Ref. Legislativa
+,;I_Ref. Legislativa
+ ;O
+processar;O
+ ;O
+e;O
+ ;O
+julgar;O
+ ;O
+a;O
+ ;O
+matéria;O
+.;O
+ ;O
+"
+";O
+"
+";O
+Ante;O
+ ;O
+o;O
+ ;O
+quadro;O
+,;O
+ ;O
+o;O
+ ;O
+Procurador;O
+-;O
+Geral;O
+ ;O
+da;O
+ ;O
+República;O
+ ;O
+manifesta;O
+-;O
+se;O
+ ;O
+pelo;O
+ ;O
+conhecimento;O
+ ;O
+do;O
+ ;O
+conflito;O
+ ;O
+negativo;O
+ ;O
+de;O
+ ;O
+atribuição;O
+,;O
+ ;O
+a;O
+ ;O
+fim;O
+ ;O
+de;O
+ ;O
+que;O
+ ;O
+seja;O
+ ;O
+reconhecida;O
+ ;O
+a;O
+ ;O
+atribuição;O
+ ;O
+do;O
+ ;O
+Ministério;O
+ ;O
+Público;O
+ ;O
+do;O
+ ;O
+Estado;O
+ ;O
+do;O
+ ;O
+Pará;O
+.;O
+ ;O
+"
+";O
+"
+";O
+É;O
+ ;O
+o;O
+ ;O
+relatório;O
+.;O
+ ;O
+"
+";O
+"
+";O
+23/09/2014;O
+ ;O
+PRIMEIRA;O
+ ;O
+TURMA;O
+ ;O
+"
+";O
+"
+";O
+V;O
+ ;O
+O;O
+ ;O
+T;O
+ ;O
+O;O
+ ;O
+"
+";O
+"
+";O
+O;O
+ ;O
+SENHOR;B_Pessoa
+ ;I_Pessoa
+MINISTRO;I_Pessoa
+ ;I_Pessoa
+MARCO;I_Pessoa
+ ;I_Pessoa
+AURÉLIO;I_Pessoa
+ ;I_Pessoa
+(;O
+RELATOR;O
+);O
+ ;O
+–;O
+ ;O
+No;O
+ ;O
+julgamento;O
+ ;O
+da;O
+ ;O
+Petição;B_Precedente
+ ;I_Precedente
+nº;I_Precedente
+ ;I_Precedente
+3.528;I_Precedente
+,;I_Precedente
+ ;I_Precedente
+de;I_Precedente
+ ;I_Precedente
+minha;I_Precedente
+ ;I_Precedente
+relatoria;I_Precedente
+,;I_Precedente
+ ;I_Precedente
+acórdão;I_Precedente
+ ;I_Precedente
+publicado;I_Precedente
+ ;I_Precedente
+no;I_Precedente
+ ;I_Precedente
+Diário;I_Precedente
+ ;I_Precedente
+da;I_Precedente
+ ;I_Precedente
+Justiça;I_Precedente
+ ;I_Precedente
+de;I_Precedente
+ ;I_Precedente
+3;I_Precedente
+ ;I_Precedente
+de;I_Precedente
+ ;I_Precedente
+março;I_Precedente
+ ;I_Precedente
+de;I_Precedente
+ ;I_Precedente
+2006;I_Precedente
+,;I_Precedente
+ ;O
+o;O
+ ;O
+Supremo;O
+ ;O
+assentou;O
+ ;O
+a;O
+ ;O
+própria;O
+ ;O
+competência;O
+ ;O
+para;O
+ ;O
+a;O
+ ;O
+solução;O
+ ;O
+de;O
+ ;O
+conflito;O
+ ;O
+de;O
+ ;O
+atribuições;O
+ ;O
+entre;O
+ ;O
+o;O
+ ;O
+Ministério;O
+ ;O
+Público;O
+ ;O
+Federal;O
+ ;O
+e;O
+ ;O
+Ministério;O
+ ;O
+Público;O
+ ;O
+estadual;O
+.;O
+ ;O
+Na;O
+ ;O
+oportunidade;O
+,;O
+ ;O
+fiz;O
+ ;O
+ver;O
+:;O
+ ;O
+"
+";O
+"
+";O
+De;O
+ ;O
+início;O
+,;O
+ ;O
+tem;O
+-;O
+se;O
+ ;O
+a;O
+ ;O
+impossibilidade;O
+ ;O
+de;O
+ ;O
+se;O
+ ;O
+adotar;O
+ ;O
+a;O
+ ;O
+solução;O
+ ;O
+que;O
+ ;O
+prevaleceu;O
+ ;O
+quando;O
+ ;O
+o;O
+ ;O
+Plenário;O
+ ;O
+apreciou;O
+ ;O
+a;O
+ ;O
+Petição;B_Precedente
+ ;I_Precedente
+nº;I_Precedente
+ ;I_Precedente
+1.503-6;I_Precedente
+/;I_Precedente
+MG;I_Precedente
+.;I_Precedente
+ ;O
+É;O
+ ;O
+que;O
+ ;O
+aqui;O
+ ;O
+não;O
+ ;O
+é;O
+ ;O
+dado;O
+ ;O
+sequer;O
+ ;O
+assentar;O
+ ;O
+um;O
+ ;O
+virtual;O
+ ;O
+conflito;O
+ ;O
+de;O
+ ;O
+jurisdição;O
+ ;O
+entre;O
+ ;O
+os;O
+ ;O
+juízos;O
+ ;O
+federal;O
+ ;O
+e;O
+ ;O
+estadual;O
+.;O
+ ;O
+Ambos;O
+ ;O
+estão;O
+ ;O
+uníssonos;O
+ ;O
+quanto;O
+ ;O
+à;O
+ ;O
+atribuição;O
+ ;O
+do;O
+ ;O
+Ministério;O
+ ;O
+Público;O
+ ;O
+Estadual;O
+.;O
+ ;O
+Assim;O
+,;O
+ ;O
+cabe;O
+ ;O
+expungir;O
+ ;O
+o;O
+ ;O
+envolvimento;O
+ ;O
+de;O
+ ;O
+órgãos;O
+ ;O
+investidos;O
+ ;O
+no;O
+ ;O
+ofício;O
+ ;O
+judicante;O
+ ;O
+em;O
+ ;O
+conflito;O
+,;O
+ ;O
+quer;O
+ ;O
+presente;O
+ ;O
+a;O
+ ;O
+configuração;O
+ ;O
+do;O
+ ;O
+fenômeno;O
+,;O
+ ;O
+quer;O
+ ;O
+a;O
+ ;O
+capacidade;O
+ ;O
+intuitiva;O
+ ;O
+e;O
+,;O
+ ;O
+portanto;O
+,;O
+ ;O
+a;O
+ ;O
+presunção;O
+ ;O
+de;O
+ ;O
+virem;O
+ ;O
+a;O
+ ;O
+discordar;O
+ ;O
+sobre;O
+ ;O
+a;O
+ ;O
+matéria;O
+.;O
+ ;O
+Afasta;O
+-;O
+se;O
+,;O
+ ;O
+assim;O
+,;O
+ ;O
+a;O
+ ;O
+interpretação;O
+ ;O
+analógica;O
+ ;O
+que;O
+ ;O
+prevaleceu;O
+ ;O
+quando;O
+ ;O
+do;O
+ ;O
+pronunciamento;O
+ ;O
+anterior;O
+ ;O
+e;O
+ ;O
+que;O
+ ;O
+girou;O
+ ;O
+em;O
+ ;O
+torno;O
+ ;O
+do;O
+ ;O
+preceito;O
+ ;O
+da;O
+ ;O
+alínea;B_Ref. Legislativa
+ ;I_Ref. Legislativa
+“d”;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+do;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+inciso;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+I;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+do;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+artigo;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+105;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+da;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+Constituição;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+Federal;I_Ref. Legislativa
+,;I_Ref. Legislativa
+ ;O
+a;O
+ ;O
+revelar;O
+ ;O
+competir;O
+ ;O
+ao;O
+ ;O
+Superior;O
+ ;O
+Tribunal;O
+ ;O
+de;O
+ ;O
+Justiça;O
+ ;O
+processar;O
+ ;O
+e;O
+ ;O
+julgar;O
+ ;O
+originariamente;O
+ ;O
+os;O
+ ;O
+conflitos;O
+ ;O
+de;O
+ ;O
+competência;O
+ ;O
+entre;O
+ ;O
+quaisquer;O
+ ;O
+tribunais;O
+,;O
+ ;O
+ressalvado;O
+ ;O
+o;O
+ ;O
+disposto;O
+ ;O
+no;O
+ ;O
+artigo;B_Ref. Legislativa
+ ;I_Ref. Legislativa
+102;I_Ref. Legislativa
+,;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+inciso;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+I;I_Ref. Legislativa
+,;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+alínea;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+“o”;I_Ref. Legislativa
+,;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+da;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+Carta;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+da;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+República;I_Ref. Legislativa
+,;I_Ref. Legislativa
+ ;O
+bem;O
+ ;O
+como;O
+ ;O
+entre;O
+ ;O
+tribunal;O
+ ;O
+e;O
+ ;O
+juízes;O
+ ;O
+a;O
+ ;O
+ele;O
+ ;O
+não;O
+ ;O
+vinculados;O
+ ;O
+e;O
+ ;O
+entre;O
+ ;O
+juízes;O
+ ;O
+vinculados;O
+ ;O
+a;O
+ ;O
+tribunais;O
+ ;O
+diversos;O
+.;O
+ ;O
+Eis;O
+ ;O
+o;O
+ ;O
+precedente;O
+,;O
+ ;O
+sendo;O
+ ;O
+que;O
+ ;O
+não;O
+ ;O
+compus;O
+ ;O
+o;O
+ ;O
+Plenário;O
+ ;O
+quando;O
+ ;O
+formalizado;O
+,;O
+ ;O
+ante;O
+ ;O
+ausência;O
+ ;O
+justificada;O
+ ;O
+–;O
+ ;O
+Petição;B_Precedente
+ ;I_Precedente
+nº;I_Precedente
+ ;I_Precedente
+1.503-6;I_Precedente
+/;I_Precedente
+MG;I_Precedente
+,;I_Precedente
+ ;I_Precedente
+acórdão;I_Precedente
+ ;I_Precedente
+publicado;I_Precedente
+ ;I_Precedente
+no;I_Precedente
+ ;I_Precedente
+Diário;I_Precedente
+ ;I_Precedente
+da;I_Precedente
+ ;I_Precedente
+Justiça;I_Precedente
+ ;I_Precedente
+de;I_Precedente
+ ;I_Precedente
+14;I_Precedente
+ ;I_Precedente
+de;I_Precedente
+ ;I_Precedente
+novembro;I_Precedente
+ ;I_Precedente
+de;I_Precedente
+ ;I_Precedente
+2002;I_Precedente
+:;I_Precedente
+ ;O
+"
+";O
+"
+";O
+CONFLITO;O
+ ;O
+NEGATIVO;O
+ ;O
+DE;O
+ ;O
+ATRIBUIÇÕES;O
+.;O
+ ;O
+"
+";O
+"
+";O
+MINISTÉRIO;O
+ ;O
+PÚBLICO;O
+ ;O
+FEDERAL;O
+ ;O
+E;O
+ ;O
+ESTADUAL;O
+.;O
+ ;O
+DENÚNCIA;O
+.;O
+ ;O
+FALSIFICAÇÃO;O
+ ;O
+DE;O
+ ;O
+GUIAS;O
+ ;O
+DE;O
+ ;O
+CONTRIBUIÇÃO;O
+ ;O
+PREVIDENCIÁRIA;O
+.;O
+ ;O
+AUSÊNCIA;O
+ ;O
+DE;O
+ ;O
+CONFLITO;O
+ ;O
+FEDERATIVO;O
+.;O
+ ;O
+INCOMPETÊNCIA;O
+ ;O
+DESTA;O
+ ;O
+CORTE;O
+.;O
+ ;O
+1;O
+.;O
+ ;O
+Conflito;O
+ ;O
+de;O
+ ;O
+atribuições;O
+ ;O
+entre;O
+ ;O
+o;O
+ ;O
+Ministério;O
+ ;O
+Público;O
+ ;O
+Federal;O
+ ;O
+e;O
+ ;O
+o;O
+ ;O
+Estadual;O
+.;O
+ ;O
+Empresa;O
+ ;O
+privada;O
+.;O
+ ;O
+Falsificação;O
+ ;O
+de;O
+ ;O
+guias;O
+ ;O
+de;O
+ ;O
+recolhimento;O
+ ;O
+de;O
+ ;O
+contribuições;O
+ ;O
+previdenciárias;O
+ ;O
+devidas;O
+ ;O
+à;O
+ ;O
+autarquia;O
+ ;O
+federal;O
+.;O
+ ;O
+Apuração;O
+ ;O
+do;O
+ ;O
+fato;O
+ ;O
+delituoso;O
+.;O
+ ;O
+Dissenso;O
+ ;O
+quanto;O
+ ;O
+ao;O
+ ;O
+órgão;O
+ ;O
+do;O
+ ;O
+Parquet;O
+ ;O
+competente;O
+ ;O
+para;O
+ ;O
+apresentar;O
+ ;O
+denúncia;O
+.;O
+ ;O
+"
+";O
+"
+";O
+2;O
+.;O
+ ;O
+A;O
+ ;O
+competência;O
+ ;O
+originária;O
+ ;O
+do;O
+ ;O
+Supremo;O
+ ;O
+Tribunal;O
+ ;O
+Federal;O
+,;O
+ ;O
+a;O
+ ;O
+que;O
+ ;O
+alude;O
+ ;O
+a;O
+ ;O
+letra;B_Ref. Legislativa
+ ;I_Ref. Legislativa
+"""f""";I_Ref. Legislativa
+ ;I_Ref. Legislativa
+do;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+inciso;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+I;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+do;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+artigo;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+102;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+da;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+Constituição;I_Ref. Legislativa
+,;I_Ref. Legislativa
+ ;O
+restringe;O
+-;O
+se;O
+ ;O
+aos;O
+ ;O
+conflitos;O
+ ;O
+de;O
+ ;O
+atribuições;O
+ ;O
+entre;O
+ ;O
+entes;O
+ ;O
+federados;O
+ ;O
+que;O
+ ;O
+possam;O
+,;O
+ ;O
+potencialmente;O
+,;O
+ ;O
+comprometer;O
+ ;O
+a;O
+ ;O
+harmonia;O
+ ;O
+do;O
+ ;O
+pacto;O
+ ;O
+federativo;O
+.;O
+ ;O
+Exegese;O
+ ;O
+restritiva;O
+ ;O
+do;O
+ ;O
+preceito;O
+ ;O
+ditada;O
+ ;O
+pela;O
+ ;O
+jurisprudência;O
+ ;O
+da;O
+ ;O
+Corte;O
+.;O
+ ;O
+Ausência;O
+,;O
+ ;O
+no;O
+ ;O
+caso;O
+ ;O
+concreto;O
+,;O
+ ;O
+de;O
+ ;O
+divergência;O
+ ;O
+capaz;O
+ ;O
+de;O
+ ;O
+promover;O
+ ;O
+o;O
+ ;O
+desequilíbrio;O
+ ;O
+do;O
+ ;O
+sistema;O
+ ;O
+federal;O
+.;O
+ ;O
+"
+";O
+"
+";O
+3;O
+.;O
+ ;O
+Presença;O
+ ;O
+de;O
+ ;O
+virtual;O
+ ;O
+conflito;O
+ ;O
+de;O
+ ;O
+jurisdição;O
+ ;O
+entre;O
+ ;O
+os;O
+ ;O
+juízos;O
+ ;O
+federal;O
+ ;O
+e;O
+ ;O
+estadual;O
+ ;O
+perante;O
+ ;O
+os;O
+ ;O
+quais;O
+ ;O
+funcionam;O
+ ;O
+os;O
+ ;O
+órgãos;O
+ ;O
+do;O
+ ;O
+Parquet;O
+ ;O
+em;O
+ ;O
+dissensão;O
+.;O
+ ;O
+Interpretação;O
+ ;O
+analógica;O
+ ;O
+do;O
+ ;O
+artigo;B_Ref. Legislativa
+ ;I_Ref. Legislativa
+105;I_Ref. Legislativa
+,;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+I;I_Ref. Legislativa
+,;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+"""d""";I_Ref. Legislativa
+,;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+da;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+Carta;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+da;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+República;I_Ref. Legislativa
+,;I_Ref. Legislativa
+ ;O
+para;O
+ ;O
+fixar;O
+ ;O
+a;O
+ ;O
+competência;O
+ ;O
+do;O
+ ;O
+Superior;O
+ ;O
+Tribunal;O
+ ;O
+de;O
+ ;O
+Justiça;O
+ ;O
+a;O
+ ;O
+fim;O
+ ;O
+de;O
+ ;O
+que;O
+ ;O
+julgue;O
+ ;O
+a;O
+ ;O
+controvérsia;O
+.;O
+ ;O
+"
+";O
+"
+";O
+Conflito;O
+ ;O
+de;O
+ ;O
+atribuições;O
+ ;O
+não;O
+ ;O
+conhecido;O
+.;O
+ ;O
+"
+";O
+"
+";O
+Também;O
+ ;O
+não;O
+ ;O
+é;O
+ ;O
+possível;O
+ ;O
+assentar;O
+-;O
+se;O
+ ;O
+competir;O
+ ;O
+ao;O
+ ;O
+Procurador;O
+-;O
+Geral;O
+ ;O
+da;O
+ ;O
+República;O
+ ;O
+a;O
+ ;O
+última;O
+ ;O
+palavra;O
+ ;O
+sobre;O
+ ;O
+a;O
+ ;O
+matéria;O
+.;O
+ ;O
+A;O
+ ;O
+razão;O
+ ;O
+é;O
+ ;O
+muito;O
+ ;O
+simples;O
+:;O
+ ;O
+de;O
+ ;O
+acordo;O
+ ;O
+com;O
+ ;O
+a;O
+ ;O
+norma;O
+ ;O
+do;O
+ ;O
+§;B_Ref. Legislativa
+ ;I_Ref. Legislativa
+1º;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+do;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+artigo;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+128;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+do;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+Diploma;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+Maior;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+chefia;O
+ ;O
+ele;O
+ ;O
+o;O
+ ;O
+Ministério;O
+ ;O
+Público;O
+ ;O
+da;O
+ ;O
+União;O
+,;O
+ ;O
+não;O
+ ;O
+tendo;O
+ ;O
+ingerência;O
+,;O
+ ;O
+considerados;O
+ ;O
+os;O
+ ;O
+princípios;O
+ ;O
+federativos;O
+,;O
+ ;O
+nos;O
+ ;O
+Ministérios;O
+ ;O
+Públicos;O
+ ;O
+dos;O
+ ;O
+Estados;O
+.;O
+ ;O
+Todavia;O
+,;O
+ ;O
+diante;O
+ ;O
+da;O
+ ;O
+inexistência;O
+ ;O
+de;O
+ ;O
+disposição;O
+ ;O
+específica;O
+ ;O
+na;O
+ ;O
+Lei;O
+ ;O
+"
+";O
+"
+";O
+Fundamental;O
+ ;O
+relativa;O
+ ;O
+à;O
+ ;O
+competência;O
+,;O
+ ;O
+o;O
+ ;O
+impasse;O
+ ;O
+não;O
+ ;O
+pode;O
+ ;O
+continuar;O
+.;O
+ ;O
+Esta;O
+ ;O
+Corte;O
+ ;O
+tem;O
+ ;O
+precedente;O
+ ;O
+segundo;O
+ ;O
+o;O
+ ;O
+qual;O
+,;O
+ ;O
+diante;O
+ ;O
+da;O
+ ;O
+conclusão;O
+ ;O
+sobre;O
+ ;O
+o;O
+ ;O
+silêncio;O
+ ;O
+do;O
+ ;O
+ordenamento;O
+ ;O
+jurídico;O
+ ;O
+a;O
+ ;O
+respeito;O
+ ;O
+do;O
+ ;O
+órgão;O
+ ;O
+competente;O
+ ;O
+para;O
+ ;O
+julgar;O
+ ;O
+certa;O
+ ;O
+matéria;O
+,;O
+ ;O
+a;O
+ ;O
+ela;O
+ ;O
+própria;O
+ ;O
+cabe;O
+ ;O
+a;O
+ ;O
+atuação;O
+:;O
+ ;O
+"
+";O
+"
+";O
+CONFLITO;O
+ ;O
+DE;O
+ ;O
+JURISDIÇÃO;O
+ ;O
+-;O
+ ;O
+1;O
+.;O
+ ;O
+No;O
+ ;O
+silêncio;O
+ ;O
+da;O
+ ;O
+Constituição;O
+,;O
+ ;O
+que;O
+ ;O
+não;O
+ ;O
+estabelece;O
+ ;O
+o;O
+ ;O
+órgão;O
+ ;O
+para;O
+ ;O
+decidir;O
+ ;O
+conflitos;O
+ ;O
+de;O
+ ;O
+jurisdição;O
+ ;O
+entre;O
+ ;O
+Tribunais;O
+ ;O
+Federais;O
+ ;O
+e;O
+ ;O
+Juízes;O
+,;O
+ ;O
+a;O
+ ;O
+competência;O
+ ;O
+cabe;O
+ ;O
+ao;O
+ ;O
+Supremo;O
+ ;O
+Tribunal;O
+ ;O
+Federal;O
+.;O
+ ;O
+"
+";O
+"
+";O
+2;O
+.;O
+ ;O
+É;O
+ ;O
+competente;O
+ ;O
+o;O
+ ;O
+Tribunal;O
+ ;O
+Regional;O
+ ;O
+Eleitoral;O
+ ;O
+para;O
+ ;O
+processar;O
+ ;O
+e;O
+ ;O
+julgar;O
+ ;O
+mandado;O
+ ;O
+de;O
+ ;O
+segurança;O
+ ;O
+contra;O
+ ;O
+atos;O
+ ;O
+de;O
+ ;O
+sua;O
+ ;O
+Presidência;O
+ ;O
+ou;O
+ ;O
+dele;O
+ ;O
+próprio;O
+ ;O
+(;O
+Conflito;B_Precedente
+ ;I_Precedente
+de;I_Precedente
+ ;I_Precedente
+Jurisdição;I_Precedente
+ ;I_Precedente
+nº;I_Precedente
+ ;I_Precedente
+5.133;I_Precedente
+,;I_Precedente
+ ;I_Precedente
+relator;I_Precedente
+ ;I_Precedente
+ministro;I_Precedente
+ ;I_Precedente
+Aliomar;I_Precedente
+ ;I_Precedente
+Baleeiro;I_Precedente
+,;I_Precedente
+ ;I_Precedente
+Diário;I_Precedente
+ ;I_Precedente
+da;I_Precedente
+ ;I_Precedente
+Justiça;I_Precedente
+ ;I_Precedente
+de;I_Precedente
+ ;I_Precedente
+22;I_Precedente
+ ;I_Precedente
+de;I_Precedente
+ ;I_Precedente
+maio;I_Precedente
+ ;I_Precedente
+de;I_Precedente
+ ;I_Precedente
+1970;I_Precedente
+);I_Precedente
+.;O
+ ;O
+"
+";O
+"
+";O
+C;O
+.;O
+J;O
+.;O
+ ;O
+-;O
+ ;O
+I;O
+.;O
+ ;O
+Compete;O
+ ;O
+ao;O
+ ;O
+S;O
+.;O
+T;O
+.;O
+F;O
+.;O
+,;O
+ ;O
+no;O
+ ;O
+silêncio;O
+ ;O
+da;O
+ ;O
+C;O
+.;O
+F;O
+.;O
+,;O
+ ;O
+na;O
+ ;O
+redação;O
+ ;O
+da;O
+ ;O
+Emenda;B_Ref. Legislativa
+ ;I_Ref. Legislativa
+nº;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+1/69;I_Ref. Legislativa
+,;I_Ref. Legislativa
+ ;O
+decidir;O
+ ;O
+conflitos;O
+ ;O
+de;O
+ ;O
+jurisdição;O
+ ;O
+entre;O
+ ;O
+um;O
+ ;O
+Tribunal;O
+ ;O
+e;O
+ ;O
+um;O
+ ;O
+juiz;O
+.;O
+ ;O
+"
+";O
+"
+";O
+II;O
+.;O
+ ;O
+Cabe;O
+ ;O
+à;O
+ ;O
+Justiça;O
+ ;O
+Federal;O
+,;O
+ ;O
+nos;O
+ ;O
+termos;O
+ ;O
+do;O
+ ;O
+art;B_Ref. Legislativa
+.;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+110;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+da;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+C;I_Ref. Legislativa
+.;I_Ref. Legislativa
+F;I_Ref. Legislativa
+.;I_Ref. Legislativa
+ ;O
+e;O
+ ;O
+Emenda;B_Ref. Legislativa
+ ;I_Ref. Legislativa
+nº;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+1/69;I_Ref. Legislativa
+,;I_Ref. Legislativa
+ ;O
+processar;O
+ ;O
+e;O
+ ;O
+julgar;O
+ ;O
+reclamações;O
+ ;O
+trabalhistas;O
+ ;O
+contra;O
+ ;O
+o;O
+ ;O
+INPS;O
+ ;O
+(;O
+Conflito;B_Precedente
+ ;I_Precedente
+de;I_Precedente
+ ;I_Precedente
+Jurisdição;I_Precedente
+ ;I_Precedente
+nº;I_Precedente
+ ;I_Precedente
+5.267;I_Precedente
+,;I_Precedente
+ ;I_Precedente
+relator;I_Precedente
+ ;I_Precedente
+ministro;I_Precedente
+ ;I_Precedente
+Aliomar;I_Precedente
+ ;I_Precedente
+Baleeiro;I_Precedente
+,;I_Precedente
+ ;I_Precedente
+Diário;I_Precedente
+ ;I_Precedente
+da;I_Precedente
+ ;I_Precedente
+Justiça;I_Precedente
+ ;I_Precedente
+de;I_Precedente
+ ;I_Precedente
+4;I_Precedente
+ ;I_Precedente
+de;I_Precedente
+ ;I_Precedente
+maio;I_Precedente
+ ;I_Precedente
+de;I_Precedente
+ ;I_Precedente
+1970;I_Precedente
+);I_Precedente
+.;O
+ ;O
+"
+";O
+"
+";O
+Esse;O
+ ;O
+entendimento;O
+ ;O
+é;O
+ ;O
+fortalecido;O
+ ;O
+pelo;O
+ ;O
+fato;O
+ ;O
+de;O
+ ;O
+órgãos;O
+ ;O
+da;O
+ ;O
+União;O
+ ;O
+e;O
+ ;O
+de;O
+ ;O
+Estado;O
+ ;O
+membro;O
+ ;O
+estarem;O
+ ;O
+envolvidos;O
+ ;O
+no;O
+ ;O
+conflito;O
+,;O
+ ;O
+e;O
+ ;O
+aí;O
+ ;O
+há;O
+ ;O
+de;O
+ ;O
+se;O
+ ;O
+emprestar;O
+ ;O
+à;O
+ ;O
+alínea;B_Ref. Legislativa
+ ;I_Ref. Legislativa
+“f”;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+do;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+inciso;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+I;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+do;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+artigo;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+102;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+da;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+Constituição;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+Federal;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+alcance;O
+ ;O
+suficiente;O
+ ;O
+ao;O
+ ;O
+afastamento;O
+ ;O
+do;O
+ ;O
+descompasso;O
+,;O
+ ;O
+solucionando;O
+-;O
+o;O
+ ;O
+o;O
+ ;O
+Supremo;O
+,;O
+ ;O
+como;O
+ ;O
+órgão;O
+ ;O
+maior;O
+ ;O
+da;O
+ ;O
+pirâmide;O
+ ;O
+jurisdicional;O
+.;O
+ ;O
+"
+";O
+"
+";O
+Aliás;O
+,;O
+ ;O
+pela;O
+ ;O
+propriedade;O
+,;O
+ ;O
+cumpre;O
+ ;O
+ressaltar;O
+ ;O
+o;O
+ ;O
+que;O
+ ;O
+citado;O
+ ;O
+na;O
+ ;O
+manifestação;O
+ ;O
+do;O
+ ;O
+Ministério;O
+ ;O
+Público;O
+ ;O
+do;O
+ ;O
+Estado;O
+ ;O
+da;O
+ ;O
+Bahia;O
+,;O
+ ;O
+na;O
+ ;O
+óptica;O
+ ;O
+proficiente;O
+ ;O
+do;O
+ ;O
+ex;O
+-;O
+Subprocurador;O
+ ;O
+de;O
+ ;O
+Justiça;O
+ ;O
+e;O
+ ;O
+professor;O
+ ;O
+da;O
+ ;O
+Faculdade;O
+ ;O
+Estadual;O
+ ;O
+do;O
+ ;O
+Rio;O
+ ;O
+de;O
+ ;O
+Janeiro;O
+ ;O
+–;O
+ ;O
+UERJ;O
+ ;O
+–;O
+ ;O
+Dr;B_Pessoa
+.;I_Pessoa
+ ;I_Pessoa
+Paulo;I_Pessoa
+ ;I_Pessoa
+Cézar;I_Pessoa
+ ;I_Pessoa
+Pinheiro;I_Pessoa
+ ;I_Pessoa
+Carneiro;I_Pessoa
+:;I_Pessoa
+ ;O
+"
+";O
+"
+";O
+O;O
+ ;O
+juiz;O
+ ;O
+quando;O
+ ;O
+determina;O
+ ;O
+o;O
+ ;O
+encaminhamento;O
+ ;O
+dos;O
+ ;O
+autos;O
+ ;O
+do;O
+ ;O
+inquérito;O
+ ;O
+para;O
+ ;O
+outro;O
+ ;O
+órgão;O
+ ;O
+do;O
+ ;O
+Ministério;O
+ ;O
+Público;O
+,;O
+ ;O
+o;O
+ ;O
+faz;O
+ ;O
+exercitando;O
+ ;O
+unicamente;O
+ ;O
+atividade;O
+ ;O
+administrativa;O
+,;O
+ ;O
+como;O
+ ;O
+chefe;O
+ ;O
+que;O
+ ;O
+é;O
+ ;O
+dos;O
+ ;O
+serviços;O
+ ;O
+administrativos;O
+ ;O
+do;O
+ ;O
+cartório;O
+.;O
+.;O
+.;O
+ ;O
+O;O
+ ;O
+despacho;O
+ ;O
+de;O
+ ;O
+encaminhamento;O
+ ;O
+tem;O
+ ;O
+natureza;O
+ ;O
+simplesmente;O
+ ;O
+administrativa;O
+.;O
+.;O
+.;O
+ ;O
+Não;O
+ ;O
+existe;O
+ ;O
+nenhuma;O
+ ;O
+atividade;O
+ ;O
+jurisdicional;O
+ ;O
+e;O
+ ;O
+mesmo;O
+ ;O
+judicial;O
+ ;O
+na;O
+ ;O
+hipótese;O
+.;O
+ ;O
+Uma;O
+ ;O
+vez;O
+ ;O
+que;O
+,;O
+ ;O
+na;O
+ ;O
+prática;O
+,;O
+ ;O
+existe;O
+ ;O
+um;O
+ ;O
+despacho;O
+ ;O
+administrativo;O
+,;O
+ ;O
+lacônico;O
+ ;O
+que;O
+ ;O
+seja;O
+,;O
+ ;O
+não;O
+ ;O
+podemos;O
+ ;O
+transformá;O
+-;O
+lo;O
+ ;O
+de;O
+ ;O
+uma;O
+ ;O
+penada;O
+,;O
+ ;O
+sem;O
+ ;O
+o;O
+ ;O
+exame;O
+ ;O
+mais;O
+ ;O
+cauteloso;O
+ ;O
+de;O
+ ;O
+cada;O
+ ;O
+hipótese;O
+ ;O
+em;O
+ ;O
+declinação;O
+ ;O
+da;O
+ ;O
+competência;O
+ ;O
+de;O
+ ;O
+um;O
+ ;O
+juízo;O
+,;O
+ ;O
+sob;O
+ ;O
+pena;O
+ ;O
+de;O
+ ;O
+subvertermos;O
+ ;O
+toda;O
+ ;O
+ordem;O
+ ;O
+processual;O
+,;O
+ ;O
+além;O
+ ;O
+dos;O
+ ;O
+demais;O
+ ;O
+e;O
+ ;O
+gravíssimos;O
+ ;O
+inconvenientes;O
+ ;O
+e;O
+ ;O
+ilegalidades;O
+ ;O
+que;O
+ ;O
+tal;O
+ ;O
+medida;O
+ ;O
+acarretaria;O
+.;O
+ ;O
+"
+";O
+"
+";O
+Então;O
+,;O
+ ;O
+a;O
+ ;O
+seguir;O
+,;O
+ ;O
+em;O
+ ;O
+análise;O
+ ;O
+da;O
+ ;O
+problemática;O
+ ;O
+versada;O
+ ;O
+neste;O
+ ;O
+processo;O
+,;O
+ ;O
+o;O
+ ;O
+autor;O
+ ;O
+da;O
+ ;O
+consagrada;O
+ ;O
+obra;O
+ ;O
+”O;B_Doutrina
+ ;I_Doutrina
+Ministério;I_Doutrina
+ ;I_Doutrina
+Público;I_Doutrina
+ ;I_Doutrina
+no;I_Doutrina
+ ;I_Doutrina
+Processo;I_Doutrina
+ ;I_Doutrina
+Civil;I_Doutrina
+ ;I_Doutrina
+e;I_Doutrina
+ ;I_Doutrina
+Penal”;I_Doutrina
+ ;I_Doutrina
+–;I_Doutrina
+ ;I_Doutrina
+Rio;I_Doutrina
+ ;I_Doutrina
+de;I_Doutrina
+ ;I_Doutrina
+Janeiro;I_Doutrina
+ ;I_Doutrina
+–;I_Doutrina
+ ;I_Doutrina
+Forense;I_Doutrina
+,;I_Doutrina
+ ;I_Doutrina
+5ª;I_Doutrina
+ ;I_Doutrina
+Edição;I_Doutrina
+,;I_Doutrina
+ ;I_Doutrina
+1995;I_Doutrina
+,;I_Doutrina
+ ;I_Doutrina
+página;I_Doutrina
+ ;I_Doutrina
+212;I_Doutrina
+,;I_Doutrina
+ ;O
+observa;O
+:;O
+ ;O
+(;O
+.;O
+.;O
+.;O
+);O
+ ;O
+"
+";O
+"
+";O
+Não;O
+ ;O
+há;O
+ ;O
+nada;O
+ ;O
+de;O
+ ;O
+estranho;O
+,;O
+ ;O
+de;O
+ ;O
+anormal;O
+,;O
+ ;O
+em;O
+ ;O
+conferir;O
+ ;O
+a;O
+ ;O
+órgão;O
+ ;O
+judiciário;O
+ ;O
+da;O
+ ;O
+nação;O
+ ;O
+o;O
+ ;O
+poder;O
+ ;O
+de;O
+ ;O
+dirimir;O
+ ;O
+conflitos;O
+ ;O
+de;O
+ ;O
+atribuições;O
+ ;O
+entre;O
+ ;O
+órgãos;O
+ ;O
+autônomos;O
+ ;O
+e;O
+ ;O
+independentes;O
+ ;O
+entre;O
+ ;O
+si;O
+.;O
+ ;O
+Pelo;O
+ ;O
+contrário;O
+,;O
+ ;O
+a;O
+ ;O
+relevância;O
+ ;O
+das;O
+ ;O
+questões;O
+ ;O
+em;O
+ ;O
+jogo;O
+ ;O
+exige;O
+ ;O
+que;O
+ ;O
+o;O
+ ;O
+órgão;O
+ ;O
+encarregado;O
+ ;O
+de;O
+ ;O
+dirimir;O
+ ;O
+estes;O
+ ;O
+conflitos;O
+ ;O
+tenham;O
+ ;O
+os;O
+ ;O
+predicados;O
+ ;O
+que;O
+ ;O
+atualmente;O
+ ;O
+só;O
+ ;O
+a;O
+ ;O
+magistratura;O
+ ;O
+tem;O
+,;O
+ ;O
+de;O
+ ;O
+sorte;O
+ ;O
+a;O
+ ;O
+garantir;O
+ ;O
+julgamento;O
+ ;O
+técnico;O
+ ;O
+e;O
+ ;O
+isenção;O
+ ;O
+total;O
+.;O
+ ;O
+Não;O
+ ;O
+é;O
+ ;O
+o;O
+ ;O
+STF;O
+ ;O
+que;O
+,;O
+ ;O
+originariamente;O
+,;O
+ ;O
+julga;O
+ ;O
+as;O
+ ;O
+causas;O
+ ;O
+judiciais;O
+ ;O
+entre;O
+ ;O
+Estados;O
+ ;O
+membros?;O
+ ;O
+Como;O
+,;O
+ ;O
+então;O
+,;O
+ ;O
+se;O
+ ;O
+poderia;O
+ ;O
+afirmar;O
+ ;O
+que;O
+ ;O
+haveria;O
+ ;O
+quebra;O
+ ;O
+de;O
+ ;O
+independência;O
+ ;O
+e;O
+ ;O
+autonomia;O
+ ;O
+dos;O
+ ;O
+"
+";O
+"
+";O
+Estados;O
+ ;O
+membros;O
+ ;O
+se;O
+ ;O
+a;O
+ ;O
+ele;O
+ ;O
+fosse;O
+ ;O
+também;O
+ ;O
+conferido;O
+ ;O
+o;O
+ ;O
+poder;O
+ ;O
+de;O
+ ;O
+decidir;O
+ ;O
+os;O
+ ;O
+conflitos;O
+ ;O
+de;O
+ ;O
+natureza;O
+ ;O
+administrativa;O
+ ;O
+entre;O
+ ;O
+estes;O
+ ;O
+mesmos;O
+ ;O
+entes?;O
+ ;O
+Não;O
+ ;O
+existe;O
+,;O
+ ;O
+até;O
+ ;O
+o;O
+ ;O
+momento;O
+,;O
+ ;O
+no;O
+ ;O
+nosso;O
+ ;O
+sistema;O
+ ;O
+constitucional;O
+,;O
+ ;O
+nenhum;O
+ ;O
+órgão;O
+ ;O
+ou;O
+ ;O
+ente;O
+ ;O
+superior;O
+ ;O
+que;O
+ ;O
+tenha;O
+ ;O
+o;O
+ ;O
+poder;O
+ ;O
+de;O
+ ;O
+decidir;O
+ ;O
+a;O
+ ;O
+que;O
+ ;O
+Estado;O
+ ;O
+competiria;O
+ ;O
+determinado;O
+ ;O
+tipo;O
+ ;O
+de;O
+ ;O
+atribuição;O
+.;O
+ ;O
+"
+";O
+"
+";O
+Transporte;O
+-;O
+se;O
+ ;O
+o;O
+ ;O
+enfoque;O
+ ;O
+para;O
+ ;O
+o;O
+ ;O
+conflito;O
+ ;O
+de;O
+ ;O
+atribuições;O
+ ;O
+entre;O
+ ;O
+o;O
+ ;O
+Ministério;O
+ ;O
+Público;O
+ ;O
+Estadual;O
+ ;O
+e;O
+ ;O
+o;O
+ ;O
+Ministério;O
+ ;O
+Público;O
+ ;O
+Federal;O
+.;O
+ ;O
+A;O
+ ;O
+solução;O
+ ;O
+há;O
+ ;O
+de;O
+ ;O
+decorrer;O
+ ;O
+não;O
+ ;O
+de;O
+ ;O
+pronunciamento;O
+ ;O
+deste;O
+ ;O
+ou;O
+ ;O
+daquele;O
+ ;O
+Ministério;O
+ ;O
+Público;O
+,;O
+ ;O
+sob;O
+ ;O
+pena;O
+ ;O
+de;O
+ ;O
+se;O
+ ;O
+assentar;O
+ ;O
+hierarquização;O
+ ;O
+incompatível;O
+ ;O
+com;O
+ ;O
+a;O
+ ;O
+Lei;O
+ ;O
+Fundamental;O
+.;O
+ ;O
+Uma;O
+ ;O
+coisa;O
+ ;O
+é;O
+ ;O
+atividade;O
+ ;O
+do;O
+ ;O
+Procurador;O
+-;O
+Geral;O
+ ;O
+da;O
+ ;O
+República;O
+ ;O
+no;O
+ ;O
+âmbito;O
+ ;O
+do;O
+ ;O
+Ministério;O
+ ;O
+Público;O
+ ;O
+da;O
+ ;O
+União;O
+,;O
+ ;O
+como;O
+ ;O
+também;O
+ ;O
+o;O
+ ;O
+é;O
+ ;O
+atividade;O
+ ;O
+do;O
+ ;O
+Procurador;O
+-;O
+Geral;O
+ ;O
+de;O
+ ;O
+Justiça;O
+ ;O
+no;O
+ ;O
+Ministério;O
+ ;O
+Público;O
+ ;O
+do;O
+ ;O
+Estado;O
+.;O
+ ;O
+Algo;O
+ ;O
+diverso;O
+,;O
+ ;O
+e;O
+ ;O
+que;O
+ ;O
+não;O
+ ;O
+se;O
+ ;O
+coaduna;O
+ ;O
+com;O
+ ;O
+a;O
+ ;O
+organicidade;O
+ ;O
+do;O
+ ;O
+Direito;O
+ ;O
+Constitucional;O
+,;O
+ ;O
+é;O
+ ;O
+dar;O
+-;O
+se;O
+ ;O
+à;O
+ ;O
+chefia;O
+ ;O
+de;O
+ ;O
+um;O
+ ;O
+Ministério;O
+ ;O
+Público;O
+,;O
+ ;O
+por;O
+ ;O
+mais;O
+ ;O
+relevante;O
+ ;O
+que;O
+ ;O
+seja;O
+,;O
+ ;O
+em;O
+ ;O
+se;O
+ ;O
+tratando;O
+ ;O
+da;O
+ ;O
+abrangência;O
+ ;O
+de;O
+ ;O
+atuação;O
+,;O
+ ;O
+o;O
+ ;O
+poder;O
+ ;O
+de;O
+ ;O
+interferir;O
+ ;O
+no;O
+ ;O
+Ministério;O
+ ;O
+Público;O
+ ;O
+da;O
+ ;O
+unidade;O
+ ;O
+federada;O
+,;O
+ ;O
+agindo;O
+ ;O
+no;O
+ ;O
+campo;O
+ ;O
+administrativo;O
+ ;O
+de;O
+ ;O
+forma;O
+ ;O
+incompatível;O
+ ;O
+com;O
+ ;O
+o;O
+ ;O
+princípio;O
+ ;O
+da;O
+ ;O
+autonomia;O
+ ;O
+estadual;O
+.;O
+ ;O
+Esta;O
+ ;O
+apenas;O
+ ;O
+é;O
+ ;O
+excepcionada;O
+ ;O
+pela;O
+ ;O
+Constituição;O
+ ;O
+Federal;O
+ ;O
+e;O
+ ;O
+não;O
+ ;O
+se;O
+ ;O
+tem;O
+ ;O
+na;O
+ ;O
+Carta;O
+ ;O
+em;O
+ ;O
+vigor;O
+ ;O
+qualquer;O
+ ;O
+dispositivo;O
+ ;O
+que;O
+ ;O
+revele;O
+ ;O
+a;O
+ ;O
+ascendência;O
+ ;O
+do;O
+ ;O
+Procurador;O
+-;O
+Geral;O
+ ;O
+da;O
+ ;O
+República;O
+ ;O
+relativamente;O
+ ;O
+aos;O
+ ;O
+Ministérios;O
+ ;O
+Públicos;O
+ ;O
+dos;O
+ ;O
+Estados;O
+.;O
+ ;O
+Tomo;O
+ ;O
+a;O
+ ;O
+manifestação;O
+ ;O
+do;O
+ ;O
+Procurador;O
+-;O
+Geral;O
+ ;O
+da;O
+ ;O
+República;O
+,;O
+ ;O
+Dr;B_Pessoa
+.;I_Pessoa
+ ;I_Pessoa
+Antônio;I_Pessoa
+ ;I_Pessoa
+Fernando;I_Pessoa
+ ;I_Pessoa
+Barros;I_Pessoa
+ ;I_Pessoa
+Silva;I_Pessoa
+ ;I_Pessoa
+de;I_Pessoa
+ ;I_Pessoa
+Souza;I_Pessoa
+,;I_Pessoa
+ ;O
+contida;O
+ ;O
+à;O
+ ;O
+folha;O
+ ;O
+130;O
+ ;O
+à;O
+ ;O
+137;O
+,;O
+ ;O
+não;O
+ ;O
+como;O
+ ;O
+uma;O
+ ;O
+decisão;O
+ ;O
+sobre;O
+ ;O
+o;O
+ ;O
+conflito;O
+,;O
+ ;O
+mas;O
+ ;O
+como;O
+ ;O
+parecer;O
+ ;O
+referente;O
+ ;O
+à;O
+ ;O
+matéria;O
+.;O
+ ;O
+"
+";O
+"
+";O
+A;O
+ ;O
+competência;O
+ ;O
+para;O
+ ;O
+dirimir;O
+ ;O
+o;O
+ ;O
+conflito;O
+ ;O
+de;O
+ ;O
+atribuições;O
+ ;O
+envolvido;O
+ ;O
+o;O
+ ;O
+Ministério;O
+ ;O
+Público;O
+ ;O
+do;O
+ ;O
+Estado;O
+ ;O
+da;O
+ ;O
+Bahia;O
+ ;O
+e;O
+ ;O
+o;O
+ ;O
+Federal;O
+ ;O
+é;O
+ ;O
+realmente;O
+ ;O
+do;O
+ ;O
+Supremo;O
+,;O
+ ;O
+conforme;O
+ ;O
+decidido;O
+ ;O
+na;O
+ ;O
+Questão;O
+ ;O
+de;O
+ ;O
+Ordem;O
+ ;O
+no;O
+ ;O
+Mandado;B_Precedente
+ ;I_Precedente
+de;I_Precedente
+ ;I_Precedente
+Segurança;I_Precedente
+ ;I_Precedente
+n°;I_Precedente
+ ;I_Precedente
+22.042-2;I_Precedente
+/;I_Precedente
+RR;I_Precedente
+,;I_Precedente
+ ;I_Precedente
+relatado;I_Precedente
+ ;I_Precedente
+pelo;I_Precedente
+ ;I_Precedente
+ministro;I_Precedente
+ ;I_Precedente
+Moreira;I_Precedente
+ ;I_Precedente
+Alves;I_Precedente
+,;I_Precedente
+ ;O
+e;O
+ ;O
+assentado;O
+ ;O
+sem;O
+ ;O
+discrepância;O
+ ;O
+de;O
+ ;O
+votos;O
+:;O
+ ;O
+"
+";O
+"
+";O
+MANDADO;O
+ ;O
+DE;O
+ ;O
+SEGURANÇA;O
+.;O
+ ;O
+QUESTÃO;O
+ ;O
+DE;O
+ ;O
+"
+";O
+"
+";O
+id;O
+:;O
+ ;O
+20141114_Pet_5075_278694031;O

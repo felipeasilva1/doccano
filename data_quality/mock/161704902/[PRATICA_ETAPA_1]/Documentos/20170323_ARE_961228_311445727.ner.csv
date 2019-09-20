@@ -1,16 +1,10 @@
 Token;Tag
 Ementa;O
- ;O
 e;O
- ;O
 Acórdão;O
- ;O
 07/02/2017;O
- ;O
 PRIMEIRA;O
- ;O
 TURMA;O
- ;O
 "
 ";O
 "
@@ -19,57 +13,36 @@ AG;B_Precedente
 .;I_Precedente
 REG;I_Precedente
 .;I_Precedente
- ;I_Precedente
 NO;I_Precedente
- ;I_Precedente
 RECURSO;I_Precedente
- ;I_Precedente
 EXTRAORDINÁRIO;I_Precedente
- ;I_Precedente
 COM;I_Precedente
- ;I_Precedente
 AGRAVO;I_Precedente
- ;I_Precedente
 961.228;I_Precedente
- ;I_Precedente
 SÃO;I_Precedente
- ;I_Precedente
 PAULO;I_Precedente
- ;I_Precedente
 "
 ";I_Precedente
 "
 ";I_Precedente
 RELATOR;I_Precedente
- ;I_Precedente
 :;I_Precedente
- ;I_Precedente
 MIN;I_Precedente
 .;I_Precedente
- ;I_Precedente
 MARCO;I_Precedente
- ;I_Precedente
 AURÉLIOAGTE;O
 .;O
 (;O
 S;O
 );O
- ;O
 :;O
 CASA;O
- ;O
 DO;O
- ;O
 EMPREGO;O
- ;O
 TEMPORARIO;O
- ;O
 EIRELI;O
- ;O
 -;O
- ;O
 EPP;O
- ;O
 ADV;O
 .;O
 (;O
@@ -77,16 +50,11 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 ADLER;B_Pessoa
- ;I_Pessoa
 SCISCI;I_Pessoa
- ;I_Pessoa
 DE;I_Pessoa
- ;I_Pessoa
 CAMARGO;I_Pessoa
- ;I_Pessoa
 AGDO;O
 .;O
 (;O
@@ -94,10 +62,8 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 UNIÃO;O
- ;O
 PROC;O
 .;O
 (;O
@@ -108,461 +74,262 @@ S;O
 (;O
 ES;O
 );O
- ;O
 :;O
 PROCURADOR;O
 -;O
 GERAL;O
- ;O
 DA;O
- ;O
 FAZENDA;O
- ;O
 NACIONAL;O
- ;O
 "
 ";O
 "
 ";O
 COFINS;O
- ;O
 –;O
- ;O
 PIS;O
- ;O
 –;O
- ;O
 BASE;O
- ;O
 DE;O
- ;O
 CÁLCULO;O
- ;O
 –;O
- ;O
 LOCAÇÃO;O
- ;O
 DE;O
- ;O
 MÃO;O
- ;O
 DE;O
- ;O
 OBRA;O
- ;O
 –;O
- ;O
 REGIME;O
- ;O
 DE;O
- ;O
 TRABALHO;O
- ;O
 TEMPORÁRIO;O
 .;O
- ;O
 No;O
- ;O
 regime;O
- ;O
 de;O
- ;O
 trabalho;O
- ;O
 temporário;O
- ;O
 das;O
- ;O
 empresas;O
- ;O
 urbanas;O
 ,;O
- ;O
 estabelecido;O
- ;O
 por;O
- ;O
 meio;O
- ;O
 da;O
- ;O
 Lei;B_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 6.019/1974;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 o;O
- ;O
 vínculo;O
- ;O
 do;O
- ;O
 trabalhador;O
- ;O
 temporário;O
- ;O
 é;O
- ;O
 com;O
- ;O
 a;O
- ;O
 empresa;O
- ;O
 de;O
- ;O
 locação;O
- ;O
 de;O
- ;O
 mão;O
- ;O
 de;O
- ;O
 obra;O
 ,;O
- ;O
 que;O
- ;O
 recebe;O
- ;O
 o;O
- ;O
 preço;O
- ;O
 ajustado;O
- ;O
 com;O
- ;O
 a;O
- ;O
 contratante;O
- ;O
 dos;O
- ;O
 serviços;O
 .;O
- ;O
 Sobre;O
- ;O
 o;O
- ;O
 valor;O
- ;O
 devem;O
- ;O
 incidir;O
- ;O
 a;O
- ;O
 Cofins;O
- ;O
 e;O
- ;O
 a;O
- ;O
 contribuição;O
- ;O
 ao;O
- ;O
 PIS;O
- ;O
 –;O
- ;O
 recursos;B_Precedente
- ;I_Precedente
 extraordinários;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 357.950-9;I_Precedente
 /;I_Precedente
 RS;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 390.840-5;I_Precedente
 /;I_Precedente
 MG;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 358.273-9;I_Precedente
 /;I_Precedente
 RS;I_Precedente
- ;I_Precedente
 e;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 346.0804-6;I_Precedente
 /;I_Precedente
 PR;I_Precedente
 ,;I_Precedente
- ;O
 de;O
- ;O
 minha;O
- ;O
 relatoria;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 HONORÁRIOS;O
- ;O
 ADVOCATÍCIOS;O
 .;O
- ;O
 Descabe;O
- ;O
 a;O
- ;O
 fixação;O
- ;O
 de;O
- ;O
 honorários;O
- ;O
 recursais;O
 ,;O
- ;O
 preconizados;O
- ;O
 no;O
- ;O
 artigo;B_Ref. Legislativa
- ;I_Ref. Legislativa
 85;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 11;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Código;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Processo;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Civil;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 2015;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 quando;O
- ;O
 se;O
- ;O
 tratar;O
- ;O
 de;O
- ;O
 extraordinário;O
- ;O
 formalizado;O
- ;O
 em;O
- ;O
 processo;O
- ;O
 cujo;O
- ;O
 rito;O
- ;O
 os;O
- ;O
 exclua;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 C;O
- ;O
 Ó;O
- ;O
 R;O
- ;O
 D;O
- ;O
 Ã;O
- ;O
 O;O
- ;O
 "
 ";O
 "
 ";O
 Vistos;O
 ,;O
- ;O
 relatados;O
- ;O
 e;O
- ;O
 discutidos;O
- ;O
 estes;O
- ;O
 autos;O
 ,;O
- ;O
 acordam;O
- ;O
 os;O
- ;O
 Ministros;O
- ;O
 da;O
- ;O
 Primeira;O
- ;O
 Turma;O
- ;O
 do;O
- ;O
 Supremo;O
- ;O
 Tribunal;O
- ;O
 Federal;O
- ;O
 em;O
- ;O
 desprover;O
- ;O
 o;O
- ;O
 agravo;O
- ;O
 regimental;O
- ;O
 no;O
- ;O
 recurso;O
- ;O
 extraordinário;O
- ;O
 com;O
- ;O
 agravo;O
 ,;O
- ;O
 nos;O
- ;O
 termos;O
- ;O
 do;O
- ;O
 voto;O
- ;O
 do;O
- ;O
 relator;O
- ;O
 e;O
- ;O
 por;O
- ;O
 unanimidade;O
 ,;O
- ;O
 em;O
- ;O
 sessão;O
- ;O
 presidida;O
- ;O
 pelo;O
- ;O
 Ministro;B_Pessoa
- ;I_Pessoa
 Marco;I_Pessoa
- ;I_Pessoa
 Aurélio;I_Pessoa
 ,;I_Pessoa
- ;O
 na;O
- ;O
 conformidade;O
- ;O
 da;O
- ;O
 ata;O
- ;O
 do;O
- ;O
 julgamento;O
- ;O
 e;O
- ;O
 das;O
- ;O
 respectivas;O
- ;O
 notas;O
- ;O
 taquigráficas;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Brasília;O
 ,;O
- ;O
 7;O
- ;O
 de;O
- ;O
 fevereiro;O
- ;O
 de;O
- ;O
 2017;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 MINISTRO;B_Pessoa
- ;I_Pessoa
 MARCO;I_Pessoa
- ;I_Pessoa
 AURÉLIO;I_Pessoa
- ;I_Pessoa
 –;O
- ;O
 PRESIDENTE;O
- ;O
 E;O
- ;O
 RELATOR;O
- ;O
 07/02/2017;O
- ;O
 PRIMEIRA;O
- ;O
 TURMA;O
- ;O
 "
 ";O
 "
@@ -571,57 +338,36 @@ AG;B_Precedente
 .;I_Precedente
 REG;I_Precedente
 .;I_Precedente
- ;I_Precedente
 NO;I_Precedente
- ;I_Precedente
 RECURSO;I_Precedente
- ;I_Precedente
 EXTRAORDINÁRIO;I_Precedente
- ;I_Precedente
 COM;I_Precedente
- ;I_Precedente
 AGRAVO;I_Precedente
- ;I_Precedente
 961.228;I_Precedente
- ;I_Precedente
 SÃO;I_Precedente
- ;I_Precedente
 PAULO;I_Precedente
- ;I_Precedente
 "
 ";I_Precedente
 "
 ";I_Precedente
 RELATOR;I_Precedente
- ;I_Precedente
 :;I_Precedente
- ;I_Precedente
 MIN;I_Precedente
 .;I_Precedente
- ;I_Precedente
 MARCO;I_Precedente
- ;I_Precedente
 AURÉLIOAGTE;O
 .;O
 (;O
 S;O
 );O
- ;O
 :;O
 CASA;O
- ;O
 DO;O
- ;O
 EMPREGO;O
- ;O
 TEMPORARIO;O
- ;O
 EIRELI;O
- ;O
 -;O
- ;O
 EPP;O
- ;O
 ADV;O
 .;O
 (;O
@@ -629,16 +375,11 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 ADLER;B_Pessoa
- ;I_Pessoa
 SCISCI;I_Pessoa
- ;I_Pessoa
 DE;I_Pessoa
- ;I_Pessoa
 CAMARGO;I_Pessoa
- ;I_Pessoa
 AGDO;O
 .;O
 (;O
@@ -646,10 +387,8 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 UNIÃO;O
- ;O
 PROC;O
 .;O
 (;O
@@ -660,1043 +399,589 @@ S;O
 (;O
 ES;O
 );O
- ;O
 :;O
 PROCURADOR;O
 -;O
 GERAL;O
- ;O
 DA;O
- ;O
 FAZENDA;O
- ;O
 NACIONAL;O
- ;O
 "
 ";O
 "
 ";O
 R;O
- ;O
 E;O
- ;O
 L;O
- ;O
 A;O
- ;O
 T;O
- ;O
 Ó;O
- ;O
 R;O
- ;O
 I;O
- ;O
 O;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 SENHOR;B_Pessoa
- ;I_Pessoa
 MINISTRO;I_Pessoa
- ;I_Pessoa
 MARCO;I_Pessoa
- ;I_Pessoa
 AURÉLIO;I_Pessoa
- ;I_Pessoa
 –;O
- ;O
 Em;O
- ;O
 3;O
- ;O
 de;O
- ;O
 junho;O
- ;O
 de;O
- ;O
 "
 ";O
 "
 ";O
 2016;O
 ,;O
- ;O
 neguei;O
- ;O
 provimento;O
- ;O
 ao;O
- ;O
 agravo;O
 ,;O
- ;O
 consignando;O
- ;O
 (;O
 folhas;O
- ;O
 403;O
- ;O
 e;O
- ;O
 404;O
 );O
 :;O
- ;O
 "
 ";O
 "
 ";O
 COFINS;O
- ;O
 –;O
- ;O
 PIS;O
- ;O
 –;O
- ;O
 BASE;O
- ;O
 DE;O
- ;O
 CÁLCULO;O
- ;O
 –;O
- ;O
 LOCAÇÃO;O
- ;O
 DE;O
- ;O
 MÃO;O
- ;O
 DE;O
- ;O
 OBRA;O
- ;O
 –;O
- ;O
 REGIME;O
- ;O
 DE;O
- ;O
 TRABALHO;O
- ;O
 TEMPORÁRIO;O
- ;O
 –;O
- ;O
 RECURSO;O
- ;O
 EXTRAORDINÁRIO;O
- ;O
 COM;O
- ;O
 AGRAVO;O
- ;O
 –;O
- ;O
 DESPROVIMENTO;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 1;O
 .;O
- ;O
 O;O
- ;O
 Tribunal;O
- ;O
 Regional;O
- ;O
 Federal;O
- ;O
 da;O
- ;O
 3ª;O
- ;O
 Região;O
- ;O
 confirmou;O
- ;O
 o;O
- ;O
 Juízo;O
- ;O
 e;O
- ;O
 assentou;O
- ;O
 não;O
- ;O
 poder;O
- ;O
 ser;O
- ;O
 afastada;O
- ;O
 a;O
- ;O
 incidência;O
- ;O
 da;O
- ;O
 Contribuição;O
- ;O
 ao;O
- ;O
 PIS;O
- ;O
 e;O
- ;O
 da;O
- ;O
 Cofins;O
- ;O
 sobre;O
- ;O
 “valores;O
- ;O
 de;O
- ;O
 puro;O
- ;O
 repasse”;O
- ;O
 correspondentes;O
- ;O
 a;O
- ;O
 salários;O
- ;O
 e;O
- ;O
 encargos;O
- ;O
 sociais;O
- ;O
 devidos;O
- ;O
 aos;O
- ;O
 trabalhadores;O
- ;O
 considerada;O
- ;O
 empresa;O
- ;O
 de;O
- ;O
 locação;O
- ;O
 de;O
- ;O
 mão;O
- ;O
 de;O
- ;O
 obra;O
- ;O
 temporária;O
 .;O
- ;O
 Insiste;O
- ;O
 a;O
- ;O
 recorrente;O
- ;O
 no;O
- ;O
 processamento;O
- ;O
 do;O
- ;O
 extraordinário;O
 ,;O
- ;O
 alegando;O
- ;O
 violados;O
- ;O
 os;O
- ;O
 artigos;B_Ref. Legislativa
- ;I_Ref. Legislativa
 145;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §1º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 150;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 incisos;I_Ref. Legislativa
- ;I_Ref. Legislativa
 I;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 IV;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 195;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 inciso;I_Ref. Legislativa
- ;I_Ref. Legislativa
 I;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 alínea;I_Ref. Legislativa
- ;I_Ref. Legislativa
 “b”;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 246;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Carta;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Política;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 Aduz;O
- ;O
 ser;O
- ;O
 sociedade;O
- ;O
 que;O
- ;O
 tem;O
- ;O
 por;O
- ;O
 objeto;O
- ;O
 social;O
- ;O
 a;O
- ;O
 locação;O
- ;O
 de;O
- ;O
 mão;O
- ;O
 de;O
- ;O
 obra;O
 ,;O
- ;O
 na;O
- ;O
 forma;O
- ;O
 da;O
- ;O
 Lei;B_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 6.019/74;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 Sustenta;O
- ;O
 ser;O
- ;O
 inconstitucional;O
- ;O
 a;O
- ;O
 inclusão;O
- ;O
 dos;O
- ;O
 valores;O
- ;O
 que;O
- ;O
 recebe;O
- ;O
 das;O
- ;O
 tomadoras;O
- ;O
 de;O
- ;O
 serviços;O
 ,;O
- ;O
 destinados;O
- ;O
 ao;O
- ;O
 pagamento;O
- ;O
 de;O
- ;O
 salários;O
- ;O
 e;O
- ;O
 encargos;O
- ;O
 sociais;O
- ;O
 dos;O
- ;O
 trabalhadores;O
- ;O
 temporários;O
- ;O
 cedidos;O
 ,;O
- ;O
 na;O
- ;O
 base;O
- ;O
 de;O
- ;O
 cálculo;O
- ;O
 da;O
- ;O
 Cofins;O
- ;O
 e;O
- ;O
 do;O
- ;O
 PIS;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 2;O
 .;O
- ;O
 No;O
- ;O
 regime;O
- ;O
 da;O
- ;O
 Lei;B_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 6.019;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1974;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 o;O
- ;O
 trabalhador;O
- ;O
 temporário;O
- ;O
 possui;O
- ;O
 vínculo;O
- ;O
 com;O
- ;O
 a;O
- ;O
 empresa;O
- ;O
 de;O
- ;O
 locação;O
- ;O
 de;O
- ;O
 mão;O
- ;O
 de;O
- ;O
 obra;O
 ,;O
- ;O
 realizando;O
- ;O
 com;O
- ;O
 esta;O
- ;O
 o;O
- ;O
 contrato;O
- ;O
 de;O
- ;O
 trabalho;O
 .;O
- ;O
 Há;O
- ;O
 delegação;O
- ;O
 do;O
- ;O
 poder;O
- ;O
 de;O
- ;O
 comando;O
- ;O
 ao;O
- ;O
 tomador;O
 ,;O
- ;O
 mas;O
 ,;O
- ;O
 com;O
- ;O
 o;O
- ;O
 último;O
 ,;O
- ;O
 o;O
- ;O
 empregado;O
- ;O
 não;O
- ;O
 mantém;O
- ;O
 relação;O
- ;O
 de;O
- ;O
 emprego;O
- ;O
 (;O
 BARROS;B_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 Alice;I_Doutrina
- ;I_Doutrina
 Monteiro;I_Doutrina
- ;I_Doutrina
 de;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 Curso;I_Doutrina
- ;I_Doutrina
 de;I_Doutrina
- ;I_Doutrina
 Direito;I_Doutrina
- ;I_Doutrina
 do;I_Doutrina
- ;I_Doutrina
 Trabalho;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 São;I_Doutrina
- ;I_Doutrina
 Paulo;I_Doutrina
 :;I_Doutrina
- ;I_Doutrina
 Ltr;I_Doutrina
 .;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 2005;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 p;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 419-420;I_Doutrina
 );I_Doutrina
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 recorrente;O
- ;O
 recebe;O
- ;O
 o;O
- ;O
 preço;O
- ;O
 ajustado;O
- ;O
 com;O
- ;O
 a;O
- ;O
 contratante;O
- ;O
 dos;O
- ;O
 serviços;O
 ,;O
- ;O
 assumindo;O
- ;O
 o;O
- ;O
 custo;O
- ;O
 com;O
- ;O
 as;O
- ;O
 remunerações;O
- ;O
 e;O
- ;O
 encargos;O
- ;O
 atinentes;O
- ;O
 aos;O
- ;O
 empregados;O
 .;O
- ;O
 A;O
- ;O
 Cofins;O
- ;O
 e;O
- ;O
 a;O
- ;O
 contribuição;O
- ;O
 para;O
- ;O
 o;O
- ;O
 PIS;O
 ,;O
- ;O
 consoante;O
- ;O
 o;O
- ;O
 entendimento;O
- ;O
 do;O
- ;O
 Supremo;O
 ,;O
- ;O
 devem;O
- ;O
 incidir;O
- ;O
 sobre;O
- ;O
 a;O
- ;O
 totalidade;O
- ;O
 das;O
- ;O
 receitas;O
- ;O
 auferidas;O
- ;O
 com;O
- ;O
 a;O
- ;O
 venda;O
- ;O
 de;O
- ;O
 mercadorias;O
 ,;O
- ;O
 de;O
- ;O
 serviços;O
- ;O
 ou;O
- ;O
 de;O
- ;O
 mercadorias;O
- ;O
 e;O
- ;O
 serviços;O
- ;O
 –;O
- ;O
 Recursos;B_Precedente
- ;I_Precedente
 Extraordinários;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 357.950-9;I_Precedente
 /;I_Precedente
 RS;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 390.840-5;I_Precedente
 /;I_Precedente
 MG;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 358.273-9;I_Precedente
 /;I_Precedente
 RS;I_Precedente
- ;I_Precedente
 e;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 346.0804-6;I_Precedente
 /;I_Precedente
 PR;I_Precedente
 ,;I_Precedente
- ;O
 de;O
- ;O
 minha;O
- ;O
 relatoria;O
 .;O
- ;O
 O;O
- ;O
 acórdão;O
- ;O
 de;O
- ;O
 origem;O
- ;O
 está;O
- ;O
 em;O
- ;O
 harmonia;O
- ;O
 com;O
- ;O
 essa;O
- ;O
 jurisprudência;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 3;O
 .;O
- ;O
 Conheço;O
- ;O
 do;O
- ;O
 agravo;O
- ;O
 e;O
- ;O
 o;O
- ;O
 desprovejo;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 4;O
 .;O
- ;O
 Publiquem;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 agravante;O
 ,;O
- ;O
 na;O
- ;O
 minuta;O
- ;O
 de;O
- ;O
 folha;O
- ;O
 423;O
- ;O
 a;O
- ;O
 437;O
 ,;O
- ;O
 insiste;O
- ;O
 na;O
- ;O
 índole;O
- ;O
 constitucional;O
- ;O
 da;O
- ;O
 controvérsia;O
 .;O
- ;O
 Aduz;O
- ;O
 ser;O
- ;O
 sociedade;O
- ;O
 que;O
- ;O
 tem;O
- ;O
 por;O
- ;O
 objeto;O
- ;O
 social;O
- ;O
 a;O
- ;O
 locação;O
- ;O
 de;O
- ;O
 mão;O
- ;O
 de;O
- ;O
 obra;O
 .;O
- ;O
 Sustenta;O
- ;O
 a;O
- ;O
 inconstitucionalidade;O
- ;O
 da;O
- ;O
 inclusão;O
- ;O
 dos;O
- ;O
 valores;O
- ;O
 que;O
- ;O
 recebe;O
- ;O
 das;O
- ;O
 tomadoras;O
- ;O
 de;O
- ;O
 serviços;O
 ,;O
- ;O
 destinados;O
- ;O
 ao;O
- ;O
 pagamento;O
- ;O
 de;O
- ;O
 salários;O
- ;O
 e;O
- ;O
 encargos;O
- ;O
 sociais;O
- ;O
 dos;O
- ;O
 trabalhadores;O
- ;O
 temporários;O
- ;O
 cedidos;O
 ,;O
- ;O
 na;O
- ;O
 base;O
- ;O
 de;O
- ;O
 cálculo;O
- ;O
 da;O
- ;O
 Cofins;O
- ;O
 e;O
- ;O
 do;O
- ;O
 PIS;O
 .;O
- ;O
 Afirma;O
- ;O
 ser;O
- ;O
 confiscatória;O
- ;O
 a;O
- ;O
 contribuição;O
- ;O
 em;O
- ;O
 questão;O
 ,;O
- ;O
 pois;O
- ;O
 não;O
- ;O
 recebe;O
- ;O
 o;O
- ;O
 valor;O
- ;O
 bruto;O
- ;O
 das;O
- ;O
 notas;O
- ;O
 fiscais;O
- ;O
 emitidas;O
 ,;O
- ;O
 não;O
- ;O
 podendo;O
- ;O
 este;O
- ;O
 servir;O
- ;O
 de;O
- ;O
 base;O
- ;O
 de;O
- ;O
 cálculo;O
- ;O
 do;O
- ;O
 tributo;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 agravada;O
 ,;O
- ;O
 na;O
- ;O
 contraminuta;O
- ;O
 (;O
 folhas;O
- ;O
 443;O
- ;O
 e;O
- ;O
 444;O
 );O
 ,;O
- ;O
 defende;O
- ;O
 o;O
- ;O
 acerto;O
- ;O
 da;O
- ;O
 decisão;O
- ;O
 atacada;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 É;O
- ;O
 o;O
- ;O
 relatório;O
 .;O
- ;O
 07/02/2017;O
- ;O
 PRIMEIRA;O
- ;O
 TURMA;O
- ;O
 "
 ";O
 "
@@ -1705,2123 +990,1184 @@ AG;B_Precedente
 .;I_Precedente
 REG;I_Precedente
 .;I_Precedente
- ;I_Precedente
 NO;I_Precedente
- ;I_Precedente
 RECURSO;I_Precedente
- ;I_Precedente
 EXTRAORDINÁRIO;I_Precedente
- ;I_Precedente
 COM;I_Precedente
- ;I_Precedente
 AGRAVO;I_Precedente
- ;I_Precedente
 961.228;I_Precedente
- ;I_Precedente
 SÃO;I_Precedente
- ;I_Precedente
 PAULO;I_Precedente
- ;I_Precedente
 "
 ";I_Precedente
 "
 ";I_Precedente
 V;O
- ;O
 O;O
- ;O
 T;O
- ;O
 O;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 SENHOR;B_Pessoa
- ;I_Pessoa
 MINISTRO;I_Pessoa
- ;I_Pessoa
 MARCO;I_Pessoa
- ;I_Pessoa
 AURÉLIO;I_Pessoa
- ;I_Pessoa
 (;O
 RELATOR;O
 );O
- ;O
 –;O
- ;O
 Atendeu;O
 -;O
 se;O
- ;O
 aos;O
- ;O
 pressupostos;O
- ;O
 de;O
- ;O
 recorribilidade;O
 .;O
- ;O
 A;O
- ;O
 peça;O
 ,;O
- ;O
 subscrita;O
- ;O
 por;O
- ;O
 profissional;O
- ;O
 da;O
- ;O
 advocacia;O
- ;O
 devidamente;O
- ;O
 credenciado;O
 ,;O
- ;O
 foi;O
- ;O
 protocolada;O
- ;O
 no;O
- ;O
 prazo;O
- ;O
 legal;O
 .;O
- ;O
 Conheço;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 Tribunal;O
- ;O
 Regional;O
- ;O
 Federal;O
- ;O
 da;O
- ;O
 3ª;O
- ;O
 Região;O
- ;O
 consignou;O
 ,;O
- ;O
 em;O
- ;O
 síntese;O
- ;O
 (;O
 folha;O
- ;O
 341;O
 );O
 :;O
- ;O
 "
 ";O
 "
 ";O
 PROCESSUAL;O
- ;O
 CIVIL;O
 .;O
- ;O
 AGRAVO;O
- ;O
 LEGAL;O
 .;O
- ;O
 ART;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 557;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 DO;I_Ref. Legislativa
- ;I_Ref. Legislativa
 CPC;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 FUNDAMENTOS;O
- ;O
 DA;O
- ;O
 DECISÃO;O
- ;O
 AGRAVADA;O
- ;O
 INAFASTADOS;O
 .;O
- ;O
 LEI;B_Ref. Legislativa
- ;I_Ref. Legislativa
 N;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 10.833/2003;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 CONSTITUCIONALIDADE;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 1;O
 .;O
- ;O
 Para;O
- ;O
 o;O
- ;O
 manejo;O
- ;O
 do;O
- ;O
 agravo;O
- ;O
 previsto;O
- ;O
 no;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 557;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Código;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Processo;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Civil;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 é;O
- ;O
 preciso;O
- ;O
 o;O
- ;O
 enfrentamento;O
- ;O
 da;O
- ;O
 fundamentação;O
- ;O
 da;O
- ;O
 decisão;O
- ;O
 agravada;O
 ,;O
- ;O
 ou;O
- ;O
 seja;O
 ,;O
- ;O
 deve;O
 -;O
 se;O
- ;O
 demonstrar;O
 ,;O
- ;O
 no;O
- ;O
 caso;O
 ,;O
- ;O
 que;O
- ;O
 a;O
- ;O
 apelação;O
- ;O
 provida;O
- ;O
 estava;O
- ;O
 em;O
- ;O
 confronto;O
- ;O
 com;O
- ;O
 jurisprudência;O
- ;O
 dominante;O
- ;O
 do;O
- ;O
 próprio;O
- ;O
 Tribunal;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 2;O
 .;O
- ;O
 Considerando;O
- ;O
 que;O
- ;O
 o;O
- ;O
 principal;O
- ;O
 fundamento;O
- ;O
 da;O
- ;O
 impetração;O
 ,;O
- ;O
 no;O
- ;O
 tocante;O
- ;O
 à;O
- ;O
 alegada;O
- ;O
 inconstitucionalidade;O
- ;O
 da;O
- ;O
 Lei;B_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 10.833/2003;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 já;O
- ;O
 havia;O
- ;O
 sido;O
- ;O
 objeto;O
- ;O
 de;O
- ;O
 apreciação;O
- ;O
 pelo;O
- ;O
 Superior;O
- ;O
 Tribunal;O
- ;O
 de;O
- ;O
 Justiça;O
- ;O
 e;O
- ;O
 por;O
- ;O
 esta;O
- ;O
 C;O
 .;O
- ;O
 Corte;O
 ,;O
- ;O
 cabia;O
- ;O
 ao;O
- ;O
 presente;O
- ;O
 o;O
- ;O
 desata;O
- ;O
 monocrático;O
 ,;O
- ;O
 a;O
- ;O
 teor;O
- ;O
 do;O
- ;O
 contido;O
- ;O
 no;O
- ;O
 artigo;B_Ref. Legislativa
- ;I_Ref. Legislativa
 557;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Código;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Processo;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Civil;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 "
 ";O
 "
 ";O
 3;O
 .;O
- ;O
 A;O
- ;O
 agravante;O
- ;O
 não;O
- ;O
 trouxe;O
- ;O
 qualquer;O
- ;O
 elemento;O
- ;O
 novo;O
- ;O
 que;O
- ;O
 afastasse;O
- ;O
 a;O
- ;O
 conclusão;O
- ;O
 a;O
- ;O
 que;O
- ;O
 chegou;O
- ;O
 a;O
- ;O
 decisão;O
- ;O
 recorrida.4;O
 .;O
- ;O
 Agravo;O
- ;O
 inominado;O
- ;O
 a;O
- ;O
 que;O
- ;O
 se;O
- ;O
 nega;O
- ;O
 provimento;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 Tribunal;O
- ;O
 de;O
- ;O
 origem;O
- ;O
 decidiu;O
- ;O
 em;O
- ;O
 harmonia;O
- ;O
 com;O
- ;O
 a;O
- ;O
 jurisprudência;O
- ;O
 do;O
- ;O
 Supremo;O
 .;O
- ;O
 Conforme;O
- ;O
 assentado;O
- ;O
 no;O
- ;O
 ato;O
- ;O
 impugnado;O
 ,;O
- ;O
 no;O
- ;O
 regime;O
- ;O
 da;O
- ;O
 Lei;B_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 6.019/1974;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 o;O
- ;O
 trabalhador;O
- ;O
 temporário;O
- ;O
 possui;O
- ;O
 vínculo;O
- ;O
 com;O
- ;O
 a;O
- ;O
 empresa;O
- ;O
 de;O
- ;O
 locação;O
- ;O
 de;O
- ;O
 mão;O
- ;O
 de;O
- ;O
 obra;O
 ,;O
- ;O
 com;O
- ;O
 ela;O
- ;O
 formalizando;O
- ;O
 o;O
- ;O
 contrato;O
- ;O
 de;O
- ;O
 trabalho;O
 .;O
- ;O
 Há;O
- ;O
 delegação;O
- ;O
 do;O
- ;O
 poder;O
- ;O
 de;O
- ;O
 comando;O
- ;O
 ao;O
- ;O
 tomador;O
 ,;O
- ;O
 mas;O
- ;O
 com;O
- ;O
 este;O
- ;O
 o;O
- ;O
 empregado;O
- ;O
 não;O
- ;O
 mantém;O
- ;O
 relação;O
- ;O
 de;O
- ;O
 emprego;O
- ;O
 (;O
 BARROS;B_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 Alice;I_Doutrina
- ;I_Doutrina
 Monteiro;I_Doutrina
- ;I_Doutrina
 de;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 Curso;I_Doutrina
- ;I_Doutrina
 de;I_Doutrina
- ;I_Doutrina
 Direito;I_Doutrina
- ;I_Doutrina
 do;I_Doutrina
- ;I_Doutrina
 Trabalho;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 São;I_Doutrina
- ;I_Doutrina
 Paulo;I_Doutrina
 :;I_Doutrina
- ;I_Doutrina
 Ltr;I_Doutrina
 .;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 2005;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 p;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 419-420;I_Doutrina
 );I_Doutrina
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 agravante;O
- ;O
 recebe;O
- ;O
 o;O
- ;O
 preço;O
- ;O
 ajustado;O
- ;O
 com;O
- ;O
 a;O
- ;O
 contratante;O
- ;O
 dos;O
- ;O
 serviços;O
 ,;O
- ;O
 assumindo;O
- ;O
 o;O
- ;O
 custo;O
- ;O
 com;O
- ;O
 as;O
- ;O
 remunerações;O
- ;O
 e;O
- ;O
 encargos;O
- ;O
 atinentes;O
- ;O
 aos;O
- ;O
 empregados;O
 .;O
- ;O
 As;O
- ;O
 contribuições;O
- ;O
 para;O
- ;O
 a;O
- ;O
 Cofins;O
- ;O
 e;O
- ;O
 para;O
- ;O
 o;O
- ;O
 PIS;O
- ;O
 incidem;O
- ;O
 sobre;O
- ;O
 a;O
- ;O
 totalidade;O
- ;O
 das;O
- ;O
 receitas;O
- ;O
 auferidas;O
- ;O
 com;O
- ;O
 a;O
- ;O
 venda;O
- ;O
 de;O
- ;O
 mercadorias;O
 ,;O
- ;O
 de;O
- ;O
 serviços;O
- ;O
 ou;O
- ;O
 de;O
- ;O
 mercadorias;O
- ;O
 e;O
- ;O
 serviços;O
- ;O
 –;O
- ;O
 recursos;B_Precedente
- ;I_Precedente
 extraordinários;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 357.950-9;I_Precedente
 /;I_Precedente
 RS;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 390.840-5;I_Precedente
 /;I_Precedente
 MG;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 358.273-9;I_Precedente
 /;I_Precedente
 RS;I_Precedente
- ;I_Precedente
 e;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 346.0804-6;I_Precedente
 /;I_Precedente
 PR;I_Precedente
 ,;I_Precedente
- ;O
 de;O
- ;O
 minha;O
- ;O
 relatoria;O
- ;O
 –;O
 ,;O
- ;O
 não;O
- ;O
 havendo;O
- ;O
 razão;O
- ;O
 no;O
- ;O
 que;O
- ;O
 articulado;O
- ;O
 pela;O
- ;O
 agravante;O
 .;O
- ;O
 Nesse;O
- ;O
 sentido;O
 ,;O
- ;O
 cito;O
- ;O
 precedentes;O
- ;O
 de;O
- ;O
 ambas;O
- ;O
 as;O
- ;O
 Turmas;O
- ;O
 do;O
- ;O
 Supremo;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 COFINS;O
- ;O
 –;O
- ;O
 PIS;O
- ;O
 –;O
- ;O
 BASE;O
- ;O
 DE;O
- ;O
 CÁLCULO;O
- ;O
 –;O
- ;O
 LOCAÇÃO;O
- ;O
 DE;O
- ;O
 MÃO;O
- ;O
 DE;O
- ;O
 OBRA;O
- ;O
 –;O
- ;O
 REGIME;O
- ;O
 DE;O
- ;O
 TRABALHO;O
- ;O
 TEMPORÁRIO;O
 .;O
- ;O
 No;O
- ;O
 regime;O
- ;O
 de;O
- ;O
 trabalho;O
- ;O
 temporário;O
- ;O
 das;O
- ;O
 empresas;O
- ;O
 urbanas;O
 ,;O
- ;O
 estabelecido;O
- ;O
 por;O
- ;O
 meio;O
- ;O
 da;O
- ;O
 Lei;B_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 6.019;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1974;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 o;O
- ;O
 vínculo;O
- ;O
 do;O
- ;O
 trabalhador;O
- ;O
 temporário;O
- ;O
 é;O
- ;O
 com;O
- ;O
 a;O
- ;O
 empresa;O
- ;O
 de;O
- ;O
 locação;O
- ;O
 de;O
- ;O
 mão;O
- ;O
 de;O
- ;O
 obra;O
 ,;O
- ;O
 que;O
- ;O
 recebe;O
- ;O
 o;O
- ;O
 preço;O
- ;O
 ajustado;O
- ;O
 com;O
- ;O
 a;O
- ;O
 contratante;O
- ;O
 dos;O
- ;O
 serviços;O
 .;O
- ;O
 Sobre;O
- ;O
 o;O
- ;O
 valor;O
- ;O
 devem;O
- ;O
 incidir;O
- ;O
 a;O
- ;O
 Cofins;O
- ;O
 e;O
- ;O
 a;O
- ;O
 contribuição;O
- ;O
 ao;O
- ;O
 PIS;O
- ;O
 Recursos;B_Precedente
- ;I_Precedente
 Extraordinários;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 357.950-9;I_Precedente
 /;I_Precedente
 RS;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 390.840-5;I_Precedente
 /;I_Precedente
 MG;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 358.273-9;I_Precedente
 /;I_Precedente
 RS;I_Precedente
- ;I_Precedente
 e;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 346.0804-6;I_Precedente
 /;I_Precedente
 PR;I_Precedente
 ,;I_Precedente
- ;O
 de;O
- ;O
 minha;O
- ;O
 relatoria;O
 .;O
- ;O
 (;O
 Recurso;B_Precedente
- ;I_Precedente
 extraordinário;I_Precedente
- ;I_Precedente
 com;I_Precedente
- ;I_Precedente
 agravo;I_Precedente
- ;I_Precedente
 875.868;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 minha;I_Precedente
- ;I_Precedente
 relatoria;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Primeira;I_Precedente
- ;I_Precedente
 Turma;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 acórdão;I_Precedente
- ;I_Precedente
 publicado;I_Precedente
- ;I_Precedente
 no;I_Precedente
- ;I_Precedente
 Diário;I_Precedente
- ;I_Precedente
 da;I_Precedente
- ;I_Precedente
 Justiça;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 04;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 setembro;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 2015;I_Precedente
 );I_Precedente
- ;O
 "
 ";O
 "
 ";O
 Agravo;O
- ;O
 regimental;O
- ;O
 no;O
- ;O
 recurso;O
- ;O
 extraordinário;O
 .;O
- ;O
 Análise;O
- ;O
 do;O
- ;O
 conceito;O
- ;O
 de;O
- ;O
 receita;O
- ;O
 bruta;O
- ;O
 para;O
- ;O
 fins;O
- ;O
 da;O
- ;O
 identificação;O
- ;O
 da;O
- ;O
 base;O
- ;O
 de;O
- ;O
 cálculo;O
- ;O
 do;O
- ;O
 PIS;O
- ;O
 e;O
- ;O
 da;O
- ;O
 COFINS;O
 .;O
- ;O
 Valores;O
- ;O
 repassados;O
- ;O
 a;O
- ;O
 terceiros;O
- ;O
 por;O
- ;O
 empresa;O
- ;O
 de;O
- ;O
 agenciamento;O
- ;O
 de;O
- ;O
 mão;O
 -;O
 de;O
 -;O
 obra;O
 .;O
- ;O
 Incidência;O
 .;O
- ;O
 1;O
 .;O
- ;O
 Segundo;O
- ;O
 o;O
- ;O
 entendimento;O
- ;O
 firmado;O
- ;O
 nesta;O
- ;O
 Corte;O
 ,;O
- ;O
 a;O
- ;O
 receita;O
- ;O
 bruta;O
- ;O
 e;O
- ;O
 o;O
- ;O
 faturamento;O
- ;O
 são;O
- ;O
 termos;O
- ;O
 equivalentes;O
- ;O
 para;O
- ;O
 fins;O
- ;O
 jurídicos;O
 ,;O
- ;O
 sem;O
- ;O
 embargo;O
- ;O
 de;O
- ;O
 haver;O
- ;O
 distinções;O
- ;O
 técnicas;O
- ;O
 entre;O
- ;O
 as;O
- ;O
 referidas;O
- ;O
 espécies;O
- ;O
 na;O
- ;O
 seara;O
- ;O
 contábil;O
 .;O
- ;O
 Para;O
- ;O
 fins;O
- ;O
 de;O
- ;O
 incidência;O
 ,;O
- ;O
 ambos;O
- ;O
 os;O
- ;O
 termos;O
- ;O
 refletem;O
- ;O
 a;O
- ;O
 totalidade;O
- ;O
 das;O
- ;O
 receitas;O
- ;O
 auferidas;O
- ;O
 com;O
- ;O
 a;O
- ;O
 venda;O
- ;O
 de;O
- ;O
 mercadorias;O
 ,;O
- ;O
 de;O
- ;O
 serviços;O
- ;O
 ou;O
- ;O
 de;O
- ;O
 mercadorias;O
- ;O
 e;O
- ;O
 serviços;O
 .;O
- ;O
 2;O
 .;O
- ;O
 Não;O
- ;O
 obstante;O
- ;O
 a;O
- ;O
 jurisprudência;O
- ;O
 desta;O
- ;O
 Corte;O
- ;O
 já;O
- ;O
 ter;O
- ;O
 sinalizado;O
- ;O
 pela;O
- ;O
 incidência;O
- ;O
 das;O
- ;O
 contribuições;O
- ;O
 na;O
- ;O
 forma;O
- ;O
 como;O
- ;O
 ficara;O
- ;O
 consignado;O
- ;O
 pelo;O
- ;O
 juízo;O
- ;O
 monocrático;O
 ,;O
- ;O
 cumpre;O
- ;O
 ressaltar;O
- ;O
 relevante;O
- ;O
 precedente;O
- ;O
 no;O
- ;O
 sentido;O
- ;O
 de;O
- ;O
 que;O
- ;O
 a;O
- ;O
 pretensão;O
- ;O
 de;O
- ;O
 reduzir;O
- ;O
 a;O
- ;O
 base;O
- ;O
 de;O
- ;O
 cálculo;O
- ;O
 por;O
- ;O
 força;O
- ;O
 de;O
- ;O
 repasse;O
- ;O
 de;O
- ;O
 valores;O
- ;O
 a;O
- ;O
 terceiros;O
- ;O
 não;O
- ;O
 encontra;O
- ;O
 ressonância;O
- ;O
 constitucional;O
 ,;O
- ;O
 devendo;O
- ;O
 ser;O
- ;O
 dirimida;O
- ;O
 no;O
- ;O
 âmbito;O
- ;O
 da;O
- ;O
 legalidade;O
 .;O
- ;O
 3;O
 .;O
- ;O
 O;O
- ;O
 Superior;O
- ;O
 Tribunal;O
- ;O
 de;O
- ;O
 Justiça;O
- ;O
 já;O
- ;O
 assentou;O
- ;O
 em;O
- ;O
 recurso;O
- ;O
 especial;O
- ;O
 repetitivo;O
- ;O
 que;O
- ;O
 a;O
- ;O
 base;O
- ;O
 de;O
- ;O
 cálculo;O
- ;O
 do;O
- ;O
 PIS;O
- ;O
 e;O
- ;O
 da;O
- ;O
 COFINS;O
 ,;O
- ;O
 independentemente;O
- ;O
 do;O
- ;O
 regime;O
- ;O
 normativo;O
- ;O
 aplicável;O
- ;O
 (;O
 Leis;B_Ref. Legislativa
- ;I_Ref. Legislativa
 Complementares;I_Ref. Legislativa
- ;I_Ref. Legislativa
 nºs;I_Ref. Legislativa
- ;I_Ref. Legislativa
 7/70;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 70/91;I_Ref. Legislativa
- ;I_Ref. Legislativa
 ou;O
- ;O
 Leis;B_Ref. Legislativa
- ;I_Ref. Legislativa
 nºs;I_Ref. Legislativa
- ;I_Ref. Legislativa
 10.637/02;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 10.833/03;I_Ref. Legislativa
 );I_Ref. Legislativa
 ,;O
- ;O
 abrange;O
- ;O
 os;O
- ;O
 valores;O
- ;O
 recebidos;O
- ;O
 pelas;O
- ;O
 empresas;O
- ;O
 prestadoras;O
- ;O
 de;O
- ;O
 serviços;O
- ;O
 de;O
- ;O
 locação;O
- ;O
 de;O
- ;O
 mão;O
 -;O
 de;O
 -;O
 obra;O
- ;O
 temporária;O
- ;O
 (;O
 regidas;O
- ;O
 pela;O
- ;O
 Lei;B_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 6.019/74;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;O
- ;O
 pelo;O
- ;O
 Decreto;B_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 73.841/74;I_Ref. Legislativa
 );I_Ref. Legislativa
 ,;O
- ;O
 a;O
- ;O
 título;O
- ;O
 de;O
- ;O
 pagamento;O
- ;O
 de;O
- ;O
 salários;O
- ;O
 e;O
- ;O
 encargos;O
- ;O
 sociais;O
- ;O
 dos;O
- ;O
 trabalhadores;O
- ;O
 temporários;O
 .;O
- ;O
 Não;O
- ;O
 existem;O
- ;O
 fundamentos;O
- ;O
 constitucionais;O
- ;O
 para;O
- ;O
 ilidir;O
- ;O
 tal;O
- ;O
 conclusão;O
 .;O
- ;O
 4;O
 .;O
- ;O
 Agravo;O
- ;O
 regimental;O
- ;O
 não;O
- ;O
 provido;O
 .;O
- ;O
 (;O
 Recurso;B_Precedente
- ;I_Precedente
 extraordinário;I_Precedente
- ;I_Precedente
 com;I_Precedente
- ;I_Precedente
 agravo;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 643.823;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 relatoria;I_Precedente
- ;I_Precedente
 do;I_Precedente
- ;I_Precedente
 ministro;I_Precedente
- ;I_Precedente
 Dias;I_Precedente
- ;I_Precedente
 Toffoli;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Primeira;I_Precedente
- ;I_Precedente
 Turma;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 acórdão;I_Precedente
- ;I_Precedente
 publicado;I_Precedente
- ;I_Precedente
 no;I_Precedente
- ;I_Precedente
 Diário;I_Precedente
- ;I_Precedente
 da;I_Precedente
- ;I_Precedente
 Justiça;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 20;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 março;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 2013;I_Precedente
 );I_Precedente
- ;O
 "
 ";O
 "
 ";O
 AGRAVO;O
- ;O
 REGIMENTAL;O
- ;O
 NO;O
- ;O
 RECURSO;O
- ;O
 EXTRAORDINÁRIO;O
 .;O
- ;O
 AUSÊNCIA;O
- ;O
 DE;O
- ;O
 IMPUGNAÇÃO;O
- ;O
 DE;O
- ;O
 FUNDAMENTO;O
- ;O
 SUFICIENTE;O
- ;O
 DA;O
- ;O
 DECISÃO;O
- ;O
 AGRAVADA;O
 .;O
- ;O
 INCIDÊNCIA;O
- ;O
 DA;O
- ;O
 SÚMULA;B_Precedente
- ;I_Precedente
 283;I_Precedente
- ;I_Precedente
 DO;I_Precedente
- ;I_Precedente
 STF;I_Precedente
 .;I_Precedente
- ;O
 TRIBUTÁRIO;O
 .;O
- ;O
 EMPRESA;O
- ;O
 PRESTADORA;O
- ;O
 DE;O
- ;O
 SERVIÇO;O
- ;O
 DE;O
- ;O
 LOCAÇÃO;O
- ;O
 DE;O
- ;O
 MÃO;O
- ;O
 DE;O
- ;O
 OBRA;O
- ;O
 TEMPORÁRIA;O
 .;O
- ;O
 COFINS;O
- ;O
 E;O
- ;O
 PIS;O
 .;O
- ;O
 BASE;O
- ;O
 DE;O
- ;O
 CÁLCULO;O
 .;O
- ;O
 INCLUSÃO;O
- ;O
 DOS;O
- ;O
 VALORES;O
- ;O
 DESTINADOS;O
- ;O
 AO;O
- ;O
 PAGAMENTO;O
- ;O
 DE;O
- ;O
 SALÁRIOS;O
 ,;O
- ;O
 ENCARGOS;O
- ;O
 SOCIAIS;O
- ;O
 E;O
- ;O
 TRABALHISTAS;O
- ;O
 DOS;O
- ;O
 TRABALHADORES;O
- ;O
 TEMPORÁRIOS;O
 .;O
- ;O
 RECEITA;O
- ;O
 BRUTA;O
- ;O
 E;O
- ;O
 FATURAMENTO;O
 :;O
- ;O
 TOTALIDADE;O
- ;O
 DOS;O
- ;O
 VALORES;O
- ;O
 AUFERIDOS;O
- ;O
 COM;O
- ;O
 A;O
- ;O
 VENDA;O
- ;O
 DE;O
- ;O
 MERCADORIAS;O
 ,;O
- ;O
 DE;O
- ;O
 SERVIÇOS;O
- ;O
 OU;O
- ;O
 DE;O
- ;O
 MERCADORIAS;O
- ;O
 E;O
- ;O
 SERVIÇOS;O
 .;O
- ;O
 AGRAVO;O
- ;O
 IMPROVIDO;O
 .;O
- ;O
 I;O
- ;O
 –;O
- ;O
 Incumbe;O
- ;O
 ao;O
- ;O
 recorrente;O
- ;O
 o;O
- ;O
 dever;O
- ;O
 de;O
- ;O
 impugnar;O
 ,;O
- ;O
 de;O
- ;O
 forma;O
- ;O
 específica;O
 ,;O
- ;O
 cada;O
- ;O
 um;O
- ;O
 dos;O
- ;O
 fundamentos;O
- ;O
 suficientes;O
- ;O
 da;O
- ;O
 decisão;O
- ;O
 atacada;O
 ,;O
- ;O
 sob;O
- ;O
 pena;O
- ;O
 de;O
- ;O
 não;O
- ;O
 conhecimento;O
- ;O
 do;O
- ;O
 recurso;O
 .;O
- ;O
 Incidência;O
- ;O
 da;O
- ;O
 Súmula;B_Precedente
- ;I_Precedente
 283;I_Precedente
- ;I_Precedente
 do;I_Precedente
- ;I_Precedente
 STF;I_Precedente
 .;I_Precedente
- ;O
 II;O
- ;O
 –;O
- ;O
 Para;O
- ;O
 a;O
- ;O
 definição;O
- ;O
 da;O
- ;O
 base;O
- ;O
 de;O
- ;O
 cálculo;O
- ;O
 para;O
- ;O
 a;O
- ;O
 incidência;O
- ;O
 do;O
- ;O
 PIS;O
- ;O
 e;O
- ;O
 da;O
- ;O
 COFINS;O
 ,;O
- ;O
 a;O
- ;O
 receita;O
- ;O
 bruta;O
- ;O
 e;O
- ;O
 o;O
- ;O
 faturamento;O
- ;O
 são;O
- ;O
 termos;O
- ;O
 sinônimos;O
- ;O
 e;O
- ;O
 consistem;O
- ;O
 na;O
- ;O
 totalidade;O
- ;O
 das;O
- ;O
 receitas;O
- ;O
 auferidas;O
- ;O
 com;O
- ;O
 a;O
- ;O
 venda;O
- ;O
 de;O
- ;O
 mercadorias;O
 ,;O
- ;O
 de;O
- ;O
 serviços;O
- ;O
 ou;O
- ;O
 de;O
- ;O
 mercadorias;O
- ;O
 e;O
- ;O
 serviços;O
 .;O
- ;O
 Precedentes;O
 .;O
- ;O
 III;O
- ;O
 –;O
- ;O
 Agravo;O
- ;O
 regimental;O
- ;O
 improvido;O
 .;O
- ;O
 (;O
 Recurso;B_Precedente
- ;I_Precedente
 extraordinário;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 683.334;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 relatoria;I_Precedente
- ;I_Precedente
 do;I_Precedente
- ;I_Precedente
 ministro;I_Precedente
- ;I_Precedente
 Ricardo;I_Precedente
- ;I_Precedente
 Lewandowski;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Segunda;I_Precedente
- ;I_Precedente
 Turma;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 acórdão;I_Precedente
- ;I_Precedente
 publicado;I_Precedente
- ;I_Precedente
 no;I_Precedente
- ;I_Precedente
 Diário;I_Precedente
- ;I_Precedente
 da;I_Precedente
- ;I_Precedente
 Justiça;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 13;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 agosto;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 2012;I_Precedente
 );I_Precedente
- ;O
 "
 ";O
 "
 ";O
 Desprovejo;O
- ;O
 o;O
- ;O
 agravo;O
 .;O
- ;O
 Deixo;O
- ;O
 de;O
- ;O
 fixar;O
- ;O
 os;O
- ;O
 honorários;O
- ;O
 recursais;O
- ;O
 previstos;O
- ;O
 no;O
- ;O
 artigo;B_Ref. Legislativa
- ;I_Ref. Legislativa
 85;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 11;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Código;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Processo;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Civil;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 2015;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 por;O
- ;O
 tratar;O
 -;O
 se;O
 ,;O
- ;O
 na;O
- ;O
 origem;O
 ,;O
- ;O
 de;O
- ;O
 mandado;O
- ;O
 de;O
- ;O
 segurança;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 EXTRATO;O
- ;O
 DE;O
- ;O
 ATA;O
- ;O
 "
 ";O
 "
 ";O
 PRIMEIRA;O
- ;O
 TURMA;O
- ;O
 "
 ";O
 "
@@ -3830,53 +2176,32 @@ AG;B_Precedente
 .;I_Precedente
 REG;I_Precedente
 .;I_Precedente
- ;I_Precedente
 NO;I_Precedente
- ;I_Precedente
 RECURSO;I_Precedente
- ;I_Precedente
 EXTRAORDINÁRIO;I_Precedente
- ;I_Precedente
 COM;I_Precedente
- ;I_Precedente
 AGRAVO;I_Precedente
- ;I_Precedente
 961.228PROCED;I_Precedente
 .;I_Precedente
- ;I_Precedente
 :;I_Precedente
- ;I_Precedente
 SÃO;I_Precedente
- ;I_Precedente
 PAULORELATOR;I_Precedente
- ;I_Precedente
 :;I_Precedente
- ;I_Precedente
 MIN;I_Precedente
 .;I_Precedente
- ;I_Precedente
 MARCO;I_Precedente
- ;I_Precedente
 AURÉLIOAGTE;O
 .;O
 (;O
 S;O
 );O
- ;O
 :;O
- ;O
 CASA;O
- ;O
 DO;O
- ;O
 EMPREGO;O
- ;O
 TEMPORARIO;O
- ;O
 EIRELI;O
- ;O
 -;O
- ;O
 EPPADV;O
 .;O
 (;O
@@ -3884,17 +2209,11 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
- ;O
 ADLER;O
- ;O
 SCISCI;O
- ;O
 DE;O
- ;O
 CAMARGO;O
- ;O
 (;O
 292949;O
 /;O
@@ -3907,9 +2226,7 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
- ;O
 UNIÃOPROC;O
 .;O
 (;O
@@ -3920,125 +2237,75 @@ S;O
 (;O
 ES;O
 );O
- ;O
 :;O
- ;O
 PROCURADOR;O
 -;O
 GERAL;O
- ;O
 DA;O
- ;O
 FAZENDA;O
- ;O
 NACIONAL;O
- ;O
 "
 ";O
 "
 ";O
 Decisão;O
 :;O
- ;O
 A;O
- ;O
 Turma;O
- ;O
 negou;O
- ;O
 provimento;O
- ;O
 ao;O
- ;O
 agravo;O
- ;O
 regimental;O
 ,;O
- ;O
 nos;O
- ;O
 termos;O
- ;O
 do;O
- ;O
 voto;O
- ;O
 do;O
- ;O
 Relator;O
 .;O
- ;O
 Unânime;O
 .;O
- ;O
 Presidência;O
- ;O
 do;O
- ;O
 Senhor;B_Pessoa
- ;I_Pessoa
 Ministro;I_Pessoa
- ;I_Pessoa
 Marco;I_Pessoa
- ;I_Pessoa
 Aurélio;I_Pessoa
 .;I_Pessoa
- ;O
 Primeira;O
- ;O
 Turma;O
 ,;O
- ;O
 7.2.2017;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Presidência;O
- ;O
 do;O
- ;O
 Senhor;B_Pessoa
- ;I_Pessoa
 Ministro;I_Pessoa
- ;I_Pessoa
 Marco;I_Pessoa
- ;I_Pessoa
 Aurélio;I_Pessoa
 .;I_Pessoa
- ;O
 Presentes;O
- ;O
 à;O
- ;O
 Sessão;O
- ;O
 os;O
- ;O
 Senhores;O
- ;O
 Ministros;O
- ;O
 Luiz;B_Pessoa
- ;I_Pessoa
 Fux;I_Pessoa
 ,;I_Pessoa
- ;O
 Rosa;B_Pessoa
- ;I_Pessoa
 Weber;I_Pessoa
- ;I_Pessoa
 e;O
- ;O
 Luís;B_Pessoa
- ;I_Pessoa
 Roberto;I_Pessoa
- ;I_Pessoa
 Barroso;I_Pessoa
 .;I_Pessoa
- ;O
 "
 ";O
 "
@@ -4046,61 +2313,42 @@ Barroso;I_Pessoa
 Subprocuradora;O
 -;O
 Geral;O
- ;O
 da;O
- ;O
 República;O
 ,;O
- ;O
 Dra;B_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 Ela;I_Pessoa
- ;I_Pessoa
 Wiecko;I_Pessoa
- ;I_Pessoa
 Volkmer;I_Pessoa
- ;I_Pessoa
 de;I_Pessoa
- ;I_Pessoa
 "
 ";I_Pessoa
 "
 ";I_Pessoa
 Castilho;I_Pessoa
 .;I_Pessoa
- ;O
 "
 ";O
 "
 ";O
 P;O
 /;O
- ;O
 Carmen;B_Pessoa
- ;I_Pessoa
 Lilian;I_Pessoa
- ;I_Pessoa
 Oliveira;I_Pessoa
- ;I_Pessoa
 de;I_Pessoa
- ;I_Pessoa
 Souza;I_Pessoa
- ;I_Pessoa
 "
 ";O
 "
 ";O
 Secretária;O
- ;O
 da;O
- ;O
 Primeira;O
- ;O
 Turma;O
 "
 ";O
 id;O
 :;O
- ;O
 20170323_ARE_961228_311445727;O

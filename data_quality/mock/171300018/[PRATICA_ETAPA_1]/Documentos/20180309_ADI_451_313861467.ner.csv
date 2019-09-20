@@ -1,6 +1,5 @@
 Token;Tag
 JANEIRO;O
- ;O
 "
 ";O
 "
@@ -12,968 +11,550 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 GOVERNADOR;O
- ;O
 DO;O
- ;O
 ESTADO;O
- ;O
 DO;O
- ;O
 RIO;O
- ;O
 DE;O
- ;O
 JANEIRO;O
- ;O
 "
 ";O
 "
 ";O
 Ementa;O
 :;O
- ;O
 COMPETÊNCIA;O
- ;O
 LEGISLATIVA;O
 .;O
- ;O
 ADI;O
 .;O
- ;O
 LEI;O
- ;O
 ESTADUAL;O
- ;O
 QUE;O
- ;O
 ESTABELECE;O
- ;O
 MEDIDAS;O
- ;O
 DE;O
- ;O
 SEGURANÇA;O
- ;O
 EM;O
- ;O
 ESTACIONAMENTOS;O
 .;O
- ;O
 INCONSTITUCIONALIDADE;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 1;O
 .;O
- ;O
 A;O
- ;O
 Lei;B_Ref. Legislativa
- ;I_Ref. Legislativa
 Estadual;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1.748/1990;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 que;O
- ;O
 impõe;O
- ;O
 medidas;O
- ;O
 de;O
- ;O
 segurança;O
- ;O
 em;O
- ;O
 estacionamento;O
 ,;O
- ;O
 é;O
- ;O
 inconstitucional;O
 ,;O
- ;O
 quer;O
- ;O
 por;O
- ;O
 invadir;O
- ;O
 a;O
- ;O
 competência;O
- ;O
 privativa;O
- ;O
 da;O
- ;O
 União;O
- ;O
 para;O
- ;O
 legislar;O
- ;O
 sobre;O
- ;O
 direito;O
- ;O
 civil;O
- ;O
 (;O
 CF/88;B_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 22;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 I;I_Ref. Legislativa
 );I_Ref. Legislativa
 ,;O
- ;O
 conforme;O
- ;O
 jurisprudência;O
- ;O
 consolidada;O
- ;O
 nesta;O
- ;O
 Corte;O
 ,;O
- ;O
 quer;O
- ;O
 por;O
- ;O
 violar;O
- ;O
 o;O
- ;O
 princípio;O
- ;O
 da;O
- ;O
 livre;O
- ;O
 iniciativa;O
- ;O
 (;O
 CF/88;B_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 170;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 par;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 único;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 174;I_Ref. Legislativa
 );I_Ref. Legislativa
 ,;O
- ;O
 conforme;O
- ;O
 entendimento;O
- ;O
 pessoal;O
- ;O
 deste;O
- ;O
 relator;O
 ,;O
- ;O
 expresso;O
- ;O
 quando;O
- ;O
 do;O
- ;O
 julgamento;O
- ;O
 da;O
- ;O
 ADI;B_Precedente
- ;I_Precedente
 4862;I_Precedente
 ,;I_Precedente
- ;O
 rel;O
 .;O
- ;O
 Min;B_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 Gilmar;I_Pessoa
- ;I_Pessoa
 Mendes;I_Pessoa
 .;I_Pessoa
- ;O
 "
 ";O
 "
 ";O
 2;O
 .;O
- ;O
 O;O
- ;O
 artigo;O
- ;O
 1º;O
- ;O
 da;O
- ;O
 lei;O
- ;O
 impugnada;O
 ,;O
- ;O
 ao;O
- ;O
 obrigar;O
- ;O
 tais;O
- ;O
 empresas;O
- ;O
 à;O
- ;O
 manutenção;O
- ;O
 de;O
- ;O
 empregados;O
- ;O
 próprios;O
- ;O
 nas;O
- ;O
 entradas;O
- ;O
 e;O
- ;O
 saídas;O
- ;O
 dos;O
- ;O
 estacionamentos;O
 ,;O
- ;O
 restringe;O
- ;O
 a;O
- ;O
 contratação;O
- ;O
 de;O
- ;O
 terceirizados;O
 ,;O
- ;O
 usurpando;O
 ,;O
- ;O
 ainda;O
 ,;O
- ;O
 a;O
- ;O
 competência;O
- ;O
 privativa;O
- ;O
 da;O
- ;O
 União;O
- ;O
 para;O
- ;O
 legislar;O
- ;O
 sobre;O
- ;O
 direito;O
- ;O
 do;O
- ;O
 trabalho;O
- ;O
 (;O
 CF/88;B_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 22;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 I;I_Ref. Legislativa
 );I_Ref. Legislativa
 .;O
- ;O
 "
 ";O
 "
 ";O
 3;O
 .;O
- ;O
 Ação;O
- ;O
 julgada;O
- ;O
 procedente;O
 .;O
- ;O
 4;O
 .;O
- ;O
 Tese;O
 :;O
- ;O
 1;O
 .;O
- ;O
 “Lei;O
- ;O
 estadual;O
- ;O
 que;O
- ;O
 impõe;O
- ;O
 a;O
- ;O
 prestação;O
- ;O
 de;O
- ;O
 serviço;O
- ;O
 segurança;O
- ;O
 em;O
- ;O
 estacionamento;O
- ;O
 a;O
- ;O
 toda;O
- ;O
 pessoa;O
- ;O
 física;O
- ;O
 ou;O
- ;O
 jurídica;O
- ;O
 que;O
- ;O
 disponibilize;O
- ;O
 local;O
- ;O
 para;O
- ;O
 estacionamento;O
- ;O
 é;O
- ;O
 inconstitucional;O
 ,;O
- ;O
 quer;O
- ;O
 por;O
- ;O
 violação;O
- ;O
 à;O
- ;O
 competência;O
- ;O
 privativa;O
- ;O
 da;O
- ;O
 União;O
- ;O
 para;O
- ;O
 legislar;O
- ;O
 sobre;O
- ;O
 direito;O
- ;O
 civil;O
 ,;O
- ;O
 quer;O
- ;O
 por;O
- ;O
 violar;O
- ;O
 a;O
- ;O
 livre;O
- ;O
 iniciativa;O
 .;O
 ”;O
- ;O
 2;O
 .;O
- ;O
 “Lei;O
- ;O
 estadual;O
- ;O
 que;O
- ;O
 impõe;O
- ;O
 a;O
- ;O
 utilização;O
- ;O
 de;O
- ;O
 empregados;O
- ;O
 próprios;O
- ;O
 na;O
- ;O
 entrada;O
- ;O
 e;O
- ;O
 saída;O
- ;O
 de;O
- ;O
 estacionamento;O
 ,;O
- ;O
 impedindo;O
- ;O
 a;O
- ;O
 terceirização;O
 ,;O
- ;O
 viola;O
- ;O
 a;O
- ;O
 competência;O
- ;O
 privativa;O
- ;O
 da;O
- ;O
 União;O
- ;O
 para;O
- ;O
 legislar;O
- ;O
 sobre;O
- ;O
 direito;O
- ;O
 do;O
- ;O
 trabalho;O
 .;O
 ”;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 C;O
- ;O
 Ó;O
- ;O
 R;O
- ;O
 D;O
- ;O
 Ã;O
- ;O
 O;O
- ;O
 "
 ";O
 "
 ";O
 Vistos;O
 ,;O
- ;O
 relatados;O
- ;O
 e;O
- ;O
 discutidos;O
- ;O
 estes;O
- ;O
 autos;O
 ,;O
- ;O
 acordam;O
- ;O
 os;O
- ;O
 Ministros;O
- ;O
 do;O
- ;O
 Turma;O
- ;O
 do;O
- ;O
 Supremo;O
- ;O
 Tribunal;O
- ;O
 Federal;O
 ,;O
- ;O
 sob;O
- ;O
 a;O
- ;O
 presidência;O
- ;O
 da;O
- ;O
 Ministra;B_Pessoa
- ;I_Pessoa
 Cármen;I_Pessoa
- ;I_Pessoa
 Lúcia;I_Pessoa
 ,;I_Pessoa
- ;O
 na;O
- ;O
 conformidade;O
- ;O
 da;O
- ;O
 ata;O
- ;O
 de;O
- ;O
 julgamento;O
 ,;O
- ;O
 por;O
- ;O
 maioria;O
- ;O
 e;O
- ;O
 nos;O
- ;O
 termos;O
- ;O
 do;O
- ;O
 voto;O
- ;O
 do;O
- ;O
 Relator;O
 ,;O
- ;O
 em;O
- ;O
 julgar;O
- ;O
 procedente;O
- ;O
 a;O
- ;O
 ação;O
- ;O
 para;O
- ;O
 declarar;O
- ;O
 integralmente;O
- ;O
 inconstitucional;O
- ;O
 a;O
- ;O
 Lei;B_Ref. Legislativa
- ;I_Ref. Legislativa
 1.748/90;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;O
- ;O
 Estado;O
- ;O
 do;O
- ;O
 Rio;O
- ;O
 de;O
- ;O
 Janeiro;O
 ,;O
- ;O
 vencidos;O
 ,;O
- ;O
 em;O
- ;O
 parte;O
 ,;O
- ;O
 os;O
- ;O
 Ministros;B_Pessoa
- ;I_Pessoa
 Alexandre;I_Pessoa
- ;I_Pessoa
 de;I_Pessoa
- ;I_Pessoa
 Moraes;I_Pessoa
 ,;I_Pessoa
- ;O
 Edson;B_Pessoa
- ;I_Pessoa
 Fachin;I_Pessoa
- ;I_Pessoa
 e;O
- ;O
 Ricardo;B_Pessoa
- ;I_Pessoa
 Lewandowski;I_Pessoa
 .;I_Pessoa
- ;O
 Em;O
- ;O
 seguida;O
 ,;O
- ;O
 acordam;O
- ;O
 em;O
- ;O
 afirmar;O
- ;O
 as;O
- ;O
 seguintes;O
- ;O
 teses;O
 :;O
- ;O
 1;O
- ;O
 -;O
- ;O
 “Lei;O
- ;O
 estadual;O
- ;O
 que;O
- ;O
 impõe;O
- ;O
 a;O
- ;O
 prestação;O
- ;O
 de;O
- ;O
 serviço;O
- ;O
 de;O
- ;O
 segurança;O
- ;O
 em;O
- ;O
 estacionamento;O
- ;O
 a;O
- ;O
 toda;O
- ;O
 pessoa;O
- ;O
 física;O
- ;O
 e;O
- ;O
 jurídica;O
- ;O
 que;O
- ;O
 disponibilize;O
- ;O
 local;O
- ;O
 para;O
- ;O
 estacionamento;O
- ;O
 é;O
- ;O
 inconstitucional;O
 ,;O
- ;O
 quer;O
- ;O
 por;O
- ;O
 violação;O
- ;O
 à;O
- ;O
 competência;O
- ;O
 privativa;O
- ;O
 da;O
- ;O
 União;O
- ;O
 para;O
- ;O
 legislar;O
- ;O
 sobre;O
- ;O
 direito;O
- ;O
 civil;O
 ,;O
- ;O
 quer;O
- ;O
 por;O
- ;O
 violar;O
- ;O
 a;O
- ;O
 livre;O
- ;O
 iniciativa”;O
 .;O
- ;O
 2;O
- ;O
 -;O
- ;O
 “Lei;O
- ;O
 Estadual;O
- ;O
 que;O
- ;O
 impõe;O
- ;O
 a;O
- ;O
 utilização;O
- ;O
 de;O
- ;O
 empregados;O
- ;O
 próprios;O
- ;O
 na;O
- ;O
 entrada;O
- ;O
 e;O
- ;O
 saída;O
- ;O
 de;O
- ;O
 estacionamento;O
 ,;O
- ;O
 impedindo;O
- ;O
 a;O
- ;O
 terceirização;O
 ,;O
- ;O
 viola;O
- ;O
 a;O
- ;O
 competência;O
- ;O
 privativa;O
- ;O
 da;O
- ;O
 União;O
- ;O
 para;O
- ;O
 legislar;O
- ;O
 sobre;O
- ;O
 direito;O
- ;O
 do;O
- ;O
 trabalho”;O
 .;O
- ;O
 Ausentes;O
 ,;O
- ;O
 justificadamente;O
 ,;O
- ;O
 os;O
- ;O
 Ministros;B_Pessoa
- ;I_Pessoa
 Dias;I_Pessoa
- ;I_Pessoa
 Toffoli;I_Pessoa
- ;I_Pessoa
 e;O
- ;O
 Celso;B_Pessoa
- ;I_Pessoa
 de;I_Pessoa
- ;I_Pessoa
 Mello;I_Pessoa
 .;I_Pessoa
- ;O
 "
 ";O
 "
 ";O
 Brasília;O
 ,;O
- ;O
 1°;O
- ;O
 de;O
- ;O
 agosto;O
- ;O
 de;O
- ;O
 2017;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 MINISTRO;B_Pessoa
- ;I_Pessoa
 LUÍS;I_Pessoa
- ;I_Pessoa
 ROBERTO;I_Pessoa
- ;I_Pessoa
 BARROSO;I_Pessoa
- ;I_Pessoa
 -;O
- ;O
 RELATOR;O
- ;O
 01/08/2017;O
- ;O
 PLENÁRIO;O
- ;O
 "
 ";O
 "
 ";O
 AÇÃO;B_Precedente
- ;I_Precedente
 DIRETA;I_Precedente
- ;I_Precedente
 DE;I_Precedente
- ;I_Precedente
 INCONSTITUCIONALIDADE;I_Precedente
- ;I_Precedente
 451;I_Precedente
- ;I_Precedente
 RIO;I_Precedente
- ;I_Precedente
 DE;I_Precedente
- ;I_Precedente
 JANEIRO;I_Precedente
- ;I_Precedente
 "
 ";O
 "
 ";O
 RELATOR;O
- ;O
 :;O
- ;O
 MIN;B_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 ROBERTO;I_Pessoa
- ;I_Pessoa
 BARROSOREQTE;O
 .;O
 (;O
 S;O
 );O
- ;O
 :;O
 CONFEDERAÇÃO;O
- ;O
 NACIONAL;O
- ;O
 DO;O
- ;O
 COMÉRCIO;O
- ;O
 -;O
- ;O
 "
 ";O
 "
@@ -985,20 +566,13 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 ANNA;B_Pessoa
- ;I_Pessoa
 MARIA;I_Pessoa
- ;I_Pessoa
 DA;I_Pessoa
- ;I_Pessoa
 TRINDADE;I_Pessoa
- ;I_Pessoa
 DOS;I_Pessoa
- ;I_Pessoa
 REIS;I_Pessoa
- ;I_Pessoa
 ADV;O
 .;O
 (;O
@@ -1006,14 +580,10 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 ONURB;B_Pessoa
- ;I_Pessoa
 COUTO;I_Pessoa
- ;I_Pessoa
 BRUNO;I_Pessoa
- ;I_Pessoa
 INTDO;O
 .;O
 (;O
@@ -1021,28 +591,19 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 ASSEMBLEIA;O
- ;O
 LEGISLATIVA;O
- ;O
 DO;O
- ;O
 ESTADO;O
- ;O
 DO;O
- ;O
 RIO;O
- ;O
 DE;O
- ;O
 "
 ";O
 "
 ";O
 JANEIRO;O
- ;O
 "
 ";O
 "
@@ -1054,331 +615,191 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 GOVERNADOR;O
- ;O
 DO;O
- ;O
 ESTADO;O
- ;O
 DO;O
- ;O
 RIO;O
- ;O
 DE;O
- ;O
 JANEIRO;O
- ;O
 "
 ";O
 "
 ";O
 RELATÓRIO;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 SENHOR;O
- ;O
 MINISTRO;B_Pessoa
- ;I_Pessoa
 LUÍS;I_Pessoa
- ;I_Pessoa
 ROBERTO;I_Pessoa
- ;I_Pessoa
 BARROSO;I_Pessoa
- ;I_Pessoa
 (;O
 RELATOR;O
 );O
 :;O
- ;O
 "
 ";O
 "
 ";O
 1;O
 .;O
- ;O
 Trata;O
 -;O
 se;O
- ;O
 de;O
- ;O
 ação;O
- ;O
 direta;O
- ;O
 de;O
- ;O
 inconstitucionalidade;O
 ,;O
- ;O
 com;O
- ;O
 pedido;O
- ;O
 de;O
- ;O
 medida;O
- ;O
 cautelar;O
 ,;O
- ;O
 proposta;O
- ;O
 pela;O
- ;O
 Confederação;O
- ;O
 Nacional;O
- ;O
 do;O
- ;O
 Comércio;O
- ;O
 -;O
- ;O
 CNC;O
 ,;O
- ;O
 em;O
- ;O
 face;O
- ;O
 do;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 4º;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 5º;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1.748;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 19;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 novembro;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1990;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 do;O
- ;O
 Estado;O
- ;O
 do;O
- ;O
 Rio;O
- ;O
 de;O
- ;O
 Janeiro;O
 ,;O
- ;O
 que;O
- ;O
 estabelece;O
- ;O
 medidas;O
- ;O
 de;O
- ;O
 segurança;O
- ;O
 nos;O
- ;O
 estacionamentos;O
- ;O
 destinados;O
- ;O
 a;O
- ;O
 veículos;O
- ;O
 automotores;O
 .;O
- ;O
 Confira;O
 -;O
 se;O
- ;O
 o;O
- ;O
 teor;O
- ;O
 dos;O
- ;O
 dispositivos;O
- ;O
 impugnados;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 Lei;B_Ref. Legislativa
- ;I_Ref. Legislativa
 1.748/1990;I_Ref. Legislativa
 :;I_Ref. Legislativa
 “Art;O
 .;O
- ;O
 1º;O
- ;O
 -;O
- ;O
 A;O
- ;O
 pessoa;O
- ;O
 física;O
- ;O
 ou;O
- ;O
 jurídica;O
 ,;O
- ;O
 independentemente;O
- ;O
 do;O
- ;O
 ramo;O
- ;O
 de;O
- ;O
 sua;O
- ;O
 atividade;O
 ,;O
- ;O
 que;O
- ;O
 ofereça;O
- ;O
 ao;O
- ;O
 público;O
- ;O
 área;O
- ;O
 própria;O
- ;O
 ou;O
- ;O
 de;O
- ;O
 terceiros;O
 ,;O
- ;O
 para;O
- ;O
 estacionamento;O
- ;O
 de;O
- ;O
 veículos;O
- ;O
 automotores;O
- ;O
 no;O
- ;O
 Estado;O
- ;O
 do;O
- ;O
 Rio;O
- ;O
 de;O
- ;O
 Janeiro;O
 ,;O
- ;O
 fica;O
- ;O
 obrigada;O
- ;O
 a;O
- ;O
 manter;O
- ;O
 empregados;O
- ;O
 próprios;O
- ;O
 nas;O
- ;O
 entradas;O
- ;O
 e;O
- ;O
 saídas;O
- ;O
 das;O
- ;O
 dependências;O
- ;O
 destinadas;O
- ;O
 a;O
- ;O
 tal;O
- ;O
 fim;O
- ;O
 e;O
- ;O
 a;O
- ;O
 cercar;O
- ;O
 o;O
- ;O
 parqueamento;O
- ;O
 ao;O
- ;O
 ar;O
- ;O
 livre;O
 .;O
- ;O
 .;O
 .;O
 .;O
@@ -1468,3805 +889,2171 @@ livre;O
 .;O
 Art;O
 .;O
- ;O
 4º;O
- ;O
 -;O
- ;O
 O;O
- ;O
 detentor;O
- ;O
 do;O
- ;O
 estacionamento;O
- ;O
 é;O
- ;O
 o;O
- ;O
 responsável;O
- ;O
 pela;O
- ;O
 guarda;O
- ;O
 e;O
- ;O
 vigilância;O
- ;O
 dos;O
- ;O
 bens;O
 ,;O
- ;O
 respondendo;O
- ;O
 pelos;O
- ;O
 prejuízos;O
- ;O
 decorrentes;O
- ;O
 da;O
- ;O
 falta;O
- ;O
 desse;O
- ;O
 dever;O
- ;O
 em;O
- ;O
 caso;O
- ;O
 de;O
- ;O
 roubo;O
- ;O
 ou;O
- ;O
 furto;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Art;O
 .;O
- ;O
 5º;O
- ;O
 -;O
- ;O
 A;O
- ;O
 indenização;O
- ;O
 decorrente;O
- ;O
 de;O
- ;O
 roubo;O
- ;O
 ou;O
- ;O
 furto;O
- ;O
 do;O
- ;O
 veículo;O
- ;O
 estacionado;O
- ;O
 é;O
- ;O
 de;O
- ;O
 responsabilidade;O
- ;O
 do;O
- ;O
 detentor;O
- ;O
 do;O
- ;O
 parqueamento;O
- ;O
 e;O
- ;O
 deverá;O
- ;O
 ser;O
- ;O
 paga;O
- ;O
 ao;O
- ;O
 proprietário;O
- ;O
 do;O
- ;O
 bem;O
 ,;O
- ;O
 pelo;O
- ;O
 valor;O
- ;O
 de;O
- ;O
 mercado;O
- ;O
 na;O
- ;O
 data;O
- ;O
 do;O
- ;O
 pagamento;O
 .;O
 ”;O
- ;O
 "
 ";O
 "
 ";O
 2;O
 .;O
- ;O
 O;O
- ;O
 requerente;O
- ;O
 sustenta;O
- ;O
 que;O
- ;O
 o;O
- ;O
 Estado;O
- ;O
 do;O
- ;O
 Rio;O
- ;O
 de;O
- ;O
 Janeiro;O
- ;O
 invadiu;O
- ;O
 a;O
- ;O
 competência;O
- ;O
 privativa;O
- ;O
 da;O
- ;O
 União;O
- ;O
 para;O
- ;O
 legislar;O
- ;O
 sobre;O
- ;O
 direito;O
- ;O
 do;O
- ;O
 trabalho;O
- ;O
 e;O
- ;O
 sobre;O
- ;O
 direito;O
- ;O
 civil;O
- ;O
 (;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 22;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 I;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 CF;I_Ref. Legislativa
 );I_Ref. Legislativa
 .;O
- ;O
 Alega;O
 ,;O
- ;O
 também;O
 ,;O
- ;O
 que;O
- ;O
 as;O
- ;O
 normas;O
- ;O
 impugnadas;O
- ;O
 ofendem;O
- ;O
 o;O
- ;O
 princípio;O
- ;O
 da;O
- ;O
 livre;O
- ;O
 iniciativa;O
- ;O
 (;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 170;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 parágrafo;I_Ref. Legislativa
- ;I_Ref. Legislativa
 único;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 174;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 CF;I_Ref. Legislativa
 );I_Ref. Legislativa
 .;O
- ;O
 Por;O
- ;O
 fim;O
 ,;O
- ;O
 procura;O
- ;O
 afastar;O
- ;O
 a;O
- ;O
 competência;O
- ;O
 estadual;O
- ;O
 concorrente;O
- ;O
 para;O
- ;O
 legislar;O
- ;O
 sobre;O
- ;O
 responsabilidade;O
- ;O
 por;O
- ;O
 dano;O
- ;O
 ao;O
- ;O
 consumidor;O
 ,;O
- ;O
 sob;O
- ;O
 o;O
- ;O
 fundamento;O
- ;O
 de;O
- ;O
 que;O
- ;O
 há;O
- ;O
 lei;O
- ;O
 federal;O
- ;O
 que;O
- ;O
 disciplina;O
- ;O
 a;O
- ;O
 responsabilidade;O
- ;O
 civil;O
 ,;O
- ;O
 sem;O
- ;O
 necessidade;O
- ;O
 de;O
- ;O
 suplementação;O
- ;O
 por;O
- ;O
 lei;O
- ;O
 estadual;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 3;O
 .;O
- ;O
 O;O
- ;O
 Supremo;O
- ;O
 Tribunal;O
- ;O
 Federal;O
- ;O
 indeferiu;O
- ;O
 o;O
- ;O
 pedido;O
- ;O
 de;O
- ;O
 medida;O
- ;O
 cautelar;O
 ,;O
- ;O
 por;O
- ;O
 decisão;O
- ;O
 unânime;O
 ,;O
- ;O
 entendendo;O
- ;O
 estar;O
- ;O
 ausente;O
- ;O
 a;O
- ;O
 plausibilidade;O
- ;O
 jurídica;O
- ;O
 do;O
- ;O
 direito;O
- ;O
 alegado;O
 ,;O
- ;O
 bem;O
- ;O
 como;O
- ;O
 o;O
- ;O
 periculum;O
- ;O
 in;O
- ;O
 mora;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 4;O
 .;O
- ;O
 O;O
- ;O
 Governador;O
- ;O
 do;O
- ;O
 Estado;O
- ;O
 do;O
- ;O
 Rio;O
- ;O
 de;O
- ;O
 Janeiro;O
- ;O
 prestou;O
- ;O
 informações;O
- ;O
 defendendo;O
- ;O
 a;O
- ;O
 constitucionalidade;O
- ;O
 dos;O
- ;O
 dispositivos;O
- ;O
 impugnados;O
 .;O
- ;O
 Em;O
- ;O
 relação;O
- ;O
 ao;O
- ;O
 art;O
 .;O
- ;O
 1º;O
 ,;O
- ;O
 alegou;O
- ;O
 que;O
- ;O
 este;O
- ;O
 não;O
- ;O
 trata;O
- ;O
 de;O
- ;O
 direito;O
- ;O
 trabalhista;O
 ,;O
- ;O
 mas;O
- ;O
 de;O
- ;O
 relação;O
- ;O
 de;O
- ;O
 consumo;O
 ,;O
- ;O
 enquadrando;O
 -;O
 se;O
- ;O
 na;O
- ;O
 hipótese;O
- ;O
 de;O
- ;O
 competência;O
- ;O
 concorrente;O
 ,;O
- ;O
 prevista;O
- ;O
 no;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 24;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 V;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 CF[1];O
 .;O
- ;O
 Quanto;O
- ;O
 aos;O
- ;O
 artigos;B_Ref. Legislativa
- ;I_Ref. Legislativa
 4º;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 5º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1.748/1990;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 afirmou;O
- ;O
 que;O
- ;O
 o;O
- ;O
 legislador;O
- ;O
 apenas;O
- ;O
 incorporou;O
- ;O
 ao;O
- ;O
 direito;O
- ;O
 positivo;O
- ;O
 a;O
- ;O
 jurisprudência;O
- ;O
 dos;O
- ;O
 tribunais;O
- ;O
 e;O
- ;O
 que;O
- ;O
 tais;O
- ;O
 dispositivos;O
- ;O
 disciplinam;O
- ;O
 casos;O
- ;O
 de;O
- ;O
 responsabilidade;O
- ;O
 por;O
- ;O
 dano;O
- ;O
 ao;O
- ;O
 consumidor;O
 ,;O
- ;O
 hipótese;O
- ;O
 da;O
- ;O
 competência;O
- ;O
 concorrente;O
- ;O
 mencionada;O
- ;O
 no;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 24;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 VIII;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 CF[2];O
 .;O
- ;O
 "
 ";O
 "
 ";O
 5;O
 .;O
- ;O
 Ao;O
- ;O
 prestar;O
- ;O
 informações;O
 ,;O
- ;O
 a;O
- ;O
 Assembleia;O
- ;O
 Legislativa;O
- ;O
 do;O
- ;O
 Estado;O
- ;O
 do;O
- ;O
 Rio;O
- ;O
 de;O
- ;O
 Janeiro;O
- ;O
 anexou;O
- ;O
 a;O
- ;O
 justificativa;O
- ;O
 do;O
- ;O
 autor;O
- ;O
 do;O
- ;O
 Projeto;O
- ;O
 que;O
- ;O
 deu;O
- ;O
 origem;O
- ;O
 à;O
- ;O
 lei;O
- ;O
 questionada;O
- ;O
 e;O
- ;O
 afirmou;O
- ;O
 que;O
- ;O
 os;O
- ;O
 dispositivos;O
- ;O
 impugnados;O
- ;O
 não;O
- ;O
 invadem;O
- ;O
 a;O
- ;O
 competência;O
- ;O
 privativa;O
- ;O
 da;O
- ;O
 União;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 6;O
 .;O
- ;O
 A;O
- ;O
 Advocacia;O
 -;O
 Geral;O
- ;O
 da;O
- ;O
 União;O
- ;O
 (;O
 AGU;O
 );O
- ;O
 defendeu;O
 ,;O
- ;O
 preliminarmente;O
 ,;O
- ;O
 que;O
- ;O
 a;O
- ;O
 ação;O
- ;O
 não;O
- ;O
 deveria;O
- ;O
 ser;O
- ;O
 conhecida;O
 ,;O
- ;O
 uma;O
- ;O
 vez;O
- ;O
 que;O
- ;O
 a;O
- ;O
 norma;O
- ;O
 em;O
- ;O
 que;O
- ;O
 estão;O
- ;O
 inseridos;O
- ;O
 os;O
- ;O
 dispositivos;O
- ;O
 questionados;O
- ;O
 não;O
- ;O
 seria;O
- ;O
 dotada;O
- ;O
 de;O
- ;O
 caráter;O
- ;O
 abstrato;O
 .;O
- ;O
 No;O
- ;O
 mérito;O
 ,;O
- ;O
 defendeu;O
- ;O
 a;O
- ;O
 constitucionalidade;O
- ;O
 da;O
- ;O
 lei;O
 ,;O
- ;O
 invocando;O
- ;O
 as;O
- ;O
 razões;O
- ;O
 apresentadas;O
- ;O
 pela;O
- ;O
 Assembleia;O
- ;O
 Legislativa;O
- ;O
 e;O
- ;O
 pelo;O
- ;O
 Governador;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 7;O
 .;O
- ;O
 A;O
- ;O
 Procuradoria;O
- ;O
 Geral;O
- ;O
 da;O
- ;O
 República;O
- ;O
 (;O
 PGR;O
 );O
- ;O
 manifestou;O
 -;O
 se;O
- ;O
 pela;O
- ;O
 constitucionalidade;O
- ;O
 dos;O
- ;O
 dispositivos;O
 .;O
- ;O
 Alegou;O
- ;O
 que;O
- ;O
 o;O
- ;O
 art;O
 .;O
- ;O
 1º;O
 ,;O
- ;O
 em;O
- ;O
 vez;O
- ;O
 de;O
- ;O
 tratar;O
- ;O
 de;O
- ;O
 direito;O
- ;O
 do;O
- ;O
 trabalho;O
 ,;O
- ;O
 impôs;O
- ;O
 a;O
- ;O
 fiscalização;O
- ;O
 das;O
- ;O
 entradas;O
- ;O
 e;O
- ;O
 saídas;O
- ;O
 do;O
- ;O
 estacionamento;O
- ;O
 por;O
- ;O
 empregados;O
- ;O
 dos;O
- ;O
 responsáveis;O
- ;O
 pelo;O
- ;O
 local;O
 .;O
- ;O
 Em;O
- ;O
 relação;O
- ;O
 aos;O
- ;O
 demais;O
- ;O
 artigos;O
 ,;O
- ;O
 entendeu;O
- ;O
 que;O
- ;O
 estes;O
- ;O
 se;O
- ;O
 enquadrariam;O
- ;O
 na;O
- ;O
 modalidade;O
- ;O
 de;O
- ;O
 competência;O
- ;O
 concorrente;O
- ;O
 para;O
- ;O
 legislar;O
- ;O
 sobre;O
- ;O
 responsabilidade;O
- ;O
 por;O
- ;O
 danos;O
- ;O
 ao;O
- ;O
 consumidor;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 8;O
 .;O
- ;O
 É;O
- ;O
 o;O
- ;O
 relatório;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Notas;O
 :;O
- ;O
 [1];O
- ;O
 “Art;O
 .;O
- ;O
 24;O
 .;O
- ;O
 Compete;O
- ;O
 à;O
- ;O
 União;O
 ,;O
- ;O
 aos;O
- ;O
 Estados;O
- ;O
 e;O
- ;O
 ao;O
- ;O
 Distrito;O
- ;O
 Federal;O
- ;O
 legislar;O
- ;O
 concorrentemente;O
- ;O
 sobre;O
 :;O
- ;O
 (;O
 .;O
 .;O
 .;O
 );O
 ";";O
- ;O
 V;O
- ;O
 -;O
- ;O
 produção;O
- ;O
 e;O
- ;O
 consumo”;O
- ;O
 (;O
 grifou;O
 -;O
 se;O
 );O
 .;O
- ;O
 [2];O
- ;O
 “Art;O
 .;O
- ;O
 24;O
 .;O
- ;O
 Compete;O
- ;O
 à;O
- ;O
 União;O
 ,;O
- ;O
 aos;O
- ;O
 Estados;O
- ;O
 e;O
- ;O
 ao;O
- ;O
 Distrito;O
- ;O
 Federal;O
- ;O
 legislar;O
- ;O
 concorrentemente;O
- ;O
 sobre;O
 :;O
- ;O
 (;O
 .;O
 .;O
 .;O
 );O
 ";";O
- ;O
 VIII;O
- ;O
 -;O
- ;O
 responsabilidade;O
- ;O
 por;O
- ;O
 dano;O
- ;O
 ao;O
- ;O
 meio;O
- ;O
 ambiente;O
 ,;O
- ;O
 ao;O
- ;O
 consumidor;O
 ,;O
- ;O
 a;O
- ;O
 bens;O
- ;O
 e;O
- ;O
 direitos;O
- ;O
 de;O
- ;O
 valor;O
- ;O
 artístico;O
 ,;O
- ;O
 estético;O
 ,;O
- ;O
 histórico;O
 ,;O
- ;O
 turístico;O
- ;O
 e;O
- ;O
 paisagístico”;O
- ;O
 (;O
 grifou;O
 -;O
 se;O
 );O
 .;O
- ;O
 01/08/2017;O
- ;O
 PLENÁRIO;O
- ;O
 "
 ";O
 "
 ";O
 AÇÃO;B_Precedente
- ;I_Precedente
 DIRETA;I_Precedente
- ;I_Precedente
 DE;I_Precedente
- ;I_Precedente
 INCONSTITUCIONALIDADE;I_Precedente
- ;I_Precedente
 451;I_Precedente
- ;I_Precedente
 RIO;I_Precedente
- ;I_Precedente
 DE;I_Precedente
- ;I_Precedente
 JANEIRO;I_Precedente
- ;I_Precedente
 "
 ";O
 "
 ";O
 Ementa;O
 :;O
- ;O
 COMPETÊNCIA;O
- ;O
 LEGISLATIVA;O
 .;O
- ;O
 ADI;O
 .;O
- ;O
 LEI;O
- ;O
 ESTADUAL;O
- ;O
 QUE;O
- ;O
 ESTABELECE;O
- ;O
 MEDIDAS;O
- ;O
 DE;O
- ;O
 SEGURANÇA;O
- ;O
 EM;O
- ;O
 ESTACIONAMENTOS;O
 .;O
- ;O
 INCONSTITUCIONALIDADE.1;O
 .;O
- ;O
 A;O
- ;O
 Lei;B_Ref. Legislativa
- ;I_Ref. Legislativa
 Estadual;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1.748/1990;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 que;O
- ;O
 impõe;O
- ;O
 medidas;O
- ;O
 de;O
- ;O
 segurança;O
- ;O
 em;O
- ;O
 estacionamento;O
 ,;O
- ;O
 é;O
- ;O
 inconstitucional;O
 ,;O
- ;O
 quer;O
- ;O
 por;O
- ;O
 invadir;O
- ;O
 a;O
- ;O
 competência;O
- ;O
 privativa;O
- ;O
 da;O
- ;O
 União;O
- ;O
 para;O
- ;O
 legislar;O
- ;O
 sobre;O
- ;O
 direito;O
- ;O
 civil;O
- ;O
 (;O
 CF/88;B_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 22;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 I;I_Ref. Legislativa
 );I_Ref. Legislativa
 ,;O
- ;O
 conforme;O
- ;O
 jurisprudência;O
- ;O
 consolidada;O
- ;O
 nesta;O
- ;O
 Corte;O
 ,;O
- ;O
 quer;O
- ;O
 por;O
- ;O
 violar;O
- ;O
 o;O
- ;O
 princípio;O
- ;O
 da;O
- ;O
 livre;O
- ;O
 iniciativa;O
- ;O
 (;O
 CF/88;B_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 170;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 par;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 único;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 174;I_Ref. Legislativa
 );I_Ref. Legislativa
 ,;O
- ;O
 conforme;O
- ;O
 entendimento;O
- ;O
 pessoal;O
- ;O
 deste;O
- ;O
 relator;O
 ,;O
- ;O
 expresso;O
- ;O
 quando;O
- ;O
 do;O
- ;O
 julgamento;O
- ;O
 da;O
- ;O
 ADI;B_Precedente
- ;I_Precedente
 4862;I_Precedente
 ,;I_Precedente
- ;O
 rel;O
 .;O
- ;O
 Min;B_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 Gilmar;I_Pessoa
- ;I_Pessoa
 Mendes.2;O
 .;O
- ;O
 O;O
- ;O
 artigo;O
- ;O
 1º;O
- ;O
 da;O
- ;O
 lei;O
- ;O
 impugnada;O
 ,;O
- ;O
 ao;O
- ;O
 obrigar;O
- ;O
 tais;O
- ;O
 empresas;O
- ;O
 à;O
- ;O
 manutenção;O
- ;O
 de;O
- ;O
 empregados;O
- ;O
 próprios;O
- ;O
 nas;O
- ;O
 entradas;O
- ;O
 e;O
- ;O
 saídas;O
- ;O
 dos;O
- ;O
 estacionamentos;O
 ,;O
- ;O
 restringe;O
- ;O
 a;O
- ;O
 contratação;O
- ;O
 de;O
- ;O
 terceirizados;O
 ,;O
- ;O
 usurpando;O
 ,;O
- ;O
 ainda;O
 ,;O
- ;O
 a;O
- ;O
 competência;O
- ;O
 privativa;O
- ;O
 da;O
- ;O
 União;O
- ;O
 para;O
- ;O
 legislar;O
- ;O
 sobre;O
- ;O
 direito;O
- ;O
 do;O
- ;O
 trabalho;O
- ;O
 (;O
 CF/88;B_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 22;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 I;I_Ref. Legislativa
 );I_Ref. Legislativa
 .3;O
 .;O
- ;O
 Ação;O
- ;O
 julgada;O
- ;O
 procedente;O
 .;O
- ;O
 4;O
 .;O
- ;O
 Tese;O
 :;O
- ;O
 1;O
 .;O
- ;O
 “Lei;O
- ;O
 estadual;O
- ;O
 que;O
- ;O
 impõe;O
- ;O
 a;O
- ;O
 prestação;O
- ;O
 de;O
- ;O
 serviço;O
- ;O
 segurança;O
- ;O
 em;O
- ;O
 estacionamento;O
- ;O
 a;O
- ;O
 toda;O
- ;O
 pessoa;O
- ;O
 física;O
- ;O
 ou;O
- ;O
 jurídica;O
- ;O
 que;O
- ;O
 disponibilize;O
- ;O
 local;O
- ;O
 para;O
- ;O
 estacionamento;O
- ;O
 é;O
- ;O
 inconstitucional;O
 ,;O
- ;O
 quer;O
- ;O
 por;O
- ;O
 violação;O
- ;O
 à;O
- ;O
 competência;O
- ;O
 privativa;O
- ;O
 da;O
- ;O
 União;O
- ;O
 para;O
- ;O
 legislar;O
- ;O
 sobre;O
- ;O
 direito;O
- ;O
 civil;O
 ,;O
- ;O
 quer;O
- ;O
 por;O
- ;O
 violar;O
- ;O
 a;O
- ;O
 livre;O
- ;O
 iniciativa;O
 .;O
 ”;O
- ;O
 2;O
 .;O
- ;O
 “Lei;O
- ;O
 estadual;O
- ;O
 que;O
- ;O
 impõe;O
- ;O
 a;O
- ;O
 utilização;O
- ;O
 de;O
- ;O
 empregados;O
- ;O
 próprios;O
- ;O
 na;O
- ;O
 entrada;O
- ;O
 e;O
- ;O
 saída;O
- ;O
 de;O
- ;O
 estacionamento;O
 ,;O
- ;O
 impedindo;O
- ;O
 a;O
- ;O
 terceirização;O
 ,;O
- ;O
 viola;O
- ;O
 a;O
- ;O
 competência;O
- ;O
 privativa;O
- ;O
 da;O
- ;O
 União;O
- ;O
 para;O
- ;O
 legislar;O
- ;O
 sobre;O
- ;O
 direito;O
- ;O
 do;O
- ;O
 trabalho;O
 .;O
 ”;O
- ;O
 "
 ";O
 "
 ";O
 VOTO;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 SENHOR;O
- ;O
 MINISTRO;B_Pessoa
- ;I_Pessoa
 LUÍS;I_Pessoa
- ;I_Pessoa
 ROBERTO;I_Pessoa
- ;I_Pessoa
 BARROSO;I_Pessoa
- ;I_Pessoa
 (;O
 RELATOR;O
 );O
 :;O
- ;O
 "
 ";O
 "
 ";O
 I;O
 .;O
- ;O
 PRELIMINAR;O
- ;O
 "
 ";O
 "
 ";O
 1;O
 .;O
- ;O
 A;O
- ;O
 ação;O
- ;O
 deve;O
- ;O
 ser;O
- ;O
 conhecida;O
 .;O
- ;O
 Ao;O
- ;O
 contrário;O
- ;O
 do;O
- ;O
 que;O
- ;O
 foi;O
- ;O
 afirmado;O
- ;O
 pela;O
- ;O
 AGU;O
 ,;O
- ;O
 a;O
- ;O
 norma;O
- ;O
 impugnada;O
- ;O
 possui;O
- ;O
 indiscutível;O
- ;O
 caráter;O
- ;O
 geral;O
- ;O
 e;O
- ;O
 abstrato;O
 ,;O
- ;O
 dirigindo;O
 -;O
 se;O
- ;O
 a;O
- ;O
 todas;O
- ;O
 as;O
- ;O
 pessoas;O
- ;O
 físicas;O
- ;O
 ou;O
- ;O
 jurídicas;O
- ;O
 que;O
- ;O
 ofereçam;O
- ;O
 serviço;O
- ;O
 de;O
- ;O
 estacionamento;O
 .;O
- ;O
 Trata;O
 -;O
 se;O
 ,;O
- ;O
 portanto;O
 ,;O
- ;O
 de;O
- ;O
 ato;O
- ;O
 normativo;O
 ,;O
- ;O
 passível;O
- ;O
 de;O
- ;O
 questionamento;O
- ;O
 pela;O
- ;O
 via;O
- ;O
 da;O
- ;O
 ação;O
- ;O
 direta;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 II;O
 .;O
- ;O
 MÉRITO;O
- ;O
 "
 ";O
 "
 ";O
 2;O
 .;O
- ;O
 No;O
- ;O
 que;O
- ;O
 respeita;O
- ;O
 ao;O
- ;O
 mérito;O
- ;O
 da;O
- ;O
 ação;O
 ,;O
- ;O
 a;O
- ;O
 norma;O
- ;O
 em;O
- ;O
 exame;O
- ;O
 obriga;O
- ;O
 todas;O
- ;O
 as;O
- ;O
 pessoas;O
- ;O
 físicas;O
- ;O
 e;O
- ;O
 jurídicas;O
- ;O
 que;O
- ;O
 ofereçam;O
- ;O
 estacionamento;O
 ,;O
- ;O
 em;O
- ;O
 área;O
- ;O
 própria;O
- ;O
 ou;O
- ;O
 de;O
- ;O
 terceiro;O
 ,;O
- ;O
 independentemente;O
- ;O
 da;O
- ;O
 atividade;O
- ;O
 que;O
- ;O
 exerçam;O
 ,;O
- ;O
 a;O
- ;O
 manter;O
- ;O
 empregados;O
- ;O
 próprios;O
- ;O
 nas;O
- ;O
 entradas;O
- ;O
 e;O
- ;O
 saídas;O
- ;O
 do;O
- ;O
 parqueamento;O
 ,;O
- ;O
 a;O
- ;O
 cercá;O
 -;O
 lo;O
 ,;O
- ;O
 a;O
- ;O
 responsabilizar;O
 -;O
 se;O
- ;O
 pela;O
- ;O
 segurança;O
- ;O
 dos;O
- ;O
 veículos;O
- ;O
 e;O
- ;O
 a;O
- ;O
 indenizar;O
- ;O
 o;O
- ;O
 proprietário;O
- ;O
 do;O
- ;O
 veículo;O
 ,;O
- ;O
 em;O
- ;O
 caso;O
- ;O
 de;O
- ;O
 roubo;O
- ;O
 ou;O
- ;O
 furto;O
 ,;O
- ;O
 com;O
- ;O
 base;O
- ;O
 nos;O
- ;O
 critérios;O
- ;O
 fixados;O
- ;O
 na;O
- ;O
 norma;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 3;O
 .;O
- ;O
 Como;O
- ;O
 alegado;O
- ;O
 pela;O
- ;O
 requerente;O
 ,;O
- ;O
 a;O
- ;O
 previsão;O
 ,;O
- ;O
 constante;O
- ;O
 do;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1º;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Estadual;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1.748/1990;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 que;O
- ;O
 impõe;O
- ;O
 a;O
- ;O
 manutenção;O
- ;O
 de;O
- ;O
 empregados;O
- ;O
 próprios;O
- ;O
 nas;O
- ;O
 entradas;O
- ;O
 e;O
- ;O
 saídas;O
- ;O
 dos;O
- ;O
 locais;O
- ;O
 destinados;O
- ;O
 a;O
- ;O
 estacionamento;O
- ;O
 implica;O
- ;O
 vedação;O
- ;O
 à;O
- ;O
 possibilidade;O
- ;O
 de;O
- ;O
 terceirização;O
- ;O
 do;O
- ;O
 serviço;O
- ;O
 de;O
- ;O
 vigilância;O
 .;O
- ;O
 Nesse;O
- ;O
 ponto;O
 ,;O
- ;O
 há;O
- ;O
 indiscutível;O
- ;O
 inconstitucionalidade;O
- ;O
 formal;O
 ,;O
- ;O
 por;O
- ;O
 invasão;O
- ;O
 da;O
- ;O
 competência;O
- ;O
 privativa;O
- ;O
 da;O
- ;O
 União;O
- ;O
 para;O
- ;O
 legislar;O
- ;O
 sobre;O
- ;O
 direito;O
- ;O
 do;O
- ;O
 trabalho;O
- ;O
 (;O
 CF/88;B_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 22;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 I;I_Ref. Legislativa
 );I_Ref. Legislativa
 ,;O
- ;O
 uma;O
- ;O
 vez;O
- ;O
 que;O
- ;O
 a;O
- ;O
 norma;O
- ;O
 dispõe;O
- ;O
 sobre;O
- ;O
 a;O
- ;O
 natureza;O
- ;O
 da;O
- ;O
 relação;O
- ;O
 (;O
 de;O
- ;O
 trabalho;O
 );O
- ;O
 que;O
- ;O
 deverá;O
- ;O
 existir;O
- ;O
 entre;O
- ;O
 o;O
- ;O
 prestador;O
- ;O
 do;O
- ;O
 serviço;O
- ;O
 e;O
- ;O
 o;O
- ;O
 empregado;O
- ;O
 da;O
- ;O
 vigilância;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 4;O
 .;O
- ;O
 Quanto;O
- ;O
 à;O
- ;O
 alegação;O
- ;O
 de;O
- ;O
 inconstitucionalidade;O
- ;O
 formal;O
- ;O
 por;O
- ;O
 violação;O
- ;O
 à;O
- ;O
 competência;O
- ;O
 privativa;O
- ;O
 da;O
- ;O
 União;O
- ;O
 para;O
- ;O
 dispor;O
- ;O
 sobre;O
- ;O
 direito;O
- ;O
 civil;O
 ,;O
- ;O
 de;O
- ;O
 fato;O
 ,;O
- ;O
 a;O
- ;O
 jurisprudência;O
- ;O
 deste;O
- ;O
 Supremo;O
- ;O
 Tribunal;O
- ;O
 Federal;O
- ;O
 tem;O
- ;O
 considerado;O
 ,;O
- ;O
 como;O
- ;O
 regra;O
 ,;O
- ;O
 que;O
- ;O
 a;O
- ;O
 regulamentação;O
- ;O
 de;O
- ;O
 estacionamentos;O
- ;O
 (;O
 sobretudo;O
- ;O
 quando;O
- ;O
 interfere;O
- ;O
 sobre;O
- ;O
 a;O
- ;O
 cobrança;O
- ;O
 de;O
- ;O
 preço;O
 );O
- ;O
 configura;O
- ;O
 o;O
- ;O
 exercício;O
- ;O
 de;O
- ;O
 tal;O
- ;O
 competência;O
- ;O
 (;O
 CF/88;B_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 22;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 I;I_Ref. Legislativa
 );I_Ref. Legislativa
 [1];O
 .;O
- ;O
 É;O
- ;O
 o;O
- ;O
 que;O
- ;O
 confirmam;O
- ;O
 as;O
- ;O
 ementas;O
- ;O
 de;O
- ;O
 julgados;O
- ;O
 transcritos;O
- ;O
 abaixo;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 “COMPETÊNCIA;O
- ;O
 PRIVATIVA;O
- ;O
 DA;O
- ;O
 UNIÃO;O
- ;O
 –;O
- ;O
 DIREITO;O
- ;O
 CIVIL;O
- ;O
 –;O
- ;O
 ESTACIONAMENTO;O
- ;O
 –;O
- ;O
 SHOPPING;O
- ;O
 CENTER;O
- ;O
 –;O
- ;O
 HIPERMERCADOS;O
- ;O
 –;O
- ;O
 GRATUIDADE;O
- ;O
 –;O
- ;O
 LEI;B_Ref. Legislativa
- ;I_Ref. Legislativa
 Nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 4.541/2005;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 DO;O
- ;O
 ESTADO;O
- ;O
 DO;O
- ;O
 RIO;O
- ;O
 DE;O
- ;O
 JANEIRO;O
- ;O
 –;O
- ;O
 PRECEDENTES;O
 .;O
- ;O
 Invade;O
- ;O
 competência;O
- ;O
 legislativa;O
- ;O
 da;O
- ;O
 União;O
 ,;O
- ;O
 prevista;O
- ;O
 no;O
- ;O
 artigo;B_Ref. Legislativa
- ;I_Ref. Legislativa
 22;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 inciso;I_Ref. Legislativa
- ;I_Ref. Legislativa
 I;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Carta;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 República;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 norma;O
- ;O
 estadual;O
- ;O
 que;O
- ;O
 veda;O
- ;O
 a;O
- ;O
 cobrança;O
- ;O
 por;O
- ;O
 serviço;O
- ;O
 de;O
- ;O
 estacionamento;O
- ;O
 em;O
- ;O
 locais;O
- ;O
 privados;O
 .;O
- ;O
 Precedentes;O
 :;O
- ;O
 Ações;B_Precedente
- ;I_Precedente
 Diretas;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 Inconstitucionalidade;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 1.472;I_Precedente
 /;I_Precedente
 DF;I_Precedente
 ,;I_Precedente
- ;O
 relator;O
- ;O
 ministro;B_Pessoa
- ;I_Pessoa
 Ilmar;I_Pessoa
- ;I_Pessoa
 Galvão;I_Pessoa
 ,;I_Pessoa
- ;O
 nº;B_Precedente
- ;I_Precedente
 2.448;I_Precedente
 /;I_Precedente
 DF;I_Precedente
 ,;I_Precedente
- ;O
 relator;O
- ;O
 ministro;B_Pessoa
- ;I_Pessoa
 Sydney;I_Pessoa
- ;I_Pessoa
 Sanches;I_Pessoa
 ,;I_Pessoa
- ;O
 e;O
- ;O
 nº;B_Precedente
- ;I_Precedente
 1.623;I_Precedente
 /;I_Precedente
 RJ;I_Precedente
 ,;I_Precedente
- ;O
 relator;O
- ;O
 ministro;B_Pessoa
- ;I_Pessoa
 Joaquim;I_Pessoa
- ;I_Pessoa
 Barbosa”;I_Pessoa
 .;O
- ;O
 (;O
 AI;B_Precedente
- ;I_Precedente
 730856;I_Precedente
- ;I_Precedente
 AgR;I_Precedente
 ,;I_Precedente
- ;O
 Rel;O
 .;O
- ;O
 Min;B_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 Marco;I_Pessoa
- ;I_Pessoa
 Aurélio;I_Pessoa
 ,;I_Pessoa
- ;O
 grifou;O
 -;O
 se;O
 );O
- ;O
 "
 ";O
 "
 ";O
 “Ementa;O
 :;O
- ;O
 AGRAVO;O
- ;O
 REGIMENTAL;O
- ;O
 EM;O
- ;O
 AGRAVO;O
- ;O
 DE;O
- ;O
 INSTRUMENTO;O
 .;O
- ;O
 DIREITO;O
- ;O
 CONSTITUCIONAL;O
 .;O
- ;O
 COMPETÊNCIA;O
- ;O
 LEGISLATIVA;O
 .;O
- ;O
 LEI;B_Ref. Legislativa
- ;I_Ref. Legislativa
 ESTADUAL;I_Ref. Legislativa
- ;I_Ref. Legislativa
 4.049/2002;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 ESTACIONAMENTOS;O
- ;O
 PÚBLICOS;O
- ;O
 E;O
- ;O
 PRIVADOS;O
 .;O
- ;O
 GRATUIDADE;O
- ;O
 AOS;O
- ;O
 PORTADORES;O
- ;O
 DE;O
- ;O
 DEFICIÊNCIA;O
- ;O
 E;O
- ;O
 AOS;O
- ;O
 MAIORES;O
- ;O
 DE;O
- ;O
 SESSENTA;O
- ;O
 E;O
- ;O
 CINCO;O
- ;O
 ANOS;O
 .;O
- ;O
 VIOLAÇÃO;O
- ;O
 AO;O
- ;O
 "
 ";O
 "
 ";O
 ART;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 22;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 I;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 DA;I_Ref. Legislativa
- ;I_Ref. Legislativa
 CONSTITUIÇÃO;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 INCONSTITUCIONALIDADE;O
- ;O
 FORMAL;O
 .;O
- ;O
 COMPETÊNCIA;O
- ;O
 PRIVATIVA;O
- ;O
 DA;O
- ;O
 UNIÃO;O
- ;O
 PARA;O
- ;O
 LEGISLAR;O
- ;O
 SOBRE;O
- ;O
 DIREITO;O
- ;O
 CIVIL;O
 .;O
- ;O
 AGRAVO;O
- ;O
 IMPROVIDO;O
 .;O
- ;O
 I;O
- ;O
 –;O
- ;O
 A;O
- ;O
 Lei;B_Ref. Legislativa
- ;I_Ref. Legislativa
 estadual;I_Ref. Legislativa
- ;I_Ref. Legislativa
 4.049/2002;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 ao;O
- ;O
 prever;O
- ;O
 a;O
- ;O
 gratuidade;O
- ;O
 de;O
- ;O
 todos;O
- ;O
 os;O
- ;O
 estacionamentos;O
- ;O
 situados;O
- ;O
 no;O
- ;O
 Estado;O
- ;O
 do;O
- ;O
 Rio;O
- ;O
 de;O
- ;O
 Janeiro;O
- ;O
 aos;O
- ;O
 portadores;O
- ;O
 de;O
- ;O
 deficiência;O
- ;O
 e;O
- ;O
 aos;O
- ;O
 maiores;O
- ;O
 de;O
- ;O
 sessenta;O
- ;O
 e;O
- ;O
 cinco;O
- ;O
 anos;O
 ,;O
- ;O
 proprietários;O
- ;O
 de;O
- ;O
 automóveis;O
 ,;O
- ;O
 violou;O
- ;O
 o;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 22;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 I;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Federal;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 Verifica;O
 -;O
 se;O
 ,;O
- ;O
 no;O
- ;O
 caso;O
 ,;O
- ;O
 a;O
- ;O
 inconstitucionalidade;O
- ;O
 formal;O
- ;O
 da;O
- ;O
 mencionada;O
- ;O
 lei;O
 ,;O
- ;O
 pois;O
- ;O
 a;O
- ;O
 competência;O
- ;O
 para;O
- ;O
 legislar;O
- ;O
 sobre;O
- ;O
 direito;O
- ;O
 civil;O
- ;O
 é;O
- ;O
 privativa;O
- ;O
 da;O
- ;O
 União;O
 .;O
- ;O
 Precedentes;O
 .;O
- ;O
 II;O
- ;O
 –;O
- ;O
 Agravo;O
- ;O
 regimental;O
- ;O
 improvido”;O
 .;O
- ;O
 (;O
 AI;B_Precedente
- ;I_Precedente
 742679;I_Precedente
- ;I_Precedente
 AgR;I_Precedente
 ,;I_Precedente
- ;O
 Rel;O
 .;O
- ;O
 Min;B_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 Ricardo;I_Pessoa
- ;I_Pessoa
 Lewandowski;I_Pessoa
 ,;I_Pessoa
- ;O
 grifou;O
 -;O
 se;O
 );O
- ;O
 "
 ";O
 "
 ";O
 “EMENTA;O
 :;O
- ;O
 AÇÃO;O
- ;O
 DIRETA;O
- ;O
 DE;O
- ;O
 INCONSTITUCIONALIDADE;O
 .;O
- ;O
 LEI;O
- ;O
 ESTADUAL;O
 .;O
- ;O
 ESTACIONAMENTO;O
- ;O
 EM;O
- ;O
 LOCAIS;O
- ;O
 PRIVADOS;O
 .;O
- ;O
 COBRANÇA;O
 .;O
- ;O
 IMPOSSIBILIDADE;O
 .;O
- ;O
 OFENSA;O
- ;O
 AO;O
- ;O
 ART;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 22;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 I;I_Ref. Legislativa
- ;I_Ref. Legislativa
 DA;I_Ref. Legislativa
- ;I_Ref. Legislativa
 CONSTITUIÇÃO;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 Esta;O
- ;O
 Corte;O
 ,;O
- ;O
 em;O
- ;O
 diversas;O
- ;O
 ocasiões;O
 ,;O
- ;O
 firmou;O
- ;O
 entendimento;O
- ;O
 no;O
- ;O
 sentido;O
- ;O
 de;O
- ;O
 que;O
- ;O
 invade;O
- ;O
 a;O
- ;O
 competência;O
- ;O
 da;O
- ;O
 União;O
- ;O
 para;O
- ;O
 legislar;O
- ;O
 sobre;O
- ;O
 direito;O
- ;O
 civil;O
- ;O
 (;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 22;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 I;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 CF/88;I_Ref. Legislativa
 );I_Ref. Legislativa
- ;O
 a;O
- ;O
 norma;O
- ;O
 estadual;O
- ;O
 que;O
- ;O
 veda;O
- ;O
 a;O
- ;O
 cobrança;O
- ;O
 de;O
- ;O
 qualquer;O
- ;O
 quantia;O
- ;O
 ao;O
- ;O
 usuário;O
- ;O
 pela;O
- ;O
 utilização;O
- ;O
 de;O
- ;O
 estabelecimento;O
- ;O
 em;O
- ;O
 local;O
- ;O
 privado;O
- ;O
 (;O
 ADI;B_Precedente
- ;I_Precedente
 1.918;I_Precedente
 ,;I_Precedente
- ;O
 rel;O
 .;O
- ;O
 min;B_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 Maurício;I_Pessoa
- ;I_Pessoa
 "Corrêa;";I_Pessoa
- ;O
 ADI;B_Precedente
- ;I_Precedente
 2.448;I_Precedente
 ,;I_Precedente
- ;O
 rel;O
 .;O
- ;O
 Min;B_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 Sydney;I_Pessoa
- ;I_Pessoa
 "Sanches;";I_Pessoa
- ;O
 ADI;B_Precedente
- ;I_Precedente
 1.472;I_Precedente
 ,;I_Precedente
- ;O
 rel;O
 .;O
- ;O
 min;B_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 Ilmar;I_Pessoa
- ;I_Pessoa
 Galvão;I_Pessoa
 );I_Pessoa
 .;O
- ;O
 Ação;O
- ;O
 direta;O
- ;O
 de;O
- ;O
 inconstitucionalidade;O
- ;O
 julgada;O
- ;O
 procedente”;O
 .;O
- ;O
 (;O
 ADI;B_Precedente
- ;I_Precedente
 1623;I_Precedente
 ,;I_Precedente
- ;O
 Rel;O
 .;O
- ;O
 Min;B_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 Joaquim;I_Pessoa
- ;I_Pessoa
 Barbosa;I_Pessoa
 ,;I_Pessoa
- ;O
 grifou;O
 -;O
 se;O
 );O
- ;O
 "
 ";O
 "
 ";O
 5;O
 .;O
- ;O
 Entendimento;O
- ;O
 semelhante;O
- ;O
 àqueles;O
- ;O
 manifestados;O
- ;O
 acima;O
- ;O
 poderia;O
- ;O
 conduzir;O
- ;O
 à;O
- ;O
 inconstitucionalidade;O
- ;O
 formal;O
- ;O
 da;O
- ;O
 lei;O
- ;O
 impugnada;O
 ,;O
- ;O
 por;O
- ;O
 violação;O
- ;O
 à;O
- ;O
 competência;O
- ;O
 privativa;O
- ;O
 da;O
- ;O
 União;O
- ;O
 para;O
- ;O
 legislar;O
- ;O
 sobre;O
- ;O
 direito;O
- ;O
 civil;O
 ,;O
- ;O
 tendo;O
- ;O
 em;O
- ;O
 conta;O
- ;O
 que;O
- ;O
 ela;O
- ;O
 dispõe;O
- ;O
 sobre;O
- ;O
 contrato;O
- ;O
 de;O
- ;O
 serviço;O
- ;O
 de;O
- ;O
 vigilância;O
- ;O
 em;O
- ;O
 estacionamento;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 6;O
 .;O
- ;O
 Permito;O
 -;O
 me;O
 ,;O
- ;O
 contudo;O
 ,;O
- ;O
 reiterar;O
- ;O
 entendimento;O
- ;O
 pessoal;O
- ;O
 explicitado;O
- ;O
 quando;O
- ;O
 do;O
- ;O
 julgamento;O
- ;O
 da;O
- ;O
 ADI;B_Precedente
- ;I_Precedente
 4.862;I_Precedente
 ,;I_Precedente
- ;O
 rel;O
 .;O
- ;O
 Min;B_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 Gilmar;I_Pessoa
- ;I_Pessoa
 Mendes;I_Pessoa
 .;I_Pessoa
- ;O
 Na;O
- ;O
 ocasião;O
 ,;O
- ;O
 manifestei;O
 -;O
 me;O
- ;O
 não;O
- ;O
 pela;O
- ;O
 inconstitucionalidade;O
- ;O
 formal;O
- ;O
 da;O
- ;O
 norma;O
 ,;O
- ;O
 mas;O
- ;O
 pela;O
- ;O
 inconstitucionalidade;O
- ;O
 material;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 7;O
 .;O
- ;O
 Observei;O
 ,;O
- ;O
 então;O
 ,;O
- ;O
 que;O
- ;O
 o;O
- ;O
 controle;O
- ;O
 de;O
- ;O
 preços;O
- ;O
 pelo;O
- ;O
 Estado;O
- ;O
 não;O
- ;O
 é;O
- ;O
 matéria;O
- ;O
 de;O
- ;O
 direito;O
- ;O
 civil;O
 ,;O
- ;O
 mas;O
 ,;O
- ;O
 sim;O
 ,;O
- ;O
 atinente;O
- ;O
 ao;O
- ;O
 direito;O
- ;O
 econômico;O
 ,;O
- ;O
 com;O
- ;O
 possíveis;O
- ;O
 reflexos;O
- ;O
 na;O
- ;O
 proteção;O
- ;O
 ao;O
- ;O
 consumidor;O
 ,;O
- ;O
 razão;O
- ;O
 pela;O
- ;O
 qual;O
- ;O
 defendi;O
- ;O
 o;O
- ;O
 fortalecimento;O
- ;O
 das;O
- ;O
 competências;O
- ;O
 estaduais;O
 .;O
- ;O
 Por;O
- ;O
 essa;O
- ;O
 razão;O
 ,;O
- ;O
 deixei;O
- ;O
 de;O
- ;O
 reconhecer;O
- ;O
 a;O
- ;O
 invasão;O
- ;O
 da;O
- ;O
 competência;O
- ;O
 privativa;O
- ;O
 da;O
- ;O
 União;O
 ,;O
- ;O
 tal;O
- ;O
 como;O
- ;O
 consolidado;O
- ;O
 na;O
- ;O
 jurisprudência;O
- ;O
 do;O
- ;O
 Supremo;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 8;O
 .;O
- ;O
 Defendi;O
 ,;O
- ;O
 contudo;O
 ,;O
- ;O
 que;O
- ;O
 a;O
- ;O
 interferência;O
- ;O
 do;O
- ;O
 Estado;O
- ;O
 na;O
- ;O
 fixação;O
- ;O
 de;O
- ;O
 um;O
- ;O
 preço;O
- ;O
 privado;O
 ,;O
- ;O
 salvo;O
- ;O
 circunstâncias;O
- ;O
 excepcionais;O
 ,;O
- ;O
 significa;O
- ;O
 uma;O
- ;O
 intromissão;O
- ;O
 inadequada;O
- ;O
 no;O
- ;O
 princípio;O
- ;O
 da;O
- ;O
 livre;O
- ;O
 iniciativa;O
 ,;O
- ;O
 o;O
- ;O
 que;O
- ;O
 ensejaria;O
- ;O
 o;O
- ;O
 reconhecimento;O
- ;O
 da;O
- ;O
 inconstitucionalidade;O
- ;O
 material;O
- ;O
 da;O
- ;O
 norma;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 9;O
 .;O
- ;O
 No;O
- ;O
 presente;O
- ;O
 caso;O
 ,;O
- ;O
 ainda;O
- ;O
 que;O
- ;O
 não;O
- ;O
 se;O
- ;O
 trate;O
- ;O
 especificamente;O
- ;O
 de;O
- ;O
 fixação;O
- ;O
 de;O
- ;O
 preços;O
 ,;O
- ;O
 a;O
- ;O
 lei;O
- ;O
 obriga;O
- ;O
 qualquer;O
- ;O
 pessoa;O
 ,;O
- ;O
 física;O
- ;O
 ou;O
- ;O
 jurídica;O
 ,;O
- ;O
 de;O
- ;O
 qualquer;O
- ;O
 porte;O
 ,;O
- ;O
 atuante;O
- ;O
 em;O
- ;O
 qualquer;O
- ;O
 ramo;O
 ,;O
- ;O
 e;O
- ;O
 que;O
- ;O
 disponibilize;O
- ;O
 local;O
- ;O
 para;O
- ;O
 estacionamento;O
 ,;O
- ;O
 a;O
- ;O
 prestar;O
- ;O
 serviço;O
- ;O
 de;O
- ;O
 vigilância;O
 .;O
- ;O
 Ora;O
 ,;O
- ;O
 facilitar;O
- ;O
 o;O
- ;O
 estacionamento;O
- ;O
 é;O
- ;O
 diferente;O
- ;O
 de;O
- ;O
 prometer;O
- ;O
 garantir;O
- ;O
 a;O
- ;O
 segurança;O
- ;O
 dos;O
- ;O
 automóveis;O
 .;O
- ;O
 Impor;O
- ;O
 a;O
- ;O
 quem;O
- ;O
 facilita;O
- ;O
 o;O
- ;O
 estacionamento;O
- ;O
 a;O
- ;O
 obrigação;O
- ;O
 de;O
- ;O
 proteger;O
- ;O
 os;O
- ;O
 bens;O
- ;O
 contra;O
- ;O
 furto;O
- ;O
 e;O
- ;O
 roubo;O
- ;O
 enseja;O
- ;O
 violação;O
- ;O
 à;O
- ;O
 livre;O
- ;O
 iniciativa;O
 ,;O
- ;O
 porque;O
- ;O
 implica;O
- ;O
 obrigar;O
- ;O
 pessoas;O
- ;O
 privadas;O
- ;O
 a;O
- ;O
 prestarem;O
- ;O
 serviço;O
- ;O
 diverso;O
 ,;O
- ;O
 alheio;O
- ;O
 à;O
- ;O
 natureza;O
- ;O
 do;O
- ;O
 seu;O
- ;O
 negócio;O
- ;O
 (;O
 CF/88;B_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 170;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 par;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 único;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 174;I_Ref. Legislativa
 );I_Ref. Legislativa
 .;O
- ;O
 Portanto;O
 ,;O
- ;O
 entendo;O
- ;O
 que;O
- ;O
 também;O
- ;O
 neste;O
- ;O
 caso;O
 ,;O
- ;O
 e;O
- ;O
 à;O
- ;O
 semelhança;O
- ;O
 do;O
- ;O
 que;O
- ;O
 defendi;O
- ;O
 na;O
- ;O
 ADI;B_Precedente
- ;I_Precedente
 4.862;I_Precedente
 ,;I_Precedente
- ;O
 a;O
- ;O
 norma;O
- ;O
 impugnada;O
- ;O
 enseja;O
- ;O
 violação;O
- ;O
 ao;O
- ;O
 princípio;O
- ;O
 da;O
- ;O
 livre;O
- ;O
 iniciativa;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 III;O
 .;O
- ;O
 CONCLUSÃO;O
- ;O
 "
 ";O
 "
 ";O
 10;O
 .;O
- ;O
 Diante;O
- ;O
 do;O
- ;O
 exposto;O
 ,;O
- ;O
 julgo;O
- ;O
 procedente;O
- ;O
 o;O
- ;O
 pedido;O
- ;O
 quanto;O
- ;O
 ao;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1º;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1.740/90;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;O
- ;O
 Estado;O
- ;O
 do;O
- ;O
 Rio;O
- ;O
 de;O
- ;O
 Janeiro;O
 ,;O
- ;O
 por;O
- ;O
 violação;O
- ;O
 à;O
- ;O
 competência;O
- ;O
 privativa;O
- ;O
 da;O
- ;O
 União;O
- ;O
 para;O
- ;O
 dispor;O
- ;O
 sobre;O
- ;O
 direito;O
- ;O
 do;O
- ;O
 trabalho;O
- ;O
 (;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 22;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 I;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 CF/88;I_Ref. Legislativa
 );I_Ref. Legislativa
 .;O
- ;O
 "
 ";O
 "
 ";O
 id;O
 :;O
- ;O
 20180309_ADI_451_313861467;O

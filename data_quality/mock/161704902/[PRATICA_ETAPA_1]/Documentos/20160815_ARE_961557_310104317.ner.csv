@@ -1,641 +1,373 @@
 Token;Tag
 EMENTA;O
 :;O
- ;O
 DIREITO;O
- ;O
 PENAL;O
 .;O
- ;O
 AGRAVO;O
- ;O
 REGIMENTAL;O
- ;O
 EM;O
- ;O
 RECURSO;O
- ;O
 EXTRAORDINÁRIO;O
- ;O
 COM;O
- ;O
 AGRAVO;O
 .;O
- ;O
 AUSÊNCIA;O
- ;O
 DE;O
- ;O
 PREQUESTIONAMENTO;O
 .;O
- ;O
 SÚMULA;B_Precedente
- ;I_Precedente
 282;I_Precedente
 /;I_Precedente
 STF;I_Precedente
 .;I_Precedente
- ;O
 ALEGADA;O
- ;O
 VIOLAÇÃO;O
- ;O
 AOS;O
- ;O
 PRINCÍPIOS;O
- ;O
 DO;O
- ;O
 CONTRADITÓRIO;O
- ;O
 E;O
- ;O
 DA;O
- ;O
 AMPLA;O
- ;O
 DEFESA;O
 .;O
- ;O
 AUSÊNCIA;O
- ;O
 DE;O
- ;O
 REPERCUSSÃO;O
- ;O
 GERAL;O
 .;O
- ;O
 CONTROVÉRSIA;O
- ;O
 DECIDIDA;O
- ;O
 COM;O
- ;O
 BASE;O
- ;O
 NA;O
- ;O
 LEGISLAÇÃO;O
- ;O
 INFRACONSTITUCIONAL;O
- ;O
 E;O
- ;O
 NO;O
- ;O
 CONJUNTO;O
- ;O
 FÁTICO;O
 -;O
 PROBATÓRIO;O
- ;O
 DOS;O
- ;O
 AUTOS;O
 .;O
- ;O
 SÚMULA;B_Precedente
- ;I_Precedente
 279;I_Precedente
 /;I_Precedente
 STF;I_Precedente
 .;I_Precedente
- ;O
 "
 ";O
 "
 ";O
 1;O
 .;O
- ;O
 A;O
- ;O
 alegada;O
- ;O
 violação;O
- ;O
 aos;O
- ;O
 arts;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 "III;";I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 5º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 XXXIV;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 XXXV;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 nos;O
- ;O
 termos;O
- ;O
 trazidos;O
- ;O
 no;O
- ;O
 recurso;O
- ;O
 extraordinário;O
 ,;O
- ;O
 não;O
- ;O
 foi;O
- ;O
 objeto;O
- ;O
 de;O
- ;O
 apreciação;O
- ;O
 pelo;O
- ;O
 acórdão;O
- ;O
 do;O
- ;O
 Tribunal;O
- ;O
 de;O
- ;O
 origem;O
 ,;O
- ;O
 de;O
- ;O
 modo;O
- ;O
 que;O
- ;O
 o;O
- ;O
 recurso;O
- ;O
 extraordinário;O
- ;O
 carece;O
 ,;O
- ;O
 no;O
- ;O
 ponto;O
 ,;O
- ;O
 do;O
- ;O
 necessário;O
- ;O
 prequestionamento;O
 ,;O
- ;O
 nos;O
- ;O
 termos;O
- ;O
 da;O
- ;O
 Súmula;B_Precedente
- ;I_Precedente
 282;I_Precedente
 /;I_Precedente
 STF;I_Precedente
 .;I_Precedente
- ;O
 "
 ";O
 "
 ";O
 2;O
 .;O
- ;O
 Por;O
- ;O
 ausência;O
- ;O
 de;O
- ;O
 questão;O
- ;O
 constitucional;O
 ,;O
- ;O
 o;O
- ;O
 Supremo;O
- ;O
 Tribunal;O
- ;O
 Federal;O
- ;O
 rejeitou;O
- ;O
 preliminar;O
- ;O
 de;O
- ;O
 repercussão;O
- ;O
 geral;O
- ;O
 relativa;O
- ;O
 à;O
- ;O
 controvérsia;O
- ;O
 sobre;O
- ;O
 suposta;O
- ;O
 violação;O
- ;O
 aos;O
- ;O
 princípios;O
- ;O
 do;O
- ;O
 contraditório;O
 ,;O
- ;O
 da;O
- ;O
 ampla;O
- ;O
 defesa;O
 ,;O
- ;O
 dos;O
- ;O
 limites;O
- ;O
 da;O
- ;O
 coisa;O
- ;O
 julgada;O
- ;O
 e;O
- ;O
 do;O
- ;O
 devido;O
- ;O
 processo;O
- ;O
 legal;O
- ;O
 (;O
 Tema;O
- ;O
 660;O
- ;O
 -;O
- ;O
 ARE;B_Precedente
- ;I_Precedente
 748.371;I_Precedente
 -;I_Precedente
 RG;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Rel;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Min;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Gilmar;I_Precedente
- ;I_Precedente
 Mendes;I_Precedente
 );I_Precedente
 .;O
- ;O
 "
 ";O
 "
 ";O
 3;O
 .;O
- ;O
 Para;O
- ;O
 chegar;O
- ;O
 a;O
- ;O
 conclusão;O
- ;O
 diversa;O
- ;O
 do;O
- ;O
 acórdão;O
- ;O
 recorrido;O
 ,;O
- ;O
 imprescindível;O
- ;O
 seria;O
- ;O
 a;O
- ;O
 análise;O
- ;O
 da;O
- ;O
 legislação;O
- ;O
 infraconstitucional;O
- ;O
 pertinente;O
- ;O
 e;O
- ;O
 uma;O
- ;O
 nova;O
- ;O
 apreciação;O
- ;O
 dos;O
- ;O
 fatos;O
- ;O
 e;O
- ;O
 do;O
- ;O
 material;O
- ;O
 probatório;O
- ;O
 constante;O
- ;O
 dos;O
- ;O
 autos;O
- ;O
 (;O
 Súmula;B_Precedente
- ;I_Precedente
 279;I_Precedente
 /;I_Precedente
 STF;I_Precedente
 );I_Precedente
 ,;O
- ;O
 procedimentos;O
- ;O
 inviáveis;O
- ;O
 em;O
- ;O
 recurso;O
- ;O
 extraordinário;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 4;O
 .;O
- ;O
 Agravo;O
- ;O
 regimental;O
- ;O
 a;O
- ;O
 que;O
- ;O
 se;O
- ;O
 nega;O
- ;O
 provimento;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 C;O
- ;O
 Ó;O
- ;O
 R;O
- ;O
 D;O
- ;O
 Ã;O
- ;O
 O;O
- ;O
 "
 ";O
 "
 ";O
 Vistos;O
 ,;O
- ;O
 relatados;O
- ;O
 e;O
- ;O
 discutidos;O
- ;O
 estes;O
- ;O
 autos;O
 ,;O
- ;O
 acordam;O
- ;O
 os;O
- ;O
 Ministros;O
- ;O
 da;O
- ;O
 Primeira;O
- ;O
 Turma;O
- ;O
 do;O
- ;O
 Supremo;O
- ;O
 Tribunal;O
- ;O
 Federal;O
 ,;O
- ;O
 sob;O
- ;O
 a;O
- ;O
 Presidência;O
- ;O
 do;O
- ;O
 Ministro;B_Pessoa
- ;I_Pessoa
 Luís;I_Pessoa
- ;I_Pessoa
 Roberto;I_Pessoa
- ;I_Pessoa
 Barroso;I_Pessoa
 ,;I_Pessoa
- ;O
 na;O
- ;O
 conformidade;O
- ;O
 da;O
- ;O
 ata;O
- ;O
 de;O
- ;O
 julgamento;O
- ;O
 e;O
- ;O
 das;O
- ;O
 notas;O
- ;O
 taquigráficas;O
 ,;O
- ;O
 por;O
- ;O
 unanimidade;O
- ;O
 de;O
- ;O
 votos;O
 ,;O
- ;O
 em;O
- ;O
 negar;O
- ;O
 provimento;O
- ;O
 ao;O
- ;O
 agravo;O
- ;O
 regimental;O
 ,;O
- ;O
 nos;O
- ;O
 termos;O
- ;O
 do;O
- ;O
 voto;O
- ;O
 do;O
- ;O
 Relator;O
 .;O
- ;O
 Não;O
- ;O
 participaram;O
- ;O
 deste;O
- ;O
 julgamento;O
 ,;O
- ;O
 justificadamente;O
 ,;O
- ;O
 os;O
- ;O
 Ministros;B_Pessoa
- ;I_Pessoa
 Luiz;I_Pessoa
- ;I_Pessoa
 Fux;I_Pessoa
- ;I_Pessoa
 e;O
- ;O
 Rosa;B_Pessoa
- ;I_Pessoa
 Weber;I_Pessoa
 .;I_Pessoa
- ;O
 "
 ";O
 "
 ";O
 Brasília;O
 ,;O
- ;O
 28;O
- ;O
 de;O
- ;O
 junho;O
- ;O
 de;O
- ;O
 2016;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 MINISTRO;B_Pessoa
- ;I_Pessoa
 LUÍS;I_Pessoa
- ;I_Pessoa
 ROBERTO;I_Pessoa
- ;I_Pessoa
 BARROSO;I_Pessoa
- ;I_Pessoa
 -;O
- ;O
 RELATOR;O
- ;O
 "
 ";O
 "
 ";O
 28/06/2016;O
- ;O
 PRIMEIRA;O
- ;O
 TURMA;O
- ;O
 "
 ";O
 "
@@ -644,51 +376,33 @@ AG;O
 .;O
 REG;O
 .;O
- ;O
 NO;O
- ;O
 RECURSO;O
- ;O
 EXTRAORDINÁRIO;O
- ;O
 COM;O
- ;O
 AGRAVO;O
- ;O
 961.557;O
- ;O
 DISTRITO;O
- ;O
 FEDERAL;O
- ;O
 "
 ";O
 "
 ";O
 RELATOR;O
- ;O
 :;O
- ;O
 MIN;B_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 ROBERTO;I_Pessoa
- ;I_Pessoa
 BARROSOAGTE;O
 .;O
 (;O
 S;O
 );O
- ;O
 :;O
 MOACIR;B_Pessoa
- ;I_Pessoa
 GUIMARÃES;I_Pessoa
- ;I_Pessoa
 MORAIS;I_Pessoa
- ;I_Pessoa
 FILHO;I_Pessoa
- ;I_Pessoa
 ADV;O
 .;O
 (;O
@@ -696,16 +410,11 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 MOACIR;B_Pessoa
- ;I_Pessoa
 GUIMARAES;I_Pessoa
- ;I_Pessoa
 MORAIS;I_Pessoa
- ;I_Pessoa
 FILHO;I_Pessoa
- ;I_Pessoa
 AGDO;O
 .;O
 (;O
@@ -713,14 +422,10 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 MINISTÉRIO;O
- ;O
 PÚBLICO;O
- ;O
 FEDERAL;O
- ;O
 PROC;O
 .;O
 (;O
@@ -731,105 +436,66 @@ S;O
 (;O
 ES;O
 );O
- ;O
 :;O
 PROCURADOR;O
 -;O
 GERAL;O
- ;O
 DA;O
- ;O
 REPÚBLICA;O
- ;O
 "
 ";O
 "
 ";O
 R;O
- ;O
 E;O
- ;O
 L;O
- ;O
 A;O
- ;O
 T;O
- ;O
 Ó;O
- ;O
 R;O
- ;O
 I;O
- ;O
 O;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 SENHOR;B_Pessoa
- ;I_Pessoa
 MINISTRO;I_Pessoa
- ;I_Pessoa
 LUÍS;I_Pessoa
- ;I_Pessoa
 ROBERTO;I_Pessoa
- ;I_Pessoa
 BARROSO;I_Pessoa
- ;I_Pessoa
 (;O
 RELATOR;O
 );O
 :;O
- ;O
 "
 ";O
 "
 ";O
 1;O
 .;O
- ;O
 Trata;O
 -;O
 se;O
- ;O
 de;O
- ;O
 agravo;O
- ;O
 regimental;O
- ;O
 cujo;O
- ;O
 objeto;O
- ;O
 é;O
- ;O
 decisão;O
- ;O
 monocrática;O
- ;O
 que;O
- ;O
 negou;O
- ;O
 seguimento;O
- ;O
 ao;O
- ;O
 recurso;O
- ;O
 sob;O
- ;O
 os;O
- ;O
 seguintes;O
- ;O
 fundamentos;O
 :;O
- ;O
 "
 ";O
 "
@@ -839,3932 +505,2191 @@ fundamentos;O
 .;O
 .;O
 ];O
- ;O
 Trata;O
 -;O
 se;O
- ;O
 de;O
- ;O
 agravo;O
- ;O
 cujo;O
- ;O
 objeto;O
- ;O
 é;O
- ;O
 decisão;O
- ;O
 que;O
- ;O
 inadmitiu;O
- ;O
 recurso;O
- ;O
 extraordinário;O
- ;O
 interposto;O
- ;O
 contra;O
- ;O
 acórdão;O
- ;O
 do;O
- ;O
 Superior;O
- ;O
 Tribunal;O
- ;O
 de;O
- ;O
 Justiça;O
 ,;O
- ;O
 assim;O
- ;O
 ementado;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 PENAL;O
- ;O
 E;O
- ;O
 PROCESSUAL;O
- ;O
 PENAL;O
 .;O
- ;O
 AÇÃO;O
- ;O
 PENAL;O
- ;O
 ORIGINÁRIA;O
 .;O
- ;O
 DENÚNCIA;O
- ;O
 POR;O
- ;O
 CRIMES;O
- ;O
 DE;O
- ;O
 FALSIFICAÇÃO;O
- ;O
 DE;O
- ;O
 SELO;O
- ;O
 OU;O
- ;O
 SINAL;O
- ;O
 PÚBLICO;O
- ;O
 (;O
 ART;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 296;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 III;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 DO;I_Ref. Legislativa
- ;I_Ref. Legislativa
 CPB;I_Ref. Legislativa
 );I_Ref. Legislativa
- ;O
 EM;O
- ;O
 CONCURSO;O
- ;O
 COM;O
- ;O
 O;O
- ;O
 DELITO;O
- ;O
 DE;O
- ;O
 PREVARICAÇÃO;O
- ;O
 (;O
 ART;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 319;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 DO;I_Ref. Legislativa
- ;I_Ref. Legislativa
 CPB;I_Ref. Legislativa
 );I_Ref. Legislativa
 ,;O
- ;O
 PRATICADOS;O
- ;O
 POR;O
- ;O
 SUBPROCURADOR;O
 -;O
 GERAL;O
- ;O
 DA;O
- ;O
 REPÚBLICA;O
 .;O
- ;O
 ATIPICIDADE;O
- ;O
 APONTADA;O
- ;O
 PELA;O
- ;O
 DEFESA;O
- ;O
 NÃO;O
- ;O
 EVIDENCIADA;O
 .;O
- ;O
 RECEBIMENTO;O
- ;O
 DA;O
- ;O
 DENÚNCIA;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 1;O
 .;O
- ;O
 Narra;O
- ;O
 a;O
- ;O
 peça;O
- ;O
 acusatória;O
- ;O
 que;O
 ,;O
- ;O
 entre;O
- ;O
 os;O
- ;O
 dias;O
- ;O
 10/5/2012;O
- ;O
 e;O
- ;O
 15/2/2013;O
 ,;O
- ;O
 o;O
- ;O
 denunciado;O
 ,;O
- ;O
 de;O
- ;O
 forma;O
- ;O
 livre;O
- ;O
 e;O
- ;O
 consciente;O
 ,;O
- ;O
 fez;O
- ;O
 uso;O
- ;O
 indevido;O
- ;O
 do;O
- ;O
 brasão;O
- ;O
 da;O
- ;O
 República;O
- ;O
 e;O
- ;O
 dos;O
- ;O
 dísticos;O
- ;O
 """Ministério";O
- ;O
 Público;O
- ;O
 "Federal""";O
- ;O
 e;O
- ;O
 """Procuradoria";O
 -;O
 Geral;O
- ;O
 da;O
- ;O
 "República""";O
 ,;O
- ;O
 que;O
 ,;O
- ;O
 agrupados;O
- ;O
 no;O
- ;O
 cabeçalho;O
- ;O
 de;O
- ;O
 expedientes;O
- ;O
 oficiais;O
 ,;O
- ;O
 conformam;O
- ;O
 a;O
- ;O
 identidade;O
- ;O
 visual;O
- ;O
 e;O
- ;O
 institucional;O
- ;O
 do;O
- ;O
 Ministério;O
- ;O
 Público;O
- ;O
 Federal;O
 ,;O
- ;O
 ao;O
- ;O
 expedir;O
- ;O
 dez;O
- ;O
 ofícios;O
 ,;O
- ;O
 dirigidos;O
- ;O
 a;O
- ;O
 autoridades;O
- ;O
 da;O
- ;O
 Receita;O
- ;O
 Federal;O
- ;O
 do;O
- ;O
 Brasil;O
- ;O
 e;O
- ;O
 do;O
- ;O
 Departamento;O
- ;O
 de;O
- ;O
 Polícia;O
- ;O
 Federal;O
- ;O
 do;O
- ;O
 Distrito;O
- ;O
 Federal;O
 ,;O
- ;O
 com;O
- ;O
 a;O
- ;O
 finalidade;O
- ;O
 de;O
- ;O
 tutelar;O
- ;O
 interesse;O
- ;O
 individual;O
- ;O
 privado;O
 .;O
- ;O
 Alega;O
- ;O
 que;O
- ;O
 o;O
- ;O
 denunciado;O
- ;O
 invocou;O
- ;O
 sua;O
- ;O
 condição;O
- ;O
 funcional;O
 ,;O
- ;O
 solicitando;O
 ,;O
- ;O
 nos;O
- ;O
 mencionados;O
- ;O
 ofícios;O
 ,;O
- ;O
 abertura;O
- ;O
 de;O
- ;O
 ação;O
- ;O
 fiscal;O
- ;O
 e;O
- ;O
 instauração;O
- ;O
 de;O
- ;O
 inquérito;O
- ;O
 policial;O
- ;O
 em;O
- ;O
 face;O
- ;O
 de;O
- ;O
 pessoas;O
- ;O
 desprovidas;O
- ;O
 de;O
- ;O
 prerrogativa;O
- ;O
 de;O
- ;O
 foro;O
 ,;O
- ;O
 o;O
- ;O
 que;O
- ;O
 caracterizou;O
- ;O
 atuação;O
- ;O
 fora;O
- ;O
 das;O
- ;O
 atribuições;O
- ;O
 do;O
- ;O
 seu;O
- ;O
 cargo;O
- ;O
 de;O
- ;O
 Subprocurador;O
 -;O
 Geral;O
- ;O
 da;O
- ;O
 República;O
 ,;O
- ;O
 em;O
- ;O
 contrariedade;O
- ;O
 ao;O
- ;O
 que;O
- ;O
 dispõem;O
- ;O
 os;O
- ;O
 arts;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 66;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 70;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Complementar;I_Ref. Legislativa
- ;I_Ref. Legislativa
 n;O
 .;O
- ;O
 75/93;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 2;O
 .;O
- ;O
 A;O
- ;O
 leitura;O
- ;O
 dos;O
- ;O
 fatos;O
- ;O
 narrados;O
 ,;O
- ;O
 em;O
- ;O
 consonância;O
- ;O
 com;O
- ;O
 os;O
- ;O
 elementos;O
- ;O
 mínimos;O
- ;O
 coligidos;O
- ;O
 aos;O
- ;O
 autos;O
- ;O
 denotam;O
- ;O
 adequação;O
- ;O
 típica;O
- ;O
 e;O
- ;O
 lastro;O
- ;O
 probatório;O
- ;O
 mínimo;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 3;O
 .;O
- ;O
 Com;O
- ;O
 relação;O
- ;O
 ao;O
- ;O
 crime;O
- ;O
 de;O
- ;O
 falsificação;O
- ;O
 de;O
- ;O
 selo;O
- ;O
 ou;O
- ;O
 sinal;O
- ;O
 público;O
 ,;O
- ;O
 na;O
- ;O
 forma;O
- ;O
 de;O
- ;O
 uso;O
- ;O
 indevido;O
 ,;O
- ;O
 faz;O
 -;O
 se;O
- ;O
 necessário;O
- ;O
 dar;O
- ;O
 prosseguimento;O
- ;O
 à;O
- ;O
 persecutio;O
- ;O
 criminis;O
- ;O
 ,;O
- ;O
 pois;O
- ;O
 evidenciada;O
- ;O
 a;O
- ;O
 admissibilidade;O
- ;O
 da;O
- ;O
 acusação;O
 .;O
- ;O
 Isso;O
- ;O
 porque;O
- ;O
 a;O
- ;O
 atuação;O
- ;O
 dos;O
- ;O
 Subprocuradores;O
 -;O
 Gerais;O
 ,;O
- ;O
 descrita;O
- ;O
 na;O
- ;O
 lei;O
- ;O
 de;O
- ;O
 regência;O
 ,;O
- ;O
 subsume;O
 -;O
 se;O
- ;O
 aos;O
- ;O
 casos;O
- ;O
 que;O
- ;O
 envolvam;O
- ;O
 autoridades;O
- ;O
 com;O
- ;O
 prerrogativa;O
- ;O
 de;O
- ;O
 foro;O
 .;O
- ;O
 Os;O
- ;O
 instrumentos;O
- ;O
 de;O
- ;O
 atuação;O
- ;O
 ministerial;O
- ;O
 (;O
 inquérito;O
- ;O
 civil;O
 ,;O
- ;O
 requisição;O
- ;O
 de;O
- ;O
 diligências;O
- ;O
 investigatórias;O
- ;O
 e;O
- ;O
 instauração;O
- ;O
 de;O
- ;O
 inquérito;O
- ;O
 policial;O
 ,;O
- ;O
 requisição;O
- ;O
 de;O
- ;O
 procedimentos;O
- ;O
 administrativos;O
- ;O
 etc;O
 .;O
 );O
 ,;O
- ;O
 certamente;O
 ,;O
- ;O
 não;O
- ;O
 podem;O
- ;O
 desbordar;O
- ;O
 da;O
- ;O
 sua;O
- ;O
 finalidade;O
 .;O
- ;O
 Cada;O
- ;O
 agente;O
- ;O
 de;O
- ;O
 poder;O
- ;O
 pertencente;O
- ;O
 ao;O
- ;O
 Parquet;O
- ;O
 deve;O
- ;O
 se;O
- ;O
 utilizar;O
- ;O
 dos;O
- ;O
 referidos;O
- ;O
 meios;O
- ;O
 no;O
- ;O
 estrito;O
- ;O
 âmbito;O
- ;O
 de;O
- ;O
 suas;O
- ;O
 atribuições;O
- ;O
 e;O
- ;O
 para;O
- ;O
 os;O
- ;O
 fins;O
- ;O
 institucionais;O
- ;O
 da;O
- ;O
 nobre;O
- ;O
 Instituição;O
 .;O
- ;O
 Não;O
- ;O
 se;O
- ;O
 pode;O
- ;O
 converter;O
- ;O
 em;O
- ;O
 um;O
- ;O
 mecanismo;O
- ;O
 de;O
- ;O
 vingança;O
- ;O
 privada;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 4;O
 .;O
- ;O
 No;O
- ;O
 que;O
- ;O
 diz;O
- ;O
 respeito;O
- ;O
 ao;O
- ;O
 crime;O
- ;O
 de;O
- ;O
 prevaricação;O
 ,;O
- ;O
 também;O
- ;O
 há;O
- ;O
 necessidade;O
- ;O
 de;O
- ;O
 continuidade;O
- ;O
 da;O
- ;O
 persecução;O
 .;O
- ;O
 Não;O
- ;O
 é;O
- ;O
 demais;O
- ;O
 relembrar;O
- ;O
 que;O
- ;O
 o;O
- ;O
 interesse;O
- ;O
 pessoal;O
- ;O
 é;O
- ;O
 qualquer;O
- ;O
 proveito;O
- ;O
 ou;O
- ;O
 vantagem;O
- ;O
 obtido;O
- ;O
 pelo;O
- ;O
 agente;O
 ,;O
- ;O
 de;O
- ;O
 índole;O
- ;O
 patrimonial;O
- ;O
 ou;O
- ;O
 moral;O
- ;O
 [;O
 .;O
 .;O
 .;O
 ];O
 ,;O
- ;O
 e;O
- ;O
 o;O
- ;O
 sentimento;O
- ;O
 pessoal;O
- ;O
 por;O
- ;O
 sua;O
- ;O
 vez;O
 ,;O
- ;O
 é;O
- ;O
 a;O
- ;O
 posição;O
- ;O
 afetiva;O
- ;O
 do;O
- ;O
 funcionário;O
- ;O
 público;O
- ;O
 relativamente;O
- ;O
 às;O
- ;O
 pessoas;O
- ;O
 ou;O
- ;O
 coisas;O
- ;O
 a;O
- ;O
 que;O
- ;O
 se;O
- ;O
 refere;O
- ;O
 a;O
- ;O
 conduta;O
- ;O
 a;O
- ;O
 ser;O
- ;O
 praticada;O
- ;O
 ou;O
- ;O
 omitida;O
- ;O
 (;O
 MASSON;B_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 Cléber;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 Código;I_Doutrina
- ;I_Doutrina
 Penal;I_Doutrina
- ;I_Doutrina
 Comentado;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 2ª;I_Doutrina
- ;I_Doutrina
 edição;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 São;I_Doutrina
- ;I_Doutrina
 Paulo;I_Doutrina
 :;I_Doutrina
- ;I_Doutrina
 Método;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 2014;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 pág;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 1146;I_Doutrina
 );I_Doutrina
 .;O
- ;O
 Portanto;O
 ,;O
- ;O
 em;O
- ;O
 sendo;O
- ;O
 confirmadas;O
- ;O
 as;O
- ;O
 acusações;O
 ,;O
- ;O
 da;O
- ;O
 forma;O
- ;O
 em;O
- ;O
 que;O
- ;O
 narradas;O
 ,;O
- ;O
 haveria;O
- ;O
 a;O
- ;O
 prática;O
- ;O
 de;O
- ;O
 conduta;O
 ,;O
- ;O
 contra;O
- ;O
 disposição;O
- ;O
 expressa;O
- ;O
 de;O
- ;O
 lei;O
 ,;O
- ;O
 para;O
- ;O
 satisfação;O
- ;O
 de;O
- ;O
 sentimento;O
- ;O
 (;O
 se;O
- ;O
 visava;O
- ;O
 apenas;O
- ;O
 punição;O
- ;O
 dos;O
- ;O
 agentes;O
- ;O
 que;O
- ;O
 o;O
- ;O
 contrariou;O
 );O
- ;O
 e;O
 /;O
 ou;O
- ;O
 interesse;O
- ;O
 pessoal;O
- ;O
 (;O
 se;O
- ;O
 visava;O
- ;O
 também;O
 ,;O
- ;O
 obliquamente;O
 ,;O
- ;O
 proveito;O
- ;O
 patrimonial;O
 );O
 .;O
- ;O
 "
 ";O
 "
 ";O
 5;O
 .;O
- ;O
 A;O
- ;O
 medida;O
- ;O
 cautelar;O
- ;O
 de;O
- ;O
 afastamento;O
- ;O
 do;O
- ;O
 cargo;O
 ,;O
- ;O
 por;O
- ;O
 ora;O
 ,;O
- ;O
 não;O
- ;O
 se;O
- ;O
 justifica;O
 ,;O
- ;O
 por;O
- ;O
 ausência;O
- ;O
 de;O
- ;O
 periculum;O
- ;O
 in;O
- ;O
 mora;O
- ;O
 .;O
- ;O
 Significaria;O
- ;O
 aplicar;O
 ,;O
- ;O
 antecipadamente;O
 ,;O
- ;O
 efeito;O
- ;O
 não;O
- ;O
 automático;O
- ;O
 da;O
- ;O
 condenação;O
- ;O
 (;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 92;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 CPB;I_Ref. Legislativa
 );I_Ref. Legislativa
 ,;O
- ;O
 tratando;O
 -;O
 se;O
- ;O
 de;O
- ;O
 verdadeira;O
- ;O
 punição;O
- ;O
 antecipada;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 6;O
 .;O
- ;O
 Denúncia;O
- ;O
 recebida;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 recurso;O
- ;O
 busca;O
- ;O
 fundamento;O
- ;O
 no;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 102;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 III;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 a;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Federal;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 A;O
- ;O
 parte;O
- ;O
 recorrente;O
- ;O
 alega;O
- ;O
 violação;O
- ;O
 aos;O
- ;O
 arts;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 "III;";I_Ref. Legislativa
- ;I_Ref. Legislativa
 5º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 XXXIV;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 XXXV;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 "LV;";I_Ref. Legislativa
- ;I_Ref. Legislativa
 127;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 129;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 Sustenta;O
- ;O
 que;O
 :;O
- ;O
 (;O
 i;O
 );O
- ;O
 a;O
- ;O
 exceção;O
- ;O
 de;O
- ;O
 impedimento;O
- ;O
 e;O
- ;O
 suspeição;O
- ;O
 se;O
- ;O
 baseou;O
- ;O
 em;O
- ;O
 fatos;O
- ;O
 e;O
- ;O
 provas;O
- ;O
 documentais;O
- ;O
 e;O
- ;O
 indicação;O
- ;O
 de;O
- ;O
 prova;O
- ;O
 oral;O
- ;O
 que;O
- ;O
 não;O
- ;O
 foram;O
- ;O
 admitidos;O
- ;O
 para;O
- ;O
 processamento;O
- ;O
 do;O
- ;O
 incidente;O
- ;O
 ";";O
- ;O
 (;O
 ii;O
 );O
- ;O
 com;O
- ;O
 relação;O
- ;O
 à;O
- ;O
 atuação;O
- ;O
 do;O
- ;O
 recorrente;O
 ,;O
- ;O
 nos;O
- ;O
 termos;O
- ;O
 dos;O
- ;O
 artigos;B_Ref. Legislativa
- ;I_Ref. Legislativa
 66;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 70;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Complementar;I_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 75/1993;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 tal;O
- ;O
 competência;O
- ;O
 foi;O
- ;O
 questionada;O
- ;O
 pelo;O
- ;O
 acórdão;O
- ;O
 recorrido;O
 ,;O
- ;O
 cujos;O
- ;O
 fundamentos;O
- ;O
 não;O
- ;O
 prosperam;O
- ;O
 para;O
- ;O
 o;O
- ;O
 recebimento;O
- ;O
 da;O
- ;O
 denúncia;O
- ;O
 ";";O
- ;O
 (;O
 iii;O
 );O
- ;O
 no;O
- ;O
 caso;O
 ,;O
- ;O
 o;O
- ;O
 recorrente;O
- ;O
 foi;O
- ;O
 apenas;O
- ;O
 autor;O
- ;O
 de;O
- ;O
 uma;O
- ;O
 notitia;O
- ;O
 criminis;O
- ;O
 ,;O
- ;O
 o;O
- ;O
 fazendo;O
- ;O
 na;O
- ;O
 condição;O
- ;O
 de;O
- ;O
 subprocurador;O
- ;O
 porque;O
 ,;O
- ;O
 evidenciada;O
- ;O
 a;O
- ;O
 prática;O
- ;O
 pelo;O
- ;O
 Condomínio;O
- ;O
 do;O
- ;O
 delito;O
- ;O
 contra;O
- ;O
 a;O
- ;O
 ordem;O
- ;O
 tributária;O
- ;O
 ";";O
- ;O
 (;O
 iv;O
 );O
- ;O
 todos;O
- ;O
 os;O
- ;O
 ofícios;O
- ;O
 subscritos;O
- ;O
 pelo;O
- ;O
 recorrente;O
- ;O
 foram;O
- ;O
 atos;O
- ;O
 oficiais;O
- ;O
 para;O
- ;O
 sustentar;O
- ;O
 a;O
- ;O
 razão;O
- ;O
 da;O
- ;O
 notitia;O
- ;O
 criminis;O
- ;O
 contra;O
- ;O
 o;O
- ;O
 condomínio;O
- ;O
 ";";O
- ;O
 (;O
 v;O
 );O
- ;O
 não;O
- ;O
 havendo;O
- ;O
 indícios;O
- ;O
 convincentes;O
 ,;O
- ;O
 não;O
- ;O
 se;O
- ;O
 pode;O
- ;O
 falar;O
- ;O
 na;O
- ;O
 existência;O
- ;O
 do;O
- ;O
 elemento;O
- ;O
 subjetivo;O
- ;O
 dos;O
- ;O
 tipos;O
- ;O
 penais;O
- ;O
 capitulados;O
- ;O
 na;O
- ;O
 denúncia;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 decisão;O
- ;O
 agravada;O
- ;O
 negou;O
- ;O
 seguimento;O
- ;O
 ao;O
- ;O
 recurso;O
- ;O
 sob;O
- ;O
 os;O
- ;O
 seguintes;O
- ;O
 fundamentos;O
 :;O
- ;O
 (;O
 i;O
 );O
- ;O
 o;O
- ;O
 Plenário;O
- ;O
 Virtual;O
- ;O
 da;O
- ;O
 Suprema;O
- ;O
 Corte;O
- ;O
 já;O
- ;O
 decidiu;O
 ,;O
- ;O
 nos;O
- ;O
 autos;O
- ;O
 do;O
- ;O
 ARE;B_Precedente
 -;I_Precedente
 RG;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 748.371;I_Precedente
 /;I_Precedente
 MT;I_Precedente
 ,;I_Precedente
- ;O
 que;O
- ;O
 não;O
- ;O
 possui;O
- ;O
 repercussão;O
- ;O
 geral;O
- ;O
 a;O
- ;O
 matéria;O
- ;O
 relativa;O
- ;O
 à;O
- ;O
 suposta;O
- ;O
 violação;O
- ;O
 aos;O
- ;O
 princípios;O
- ;O
 constitucionais;O
- ;O
 do;O
- ;O
 contraditório;O
 ,;O
- ;O
 da;O
- ;O
 ampla;O
- ;O
 defesa;O
 ,;O
- ;O
 dos;O
- ;O
 limites;O
- ;O
 da;O
- ;O
 coisa;O
- ;O
 julgada;O
- ;O
 e;O
- ;O
 do;O
- ;O
 devido;O
- ;O
 processo;O
- ;O
 legal;O
- ;O
 ";";O
- ;O
 (;O
 ii;O
 );O
- ;O
 incidem;O
 ,;O
- ;O
 no;O
- ;O
 caso;O
 ,;O
- ;O
 as;O
- ;O
 Súmulas;B_Precedente
- ;I_Precedente
 282;I_Precedente
- ;I_Precedente
 e;I_Precedente
- ;I_Precedente
 356;I_Precedente
 /;I_Precedente
 STF;I_Precedente
 .;I_Precedente
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 recurso;O
- ;O
 não;O
- ;O
 merece;O
- ;O
 seguimento;O
 .;O
- ;O
 De;O
- ;O
 início;O
 ,;O
- ;O
 ressalto;O
- ;O
 que;O
- ;O
 a;O
- ;O
 alegada;O
- ;O
 violação;O
- ;O
 aos;O
- ;O
 arts;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 "III;";I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 5º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 XXXIV;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 XXXV;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 nos;O
- ;O
 termos;O
- ;O
 trazidos;O
- ;O
 no;O
- ;O
 recurso;O
- ;O
 extraordinário;O
 ,;O
- ;O
 não;O
- ;O
 foi;O
- ;O
 objeto;O
- ;O
 de;O
- ;O
 apreciação;O
- ;O
 pelo;O
- ;O
 acórdão;O
- ;O
 do;O
- ;O
 Tribunal;O
- ;O
 de;O
- ;O
 origem;O
 ,;O
- ;O
 de;O
- ;O
 modo;O
- ;O
 que;O
- ;O
 o;O
- ;O
 recurso;O
- ;O
 extraordinário;O
- ;O
 carece;O
 ,;O
- ;O
 no;O
- ;O
 ponto;O
 ,;O
- ;O
 do;O
- ;O
 necessário;O
- ;O
 prequestionamento;O
 ,;O
- ;O
 nos;O
- ;O
 termos;O
- ;O
 da;O
- ;O
 Súmula;B_Precedente
- ;I_Precedente
 282;I_Precedente
 /;I_Precedente
 STF;I_Precedente
 .;I_Precedente
- ;O
 "
 ";O
 "
 ";O
 Por;O
- ;O
 ausência;O
- ;O
 de;O
- ;O
 questão;O
- ;O
 constitucional;O
 ,;O
- ;O
 o;O
- ;O
 Supremo;O
- ;O
 Tribunal;O
- ;O
 Federal;O
- ;O
 rejeitou;O
- ;O
 preliminar;O
- ;O
 de;O
- ;O
 repercussão;O
- ;O
 geral;O
- ;O
 relativa;O
- ;O
 à;O
- ;O
 controvérsia;O
- ;O
 sobre;O
- ;O
 suposta;O
- ;O
 violação;O
- ;O
 aos;O
- ;O
 princípios;O
- ;O
 do;O
- ;O
 contraditório;O
 ,;O
- ;O
 da;O
- ;O
 ampla;O
- ;O
 defesa;O
 ,;O
- ;O
 dos;O
- ;O
 limites;O
- ;O
 da;O
- ;O
 coisa;O
- ;O
 julgada;O
- ;O
 e;O
- ;O
 do;O
- ;O
 devido;O
- ;O
 processo;O
- ;O
 legal;O
- ;O
 (;O
 Tema;O
- ;O
 660;O
- ;O
 -;O
- ;O
 ARE;B_Precedente
- ;I_Precedente
 748.371;I_Precedente
 -;I_Precedente
 RG;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Rel;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Min;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Gilmar;I_Precedente
- ;I_Precedente
 Mendes;I_Precedente
 );I_Precedente
 .;O
- ;O
 "
 ";O
 "
 ";O
 Ademais;O
 ,;O
- ;O
 para;O
- ;O
 chegar;O
- ;O
 a;O
- ;O
 conclusão;O
- ;O
 diversa;O
- ;O
 do;O
- ;O
 acórdão;O
- ;O
 recorrido;O
 ,;O
- ;O
 seria;O
- ;O
 necessária;O
- ;O
 a;O
- ;O
 análise;O
- ;O
 da;O
- ;O
 legislação;O
- ;O
 infraconstitucional;O
- ;O
 pertinente;O
- ;O
 e;O
- ;O
 uma;O
- ;O
 nova;O
- ;O
 apreciação;O
- ;O
 dos;O
- ;O
 fatos;O
- ;O
 e;O
- ;O
 do;O
- ;O
 material;O
- ;O
 probatório;O
- ;O
 constante;O
- ;O
 dos;O
- ;O
 autos;O
- ;O
 (;O
 Súmula;B_Precedente
- ;I_Precedente
 279;I_Precedente
 /;I_Precedente
 STF;I_Precedente
 );I_Precedente
 ,;O
- ;O
 o;O
- ;O
 que;O
- ;O
 é;O
- ;O
 vedado;O
- ;O
 em;O
- ;O
 recurso;O
- ;O
 extraordinário;O
 .;O
- ;O
 Vejam;O
 -;O
 se;O
- ;O
 os;O
- ;O
 seguintes;O
- ;O
 trechos;O
- ;O
 do;O
- ;O
 voto;O
- ;O
 condutor;O
- ;O
 do;O
- ;O
 acórdão;O
- ;O
 recorrido;O
 :;O
- ;O
 [;O
 .;O
 .;O
 .;O
 ];O
- ;O
 No;O
- ;O
 caso;O
- ;O
 dos;O
- ;O
 autos;O
 ,;O
- ;O
 verifica;O
 -;O
 se;O
 ,;O
- ;O
 ainda;O
 ,;O
- ;O
 que;O
- ;O
 a;O
- ;O
 mera;O
- ;O
 alegação;O
- ;O
 de;O
- ;O
 disputas;O
- ;O
 institucionais;O
- ;O
 e;O
- ;O
 perseguição;O
- ;O
 ao;O
- ;O
 denunciado;O
- ;O
 não;O
- ;O
 são;O
- ;O
 suficientes;O
- ;O
 para;O
- ;O
 concluir;O
- ;O
 pela;O
- ;O
 suspeição;O
- ;O
 por;O
- ;O
 inimizade;O
- ;O
 capital;O
 ,;O
- ;O
 sobretudo;O
- ;O
 quando;O
- ;O
 se;O
- ;O
 percebe;O
 ,;O
- ;O
 dos;O
- ;O
 autos;O
 ,;O
- ;O
 que;O
- ;O
 a;O
- ;O
 decisão;O
- ;O
 pela;O
- ;O
 deflagração;O
- ;O
 de;O
- ;O
 ação;O
- ;O
 penal;O
 ,;O
- ;O
 com;O
- ;O
 oferecimento;O
- ;O
 de;O
- ;O
 denúncia;O
 ,;O
- ;O
 deu;O
 -;O
 se;O
- ;O
 por;O
- ;O
 representação;O
- ;O
 de;O
- ;O
 outro;O
- ;O
 órgão;O
- ;O
 ,;O
- ;O
 Corregedoria;O
 -;O
 Geral;O
- ;O
 da;O
- ;O
 Polícia;O
- ;O
 Federal;O
- ;O
 (;O
 mídia;O
- ;O
 anexada;O
- ;O
 aos;O
- ;O
 autos;O
- ;O
 à;O
- ;O
 fls;O
 .;O
- ;O
 22;O
- ;O
 -;O
- ;O
 arquivo;O
- ;O
 CSMPF;O
- ;O
 1.00.001.000128-2013-31;O
 -;O
 OCR;O
 );O
 .;O
- ;O
 Ademais;O
 ,;O
- ;O
 não;O
- ;O
 houve;O
- ;O
 obediência;O
- ;O
 aos;O
- ;O
 ditames;O
- ;O
 do;O
- ;O
 Código;O
- ;O
 de;O
- ;O
 Processo;O
- ;O
 Penal;O
- ;O
 para;O
- ;O
 sustentação;O
- ;O
 da;O
- ;O
 exceção;O
- ;O
 (;O
 arts;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 104;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 111;I_Ref. Legislativa
 );I_Ref. Legislativa
 .;O
- ;O
 […];O
- ;O
 1;O
 );O
- ;O
 Quanto;O
- ;O
 à;O
- ;O
 imputação;O
- ;O
 do;O
- ;O
 crime;O
- ;O
 de;O
- ;O
 falsificação;O
- ;O
 de;O
- ;O
 selo;O
- ;O
 ou;O
- ;O
 sinal;O
- ;O
 público;O
- ;O
 (;O
 arts;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 296;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 III;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 terceira;I_Ref. Legislativa
- ;I_Ref. Legislativa
 figura;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 na;I_Ref. Legislativa
- ;I_Ref. Legislativa
 forma;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 2º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Código;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Penal;I_Ref. Legislativa
 );I_Ref. Legislativa
 .;O
- ;O
 […];O
- ;O
 Alega;O
- ;O
 que;O
- ;O
 o;O
- ;O
 denunciado;O
- ;O
 invocou;O
- ;O
 sua;O
- ;O
 condição;O
- ;O
 funcional;O
 ,;O
- ;O
 solicitando;O
 ,;O
- ;O
 nos;O
- ;O
 mencionados;O
- ;O
 ofícios;O
 ,;O
- ;O
 abertura;O
- ;O
 de;O
- ;O
 ação;O
- ;O
 fiscal;O
- ;O
 e;O
- ;O
 instauração;O
- ;O
 de;O
- ;O
 inquérito;O
- ;O
 policial;O
- ;O
 em;O
- ;O
 face;O
- ;O
 de;O
- ;O
 pessoas;O
- ;O
 desprovidas;O
- ;O
 de;O
- ;O
 prerrogativa;O
- ;O
 de;O
- ;O
 foro;O
- ;O
 (;O
 no;O
- ;O
 caso;O
 ,;O
- ;O
 os;O
- ;O
 administradores;O
- ;O
 do;O
- ;O
 condomínio;O
 );O
 ,;O
- ;O
 o;O
- ;O
 que;O
- ;O
 caracterizou;O
- ;O
 atuação;O
- ;O
 fora;O
- ;O
 das;O
- ;O
 atribuições;O
- ;O
 do;O
- ;O
 seu;O
- ;O
 cargo;O
- ;O
 de;O
- ;O
 Subprocurador;O
 -;O
 Geral;O
- ;O
 da;O
- ;O
 República;O
 ,;O
- ;O
 em;O
- ;O
 contrariedade;O
- ;O
 ao;O
- ;O
 que;O
- ;O
 dispõem;O
- ;O
 os;O
- ;O
 arts;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 66;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 70;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Complementar;I_Ref. Legislativa
- ;I_Ref. Legislativa
 n;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 75/93;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 leitura;O
- ;O
 dos;O
- ;O
 fatos;O
- ;O
 narrados;O
 ,;O
- ;O
 em;O
- ;O
 consonância;O
- ;O
 com;O
- ;O
 os;O
- ;O
 elementos;O
- ;O
 mínimos;O
- ;O
 coligidos;O
- ;O
 aos;O
- ;O
 autos;O
- ;O
 denotam;O
- ;O
 adequação;O
- ;O
 típica;O
- ;O
 e;O
- ;O
 lastro;O
- ;O
 probatório;O
- ;O
 mínimo;O
 .;O
- ;O
 Isso;O
- ;O
 porque;O
 ,;O
- ;O
 em;O
- ;O
 que;O
- ;O
 pese;O
- ;O
 o;O
- ;O
 denunciado;O
- ;O
 sustentar;O
- ;O
 que;O
- ;O
 agiu;O
- ;O
 amparado;O
- ;O
 nas;O
- ;O
 atribuições;O
- ;O
 pertinentes;O
- ;O
 ao;O
- ;O
 cargo;O
 ,;O
- ;O
 para;O
- ;O
 levar;O
- ;O
 ao;O
- ;O
 conhecimento;O
- ;O
 notitia;O
- ;O
 criminis;O
- ;O
 de;O
- ;O
 ilícito;O
- ;O
 contra;O
- ;O
 a;O
- ;O
 ordem;O
- ;O
 tributária;O
- ;O
 (;O
 menciona;O
- ;O
 o;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 inciso;I_Ref. Legislativa
- ;I_Ref. Legislativa
 I;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 n;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 8.137/90;I_Ref. Legislativa
 );I_Ref. Legislativa
 ,;O
- ;O
 o;O
- ;O
 que;O
- ;O
 se;O
- ;O
 verifica;O
 ,;O
- ;O
 em;O
- ;O
 juízo;O
- ;O
 de;O
- ;O
 delibação;O
 ,;O
- ;O
 são;O
- ;O
 indícios;O
- ;O
 de;O
- ;O
 que;O
- ;O
 fez;O
- ;O
 uso;O
- ;O
 indevido;O
- ;O
 dos;O
- ;O
 mencionados;O
- ;O
 símbolos;O
 .;O
- ;O
 […];O
- ;O
 Em;O
- ;O
 sua;O
- ;O
 defesa;O
 ,;O
- ;O
 o;O
- ;O
 denunciado;O
- ;O
 sustenta;O
- ;O
 que;O
- ;O
 É;O
- ;O
 preciso;O
- ;O
 que;O
- ;O
 se;O
- ;O
 interprete;O
- ;O
 a;O
- ;O
 LC;B_Ref. Legislativa
- ;I_Ref. Legislativa
 n;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 75/93;I_Ref. Legislativa
- ;I_Ref. Legislativa
 quando;O
- ;O
 ela;O
 ,;O
- ;O
 no;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 7º;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 8º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 estabelece;O
- ;O
 os;O
- ;O
 instrumentos;O
- ;O
 de;O
- ;O
 atuação;O
- ;O
 do;O
- ;O
 MPU;O
- ;O
 como;O
- ;O
 um;O
- ;O
 todo;O
- ;O
 e;O
- ;O
 não;O
- ;O
 individualiza;O
- ;O
 tais;O
- ;O
 atribuições;O
- ;O
 a;O
- ;O
 esta;O
- ;O
 ou;O
- ;O
 àquela;O
- ;O
 categoria;O
- ;O
 na;O
- ;O
 Instituição;O
- ;O
 .;O
- ;O
 Não;O
- ;O
 obstante;O
 ,;O
- ;O
 tais;O
- ;O
 instrumentos;O
- ;O
 de;O
- ;O
 atuação;O
- ;O
 (;O
 transcrevo;O
- ;O
 alguns;O
- ;O
 constantes;O
- ;O
 dos;O
- ;O
 dispositivos;O
- ;O
 supramencionados;O
 :;O
- ;O
 inquérito;O
- ;O
 civil;O
 ,;O
- ;O
 requisição;O
- ;O
 de;O
- ;O
 diligências;O
- ;O
 investigatórias;O
- ;O
 e;O
- ;O
 instauração;O
- ;O
 de;O
- ;O
 inquérito;O
- ;O
 policial;O
 ,;O
- ;O
 requisição;O
- ;O
 de;O
- ;O
 procedimentos;O
- ;O
 administrativos;O
- ;O
 etc;O
 .;O
 );O
 ,;O
- ;O
 certamente;O
 ,;O
- ;O
 não;O
- ;O
 podem;O
- ;O
 desbordar;O
- ;O
 da;O
- ;O
 sua;O
- ;O
 finalidade;O
 .;O
- ;O
 Não;O
- ;O
 podem;O
- ;O
 configurar;O
- ;O
 desvio;O
- ;O
 de;O
- ;O
 finalidade;O
 .;O
- ;O
 Cada;O
- ;O
 agente;O
- ;O
 de;O
- ;O
 poder;O
- ;O
 pertencente;O
- ;O
 ao;O
- ;O
 Parquet;O
- ;O
 deve;O
- ;O
 se;O
- ;O
 utilizar;O
- ;O
 dos;O
- ;O
 referidos;O
- ;O
 meios;O
- ;O
 no;O
- ;O
 estrito;O
- ;O
 âmbito;O
- ;O
 de;O
- ;O
 suas;O
- ;O
 atribuições;O
- ;O
 e;O
- ;O
 para;O
- ;O
 os;O
- ;O
 fins;O
- ;O
 institucionais;O
- ;O
 da;O
- ;O
 nobre;O
- ;O
 Instituição;O
 .;O
- ;O
 Não;O
- ;O
 se;O
- ;O
 pode;O
- ;O
 converter;O
- ;O
 em;O
- ;O
 um;O
- ;O
 mecanismo;O
- ;O
 de;O
- ;O
 vingança;O
- ;O
 privada;O
 .;O
- ;O
 Em;O
- ;O
 outras;O
- ;O
 palavras;O
 ,;O
- ;O
 membro;O
- ;O
 do;O
- ;O
 Ministério;O
- ;O
 Público;O
- ;O
 Federal;O
- ;O
 somente;O
- ;O
 pode;O
- ;O
 fazer;O
- ;O
 uso;O
- ;O
 dos;O
- ;O
 instrumentos;O
- ;O
 institucionais;O
- ;O
 de;O
- ;O
 atuação;O
- ;O
 quando;O
- ;O
 está;O
- ;O
 no;O
- ;O
 uso;O
- ;O
 das;O
- ;O
 atribuições;O
- ;O
 legais;O
 .;O
- ;O
 […];O
- ;O
 2;O
 );O
- ;O
 Quanto;O
- ;O
 à;O
- ;O
 imputação;O
- ;O
 do;O
- ;O
 crime;O
- ;O
 de;O
- ;O
 prevaricação;O
- ;O
 (;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 "
 ";I_Ref. Legislativa
 "
 ";I_Ref. Legislativa
 319;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Código;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Penal;I_Ref. Legislativa
 );I_Ref. Legislativa
 .;O
- ;O
 […];O
- ;O
 Como;O
- ;O
 bem;O
- ;O
 lançado;O
- ;O
 na;O
- ;O
 peça;O
- ;O
 acusatória;O
 ,;O
- ;O
 há;O
- ;O
 alguns;O
- ;O
 indícios;O
- ;O
 que;O
- ;O
 apontam;O
- ;O
 para;O
- ;O
 uma;O
- ;O
 utilização;O
- ;O
 da;O
- ;O
 função;O
- ;O
 em;O
- ;O
 benefício;O
- ;O
 privado;O
 ,;O
- ;O
 com;O
- ;O
 a;O
- ;O
 prática;O
- ;O
 de;O
- ;O
 atos;O
- ;O
 (;O
 quais;O
- ;O
 sejam;O
 :;O
- ;O
 expedição;O
- ;O
 dos;O
- ;O
 ofícios;O
 );O
- ;O
 com;O
- ;O
 desvio;O
- ;O
 de;O
- ;O
 finalidade;O
- ;O
 e;O
- ;O
 alijados;O
- ;O
 das;O
- ;O
 suas;O
- ;O
 atribuições;O
- ;O
 de;O
- ;O
 Subprocurador;O
 -;O
 Geral;O
- ;O
 da;O
- ;O
 República;O
- ;O
 (;O
 portanto;O
 ,;O
- ;O
 contra;O
- ;O
 disposição;O
- ;O
 expressa;O
- ;O
 de;O
- ;O
 lei;O
 );O
 ,;O
- ;O
 quais;O
- ;O
 sejam;O
 :;O
- ;O
 1;O
 );O
- ;O
 há;O
- ;O
 troca;O
- ;O
 de;O
- ;O
 correspondências;O
- ;O
 com;O
- ;O
 o;O
- ;O
 síndico;O
- ;O
 do;O
- ;O
 condomínio;O
- ;O
 do;O
- ;O
 Edifício;O
- ;O
 Centro;O
- ;O
 Empresarial;O
- ;O
 de;O
- ;O
 Brasília;O
 ,;O
- ;O
 nas;O
- ;O
 quais;O
- ;O
 o;O
- ;O
 denunciado;O
- ;O
 fundamentava;O
- ;O
 a;O
- ;O
 solicitação;O
- ;O
 de;O
- ;O
 informação;O
- ;O
 correlata;O
- ;O
 no;O
- ;O
 escopo;O
- ;O
 exclusivamente;O
- ;O
 privado;O
- ;O
 de;O
- ;O
 fiscalizar;O
- ;O
 a;O
- ;O
 respectiva;O
- ;O
 "administração;";O
- ;O
 2;O
 );O
- ;O
 o;O
- ;O
 denunciado;O
- ;O
 nunca;O
- ;O
 mencionou;O
- ;O
 ao;O
- ;O
 condomínio;O
- ;O
 do;O
- ;O
 Edifício;O
- ;O
 Centro;O
- ;O
 Empresarial;O
- ;O
 de;O
- ;O
 Brasília;O
- ;O
 o;O
- ;O
 dever;O
- ;O
 instrumental;O
- ;O
 em;O
- ;O
 "questão;";O
- ;O
 3;O
 );O
- ;O
 o;O
- ;O
 denunciado;O
- ;O
 nunca;O
- ;O
 informou;O
- ;O
 ao;O
- ;O
 Procurador;O
 -;O
 Geral;O
- ;O
 da;O
- ;O
 República;O
- ;O
 ou;O
- ;O
 ao;O
- ;O
 Secretário;O
 -;O
 Geral;O
- ;O
 do;O
- ;O
 Ministério;O
- ;O
 Público;O
- ;O
 da;O
- ;O
 União;O
- ;O
 de;O
- ;O
 que;O
- ;O
 o;O
- ;O
 condomínio;O
- ;O
 do;O
- ;O
 Edifício;O
- ;O
 Centro;O
- ;O
 Empresarial;O
- ;O
 de;O
- ;O
 Brasília;O
- ;O
 lhe;O
- ;O
 estaria;O
- ;O
 causando;O
- ;O
 dificuldades;O
- ;O
 para;O
- ;O
 cumprir;O
- ;O
 o;O
- ;O
 dever;O
- ;O
 instrumental;O
- ;O
 em;O
- ;O
 "questão;";O
- ;O
 4;O
 );O
- ;O
 a;O
- ;O
 tutela;O
- ;O
 do;O
- ;O
 exercício;O
- ;O
 do;O
- ;O
 dever;O
- ;O
 instrumental;O
- ;O
 em;O
- ;O
 questão;O
- ;O
 não;O
- ;O
 se;O
- ;O
 encarta;O
- ;O
 nas;O
- ;O
 atribuições;O
- ;O
 do;O
- ;O
 cargo;O
- ;O
 de;O
- ;O
 Subprocurador;O
 -;O
 Geral;O
- ;O
 da;O
- ;O
 "República;";O
- ;O
 5;O
 );O
- ;O
 o;O
- ;O
 denunciado;O
- ;O
 incorre;O
 ,;O
- ;O
 no;O
- ;O
 manejo;O
- ;O
 de;O
- ;O
 termos;O
- ;O
 jurídicos;O
- ;O
 nos;O
- ;O
 ofícios;O
 ,;O
- ;O
 em;O
- ;O
 oscilação;O
- ;O
 incompatível;O
- ;O
 com;O
- ;O
 o;O
- ;O
 saber;O
- ;O
 e;O
- ;O
 a;O
- ;O
 experiência;O
- ;O
 de;O
- ;O
 um;O
- ;O
 Subprocurador;O
 -;O
 Geral;O
- ;O
 da;O
- ;O
 República;O
- ;O
 e;O
- ;O
 denotativa;O
- ;O
 do;O
- ;O
 vezo;O
- ;O
 de;O
- ;O
 criar;O
- ;O
 obscuridade;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Tais;O
- ;O
 indícios;O
 ,;O
- ;O
 diga;O
 -;O
 se;O
- ;O
 de;O
- ;O
 passagem;O
 ,;O
- ;O
 não;O
- ;O
 foram;O
- ;O
 combatidos;O
 ,;O
- ;O
 em;O
- ;O
 defesa;O
- ;O
 preliminar;O
 ,;O
- ;O
 pelo;O
- ;O
 denunciado;O
 ,;O
- ;O
 permanecendo;O
 ,;O
- ;O
 portanto;O
 ,;O
- ;O
 como;O
- ;O
 elementos;O
- ;O
 iniciais;O
- ;O
 de;O
- ;O
 suspeita;O
- ;O
 idônea;O
- ;O
 da;O
- ;O
 materialidade;O
 .;O
- ;O
 […];O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Diante;O
- ;O
 do;O
- ;O
 exposto;O
 ,;O
- ;O
 com;O
- ;O
 base;O
- ;O
 no;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 21;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 RI;I_Ref. Legislativa
 /;I_Ref. Legislativa
 STF;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 nego;O
- ;O
 seguimento;O
- ;O
 ao;O
- ;O
 recurso;O
 .;O
- ;O
 […];O
 .;O
 ”;O
- ;O
 "
 ";O
 "
 ";O
 2;O
 .;O
- ;O
 A;O
- ;O
 parte;O
- ;O
 agravante;O
- ;O
 alega;O
- ;O
 que;O
 :;O
- ;O
 (;O
 i;O
 );O
- ;O
 “acabou;O
- ;O
 a;O
- ;O
 decisão;O
- ;O
 recorrida;O
- ;O
 contrariando;O
- ;O
 o;O
- ;O
 próprio;O
- ;O
 enunciado;O
- ;O
 nº;O
- ;O
 279;O
- ;O
 da;O
- ;O
 Súmula;O
- ;O
 deste;O
- ;O
 Colendo;O
- ;O
 Tribunal;O
 ,;O
- ;O
 porque;O
- ;O
 toda;O
- ;O
 a;O
- ;O
 matéria;O
- ;O
 constante;O
- ;O
 da;O
- ;O
 decisão;O
- ;O
 do;O
- ;O
 recebimento;O
- ;O
 da;O
- ;O
 denúncia;O
- ;O
 envolve;O
- ;O
 o;O
- ;O
 exame;O
- ;O
 da;O
- ;O
 conduta;O
- ;O
 do;O
- ;O
 agravante;O
- ;O
 e;O
- ;O
 sua;O
- ;O
 atuação;O
- ;O
 como;O
- ;O
 membro;O
- ;O
 do;O
- ;O
 Ministério;O
- ;O
 Público;O
- ;O
 Federal;O
- ;O
 e;O
- ;O
 atribuições;O
- ;O
 constitucionais;O
- ;O
 e;O
- ;O
 infraconstitucionais;O
- ;O
 à;O
- ;O
 luz;O
- ;O
 da;O
- ;O
 Lei;B_Ref. Legislativa
- ;I_Ref. Legislativa
 Complementar;I_Ref. Legislativa
- ;I_Ref. Legislativa
 n;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 "75/93”;";O
- ;O
 (;O
 ii;O
 );O
- ;O
 “os;O
- ;O
 arts;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 7º;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 8º;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Complementar;I_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 75;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 remetem;O
- ;O
 a;O
- ;O
 C/88;O
 ,;O
- ;O
 quanto;O
- ;O
 às;O
- ;O
 funções;O
- ;O
 institucionais;O
- ;O
 e;O
- ;O
 os;O
- ;O
 instrumentos;O
- ;O
 de;O
- ;O
 atuação;O
- ;O
 do;O
- ;O
 Ministério;O
- ;O
 Público;O
 ,;O
- ;O
 de;O
- ;O
 modo;O
- ;O
 que;O
- ;O
 não;O
- ;O
 se;O
- ;O
 pode;O
- ;O
 concluir;O
- ;O
 pela;O
- ;O
 falta;O
- ;O
 de;O
- ;O
 repercussão;O
- ;O
 geral;O
- ;O
 e;O
- ;O
 o;O
- ;O
 tema;O
- ;O
 de;O
- ;O
 matéria;O
- ;O
 constitucional;O
 ,;O
- ;O
 porque;O
- ;O
 as;O
- ;O
 funções;O
- ;O
 do;O
- ;O
 Ministério;O
- ;O
 Público;O
- ;O
 em;O
- ;O
 todos;O
- ;O
 os;O
- ;O
 seus;O
- ;O
 ramos;O
- ;O
 está;O
- ;O
 contida;O
- ;O
 na;O
- ;O
 CF/88;B_Ref. Legislativa
- ;I_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 127;I_Ref. Legislativa
- ;I_Ref. Legislativa
 a;I_Ref. Legislativa
- ;I_Ref. Legislativa
 "129”;";O
- ;O
 (;O
 iii;O
 );O
- ;O
 “não;O
- ;O
 se;O
- ;O
 pode;O
- ;O
 obstar;O
- ;O
 o;O
- ;O
 prequestionamento;O
- ;O
 para;O
- ;O
 a;O
- ;O
 subida;O
- ;O
 do;O
- ;O
 Recurso;O
- ;O
 Extraordinário;O
 ,;O
- ;O
 devido;O
- ;O
 o;O
- ;O
 princípio;O
- ;O
 da;O
- ;O
 segurança;O
- ;O
 jurídica;O
- ;O
 e;O
- ;O
 da;O
- ;O
 proteção;O
- ;O
 das;O
- ;O
 garantias;O
- ;O
 processuais;O
- ;O
 penais;O
- ;O
 para;O
- ;O
 se;O
- ;O
 permitir;O
- ;O
 a;O
- ;O
 subsistência;O
- ;O
 de;O
- ;O
 uma;O
- ;O
 denúncia;O
- ;O
 subscrita;O
- ;O
 por;O
- ;O
 autoridade;O
- ;O
 arguida;O
- ;O
 de;O
- ;O
 suspeita;O
- ;O
 pela;O
- ;O
 evidente;O
- ;O
 parcialidade;O
- ;O
 e;O
- ;O
 inimizade;O
- ;O
 pessoal;O
- ;O
 do;O
- ;O
 Sr;O
 .;O
- ;O
 PGR;O
- ;O
 com;O
- ;O
 o;O
- ;O
 recorrente”;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 3;O
 .;O
- ;O
 É;O
- ;O
 o;O
- ;O
 relatório;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 28/06/2016;O
- ;O
 PRIMEIRA;O
- ;O
 TURMA;O
- ;O
 "
 ";O
 "
@@ -4773,478 +2698,281 @@ AG;O
 .;O
 REG;O
 .;O
- ;O
 NO;O
- ;O
 RECURSO;O
- ;O
 EXTRAORDINÁRIO;O
- ;O
 COM;O
- ;O
 AGRAVO;O
- ;O
 961.557;O
- ;O
 DISTRITO;O
- ;O
 FEDERAL;O
- ;O
 "
 ";O
 "
 ";O
 V;O
- ;O
 O;O
- ;O
 T;O
- ;O
 O;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 SENHOR;B_Pessoa
- ;I_Pessoa
 MINISTRO;I_Pessoa
- ;I_Pessoa
 LUÍS;I_Pessoa
- ;I_Pessoa
 ROBERTO;I_Pessoa
- ;I_Pessoa
 BARROSO;I_Pessoa
- ;I_Pessoa
 (;O
 RELATOR;O
 );O
 :;O
- ;O
 "
 ";O
 "
 ";O
 1;O
 .;O
- ;O
 O;O
- ;O
 recurso;O
- ;O
 não;O
- ;O
 deve;O
- ;O
 ser;O
- ;O
 provido;O
 ,;O
- ;O
 tendo;O
- ;O
 em;O
- ;O
 vista;O
- ;O
 que;O
- ;O
 a;O
- ;O
 parte;O
- ;O
 recorrente;O
- ;O
 não;O
- ;O
 trouxe;O
- ;O
 novos;O
- ;O
 argumentos;O
- ;O
 suficientes;O
- ;O
 para;O
- ;O
 modificar;O
- ;O
 a;O
- ;O
 decisão;O
- ;O
 ora;O
- ;O
 agravada;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 2;O
 .;O
- ;O
 Ttal;O
- ;O
 como;O
- ;O
 consta;O
- ;O
 na;O
- ;O
 decisão;O
- ;O
 agravada;O
 ,;O
- ;O
 a;O
- ;O
 alegada;O
- ;O
 violação;O
- ;O
 aos;O
- ;O
 arts;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 "III;";I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 5º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 XXXIV;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 XXXV;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 nos;O
- ;O
 termos;O
- ;O
 trazidos;O
- ;O
 no;O
- ;O
 recurso;O
- ;O
 extraordinário;O
 ,;O
- ;O
 não;O
- ;O
 foi;O
- ;O
 objeto;O
- ;O
 de;O
- ;O
 apreciação;O
- ;O
 pelo;O
- ;O
 acórdão;O
- ;O
 do;O
- ;O
 Tribunal;O
- ;O
 de;O
- ;O
 origem;O
 ,;O
- ;O
 de;O
- ;O
 modo;O
- ;O
 que;O
- ;O
 o;O
- ;O
 recurso;O
- ;O
 extraordinário;O
- ;O
 carece;O
 ,;O
- ;O
 no;O
- ;O
 ponto;O
 ,;O
- ;O
 do;O
- ;O
 necessário;O
- ;O
 prequestionamento;O
 ,;O
- ;O
 nos;O
- ;O
 termos;O
- ;O
 da;O
- ;O
 Súmula;B_Precedente
- ;I_Precedente
 282;I_Precedente
 /;I_Precedente
 STF;I_Precedente
 .;I_Precedente
- ;O
 3;O
 .;O
- ;O
 Ademais;O
 ,;O
- ;O
 por;O
- ;O
 ausência;O
- ;O
 de;O
- ;O
 questão;O
- ;O
 constitucional;O
 ,;O
- ;O
 o;O
- ;O
 Supremo;O
- ;O
 Tribunal;O
- ;O
 Federal;O
- ;O
 rejeitou;O
- ;O
 preliminar;O
- ;O
 de;O
- ;O
 repercussão;O
- ;O
 geral;O
- ;O
 relativa;O
- ;O
 à;O
- ;O
 controvérsia;O
- ;O
 sobre;O
- ;O
 suposta;O
- ;O
 violação;O
- ;O
 aos;O
- ;O
 princípios;O
- ;O
 do;O
- ;O
 contraditório;O
 ,;O
- ;O
 da;O
- ;O
 ampla;O
- ;O
 defesa;O
 ,;O
- ;O
 dos;O
- ;O
 limites;O
- ;O
 da;O
- ;O
 coisa;O
- ;O
 julgada;O
- ;O
 e;O
- ;O
 do;O
- ;O
 devido;O
- ;O
 processo;O
- ;O
 legal;O
- ;O
 (;O
 Tema;O
- ;O
 660;O
- ;O
 -;O
- ;O
 ARE;B_Precedente
- ;I_Precedente
 748.371;I_Precedente
 -;I_Precedente
 RG;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Rel;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Min;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Gilmar;I_Precedente
- ;I_Precedente
 Mendes;I_Precedente
 );I_Precedente
 .;O
- ;O
 "
 ";O
 "
 ";O
 4;O
 .;O
- ;O
 A;O
- ;O
 solução;O
- ;O
 da;O
- ;O
 controvérsia;O
- ;O
 pressupõe;O
 ,;O
- ;O
 necessariamente;O
 ,;O
- ;O
 a;O
- ;O
 análise;O
- ;O
 de;O
- ;O
 legislação;O
- ;O
 infraconstitucional;O
- ;O
 pertinente;O
- ;O
 e;O
- ;O
 o;O
- ;O
 reexame;O
- ;O
 dos;O
- ;O
 fatos;O
- ;O
 e;O
- ;O
 do;O
- ;O
 material;O
- ;O
 probatório;O
- ;O
 contantes;O
- ;O
 dos;O
- ;O
 autos;O
- ;O
 (;O
 Súmula;B_Precedente
- ;I_Precedente
 279;I_Precedente
 /;I_Precedente
 STF;I_Precedente
 );I_Precedente
 ,;O
- ;O
 o;O
- ;O
 que;O
- ;O
 torna;O
- ;O
 inviável;O
- ;O
 o;O
- ;O
 processamento;O
- ;O
 do;O
- ;O
 recurso;O
- ;O
 extraordinário;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 5;O
 .;O
- ;O
 Diante;O
- ;O
 do;O
- ;O
 exposto;O
 ,;O
- ;O
 nego;O
- ;O
 provimento;O
- ;O
 ao;O
- ;O
 agravo;O
- ;O
 regimental;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 EXTRATO;O
- ;O
 DE;O
- ;O
 ATA;O
- ;O
 "
 ";O
 "
 ";O
 PRIMEIRA;O
- ;O
 TURMA;O
- ;O
 "
 ";O
 "
@@ -5253,47 +2981,29 @@ AG;O
 .;O
 REG;O
 .;O
- ;O
 NO;O
- ;O
 RECURSO;O
- ;O
 EXTRAORDINÁRIO;O
- ;O
 COM;O
- ;O
 AGRAVO;O
- ;O
 961.557PROCED;O
 .;O
- ;O
 :;O
- ;O
 DISTRITO;O
- ;O
 FEDERALRELATOR;O
- ;O
 :;O
- ;O
 MIN;B_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 ROBERTO;I_Pessoa
- ;I_Pessoa
 BARROSOAGTE;O
 .;O
 (;O
 S;O
 );O
- ;O
 :;O
- ;O
 MOACIR;B_Pessoa
- ;I_Pessoa
 GUIMARÃES;I_Pessoa
- ;I_Pessoa
 MORAIS;I_Pessoa
- ;I_Pessoa
 FILHOADV;O
 .;O
 (;O
@@ -5301,23 +3011,16 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
- ;O
 MOACIR;B_Pessoa
- ;I_Pessoa
 GUIMARAES;I_Pessoa
- ;I_Pessoa
 MORAIS;I_Pessoa
- ;I_Pessoa
 FILHO;I_Pessoa
- ;I_Pessoa
 (;O
 19525;O
 /;O
 DF;O
 ,;O
- ;O
 001226;O
 /;O
 PA;O
@@ -5329,13 +3032,9 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
- ;O
 MINISTÉRIO;O
- ;O
 PÚBLICO;O
- ;O
 FEDERALPROC;O
 .;O
 (;O
@@ -5346,160 +3045,95 @@ S;O
 (;O
 ES;O
 );O
- ;O
 :;O
- ;O
 PROCURADOR;O
 -;O
 GERAL;O
- ;O
 DA;O
- ;O
 REPÚBLICA;O
- ;O
 "
 ";O
 "
 ";O
 Decisão;O
 :;O
- ;O
 A;O
- ;O
 Turma;O
- ;O
 negou;O
- ;O
 provimento;O
- ;O
 ao;O
- ;O
 agravo;O
- ;O
 regimental;O
 ,;O
- ;O
 nos;O
- ;O
 termos;O
- ;O
 do;O
- ;O
 voto;O
- ;O
 do;O
- ;O
 Relator;O
 .;O
- ;O
 Unânime;O
 .;O
- ;O
 Não;O
- ;O
 participaram;O
 ,;O
- ;O
 justificadamente;O
 ,;O
- ;O
 deste;O
- ;O
 julgamento;O
 ,;O
- ;O
 os;O
- ;O
 Senhores;B_Pessoa
- ;I_Pessoa
 Ministros;I_Pessoa
- ;I_Pessoa
 Luiz;I_Pessoa
- ;I_Pessoa
 Fux;I_Pessoa
- ;I_Pessoa
 e;O
- ;O
 Rosa;B_Pessoa
- ;I_Pessoa
 Weber;I_Pessoa
 .;I_Pessoa
- ;O
 Presidência;O
- ;O
 do;O
- ;O
 Senhor;B_Pessoa
- ;I_Pessoa
 Ministro;I_Pessoa
- ;I_Pessoa
 Luís;I_Pessoa
- ;I_Pessoa
 Roberto;I_Pessoa
- ;I_Pessoa
 Barroso;I_Pessoa
 .;I_Pessoa
- ;O
 1ª;O
- ;O
 Turma;O
 ,;O
- ;O
 28.6.2016;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Presidência;O
- ;O
 do;O
- ;O
 Senhor;B_Pessoa
- ;I_Pessoa
 Ministro;I_Pessoa
- ;I_Pessoa
 Luís;I_Pessoa
- ;I_Pessoa
 Roberto;I_Pessoa
- ;I_Pessoa
 Barroso;I_Pessoa
 .;I_Pessoa
- ;O
 Presentes;O
- ;O
 à;O
- ;O
 Sessão;O
- ;O
 os;O
- ;O
 Senhores;B_Pessoa
- ;I_Pessoa
 Ministros;I_Pessoa
- ;I_Pessoa
 Marco;I_Pessoa
- ;I_Pessoa
 Aurélio;I_Pessoa
 ,;I_Pessoa
- ;O
 Luiz;B_Pessoa
- ;I_Pessoa
 Fux;I_Pessoa
 ,;I_Pessoa
- ;O
 Rosa;B_Pessoa
- ;I_Pessoa
 Weber;I_Pessoa
- ;I_Pessoa
 e;O
- ;O
 Edson;B_Pessoa
- ;I_Pessoa
 Fachin;I_Pessoa
 .;I_Pessoa
- ;O
 "
 ";O
 "
@@ -5507,54 +3141,38 @@ Fachin;I_Pessoa
 Subprocuradora;O
 -;O
 Geral;O
- ;O
 da;O
- ;O
 República;O
 ,;O
- ;O
 Dra;B_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 Cláudia;I_Pessoa
- ;I_Pessoa
 Sampaio;I_Pessoa
- ;I_Pessoa
 "
 ";I_Pessoa
 "
 ";I_Pessoa
 Marques;I_Pessoa
 .;I_Pessoa
- ;O
 "
 ";O
 "
 ";O
 Carmen;B_Pessoa
- ;I_Pessoa
 Lilian;I_Pessoa
- ;I_Pessoa
 Oliveira;I_Pessoa
- ;I_Pessoa
 de;I_Pessoa
- ;I_Pessoa
 Souza;I_Pessoa
- ;I_Pessoa
 "
 ";I_Pessoa
 "
 ";O
 Secretária;O
- ;O
 da;O
- ;O
 Primeira;O
- ;O
 Turma;O
 "
 ";O
 id;O
 :;O
- ;O
 20160815_ARE_961557_310104317;O

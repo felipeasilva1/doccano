@@ -1,6 +1,5 @@
 Token;Tag
 DECISÃO;O
- ;O
 "
 ";O
 "
@@ -8,5184 +7,2899 @@ DECISÃO;O
 Trata;O
 -;O
 se;O
- ;O
 de;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 impetrado;O
- ;O
 por;O
- ;O
 Maurício;B_Pessoa
- ;I_Pessoa
 Luís;I_Pessoa
- ;I_Pessoa
 Pereira;I_Pessoa
- ;I_Pessoa
 Pinto;I_Pessoa
- ;I_Pessoa
 e;O
- ;O
 Outro;O
- ;O
 em;O
- ;O
 favor;O
- ;O
 de;O
- ;O
 Rodrigo;B_Pessoa
- ;I_Pessoa
 Monteiro;I_Pessoa
- ;I_Pessoa
 contra;O
- ;O
 acórdão;O
- ;O
 do;O
- ;O
 Superior;O
- ;O
 Tribunal;O
- ;O
 Militar;O
- ;O
 que;O
- ;O
 denegou;O
- ;O
 a;O
- ;O
 ordem;O
- ;O
 no;O
- ;O
 HC;B_Precedente
- ;I_Precedente
 158-48.2012.7.00.0000;I_Precedente
 .;I_Precedente
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 paciente;O
- ;O
 foi;O
- ;O
 denunciado;O
- ;O
 pela;O
- ;O
 suposta;O
- ;O
 prática;O
- ;O
 dos;O
- ;O
 crimes;O
- ;O
 de;O
- ;O
 ofensa;O
- ;O
 às;O
- ;O
 Forças;O
- ;O
 Armadas;O
- ;O
 e;O
- ;O
 de;O
- ;O
 denunciação;O
- ;O
 caluniosa;O
- ;O
 (;O
 arts;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 343;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 219;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 CPM;I_Ref. Legislativa
 );I_Ref. Legislativa
 .;O
- ;O
 Consta;O
- ;O
 ter;O
- ;O
 sido;O
- ;O
 instaurado;O
- ;O
 inquérito;O
- ;O
 penal;O
- ;O
 militar;O
 ,;O
- ;O
 a;O
- ;O
 requerimento;O
- ;O
 do;O
- ;O
 Ministério;O
- ;O
 Público;O
- ;O
 Militar;O
 ,;O
- ;O
 após;O
- ;O
 o;O
- ;O
 paciente;O
 ,;O
- ;O
 ex;O
 -;O
 sargento;O
- ;O
 do;O
- ;O
 Exército;O
 ,;O
- ;O
 oferecer;O
- ;O
 representação;O
- ;O
 e;O
- ;O
 notitia;O
- ;O
 criminis;O
- ;O
 contra;O
- ;O
 seu;O
- ;O
 antigo;O
- ;O
 superior;O
 ,;O
- ;O
 à;O
- ;O
 época;O
- ;O
 Major;O
- ;O
 do;O
- ;O
 Exército;O
 ,;O
- ;O
 pelos;O
- ;O
 crimes;O
- ;O
 de;O
- ;O
 calúnia;O
 ,;O
- ;O
 difamação;O
- ;O
 e;O
- ;O
 abuso;O
- ;O
 de;O
- ;O
 autoridade;O
 ,;O
- ;O
 narrando;O
- ;O
 fatos;O
- ;O
 que;O
- ;O
 supostamente;O
- ;O
 sabia;O
- ;O
 serem;O
- ;O
 inverídicos;O
 .;O
- ;O
 Também;O
- ;O
 teria;O
- ;O
 publicado;O
- ;O
 em;O
- ;O
 sítio;O
- ;O
 eletrônico;O
- ;O
 pessoal;O
- ;O
 (;O
 blog;O
 );O
- ;O
 notícias;O
- ;O
 e;O
- ;O
 opiniões;O
 ,;O
- ;O
 ofensivas;O
- ;O
 e;O
- ;O
 falsas;O
 ,;O
- ;O
 sobre;O
- ;O
 o;O
- ;O
 Exército;O
 ,;O
- ;O
 razão;O
- ;O
 pela;O
- ;O
 qual;O
- ;O
 sua;O
- ;O
 conduta;O
- ;O
 configuraria;O
- ;O
 ofensa;O
- ;O
 às;O
- ;O
 Forças;O
- ;O
 Armadas;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 ordem;O
- ;O
 foi;O
- ;O
 denegada;O
- ;O
 e;O
 ,;O
- ;O
 conforme;O
- ;O
 consulta;O
- ;O
 ao;O
- ;O
 sítio;O
- ;O
 eletrônico;O
- ;O
 do;O
- ;O
 "
 ";O
 "
 ";O
 Superior;O
- ;O
 Tribunal;O
- ;O
 Militar;O
 ,;O
- ;O
 o;O
- ;O
 acórdão;O
- ;O
 está;O
- ;O
 em;O
- ;O
 elaboração;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 No;O
- ;O
 presente;O
- ;O
 writ;O
 ,;O
- ;O
 alegam;O
- ;O
 os;O
- ;O
 Impetrantes;O
 ,;O
- ;O
 em;O
- ;O
 síntese;O
 ,;O
- ;O
 que;O
- ;O
 não;O
- ;O
 houve;O
- ;O
 investigação;O
- ;O
 dos;O
- ;O
 fatos;O
- ;O
 denunciados;O
- ;O
 pelo;O
- ;O
 paciente;O
- ;O
 e;O
- ;O
 que;O
- ;O
 há;O
- ;O
 provas;O
- ;O
 de;O
- ;O
 que;O
- ;O
 as;O
- ;O
 testemunhas;O
- ;O
 do;O
- ;O
 inquérito;O
- ;O
 penal;O
- ;O
 militar;O
- ;O
 temem;O
- ;O
 represálias;O
 .;O
- ;O
 Alegam;O
 ,;O
- ;O
 quanto;O
- ;O
 ao;O
- ;O
 crime;O
- ;O
 de;O
- ;O
 denunciação;O
- ;O
 caluniosa;O
 ,;O
- ;O
 atipicidade;O
- ;O
 da;O
- ;O
 conduta;O
- ;O
 imputada;O
 ,;O
- ;O
 por;O
- ;O
 ser;O
- ;O
 exercício;O
- ;O
 regular;O
- ;O
 do;O
- ;O
 direito;O
- ;O
 a;O
- ;O
 comunicação;O
- ;O
 de;O
- ;O
 crimes;O
- ;O
 dos;O
- ;O
 quais;O
- ;O
 o;O
- ;O
 paciente;O
- ;O
 acreditava;O
- ;O
 ter;O
- ;O
 sido;O
- ;O
 vítima;O
 .;O
- ;O
 Aduzem;O
 ,;O
- ;O
 quanto;O
- ;O
 ao;O
- ;O
 crime;O
- ;O
 de;O
- ;O
 ofensa;O
- ;O
 às;O
- ;O
 Forças;O
- ;O
 Armadas;O
 ,;O
- ;O
 ser;O
- ;O
 o;O
- ;O
 tipo;O
- ;O
 penal;O
- ;O
 contrário;O
- ;O
 à;O
- ;O
 Constituição;O
- ;O
 da;O
- ;O
 República;O
- ;O
 de;O
- ;O
 1988;O
- ;O
 e;O
 ,;O
- ;O
 ainda;O
- ;O
 que;O
- ;O
 assim;O
- ;O
 não;O
- ;O
 fosse;O
 ,;O
- ;O
 sua;O
- ;O
 configuração;O
- ;O
 dependeria;O
- ;O
 da;O
- ;O
 ofensa;O
- ;O
 a;O
- ;O
 “bens;O
- ;O
 jurídicos;O
- ;O
 tipicamente;O
- ;O
 associados;O
- ;O
 à;O
- ;O
 função;O
- ;O
 de;O
- ;O
 natureza;O
- ;O
 militar;O
 :;O
- ;O
 defesa;O
- ;O
 da;O
- ;O
 pátria;O
 ,;O
- ;O
 garantia;O
- ;O
 dos;O
- ;O
 poderes;O
- ;O
 constitucionais;O
- ;O
 e;O
- ;O
 da;O
- ;O
 lei;O
- ;O
 e;O
- ;O
 da;O
- ;O
 ordem”;O
 ,;O
- ;O
 não;O
- ;O
 se;O
- ;O
 verificando;O
- ;O
 no;O
- ;O
 ato;O
- ;O
 do;O
- ;O
 acusado;O
- ;O
 que;O
- ;O
 exerceu;O
- ;O
 sua;O
- ;O
 liberdade;O
- ;O
 de;O
- ;O
 expressão;O
- ;O
 na;O
- ;O
 internet;O
 .;O
- ;O
 Defendem;O
- ;O
 que;O
 ,;O
- ;O
 mesmo;O
- ;O
 que;O
- ;O
 os;O
- ;O
 fatos;O
- ;O
 fossem;O
- ;O
 típicos;O
 ,;O
- ;O
 incompetente;O
- ;O
 a;O
- ;O
 Justiça;O
- ;O
 Militar;O
- ;O
 para;O
- ;O
 o;O
- ;O
 julgamento;O
- ;O
 do;O
- ;O
 feito;O
- ;O
 aos;O
- ;O
 argumentos;O
- ;O
 de;O
- ;O
 ser;O
- ;O
 o;O
- ;O
 paciente;O
- ;O
 civil;O
 ,;O
- ;O
 de;O
- ;O
 não;O
- ;O
 terem;O
- ;O
 os;O
- ;O
 fatos;O
- ;O
 ocorrido;O
- ;O
 em;O
- ;O
 local;O
- ;O
 sob;O
- ;O
 a;O
- ;O
 administração;O
- ;O
 militar;O
 ,;O
- ;O
 e;O
- ;O
 de;O
- ;O
 que;O
- ;O
 eventual;O
- ;O
 ofensa;O
- ;O
 à;O
- ;O
 administração;O
- ;O
 da;O
- ;O
 Justiça;O
- ;O
 seria;O
- ;O
 contra;O
- ;O
 a;O
- ;O
 Justiça;O
- ;O
 Federal;O
- ;O
 comum;O
 .;O
- ;O
 Reputam;O
- ;O
 incompatível;O
- ;O
 com;O
- ;O
 o;O
- ;O
 regime;O
- ;O
 democrático;O
- ;O
 o;O
- ;O
 julgamento;O
- ;O
 de;O
- ;O
 civil;O
- ;O
 por;O
- ;O
 militares;O
 .;O
- ;O
 Pedem;O
 ,;O
- ;O
 liminarmente;O
 ,;O
- ;O
 a;O
- ;O
 suspensão;O
- ;O
 da;O
- ;O
 ação;O
- ;O
 penal;O
- ;O
 ante;O
- ;O
 o;O
- ;O
 risco;O
- ;O
 iminente;O
- ;O
 à;O
- ;O
 liberdade;O
- ;O
 de;O
- ;O
 locomoção;O
- ;O
 do;O
- ;O
 paciente;O
- ;O
 e;O
- ;O
 sua;O
- ;O
 impossibilidade;O
- ;O
 de;O
- ;O
 realização;O
- ;O
 de;O
- ;O
 concursos;O
- ;O
 públicos;O
 .;O
- ;O
 No;O
- ;O
 mérito;O
 ,;O
- ;O
 pedem;O
- ;O
 a;O
- ;O
 confirmação;O
- ;O
 da;O
- ;O
 tutela;O
- ;O
 emergencial;O
 .;O
- ;O
 É;O
- ;O
 o;O
- ;O
 relatório;O
 .;O
 Decido;O
 .;O
 O;O
- ;O
 presente;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 foi;O
- ;O
 impetrado;O
- ;O
 contra;O
- ;O
 acórdão;O
- ;O
 denegatório;O
- ;O
 do;O
- ;O
 HC;B_Precedente
- ;I_Precedente
 158-48.2012.7.00.0000;I_Precedente
- ;I_Precedente
 proferido;O
- ;O
 pelo;O
- ;O
 Superior;O
- ;O
 Tribunal;O
- ;O
 de;O
- ;O
 Militar;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Contra;O
- ;O
 a;O
- ;O
 denegação;O
- ;O
 de;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 por;O
- ;O
 Tribunal;O
- ;O
 Superior;O
- ;O
 prevê;O
- ;O
 a;O
- ;O
 Constituição;O
- ;O
 da;O
- ;O
 República;O
- ;O
 remédio;O
- ;O
 jurídico;O
- ;O
 expresso;O
 ,;O
- ;O
 o;O
- ;O
 recurso;O
- ;O
 ordinário;O
- ;O
 (;O
 art;O
 .;O
- ;O
 102;O
 ,;O
- ;O
 II;O
 ,;O
- ;O
 a;O
 );O
 .;O
- ;O
 Diante;O
- ;O
 da;O
- ;O
 dicção;O
- ;O
 constitucional;O
- ;O
 não;O
- ;O
 cabe;O
 ,;O
- ;O
 em;O
- ;O
 decorrência;O
 ,;O
- ;O
 a;O
- ;O
 utilização;O
- ;O
 de;O
- ;O
 novo;O
- ;O
 habeas;O
- ;O
 corpus;O
 ,;O
- ;O
 em;O
- ;O
 caráter;O
- ;O
 substitutivo;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 Primeira;O
- ;O
 Turma;O
- ;O
 desta;O
- ;O
 Corte;O
- ;O
 assentou;O
- ;O
 tal;O
- ;O
 entendimento;O
 ,;O
- ;O
 em;O
- ;O
 08.8.2012;O
 ,;O
- ;O
 ao;O
- ;O
 julgar;O
- ;O
 o;O
- ;O
 HC;B_Precedente
- ;I_Precedente
 109.956;I_Precedente
- ;I_Precedente
 (;I_Precedente
 HABEAS;I_Precedente
- ;I_Precedente
 CORPUS;I_Precedente
- ;I_Precedente
 -;I_Precedente
- ;I_Precedente
 JULGAMENTO;I_Precedente
- ;I_Precedente
 POR;I_Precedente
- ;I_Precedente
 TRIBUNAL;I_Precedente
- ;I_Precedente
 SUPERIOR;I_Precedente
- ;I_Precedente
 -;I_Precedente
- ;I_Precedente
 IMPUGNAÇÃO;I_Precedente
 .;I_Precedente
- ;I_Precedente
 A;I_Precedente
- ;I_Precedente
 teor;I_Precedente
- ;I_Precedente
 do;I_Precedente
- ;I_Precedente
 disposto;I_Precedente
- ;I_Precedente
 no;I_Precedente
- ;I_Precedente
 artigo;I_Precedente
- ;I_Precedente
 102;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 inciso;I_Precedente
- ;I_Precedente
 II;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 alínea;I_Precedente
- ;I_Precedente
 “a”;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 da;I_Precedente
- ;I_Precedente
 constituição;I_Precedente
- ;I_Precedente
 Federal;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 contra;I_Precedente
- ;I_Precedente
 decisão;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 proferida;I_Precedente
- ;I_Precedente
 em;I_Precedente
- ;I_Precedente
 processo;I_Precedente
- ;I_Precedente
 revelador;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 habeas;I_Precedente
- ;I_Precedente
 corpus;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 a;I_Precedente
- ;I_Precedente
 implicar;I_Precedente
- ;I_Precedente
 a;I_Precedente
- ;I_Precedente
 não;I_Precedente
- ;I_Precedente
 concessão;I_Precedente
- ;I_Precedente
 da;I_Precedente
- ;I_Precedente
 ordem;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 cabível;I_Precedente
- ;I_Precedente
 é;I_Precedente
- ;I_Precedente
 o;I_Precedente
- ;I_Precedente
 recurso;I_Precedente
- ;I_Precedente
 ordinário;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Evolução;I_Precedente
- ;I_Precedente
 quanto;I_Precedente
- ;I_Precedente
 à;I_Precedente
- ;I_Precedente
 admissibilidade;I_Precedente
- ;I_Precedente
 do;I_Precedente
- ;I_Precedente
 substitutivo;I_Precedente
- ;I_Precedente
 do;I_Precedente
- ;I_Precedente
 habeas;I_Precedente
- ;I_Precedente
 corpus;I_Precedente
 .;I_Precedente
- ;I_Precedente
 PROCESSO;I_Precedente
- ;I_Precedente
 –;I_Precedente
- ;I_Precedente
 CRIME;I_Precedente
- ;I_Precedente
 –;I_Precedente
- ;I_Precedente
 DILIGÊNCIAS;I_Precedente
- ;I_Precedente
 –;I_Precedente
- ;I_Precedente
 INADEQUAÇÃO;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Uma;I_Precedente
- ;I_Precedente
 vez;I_Precedente
- ;I_Precedente
 inexistente;I_Precedente
- ;I_Precedente
 base;I_Precedente
- ;I_Precedente
 para;I_Precedente
- ;I_Precedente
 o;I_Precedente
- ;I_Precedente
 implemento;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 diligências;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 cumpre;I_Precedente
- ;I_Precedente
 ao;I_Precedente
- ;I_Precedente
 Juízo;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 na;I_Precedente
- ;I_Precedente
 condução;I_Precedente
- ;I_Precedente
 do;I_Precedente
- ;I_Precedente
 processo;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 indeferi;I_Precedente
 -;I_Precedente
 las;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Rel;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Min;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Marco;I_Precedente
- ;I_Precedente
 Aurélio;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 por;I_Precedente
- ;I_Precedente
 maioria;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 DJe;I_Precedente
- ;I_Precedente
 11.9.2012;I_Precedente
 );I_Precedente
 ,;O
- ;O
 tendo;O
- ;O
 a;O
- ;O
 discussão;O
- ;O
 se;O
- ;O
 iniciado;O
- ;O
 no;O
- ;O
 HC;B_Precedente
- ;I_Precedente
 108.715;I_Precedente
 ,;I_Precedente
- ;O
 cujo;O
- ;O
 julgamento;O
- ;O
 ainda;O
- ;O
 não;O
- ;O
 foi;O
- ;O
 finalizado;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 constitui;O
- ;O
 garantia;O
- ;O
 fundamental;O
- ;O
 prevista;O
- ;O
 na;O
- ;O
 Constituição;O
- ;O
 da;O
- ;O
 República;O
- ;O
 para;O
- ;O
 a;O
- ;O
 tutela;O
- ;O
 da;O
- ;O
 liberdade;O
- ;O
 de;O
- ;O
 locomoção;O
- ;O
 -;O
- ;O
 ir;O
 ,;O
- ;O
 vir;O
- ;O
 e;O
- ;O
 permanecer;O
- ;O
 -;O
 ,;O
- ;O
 contra;O
- ;O
 prisão;O
- ;O
 ou;O
- ;O
 ameaça;O
- ;O
 de;O
- ;O
 prisão;O
- ;O
 ilegal;O
- ;O
 ou;O
- ;O
 abusiva;O
- ;O
 (;O
 art;O
 .;O
- ;O
 5;O
 .;O
 º;O
 ,;O
- ;O
 LXVIII;O
 );O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Sua;O
- ;O
 origem;O
- ;O
 perde;O
 -;O
 se;O
- ;O
 no;O
- ;O
 tempo;O
 .;O
- ;O
 Na;O
- ;O
 Inglaterra;O
 ,;O
- ;O
 o;O
- ;O
 seu;O
- ;O
 berço;O
- ;O
 histórico;O
 ,;O
- ;O
 afirma;O
 -;O
 se;O
- ;O
 que;O
- ;O
 é;O
- ;O
 mais;O
- ;O
 antigo;O
- ;O
 que;O
- ;O
 a;O
- ;O
 própria;O
- ;O
 Magna;O
- ;O
 Carta;O
- ;O
 de;O
- ;O
 1215;O
- ;O
 (;O
 LEVY;B_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 Leonard;I_Doutrina
- ;I_Doutrina
 W;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 Origins;I_Doutrina
- ;I_Doutrina
 of;I_Doutrina
- ;I_Doutrina
 the;I_Doutrina
- ;I_Doutrina
 Bill;I_Doutrina
- ;I_Doutrina
 of;I_Doutrina
- ;I_Doutrina
 Rights;I_Doutrina
- ;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 New;I_Doutrina
- ;I_Doutrina
 Haven;I_Doutrina
- ;I_Doutrina
 and;I_Doutrina
- ;I_Doutrina
 London;I_Doutrina
 :;I_Doutrina
- ;I_Doutrina
 Yale;I_Doutrina
- ;I_Doutrina
 University;I_Doutrina
- ;I_Doutrina
 Press;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 p;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 44;I_Doutrina
 );I_Doutrina
 .;O
- ;O
 "
 ";O
 "
 ";O
 Originariamente;O
 ,;O
- ;O
 era;O
- ;O
 utilizado;O
- ;O
 pelos;O
- ;O
 Tribunais;O
- ;O
 para;O
- ;O
 determinar;O
- ;O
 a;O
- ;O
 apresentação;O
- ;O
 de;O
- ;O
 alguém;O
 ,;O
- ;O
 um;O
- ;O
 prisioneiro;O
 ,;O
- ;O
 à;O
- ;O
 Corte;O
 ,;O
- ;O
 para;O
- ;O
 literalmente;O
- ;O
 """ter";O
- ;O
 o;O
- ;O
 "corpo""";O
- ;O
 em;O
- ;O
 Juízo;O
 ,;O
- ;O
 e;O
- ;O
 não;O
- ;O
 constituía;O
- ;O
 um;O
- ;O
 instrumento;O
- ;O
 destinado;O
- ;O
 necessariamente;O
- ;O
 à;O
- ;O
 salvaguarda;O
- ;O
 da;O
- ;O
 liberdade;O
 .;O
- ;O
 Ilustrativamente;O
 ,;O
- ;O
 em;O
- ;O
 1554;O
 ,;O
- ;O
 a;O
- ;O
 Queen's;O
- ;O
 Bench;O
- ;O
 utilizou;O
- ;O
 dois;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 para;O
- ;O
 trazer;O
- ;O
 a;O
- ;O
 julgamento;O
- ;O
 diversas;O
- ;O
 pessoas;O
- ;O
 envolvidas;O
- ;O
 em;O
- ;O
 rebelião;O
 ,;O
- ;O
 sendo;O
- ;O
 identificadas;O
- ;O
 nos;O
- ;O
 writs;O
- ;O
 notas;O
- ;O
 de;O
- ;O
 que;O
- ;O
 os;O
- ;O
 rebeldes;O
- ;O
 deveriam;O
- ;O
 ser;O
- ;O
 enforcados;O
- ;O
 (;O
 HALLIDAY;B_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 Paul;I_Doutrina
- ;I_Doutrina
 D;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 Habeas;I_Doutrina
- ;I_Doutrina
 Corpus;I_Doutrina
 :;I_Doutrina
- ;I_Doutrina
 From;I_Doutrina
- ;I_Doutrina
 England;I_Doutrina
- ;I_Doutrina
 to;I_Doutrina
- ;I_Doutrina
 Empire;I_Doutrina
- ;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 Cambridge;I_Doutrina
 :;I_Doutrina
- ;I_Doutrina
 Harvard;I_Doutrina
- ;I_Doutrina
 University;I_Doutrina
- ;I_Doutrina
 Press;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 2010;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 p;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 29;I_Doutrina
 );I_Doutrina
 .;O
- ;O
 "
 ";O
 "
 ";O
 Com;O
- ;O
 o;O
- ;O
 tempo;O
 ,;O
- ;O
 porém;O
 ,;O
- ;O
 as;O
- ;O
 Cortes;O
- ;O
 inglesas;O
 ,;O
- ;O
 especialmente;O
- ;O
 a;O
- ;O
 King's;O
- ;O
 Bench;O
- ;O
 ,;O
- ;O
 começaram;O
- ;O
 a;O
- ;O
 utilizar;O
- ;O
 o;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 para;O
- ;O
 avaliar;O
- ;O
 a;O
- ;O
 causa;O
- ;O
 da;O
- ;O
 prisão;O
 ,;O
- ;O
 liberando;O
- ;O
 o;O
- ;O
 preso;O
- ;O
 quando;O
- ;O
 reputavam;O
- ;O
 a;O
- ;O
 medida;O
- ;O
 ilegal;O
- ;O
 ou;O
- ;O
 abusiva;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Foi;O
- ;O
 o;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 o;O
- ;O
 veículo;O
- ;O
 para;O
- ;O
 a;O
- ;O
 afirmação;O
- ;O
 progressiva;O
- ;O
 das;O
- ;O
 liberdades;O
- ;O
 públicas;O
- ;O
 inglesas;O
 ,;O
- ;O
 uma;O
- ;O
 vez;O
- ;O
 utilizado;O
- ;O
 como;O
- ;O
 instrumento;O
- ;O
 contra;O
- ;O
 prisões;O
- ;O
 decorrentes;O
- ;O
 de;O
- ;O
 perseguições;O
- ;O
 religiosas;O
- ;O
 e;O
- ;O
 políticas;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Entre;O
- ;O
 o;O
- ;O
 rico;O
- ;O
 histórico;O
- ;O
 de;O
- ;O
 casos;O
 ,;O
- ;O
 destaco;O
- ;O
 apenas;O
- ;O
 dois;O
- ;O
 para;O
- ;O
 não;O
- ;O
 ser;O
- ;O
 cansativa;O
 .;O
- ;O
 James;O
- ;O
 Somerset;O
- ;O
 obteve;O
 ,;O
- ;O
 por;O
- ;O
 meio;O
- ;O
 de;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 impetrado;O
- ;O
 em;O
- ;O
 1771;O
 ,;O
- ;O
 a;O
- ;O
 libertação;O
- ;O
 pela;O
- ;O
 King's;O
- ;O
 Bench;O
- ;O
 da;O
- ;O
 condição;O
- ;O
 de;O
- ;O
 escravo;O
- ;O
 por;O
- ;O
 haver;O
- ;O
 sido;O
- ;O
 deportado;O
- ;O
 da;O
- ;O
 Inglaterra;O
- ;O
 pelo;O
- ;O
 seu;O
- ;O
 proprietário;O
- ;O
 sem;O
- ;O
 seu;O
- ;O
 consentimento;O
- ;O
 (;O
 HALLIDAY;B_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 Paul;I_Doutrina
- ;I_Doutrina
 D;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 op;I_Doutrina
 .;I_Doutrina
 cit;I_Doutrina
- ;I_Doutrina
 .;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 p;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 174-175;I_Doutrina
 );I_Doutrina
 .;O
- ;O
 No;O
- ;O
 Buschel's;O
- ;O
 Case;O
- ;O
 ,;O
- ;O
 de;O
- ;O
 1670;O
 ,;O
- ;O
 o;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 foi;O
- ;O
 concedido;O
- ;O
 pela;O
- ;O
 Court;O
- ;O
 of;O
- ;O
 Common;O
- ;O
 Pleas;O
- ;O
 para;O
- ;O
 libertar;O
- ;O
 jurados;O
- ;O
 presos;O
- ;O
 por;O
- ;O
 ordem;O
- ;O
 do;O
- ;O
 Juiz;O
- ;O
 Presidente;O
- ;O
 do;O
- ;O
 Júri;O
- ;O
 fundada;O
- ;O
 na;O
- ;O
 compreensão;O
- ;O
 deste;O
- ;O
 de;O
- ;O
 que;O
- ;O
 eles;O
- ;O
 haviam;O
- ;O
 proferido;O
- ;O
 um;O
- ;O
 veredicto;O
- ;O
 contrário;O
- ;O
 à;O
- ;O
 prova;O
- ;O
 dos;O
- ;O
 autos;O
 .;O
- ;O
 O;O
- ;O
 Buschel's;O
- ;O
 Case;O
- ;O
 confunde;O
 -;O
 se;O
- ;O
 com;O
- ;O
 o;O
- ;O
 próprio;O
- ;O
 nascimento;O
- ;O
 do;O
- ;O
 princípio;O
- ;O
 da;O
- ;O
 soberania;O
- ;O
 dos;O
- ;O
 veredictos;O
- ;O
 (;O
 HALLIDAY;B_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 Paul;I_Doutrina
- ;I_Doutrina
 D;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 op;I_Doutrina
 .;I_Doutrina
 cit;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 p;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 235-236;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 e;I_Doutrina
- ;I_Doutrina
 LEVY;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 Leonard;I_Doutrina
- ;I_Doutrina
 W;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 op;I_Doutrina
 .;I_Doutrina
 cit;I_Doutrina
- ;I_Doutrina
 .;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 p;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 52-53;I_Doutrina
 );I_Doutrina
 .;O
- ;O
 "
 ";O
 "
 ";O
 Embora;O
- ;O
 o;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 constitua;O
- ;O
 remédio;O
- ;O
 criado;O
- ;O
 pela;O
- ;O
 common;O
- ;O
 law;O
- ;O
 ,;O
- ;O
 o;O
- ;O
 seu;O
- ;O
 prestígio;O
- ;O
 ensejou;O
 -;O
 lhe;O
- ;O
 posterior;O
- ;O
 consagração;O
- ;O
 legislativa;O
 ,;O
- ;O
 especialmente;O
 ,;O
- ;O
 no;O
- ;O
 âmbito;O
- ;O
 inglês;O
 ,;O
- ;O
 com;O
- ;O
 o;O
- ;O
 Habeas;O
- ;O
 Corpus;O
- ;O
 Act;O
- ;O
 ,;O
- ;O
 de;O
- ;O
 1679;O
 ,;O
- ;O
 e;O
 ,;O
- ;O
 no;O
- ;O
 âmbito;O
- ;O
 norte;O
 -;O
 americano;O
 ,;O
- ;O
 com;O
- ;O
 o;O
- ;O
 artigo;B_Ref. Legislativa
- ;I_Ref. Legislativa
 I;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 seção;I_Ref. Legislativa
- ;I_Ref. Legislativa
 9;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
- ;I_Ref. Legislativa
 norte;I_Ref. Legislativa
 -;I_Ref. Legislativa
 americana;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 "
 ";I_Ref. Legislativa
 "
 ";I_Ref. Legislativa
 1787;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 ainda;O
- ;O
 antes;O
- ;O
 da;O
- ;O
 adoção;O
- ;O
 das;O
- ;O
 dez;O
- ;O
 primeiras;O
- ;O
 emendas;O
- ;O
 de;O
- ;O
 1791;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Interessante;O
- ;O
 nesse;O
- ;O
 breve;O
- ;O
 relato;O
- ;O
 é;O
- ;O
 que;O
 ,;O
- ;O
 a;O
- ;O
 despeito;O
- ;O
 da;O
- ;O
 importância;O
- ;O
 histórica;O
- ;O
 do;O
- ;O
 instituto;O
 ,;O
- ;O
 confundido;O
- ;O
 com;O
- ;O
 a;O
- ;O
 própria;O
- ;O
 essência;O
- ;O
 da;O
- ;O
 liberdade;O
 ,;O
- ;O
 não;O
- ;O
 foi;O
- ;O
 e;O
- ;O
 não;O
- ;O
 é;O
- ;O
 o;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 utilizado;O
 ,;O
- ;O
 no;O
- ;O
 Direito;O
- ;O
 anglo;O
 -;O
 saxão;O
 ,;O
- ;O
 senão;O
- ;O
 diretamente;O
- ;O
 contra;O
- ;O
 uma;O
- ;O
 prisão;O
 ,;O
- ;O
 decretada;O
- ;O
 em;O
- ;O
 processo;O
- ;O
 criminal;O
- ;O
 ou;O
- ;O
 não;O
- ;O
 (;O
 v;O
 .;O
 g;O
 .;O
- ;O
 KAMISAR;B_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 Yale;I_Doutrina
- ;I_Doutrina
 e;I_Doutrina
- ;I_Doutrina
 outros;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 Modern;I_Doutrina
- ;I_Doutrina
 Criminal;I_Doutrina
- ;I_Doutrina
 Procedures;I_Doutrina
 :;I_Doutrina
- ;I_Doutrina
 Cases;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 Comments;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 Questions;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 10;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 ed;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 St;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 Paul;I_Doutrina
 :;I_Doutrina
- ;I_Doutrina
 West;I_Doutrina
- ;I_Doutrina
 Group;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 2002;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 p;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 "1.585-628;";I_Doutrina
- ;O
 TRECHSEL;B_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 Stefan;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 Human;I_Doutrina
- ;I_Doutrina
 Rights;I_Doutrina
- ;I_Doutrina
 in;I_Doutrina
- ;I_Doutrina
 Criminal;I_Doutrina
- ;I_Doutrina
 Proceedings;I_Doutrina
- ;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 Oxford;I_Doutrina
- ;I_Doutrina
 University;I_Doutrina
- ;I_Doutrina
 Press;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 2005;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 p;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 "462-495;";I_Doutrina
- ;O
 GUIMARÃES;B_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 Isaac;I_Doutrina
- ;I_Doutrina
 Sabbá;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 Habeas;I_Doutrina
- ;I_Doutrina
 Corpus;I_Doutrina
 :;I_Doutrina
- ;I_Doutrina
 críticas;I_Doutrina
- ;I_Doutrina
 e;I_Doutrina
- ;I_Doutrina
 perspectivas;I_Doutrina
- ;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 3;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 ed;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 Curitiba;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 Juruá;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 2009;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 p;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 165-81;I_Doutrina
 );I_Doutrina
 .;O
- ;O
 Jamais;O
- ;O
 se;O
- ;O
 cogitou;O
- ;O
 de;O
- ;O
 sua;O
- ;O
 utilização;O
- ;O
 como;O
- ;O
 um;O
- ;O
 substitutivo;O
- ;O
 de;O
- ;O
 recurso;O
- ;O
 no;O
- ;O
 processo;O
- ;O
 penal;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Também;O
- ;O
 em;O
- ;O
 Portugal;O
 ,;O
- ;O
 onde;O
- ;O
 o;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 foi;O
- ;O
 adotado;O
- ;O
 apenas;O
- ;O
 no;O
- ;O
 século;O
- ;O
 XX;O
- ;O
 (;O
 Decreto;B_Ref. Legislativa
 -;I_Ref. Legislativa
 lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 35.043;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 20.10.1945;I_Ref. Legislativa
 );I_Ref. Legislativa
 ,;O
- ;O
 constitui;O
- ;O
 ação;O
- ;O
 destinada;O
- ;O
 apenas;O
- ;O
 à;O
- ;O
 impugnação;O
- ;O
 de;O
- ;O
 uma;O
- ;O
 prisão;O
 .;O
- ;O
 Como;O
- ;O
 já;O
- ;O
 decidiu;O
- ;O
 o;O
- ;O
 Superior;O
- ;O
 Tribunal;O
- ;O
 de;O
- ;O
 Justiça;O
- ;O
 português;O
 ,;O
- ;O
 """a";O
- ;O
 providência;O
- ;O
 de;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 destina;O
 -;O
 se;O
- ;O
 tão;O
 -;O
 só;O
- ;O
 a;O
- ;O
 controlar;O
- ;O
 a;O
- ;O
 legalidade;O
- ;O
 da;O
- ;O
 prisão;O
- ;O
 no;O
- ;O
 momento;O
- ;O
 em;O
- ;O
 que;O
- ;O
 se;O
- ;O
 decide;O
 ,;O
- ;O
 tendo;O
- ;O
 como;O
- ;O
 finalidade;O
- ;O
 verificar;O
- ;O
 a;O
- ;O
 legalidade;O
- ;O
 das;O
- ;O
 prisões;O
- ;O
 a;O
- ;O
 que;O
- ;O
 os;O
- ;O
 cidadãos;O
- ;O
 estão;O
- ;O
 sujeitos;O
 ,;O
- ;O
 nela;O
- ;O
 não;O
- ;O
 se;O
- ;O
 incluindo;O
- ;O
 a;O
- ;O
 verificação;O
- ;O
 de;O
- ;O
 qualquer;O
- ;O
 ilegalidade;O
- ;O
 que;O
- ;O
 possa;O
- ;O
 ter;O
- ;O
 sido;O
- ;O
 cometida;O
- ;O
 no;O
- ;O
 processo;O
 ,;O
- ;O
 seja;O
- ;O
 criminal;O
- ;O
 ou;O
- ;O
 disciplinar;O
 ,;O
- ;O
 nem;O
- ;O
 qualquer;O
- ;O
 medida;O
- ;O
 contra;O
- ;O
 os;O
- ;O
 responsáveis;O
- ;O
 por;O
- ;O
 tais;O
- ;O
 "ilegalidades""";O
- ;O
 (;O
 Acórdão;B_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 26.04.1989;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 processo;I_Precedente
- ;I_Precedente
 10/89;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 BMJ;I_Precedente
- ;I_Precedente
 386;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 p;I_Precedente
 .;I_Precedente
- ;I_Precedente
 422;I_Precedente
- ;I_Precedente
 -;I_Precedente
- ;I_Precedente
 apud;I_Precedente
- ;I_Precedente
 GUIMARÃES;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Isaac;I_Precedente
- ;I_Precedente
 Sabbá;I_Precedente
 .;I_Precedente
- ;I_Precedente
 op;I_Precedente
 .;I_Precedente
 cit;I_Precedente
 .;I_Precedente
- ;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 p;I_Precedente
 .;I_Precedente
- ;I_Precedente
 228-229;I_Precedente
 );I_Precedente
 .;O
- ;O
 "
 ";O
 "
 ";O
 No;O
- ;O
 Brasil;O
 ,;O
- ;O
 o;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 tem;O
- ;O
 igualmente;O
- ;O
 rica;O
- ;O
 história;O
 ,;O
- ;O
 contada;O
- ;O
 em;O
- ;O
 diversas;O
- ;O
 obras;O
 ,;O
- ;O
 entre;O
- ;O
 as;O
- ;O
 quais;O
- ;O
 a;O
- ;O
 famosa;O
- ;O
 de;O
- ;O
 Pontes;O
- ;O
 de;O
- ;O
 Miranda;O
- ;O
 (;O
- ;O
 História;O
- ;O
 e;O
- ;O
 prática;O
- ;O
 do;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 ,;O
- ;O
 primeira;O
- ;O
 edição;O
- ;O
 de;O
- ;O
 1916;O
 );O
 .;O
- ;O
 "
 ";O
 "
 ";O
 É;O
- ;O
 certo;O
- ;O
 que;O
 ,;O
- ;O
 no;O
- ;O
 período;O
- ;O
 colonial;O
 ,;O
- ;O
 não;O
- ;O
 eram;O
- ;O
 totalmente;O
- ;O
 inexistentes;O
- ;O
 remédios;O
- ;O
 jurídicos;O
- ;O
 para;O
- ;O
 a;O
- ;O
 proteção;O
- ;O
 da;O
- ;O
 liberdade;O
 ,;O
- ;O
 entre;O
- ;O
 eles;O
- ;O
 as;O
- ;O
 assim;O
- ;O
 denominadas;O
- ;O
 """cartas";O
- ;O
 de;O
- ;O
 "seguro""";O
- ;O
 (;O
 por;O
- ;O
 todos;O
 ,;O
- ;O
 STRAUS;B_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 Flávio;I_Doutrina
- ;I_Doutrina
 Augusto;I_Doutrina
- ;I_Doutrina
 Saraiva;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 A;I_Doutrina
- ;I_Doutrina
 tutela;I_Doutrina
- ;I_Doutrina
 da;I_Doutrina
- ;I_Doutrina
 liberdade;I_Doutrina
- ;I_Doutrina
 pessoal;I_Doutrina
- ;I_Doutrina
 antes;I_Doutrina
- ;I_Doutrina
 da;I_Doutrina
- ;I_Doutrina
 instituição;I_Doutrina
- ;I_Doutrina
 formal;I_Doutrina
- ;I_Doutrina
 do;I_Doutrina
- ;I_Doutrina
 habeas;I_Doutrina
- ;I_Doutrina
 corpus;I_Doutrina
- ;I_Doutrina
 no;I_Doutrina
- ;I_Doutrina
 Brasil;I_Doutrina
 .;I_Doutrina
- ;O
 In;O
- ;O
 :;O
- ;O
 PIOVESAN;B_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 Flávia;I_Doutrina
- ;I_Doutrina
 e;I_Doutrina
- ;I_Doutrina
 GARCIA;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 Maria;I_Doutrina
- ;I_Doutrina
 (;I_Doutrina
 org;I_Doutrina
 .;I_Doutrina
 );I_Doutrina
- ;I_Doutrina
 Doutrinas;I_Doutrina
- ;I_Doutrina
 essenciais;I_Doutrina
 :;I_Doutrina
- ;I_Doutrina
 Direitos;I_Doutrina
- ;I_Doutrina
 Humanos;I_Doutrina
 :;I_Doutrina
- ;I_Doutrina
 Instrumentos;I_Doutrina
- ;I_Doutrina
 e;I_Doutrina
- ;I_Doutrina
 garantias;I_Doutrina
- ;I_Doutrina
 de;I_Doutrina
- ;I_Doutrina
 proteção;I_Doutrina
- ;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 São;I_Doutrina
- ;I_Doutrina
 Paulo;I_Doutrina
 :;I_Doutrina
- ;I_Doutrina
 RT;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 2011;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 v;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 5;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 p;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 799-51;I_Doutrina
 );I_Doutrina
 ,;O
- ;O
 mas;O
- ;O
 somente;O
- ;O
 com;O
- ;O
 o;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 a;O
- ;O
 liberdade;O
- ;O
 passou;O
- ;O
 a;O
- ;O
 ser;O
- ;O
 assegurada;O
- ;O
 por;O
- ;O
 um;O
- ;O
 remédio;O
- ;O
 pronto;O
 ,;O
- ;O
 fácil;O
- ;O
 e;O
- ;O
 efetivo;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Devido;O
- ;O
 ao;O
- ;O
 prestígio;O
- ;O
 das;O
- ;O
 instituições;O
- ;O
 inglesas;O
 ,;O
- ;O
 o;O
- ;O
 writ;O
- ;O
 foi;O
- ;O
 adotado;O
 ,;O
- ;O
 entre;O
- ;O
 nós;O
- ;O
 ainda;O
- ;O
 no;O
- ;O
 período;O
- ;O
 imperial;O
 .;O
- ;O
 O;O
- ;O
 Código;O
- ;O
 Criminal;O
- ;O
 de;O
- ;O
 1830;O
- ;O
 a;O
- ;O
 ele;O
- ;O
 já;O
- ;O
 faz;O
- ;O
 referência;O
- ;O
 nos;O
- ;O
 arts;O
 .;O
- ;O
 183;O
- ;O
 a;O
- ;O
 188;O
 .;O
- ;O
 Seu;O
- ;O
 regramento;O
 ,;O
 contudo;O
 ,;O
- ;O
 veio;O
- ;O
 com;O
- ;O
 o;O
- ;O
 Código;O
- ;O
 de;O
- ;O
 Processo;O
- ;O
 Criminal;O
- ;O
 de;O
- ;O
 1832;O
- ;O
 (;O
- ;O
 """art";O
 .;O
- ;O
 340;O
 .;O
- ;O
 Todo;O
- ;O
 o;O
- ;O
 cidadão;O
- ;O
 que;O
- ;O
 entender;O
 ,;O
- ;O
 que;O
- ;O
 elle;O
- ;O
 ou;O
- ;O
 outrem;O
- ;O
 soffre;O
- ;O
 uma;O
- ;O
 prisão;O
- ;O
 ou;O
- ;O
 constrangimento;O
- ;O
 illegal;O
 ,;O
- ;O
 em;O
- ;O
 sua;O
- ;O
 liberdade;O
 ,;O
- ;O
 tem;O
- ;O
 direito;O
- ;O
 de;O
- ;O
 pedir;O
- ;O
 uma;O
- ;O
 ordem;O
- ;O
 de;O
- ;O
 -;O
- ;O
 Habeas;O
 -;O
 Corpus;O
- ;O
 -;O
- ;O
 em;O
- ;O
 seu;O
- ;O
 "favor""";O
- ;O
 );O
 .;O
- ;O
 Ainda;O
- ;O
 no;O
- ;O
 Império;O
- ;O
 ampliou;O
 -;O
 se;O
- ;O
 o;O
- ;O
 cabimento;O
- ;O
 do;O
- ;O
 habeas;O
- ;O
 corpus;O
 ,;O
- ;O
 que;O
- ;O
 passou;O
- ;O
 a;O
- ;O
 ser;O
- ;O
 admitido;O
 ,;O
- ;O
 com;O
- ;O
 a;O
- ;O
 promulgação;O
- ;O
 da;O
- ;B_Ref. Legislativa
 Lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 2.033;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1871;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 também;O
- ;O
 contra;O
- ;O
 a;O
- ;O
 ameaça;O
- ;O
 de;O
- ;O
 prisão;O
- ;O
 (;O
- ;O
 art;O
 .;O
- ;O
 18;O
 ,;O
- ;O
 §1º;O
 :;O
- ;O
 Tem;O
- ;O
 lugar;O
- ;O
 o;O
- ;O
 pedido;O
- ;O
 e;O
- ;O
 concessão;O
- ;O
 da;O
- ;O
 ordem;O
- ;O
 de;O
- ;O
 habeas;O
 -;O
 corpus;O
- ;O
 ainda;O
- ;O
 quando;O
- ;O
 o;O
- ;O
 impetrante;O
- ;O
 não;O
- ;O
 tenha;O
- ;O
 chegado;O
- ;O
 a;O
- ;O
 soffrer;O
- ;O
 o;O
- ;O
 constrangimento;O
- ;O
 corporal;O
 ,;O
- ;O
 mas;O
- ;O
 se;O
- ;O
 veja;O
- ;O
 delle;O
- ;O
 "ameaçado""";O
- ;O
 );O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Já;O
- ;O
 na;O
- ;O
 primeira;O
- ;O
 Constituição;O
- ;O
 Republicana;O
 ,;O
- ;O
 de;O
- ;O
 1891;O
 ,;O
- ;O
 o;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 foi;O
- ;O
 constitucionalizado;O
 .;O
- ;O
 E;O
- ;O
 o;O
- ;O
 silêncio;O
- ;O
 do;O
- ;O
 art;O
 .;O
- ;O
 72;O
 ,;O
- ;O
 §;O
- ;O
 22;O
- ;O
 quanto;O
- ;O
 ao;O
- ;O
 objetivo;O
- ;O
 de;O
- ;O
 tutela;O
- ;O
 apenas;O
- ;O
 da;O
- ;O
 liberdade;O
- ;O
 de;O
- ;O
 locomoção;O
- ;O
 propiciou;O
- ;O
 o;O
- ;O
 desenvolvimento;O
- ;O
 da;O
- ;O
 """Doutrina";O
- ;O
 brasileira;O
- ;O
 do;O
- ;O
 habeas;O
- ;O
 "corpus""";O
 ,;O
- ;O
 que;O
- ;O
 levou;O
- ;O
 o;O
- ;O
 writ;O
- ;O
 ,;O
- ;O
 na;O
- ;O
 ausência;O
- ;O
 de;O
- ;O
 outras;O
- ;O
 ações;O
- ;O
 constitucionais;O
 ,;O
- ;O
 a;O
- ;O
 ser;O
- ;O
 utilizado;O
- ;O
 para;O
- ;O
 a;O
- ;O
 salvaguarda;O
- ;O
 de;O
- ;O
 outras;O
- ;O
 liberdades;O
- ;O
 que;O
- ;O
 não;O
- ;O
 a;O
- ;O
 de;O
- ;O
 locomoção;O
 ,;O
- ;O
 caso;O
 ,;O
- ;O
 v;O
 .;O
 g;O
 .;O
 ,;O
- ;O
 do;O
- ;O
 Habeas;B_Precedente
- ;I_Precedente
 Corpus;I_Precedente
- ;I_Precedente
 3.536;I_Precedente
 ,;I_Precedente
- ;O
 em;O
- ;O
 que;O
- ;O
 concedida;O
- ;O
 ordem;O
 ,;O
- ;O
 em;O
- ;O
 05.6.1914;O
 ,;O
- ;O
 por;O
- ;O
 este;O
- ;O
 Supremo;O
- ;O
 Tribunal;O
- ;O
 Federal;O
 ,;O
- ;O
 para;O
- ;O
 garantir;O
- ;O
 o;O
- ;O
 direito;O
- ;O
 do;O
- ;O
 então;O
- ;O
 Senador;B_Pessoa
- ;I_Pessoa
 Ruy;I_Pessoa
- ;I_Pessoa
 Barbosa;I_Pessoa
- ;I_Pessoa
 a;O
- ;O
 publicar;O
- ;O
 os;O
- ;O
 seus;O
- ;O
 discursos;O
- ;O
 proferidos;O
- ;O
 no;O
- ;O
 Senado;O
 ,;O
- ;O
 pela;O
- ;O
 imprensa;O
 ,;O
- ;O
 onde;O
 ,;O
- ;O
 como;O
- ;O
 e;O
- ;O
 quando;O
- ;O
 lhe;O
- ;O
 convier;O
- ;O
 .;O
- ;O
 A;O
- ;O
 memorável;O
- ;O
 construção;O
- ;O
 -;O
- ;O
 a;O
- ;O
 maior;O
- ;O
 criação;O
- ;O
 jurisprudencial;O
- ;O
 brasileira;O
 ,;O
- ;O
 nos;O
- ;O
 dizeres;O
- ;O
 da;O
- ;O
 historiadora;O
- ;O
 Leda;B_Pessoa
- ;I_Pessoa
 Boechat;I_Pessoa
- ;I_Pessoa
 Rodrigues;I_Pessoa
- ;I_Pessoa
 (;O
- ;O
 História;B_Doutrina
- ;I_Doutrina
 do;I_Doutrina
- ;I_Doutrina
 Supremo;I_Doutrina
- ;I_Doutrina
 Tribunal;I_Doutrina
- ;I_Doutrina
 Federal;I_Doutrina
 :;I_Doutrina
- ;I_Doutrina
 1910-1926;I_Doutrina
 :;I_Doutrina
- ;I_Doutrina
 doutrina;I_Doutrina
- ;I_Doutrina
 brasileira;I_Doutrina
- ;I_Doutrina
 do;I_Doutrina
- ;I_Doutrina
 habeas;I_Doutrina
- ;I_Doutrina
 corpus;I_Doutrina
- ;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 2;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 ed;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 Rio;I_Doutrina
- ;I_Doutrina
 de;I_Doutrina
- ;I_Doutrina
 Janeiro;I_Doutrina
 :;I_Doutrina
- ;I_Doutrina
 Civilização;I_Doutrina
- ;I_Doutrina
 brasileira;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 1991;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 vol;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 3;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 p;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 17;I_Doutrina
 );I_Doutrina
 -;O
 ,;O
- ;O
 chegou;O
 ,;O
- ;O
 contudo;O
 ,;O
- ;O
 ao;O
- ;O
 fim;O
- ;O
 em;O
- ;O
 1926;O
 ,;O
- ;O
 com;O
- ;O
 a;O
- ;O
 reforma;O
- ;O
 constitucional;O
- ;O
 promovida;O
- ;O
 pelo;O
- ;O
 Presidente;B_Pessoa
- ;I_Pessoa
 Artur;I_Pessoa
- ;I_Pessoa
 Bernardes;I_Pessoa
 ,;I_Pessoa
- ;O
 que;O
 ,;O
- ;O
 mediante;O
- ;O
 alteração;O
- ;O
 do;O
- ;O
 mencionado;O
- ;B_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 72;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1891;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 limitou;O
- ;O
 o;O
- ;O
 emprego;O
- ;O
 do;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 à;O
- ;O
 tutela;O
- ;O
 da;O
- ;O
 liberdade;O
- ;O
 de;O
- ;O
 locomoção;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Desde;O
- ;O
 então;O
- ;O
 o;O
- ;O
 habeas;O
- ;O
 foi;O
- ;O
 contemplado;O
- ;O
 em;O
- ;O
 todas;O
- ;O
 as;O
- ;O
 Constituições;O
- ;O
 republicanas;O
 ,;O
- ;O
 de;O
- ;O
 1934;O
 ,;O
- ;O
 1937;O
 ,;O
- ;O
 1946;O
 ,;O
- ;O
 1967;O
 ,;O
- ;O
 1969;O
- ;O
 e;O
- ;O
 1988;O
 ,;O
- ;O
 para;O
- ;O
 a;O
- ;O
 tutela;O
- ;O
 da;O
- ;O
 liberdade;O
- ;O
 de;O
- ;O
 locomoção;O
- ;O
 contra;O
- ;O
 violência;O
- ;O
 ou;O
- ;O
 coação;O
- ;O
 ilegal;O
- ;O
 ou;O
- ;O
 abusiva;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Todo;O
- ;O
 esse;O
- ;O
 rico;O
- ;O
 histórico;O
- ;O
 evidencia;O
- ;O
 o;O
- ;O
 caráter;O
- ;O
 nobre;O
- ;O
 da;O
- ;O
 ação;O
- ;O
 constitucional;O
- ;O
 do;O
- ;O
 habeas;O
- ;O
 corpus;O
 ,;O
- ;O
 garantia;O
- ;O
 fundamental;O
- ;O
 que;O
 ,;O
- ;O
 se;O
- ;O
 não;O
- ;O
 pode;O
- ;O
 ser;O
- ;O
 amesquinhada;O
 ,;O
- ;O
 também;O
- ;O
 não;O
- ;O
 é;O
- ;O
 passível;O
- ;O
 de;O
- ;O
 vulgarização;O
 .;O
- ;O
 No;O
- ;O
 dizer;O
- ;O
 de;O
- ;O
 Pontes;B_Pessoa
- ;I_Pessoa
 de;I_Pessoa
- ;I_Pessoa
 Miranda;I_Pessoa
 ,;I_Pessoa
- ;O
 """onde";O
- ;O
 não;O
- ;O
 há;O
- ;O
 remédio;O
- ;O
 do;O
- ;O
 rito;O
- ;O
 do;O
- ;O
 habeas;O
- ;O
 corpus;O
 ,;O
- ;O
 não;O
- ;O
 há;O
 ,;O
- ;O
 não;O
- ;O
 pode;O
- ;O
 haver;O
- ;O
 garantia;O
- ;O
 segura;O
- ;O
 da;O
- ;O
 liberdade;O
- ;O
 "física""";O
- ;O
 (;O
- ;O
 História;B_Doutrina
- ;I_Doutrina
 e;I_Doutrina
- ;I_Doutrina
 prática;I_Doutrina
- ;I_Doutrina
 do;I_Doutrina
- ;I_Doutrina
 Habeas;I_Doutrina
- ;I_Doutrina
 Corpus;I_Doutrina
- ;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 3;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 ed;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 Campinas;I_Doutrina
 :;I_Doutrina
- ;I_Doutrina
 Bookseller;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 2007;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 vol;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 I;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 p;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 160-161;I_Doutrina
 );I_Doutrina
 .;O
- ;O
 "
 ";O
 "
 ";O
 Assim;O
 ,;O
- ;O
 é;O
- ;O
 o;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 uma;O
- ;O
 garantia;O
- ;O
 da;O
- ;O
 liberdade;O
- ;O
 de;O
- ;O
 locomoção;O
- ;O
 ir;O
 ,;O
- ;O
 vir;O
- ;O
 e;O
- ;O
 permanecer;O
- ;O
 -;O
 ,;O
- ;O
 contra;O
- ;O
 violência;O
- ;O
 ou;O
- ;O
 coação;O
 ,;O
- ;O
 pressupondo;O
 ,;O
- ;O
 portanto;O
 ,;O
- ;O
 uma;O
- ;O
 prisão;O
 ,;O
- ;O
 uma;O
- ;O
 ameaça;O
- ;O
 de;O
- ;O
 prisão;O
- ;O
 ou;O
- ;O
 pelo;O
- ;O
 menos;O
- ;O
 alguma;O
- ;O
 espécie;O
- ;O
 de;O
- ;O
 constrangimento;O
- ;O
 físico;O
- ;O
 ou;O
- ;O
 moral;O
- ;O
 à;O
- ;O
 liberdade;O
- ;O
 física;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Nos;O
- ;O
 últimos;O
- ;O
 anos;O
 ,;O
- ;O
 todavia;O
 ,;O
- ;O
 tem;O
- ;O
 se;O
- ;O
 verificado;O
- ;O
 um;O
- ;O
 desvirtuamento;O
- ;O
 da;O
- ;O
 garantia;O
- ;O
 constitucional;O
 .;O
- ;O
 Ilustrativamente;O
 ,;O
- ;O
 notícia;O
- ;O
 divulgada;O
- ;O
 no;O
- ;O
 site;O
- ;O
 do;O
- ;O
 Superior;O
- ;O
 Tribunal;O
- ;O
 de;O
- ;O
 Justiça;O
- ;O
 em;O
- ;O
 29.5.2011;O
- ;O
 (;O
- ;O
 """Número";O
- ;O
 de;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 dobra;O
- ;O
 em;O
- ;O
 três;O
- ;O
 anos;O
- ;O
 e;O
- ;O
 preocupa;O
- ;O
 "Ministros""";O
- ;O
 );O
- ;O
 revela;O
- ;O
 atingida;O
- ;O
 naquela;O
- ;O
 data;O
- ;O
 a;O
- ;O
 marca;O
- ;O
 de;O
- ;O
 duzentos;O
- ;O
 mil;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 impetrados;O
- ;O
 perante;O
- ;O
 aquela;O
- ;O
 Corte;O
 .;O
- ;O
 E;O
 ,;O
- ;O
 segundo;O
- ;O
 os;O
- ;O
 dados;O
- ;O
 estatísticos;O
- ;O
 disponibilizados;O
 ,;O
- ;O
 naquele;O
- ;O
 ano;O
- ;O
 nela;O
- ;O
 foram;O
- ;O
 distribuídos;O
- ;O
 36.125;O
- ;O
 habeas;O
- ;O
 corpus;O
 ,;O
- ;O
 número;O
- ;O
 quase;O
- ;O
 equivalente;O
- ;O
 ao;O
- ;O
 total;O
- ;O
 de;O
- ;O
 processos;O
- ;O
 distribuídos;O
- ;O
 perante;O
- ;O
 este;O
- ;O
 Supremo;O
- ;O
 Tribunal;O
- ;O
 Federal;O
- ;O
 no;O
- ;O
 mesmo;O
- ;O
 ano;O
- ;O
 (;O
 de;O
- ;O
 38.109;O
 );O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Tais;O
- ;O
 números;O
- ;O
 só;O
- ;O
 foram;O
- ;O
 possíveis;O
- ;O
 em;O
- ;O
 virtude;O
- ;O
 da;O
- ;O
 prodigalização;O
- ;O
 e;O
- ;O
 da;O
- ;O
 vulgarização;O
- ;O
 do;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Embora;O
- ;O
 restrito;O
- ;O
 seu;O
- ;O
 cabimento;O
 ,;O
- ;O
 segundo;O
- ;O
 a;O
- ;O
 Constituição;O
 ,;O
- ;O
 a;O
- ;O
 casos;O
- ;O
 de;O
- ;O
 prisão;O
- ;O
 ou;O
- ;O
 ameaça;O
- ;O
 de;O
- ;O
 prisão;O
 ,;O
- ;O
 passou;O
 -;O
 se;O
- ;O
 a;O
- ;O
 admiti;O
 -;O
 lo;O
- ;O
 como;O
- ;O
 substitutivo;O
- ;O
 de;O
- ;O
 recursos;O
- ;O
 no;O
- ;O
 processo;O
- ;O
 penal;O
 ,;O
- ;O
 por;O
- ;O
 vezes;O
- ;O
 até;O
- ;O
 mesmo;O
- ;O
 sem;O
- ;O
 qualquer;O
- ;O
 prisão;O
- ;O
 vigente;O
- ;O
 ou;O
- ;O
 sem;O
- ;O
 ameaça;O
- ;O
 senão;O
- ;O
 remota;O
- ;O
 de;O
- ;O
 prisão;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 pauta;O
 ,;O
- ;O
 aliás;O
 ,;O
- ;O
 da;O
- ;O
 Primeira;O
- ;O
 Turma;O
- ;O
 desta;O
- ;O
 Suprema;O
- ;O
 Corte;O
 ,;O
- ;O
 com;O
- ;O
 mais;O
- ;O
 de;O
- ;O
 uma;O
- ;O
 centena;O
- ;O
 de;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 sobre;O
- ;O
 os;O
- ;O
 mais;O
- ;O
 variados;O
- ;O
 temas;O
 ,;O
- ;O
 poucos;O
- ;O
 relacionados;O
- ;O
 à;O
- ;O
 impugnação;O
- ;O
 da;O
- ;O
 prisão;O
- ;O
 ou;O
- ;O
 efetiva;O
- ;O
 ameaça;O
- ;O
 de;O
 ,;O
- ;O
 é;O
- ;O
 ilustrativa;O
- ;O
 do;O
- ;O
 desvirtuamento;O
- ;O
 do;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 desvirtuamento;O
- ;O
 do;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 também;O
- ;O
 tornou;O
- ;O
 sem;O
- ;O
 sentido;O
- ;O
 o;O
- ;O
 princípio;O
- ;O
 da;O
- ;O
 exaustividade;O
- ;O
 dos;O
- ;O
 recursos;O
- ;O
 no;O
- ;O
 processo;O
- ;O
 legal;O
 .;O
- ;O
 De;O
- ;O
 nada;O
- ;O
 adianta;O
- ;O
 a;O
- ;O
 lei;O
- ;O
 prever;O
- ;O
 um;O
- ;O
 número;O
- ;O
 limitado;O
- ;O
 de;O
- ;O
 recursos;O
- ;O
 contra;O
- ;O
 decisões;O
- ;O
 finais;O
- ;O
 ou;O
- ;O
 contra;O
- ;O
 decisões;O
- ;O
 interlocutórias;O
- ;O
 se;O
- ;O
 a;O
- ;O
 jurisprudência;O
- ;O
 entender;O
 ,;O
- ;O
 à;O
- ;O
 falta;O
- ;O
 de;O
- ;O
 previsão;O
- ;O
 do;O
- ;O
 recurso;O
 ,;O
- ;O
 manejável;O
- ;O
 o;O
- ;O
 habeas;O
- ;O
 corpus;O
 .;O
- ;O
 A;O
- ;O
 par;O
- ;O
 de;O
- ;O
 notório;O
- ;O
 que;O
- ;O
 a;O
- ;O
 possibilidade;O
- ;O
 de;O
- ;O
 recorrer;O
- ;O
 contra;O
- ;O
 toda;O
- ;O
 e;O
- ;O
 qualquer;O
- ;O
 decisão;O
- ;O
 interlocutória;O
- ;O
 é;O
- ;O
 fatal;O
- ;O
 para;O
- ;O
 a;O
- ;O
 duração;O
- ;O
 razoável;O
- ;O
 do;O
- ;O
 processo;O
- ;O
 também;O
- ;O
 assegurada;O
- ;O
 constitucionalmente;O
 ,;O
- ;O
 há;O
- ;O
 verdadeira;O
- ;O
 avalanche;O
- ;O
 de;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 a;O
- ;O
 submeterem;O
- ;O
 a;O
- ;O
 mesma;O
- ;O
 questão;O
 ,;O
- ;O
 sucessiva;O
- ;O
 e;O
- ;O
 até;O
- ;O
 concomitantemente;O
 ,;O
- ;O
 a;O
- ;O
 diferentes;O
- ;O
 tribunais;O
 ,;O
- ;O
 o;O
- ;O
 que;O
- ;O
 tem;O
- ;O
 efeito;O
- ;O
 ainda;O
- ;O
 mais;O
- ;O
 grave;O
- ;O
 nos;O
- ;O
 Tribunais;O
- ;O
 Superiores;O
 ,;O
- ;O
 diante;O
- ;O
 das;O
- ;O
 funções;O
- ;O
 precípuas;O
- ;O
 do;O
- ;O
 Superior;O
- ;O
 Tribunal;O
- ;O
 de;O
- ;O
 Justiça;O
- ;O
 -;O
- ;O
 a;O
- ;O
 última;O
- ;O
 palavra;O
- ;O
 na;O
- ;O
 interpretação;O
- ;O
 da;O
- ;O
 lei;O
- ;O
 federal;O
- ;O
 e;O
- ;O
 desta;O
- ;O
 Suprema;O
- ;O
 Corte;O
- ;O
 -;O
- ;O
 a;O
- ;O
 guarda;O
- ;O
 da;O
- ;O
 Constituição;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 preservação;O
- ;O
 da;O
- ;O
 racionalidade;O
- ;O
 do;O
- ;O
 sistema;O
- ;O
 processual;O
- ;O
 e;O
- ;O
 recursal;O
 ,;O
- ;O
 bem;O
- ;O
 como;O
- ;O
 a;O
- ;O
 necessidade;O
- ;O
 de;O
- ;O
 assegurar;O
- ;O
 a;O
- ;O
 razoável;O
- ;O
 duração;O
- ;O
 do;O
- ;O
 processo;O
 ,;O
- ;O
 comandada;O
- ;O
 pelo;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 5º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 LXXVIII;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Carta;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Magna;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 aconselham;O
- ;O
 seja;O
- ;O
 retomada;O
- ;O
 a;O
- ;O
 função;O
- ;O
 constitucional;O
- ;O
 do;O
- ;O
 habeas;O
- ;O
 corpus;O
 ,;O
- ;O
 sem;O
- ;O
 o;O
- ;O
 seu;O
- ;O
 emprego;O
- ;O
 como;O
- ;O
 substitutivo;O
- ;O
 de;O
- ;O
 recurso;O
- ;O
 no;O
- ;O
 processo;O
- ;O
 penal;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 No;O
- ;O
 caso;O
- ;O
 do;O
- ;O
 recurso;O
- ;O
 ordinário;O
- ;O
 contra;O
- ;O
 a;O
- ;O
 denegação;O
- ;O
 do;O
- ;O
 writ;O
- ;O
 por;O
- ;O
 Tribunal;O
- ;O
 Superior;O
 ,;O
- ;O
 o;O
- ;O
 uso;O
- ;O
 do;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 em;O
- ;O
 substituição;O
- ;O
 é;O
- ;O
 ainda;O
- ;O
 mais;O
- ;O
 grave;O
 ,;O
- ;O
 considerada;O
- ;O
 a;O
- ;O
 expressa;O
- ;O
 previsão;O
- ;O
 do;O
- ;O
 recurso;O
- ;O
 no;O
- ;O
 texto;O
- ;O
 constitucional;O
- ;O
 (;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 102;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 II;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 a;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Federal;I_Ref. Legislativa
 );I_Ref. Legislativa
 .;O
- ;O
 "
 ";O
 "
 ";O
 Admitir;O
- ;O
 o;O
- ;O
 habes;O
- ;O
 corpus;O
- ;O
 como;O
- ;O
 substitutivo;O
- ;O
 do;O
- ;O
 recurso;O
 ,;O
- ;O
 diante;O
- ;O
 da;O
- ;O
 expressa;O
- ;O
 previsão;O
- ;O
 constitucional;O
 ,;O
- ;O
 representa;O
- ;O
 burla;O
- ;O
 indireta;O
- ;O
 ao;O
- ;O
 instituto;O
- ;O
 próprio;O
 ,;O
- ;O
 cujo;O
- ;O
 manejo;O
- ;O
 está;O
- ;O
 à;O
- ;O
 disposição;O
- ;O
 do;O
- ;O
 sucumbente;O
 ,;O
- ;O
 observados;O
- ;O
 os;O
- ;O
 requisitos;O
- ;O
 pertinentes;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Em;O
- ;O
 síntese;O
 ,;O
- ;O
 o;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 é;O
- ;O
 garantia;O
- ;O
 fundamental;O
- ;O
 que;O
- ;O
 não;O
- ;O
 pode;O
- ;O
 ser;O
- ;O
 vulgarizada;O
 ,;O
- ;O
 sob;O
- ;O
 pena;O
- ;O
 de;O
- ;O
 sua;O
- ;O
 descaracterização;O
- ;O
 como;O
- ;O
 remédio;O
- ;O
 heroico;O
 ,;O
- ;O
 e;O
- ;O
 seu;O
- ;O
 emprego;O
- ;O
 não;O
- ;O
 pode;O
- ;O
 servir;O
- ;O
 a;O
- ;O
 escamotear;O
- ;O
 o;O
- ;O
 instituto;O
- ;O
 recursal;O
- ;O
 previsto;O
- ;O
 no;O
- ;O
 texto;O
- ;O
 da;O
- ;O
 Constituição;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Como;O
- ;O
 foi;O
- ;O
 o;O
- ;O
 que;O
- ;O
 ocorreu;O
- ;O
 no;O
- ;O
 presente;O
- ;O
 caso;O
 ,;O
- ;O
 deve;O
- ;O
 ser;O
- ;O
 negado;O
- ;O
 seguimento;O
- ;O
 ao;O
- ;O
 presente;O
- ;O
 habeas;O
- ;O
 corpus;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Observo;O
 ,;O
- ;O
 ademais;O
 ,;O
- ;O
 que;O
- ;O
 o;O
- ;O
 acórdão;O
- ;O
 do;O
- ;O
 habeas;O
- ;O
 corpus;O
- ;O
 denegado;O
- ;O
 pelo;O
- ;O
 Superior;O
- ;O
 Tribunal;O
- ;O
 Militar;O
- ;O
 sequer;O
- ;O
 foi;O
- ;O
 publicado;O
 ,;O
- ;O
 com;O
- ;O
 o;O
- ;O
 que;O
- ;O
 os;O
- ;O
 Impetrantes;O
- ;O
 ainda;O
- ;O
 poderão;O
- ;O
 interpor;O
 ,;O
- ;O
 no;O
- ;O
 momento;O
- ;O
 próprio;O
 ,;O
- ;O
 o;O
- ;O
 devido;O
- ;O
 recurso;O
- ;O
 ordinário;O
 ,;O
- ;O
 não;O
- ;O
 sofrendo;O
- ;O
 prejuízo;O
- ;O
 pelo;O
- ;O
 não;O
- ;O
 processamento;O
- ;O
 deste;O
- ;O
 writ;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 id;O
 :;O
- ;O
 20130201_HC_116222_118156040;O

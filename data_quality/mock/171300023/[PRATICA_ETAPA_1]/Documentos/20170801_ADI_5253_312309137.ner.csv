@@ -1,68 +1,45 @@
 Token;Tag
 Ementa;O
- ;O
 e;O
- ;O
 Acórdão;O
- ;O
 03/08/2016;O
- ;O
 PLENÁRIO;O
- ;O
 "
 ";O
 "
 ";O
 AÇÃO;B_Precedente
- ;I_Precedente
 DIRETA;I_Precedente
- ;I_Precedente
 DE;I_Precedente
- ;I_Precedente
 INCONSTITUCIONALIDADE;I_Precedente
- ;I_Precedente
 5.253;I_Precedente
- ;I_Precedente
 BAHIA;I_Precedente
- ;I_Precedente
 "
 ";I_Precedente
 "
 ";O
 RELATOR;O
- ;O
 :;O
- ;O
 MIN;B_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 DIAS;I_Pessoa
- ;I_Pessoa
 TOFFOLIREQTE;O
 .;O
 (;O
 S;O
 );O
- ;O
 :;O
 ASSOCIACAO;O
- ;O
 NACIONAL;O
- ;O
 DAS;O
- ;O
 OPERADORAS;O
- ;O
 "
 ";O
 "
 ";O
 CELULARES;O
- ;O
 -;O
- ;O
 ACEL;O
- ;O
 "
 ";O
 "
@@ -77,18 +54,12 @@ S;O
 (;O
 ES;O
 );O
- ;O
 :;O
 FLÁVIO;B_Pessoa
- ;I_Pessoa
 HENRIQUE;I_Pessoa
- ;I_Pessoa
 UNES;I_Pessoa
- ;I_Pessoa
 PEREIRA;I_Pessoa
- ;I_Pessoa
 E;O
- ;O
 OUTRO;O
 (;O
 A;O
@@ -102,18 +73,12 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 GOVERNADOR;O
- ;O
 DO;O
- ;O
 ESTADO;O
- ;O
 DA;O
- ;O
 BAHIA;O
- ;O
 ADV;O
 .;O
 (;O
@@ -121,16 +86,11 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 SEM;O
- ;O
 REPRESENTAÇÃO;O
- ;O
 NOS;O
- ;O
 AUTOS;O
- ;O
 INTDO;O
 .;O
 (;O
@@ -138,20 +98,13 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 ASSEMBLÉIA;O
- ;O
 LEGISLATIVA;O
- ;O
 DO;O
- ;O
 ESTADO;O
- ;O
 DA;O
- ;O
 BAHIA;O
- ;O
 ADV;O
 .;O
 (;O
@@ -159,1223 +112,708 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 SEM;O
- ;O
 REPRESENTAÇÃO;O
- ;O
 NOS;O
- ;O
 AUTOS;O
- ;O
 "
 ";O
 "
 ";O
 EMENTA;O
- ;O
 "
 ";O
 "
 ";O
 Ação;O
- ;O
 direta;O
- ;O
 de;O
- ;O
 inconstitucionalidade;O
 .;O
- ;O
 Artigo;B_Ref. Legislativa
- ;I_Ref. Legislativa
 1º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 caput;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 parágrafo;I_Ref. Legislativa
- ;I_Ref. Legislativa
 único;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 e;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 2º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 caput;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 parágrafo;I_Ref. Legislativa
- ;I_Ref. Legislativa
 único;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Estadual;I_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 13.189;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 4;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 julho;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 2014;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Estado;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Bahia;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 Serviços;O
- ;O
 de;O
- ;O
 telecomunicações;O
 .;O
- ;O
 Matéria;O
- ;O
 de;O
- ;O
 competência;O
- ;O
 legislativa;O
- ;O
 privativa;O
- ;O
 da;O
- ;O
 União;O
 .;O
- ;O
 Norma;O
- ;O
 que;O
- ;O
 cria;O
- ;O
 obrigação;O
- ;O
 não;O
- ;O
 prevista;O
- ;O
 nos;O
- ;O
 contratos;O
- ;O
 de;O
- ;O
 concessão;O
- ;O
 celebrados;O
- ;O
 entre;O
- ;O
 a;O
- ;O
 União;O
- ;O
 e;O
- ;O
 as;O
- ;O
 concessionárias;O
- ;O
 de;O
- ;O
 serviços;O
- ;O
 de;O
- ;O
 telefonia;O
- ;O
 móvel;O
 .;O
- ;O
 Violação;O
- ;O
 do;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 22;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 inciso;I_Ref. Legislativa
- ;I_Ref. Legislativa
 IV;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Federal;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 Medida;O
- ;O
 cautelar;O
 .;O
- ;O
 Referendo;O
 .;O
- ;O
 Conversão;O
 .;O
- ;O
 Julgamento;O
- ;O
 de;O
- ;O
 mérito;O
 .;O
- ;O
 Procedência;O
- ;O
 da;O
- ;O
 ação;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 1;O
 .;O
- ;O
 O;O
- ;O
 Supremo;O
- ;O
 Tribunal;O
- ;O
 Federal;O
- ;O
 já;O
- ;O
 reconheceu;O
- ;O
 a;O
- ;O
 legitimidade;O
- ;O
 ativa;O
- ;O
 da;O
- ;O
 Associação;O
- ;O
 Nacional;O
- ;O
 das;O
- ;O
 Operadoras;O
- ;O
 Celulares;O
- ;O
 (;O
 ACEL;O
 );O
- ;O
 para;O
- ;O
 o;O
- ;O
 controle;O
- ;O
 concentrado;O
- ;O
 de;O
- ;O
 constitucionalidade;O
- ;O
 de;O
- ;O
 leis;O
- ;O
 que;O
 ,;O
- ;O
 a;O
- ;O
 exemplo;O
- ;O
 da;O
- ;O
 que;O
- ;O
 é;O
- ;O
 impugnada;O
- ;O
 na;O
- ;O
 presente;O
- ;O
 ação;O
 ,;O
- ;O
 estabeleciam;O
- ;O
 obrigações;O
- ;O
 para;O
- ;O
 operadoras;O
- ;O
 de;O
- ;O
 serviço;O
- ;O
 móvel;O
- ;O
 de;O
- ;O
 telefonia;O
 .;O
- ;O
 Precedentes;O
 :;O
- ;O
 ADI;B_Precedente
- ;I_Precedente
 4.715;I_Precedente
- ;I_Precedente
 MC;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Rel;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Min;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Marco;I_Precedente
- ;I_Precedente
 Aurélio;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Tribunal;I_Precedente
- ;I_Precedente
 Pleno;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 DJe;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 "19/8/13;";I_Precedente
- ;O
 ADI;B_Precedente
- ;I_Precedente
 3.846;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Rel;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Min;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Gilmar;I_Precedente
- ;I_Precedente
 Mendes;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Tribunal;I_Precedente
- ;I_Precedente
 Pleno;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 DJe;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 "15/3/11;";I_Precedente
- ;O
 ADI;B_Precedente
- ;I_Precedente
 5.356;I_Precedente
- ;I_Precedente
 MC;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Rel;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Min;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Edson;I_Precedente
- ;I_Precedente
 Fachin;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 decisão;I_Precedente
- ;I_Precedente
 monocrática;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 DJe;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 20/11/15;I_Precedente
 .;I_Precedente
- ;O
 "
 ";O
 "
 ";O
 2;O
 .;O
- ;O
 A;B_Ref. Legislativa
- ;I_Ref. Legislativa
 Lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 13.189;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 4;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 julho;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 2014;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Estado;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Bahia;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 ao;O
- ;O
 criar;O
- ;O
 obrigação;O
- ;O
 para;O
- ;O
 as;O
- ;O
 operadoras;O
- ;O
 do;O
- ;O
 serviço;O
- ;O
 móvel;O
- ;O
 pessoal;O
 ,;O
- ;O
 consistente;O
- ;O
 na;O
- ;O
 instalação;O
- ;O
 e;O
- ;O
 na;O
- ;O
 manutenção;O
- ;O
 de;O
- ;O
 bloqueadores;O
- ;O
 de;O
- ;O
 sinais;O
- ;O
 de;O
- ;O
 radiocomunicações;O
- ;O
 (;O
 BSR;O
 );O
- ;O
 nos;O
- ;O
 estabelecimentos;O
- ;O
 penais;O
- ;O
 de;O
- ;O
 todo;O
- ;O
 o;O
- ;O
 Estado;O
 ,;O
- ;O
 com;O
- ;O
 o;O
- ;O
 objetivo;O
- ;O
 de;O
- ;O
 impedir;O
- ;O
 a;O
- ;O
 comunicação;O
- ;O
 por;O
- ;O
 telefones;O
- ;O
 móveis;O
- ;O
 no;O
- ;O
 interior;O
- ;O
 dos;O
- ;O
 referidos;O
- ;O
 estabelecimentos;O
 ,;O
- ;O
 dispôs;O
- ;O
 a;O
- ;O
 respeito;O
- ;O
 de;O
- ;O
 serviços;O
- ;O
 de;O
- ;O
 telecomunicações;O
 ,;O
- ;O
 matéria;O
- ;O
 da;O
- ;O
 competência;O
- ;O
 legislativa;O
- ;O
 privativa;O
- ;O
 da;O
- ;O
 União;O
 ,;O
- ;O
 na;O
- ;O
 forma;O
- ;O
 do;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 22;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 inciso;I_Ref. Legislativa
- ;I_Ref. Legislativa
 IV;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Federal;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 "
 ";O
 "
 ";O
 3;O
 .;O
- ;O
 O;O
- ;O
 Supremo;O
- ;O
 Tribunal;O
- ;O
 Federal;O
 ,;O
- ;O
 em;O
- ;O
 várias;O
- ;O
 ocasiões;O
 ,;O
- ;O
 já;O
- ;O
 afirmou;O
- ;O
 a;O
- ;O
 inconstitucionalidade;O
- ;O
 de;O
- ;O
 normas;O
- ;O
 estaduais;O
- ;O
 e;O
- ;O
 distritais;O
- ;O
 que;O
- ;O
 impunham;O
- ;O
 obrigações;O
- ;O
 às;O
- ;O
 concessionárias;O
- ;O
 de;O
- ;O
 telefonia;O
 ,;O
- ;O
 por;O
- ;O
 configurar;O
- ;O
 ofensa;O
- ;O
 à;O
- ;O
 competência;O
- ;O
 privativa;O
- ;O
 da;O
- ;O
 União;O
- ;O
 para;O
- ;O
 legislar;O
- ;O
 sobre;O
- ;O
 telecomunicações;O
 .;O
- ;O
 Precedentes;O
 :;O
- ;O
 ADI;B_Precedente
- ;I_Precedente
 3.846;I_Precedente
 /;I_Precedente
 PE;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Rel;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Min;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Gilmar;I_Precedente
- ;I_Precedente
 Mendes;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 DJ;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 "15/3/11;";I_Precedente
- ;O
 ADI;B_Precedente
- ;I_Precedente
 3.322;I_Precedente
 /;I_Precedente
 DF;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Rel;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Min;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Gilmar;I_Precedente
- ;I_Precedente
 Mendes;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 DJ;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 "4/3/11;";I_Precedente
- ;O
 ADI;B_Precedente
- ;I_Precedente
 4.401;I_Precedente
 /;I_Precedente
 MG;I_Precedente
 -;I_Precedente
 MC;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Rel;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Min;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Gilmar;I_Precedente
- ;I_Precedente
 Mendes;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 DJ;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 "1º/10/10;";I_Precedente
- ;O
 ADI;B_Precedente
- ;I_Precedente
 2.615;I_Precedente
 /;I_Precedente
 SC;I_Precedente
 -;I_Precedente
 MC;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Rel;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Min;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Nelson;I_Precedente
- ;I_Precedente
 Jobim;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 DJ;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 6/12/02;I_Precedente
 .;I_Precedente
- ;O
 "
 ";O
 "
 ";O
 4;O
 .;O
- ;O
 A;O
- ;O
 obrigação;O
- ;O
 criada;O
- ;O
 pela;O
- ;O
 lei;O
- ;O
 estadual;O
- ;O
 questionada;O
- ;O
 não;O
- ;O
 está;O
- ;O
 prevista;O
- ;O
 nos;O
- ;O
 contratos;O
- ;O
 de;O
- ;O
 concessão;O
- ;O
 celebrados;O
- ;O
 entre;O
- ;O
 as;O
- ;O
 empresas;O
- ;O
 de;O
- ;O
 serviços;O
- ;O
 de;O
- ;O
 telefonia;O
- ;O
 móvel;O
- ;O
 e;O
- ;O
 a;O
- ;O
 União;O
 ,;O
- ;O
 circunstância;O
- ;O
 que;O
- ;O
 evidencia;O
 ,;O
- ;O
 ainda;O
- ;O
 mais;O
 ,;O
- ;O
 a;O
- ;O
 interferência;O
- ;O
 indevida;O
- ;O
 do;O
- ;O
 Estado;O
- ;O
 em;O
- ;O
 assunto;O
- ;O
 de;O
- ;O
 competência;O
- ;O
 do;O
- ;O
 ente;O
- ;O
 federal;O
 .;O
- ;O
 Precedente;O
 :;O
- ;B_Precedente
 ADI;I_Precedente
- ;I_Precedente
 3.533;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Rel;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Min;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Eros;I_Precedente
- ;I_Precedente
 Grau;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 DJ;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 6/10/06;I_Precedente
 .;I_Precedente
- ;O
 "
 ";O
 "
 ";O
 5;O
 .;O
- ;O
 Conversão;O
- ;O
 do;O
- ;O
 julgamento;O
- ;O
 do;O
- ;O
 referendo;O
- ;O
 à;O
- ;O
 medida;O
- ;O
 cautelar;O
- ;O
 em;O
- ;O
 decisão;O
- ;O
 de;O
- ;O
 mérito;O
 .;O
- ;O
 Ação;O
- ;O
 julgada;O
- ;O
 procedente;O
 .;O
- ;O
 ACÓRDÃO;O
- ;O
 "
 ";O
 "
 ";O
 Vistos;O
 ,;O
- ;O
 relatados;O
- ;O
 e;O
- ;O
 discutidos;O
- ;O
 estes;O
- ;O
 autos;O
 ,;O
- ;O
 acordam;O
- ;O
 os;O
- ;O
 Ministros;O
- ;O
 do;O
- ;O
 Supremo;O
- ;O
 Tribunal;O
- ;O
 Federal;O
 ,;O
- ;O
 em;O
- ;O
 sessão;O
- ;O
 plenária;O
 ,;O
- ;O
 sob;O
- ;O
 a;O
- ;O
 presidência;O
- ;O
 do;O
- ;O
 Senhor;O
- ;O
 Ministro;O
- ;O
 Ricardo;O
- ;O
 Lewandowski;O
 ,;O
- ;O
 na;O
- ;O
 conformidade;O
- ;O
 da;O
- ;O
 ata;O
- ;O
 do;O
- ;O
 julgamento;O
- ;O
 e;O
- ;O
 das;O
- ;O
 notas;O
- ;O
 taquigráficas;O
 ,;O
- ;O
 convertida;O
- ;O
 a;O
- ;O
 apreciação;O
- ;O
 do;O
- ;O
 referendo;O
- ;O
 da;O
- ;O
 cautelar;O
- ;O
 em;O
- ;O
 julgamento;O
- ;O
 de;O
- ;O
 mérito;O
 ,;O
- ;O
 por;O
- ;O
 maioria;O
- ;O
 de;O
- ;O
 votos;O
- ;O
 e;O
- ;O
 nos;O
- ;O
 termos;O
- ;O
 do;O
- ;O
 voto;O
- ;O
 do;O
- ;O
 Relator;O
 ,;O
- ;O
 em;O
- ;O
 julgar;O
- ;O
 procedente;O
- ;O
 o;O
- ;O
 pedido;O
- ;O
 formulado;O
- ;O
 para;O
- ;O
 declarar;O
- ;O
 a;O
- ;O
 inconstitucionalidade;O
- ;O
 do;O
- ;B_Precedente
 art;I_Precedente
 .;I_Precedente
- ;I_Precedente
 1º;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 caput;I_Precedente
- ;I_Precedente
 e;I_Precedente
- ;I_Precedente
 parágrafo;I_Precedente
- ;I_Precedente
 único;I_Precedente
 ,;I_Precedente
- ;O
 e;O
- ;O
 art;B_Precedente
 .;I_Precedente
- ;I_Precedente
 2º;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 caput;I_Precedente
- ;I_Precedente
 e;I_Precedente
- ;I_Precedente
 parágrafo;I_Precedente
- ;I_Precedente
 único;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 da;I_Precedente
- ;I_Precedente
 Lei;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 13.189/2014;I_Precedente
- ;I_Precedente
 do;I_Precedente
- ;I_Precedente
 Estado;I_Precedente
- ;I_Precedente
 da;I_Precedente
- ;I_Precedente
 Bahia;I_Precedente
 .;I_Precedente
- ;O
 "
 ";O
 "
 ";O
 Brasília;O
 ,;O
- ;O
 3;O
- ;O
 de;O
- ;O
 agosto;O
- ;O
 de;O
- ;O
 2016;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 MINISTRO;B_Pessoa
- ;I_Pessoa
 DIAS;I_Pessoa
- ;I_Pessoa
 TOFFOLI;I_Pessoa
- ;I_Pessoa
 "
 ";I_Pessoa
 "
 ";O
 Relator;O
- ;O
 03/08/2016;O
- ;O
 PLENÁRIO;O
- ;O
 "
 ";O
 "
 ";O
 AÇÃO;B_Precedente
- ;I_Precedente
 DIRETA;I_Precedente
- ;I_Precedente
 DE;I_Precedente
- ;I_Precedente
 INCONSTITUCIONALIDADE;I_Precedente
- ;I_Precedente
 5.253;I_Precedente
- ;I_Precedente
 BAHIA;I_Precedente
- ;I_Precedente
 "
 ";I_Precedente
 "
 ";O
 RELATOR;O
- ;O
 :;O
- ;O
 MIN;B_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 DIAS;I_Pessoa
- ;I_Pessoa
 TOFFOLIREQTE;O
 .;O
 (;O
 S;O
 );O
- ;O
 :;O
 ASSOCIACAO;O
- ;O
 NACIONAL;O
- ;O
 DAS;O
- ;O
 OPERADORAS;O
- ;O
 "
 ";O
 "
 ";O
 CELULARES;O
- ;O
 -;O
- ;O
 ACEL;O
- ;O
 "
 ";O
 "
@@ -1390,18 +828,12 @@ S;O
 (;O
 ES;O
 );O
- ;O
 :;B_Pessoa
 FLÁVIO;I_Pessoa
- ;I_Pessoa
 HENRIQUE;I_Pessoa
- ;I_Pessoa
 UNES;I_Pessoa
- ;I_Pessoa
 PEREIRA;I_Pessoa
- ;I_Pessoa
 E;O
- ;O
 OUTRO;O
 (;O
 A;O
@@ -1415,18 +847,12 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 GOVERNADOR;O
- ;O
 DO;O
- ;O
 ESTADO;O
- ;O
 DA;O
- ;O
 BAHIA;O
- ;O
 ADV;O
 .;O
 (;O
@@ -1434,16 +860,11 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 SEM;O
- ;O
 REPRESENTAÇÃO;O
- ;O
 NOS;O
- ;O
 AUTOS;O
- ;O
 INTDO;O
 .;O
 (;O
@@ -1451,20 +872,13 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 ASSEMBLÉIA;O
- ;O
 LEGISLATIVA;O
- ;O
 DO;O
- ;O
 ESTADO;O
- ;O
 DA;O
- ;O
 BAHIA;O
- ;O
 ADV;O
 .;O
 (;O
@@ -1472,2036 +886,1148 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 SEM;O
- ;O
 REPRESENTAÇÃO;O
- ;O
 NOS;O
- ;O
 AUTOS;O
- ;O
 "
 ";O
 "
 ";O
 RELATÓRIO;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 SENHOR;O
- ;O
 MINISTRO;B_Pessoa
- ;I_Pessoa
 DIAS;I_Pessoa
- ;I_Pessoa
 TOFFOLI;I_Pessoa
- ;I_Pessoa
 (;O
 RELATOR;O
 );O
 :;O
- ;O
 Trata;O
 -;O
 se;O
- ;O
 de;O
- ;O
 referendo;O
- ;O
 à;O
- ;O
 medida;O
- ;O
 cautelar;O
- ;O
 na;O
- ;O
 ação;O
- ;O
 direta;O
- ;O
 de;O
- ;O
 inconstitucionalidade;O
- ;O
 ajuizada;O
- ;O
 pela;O
- ;O
 ASSOCIAÇÃO;O
- ;O
 NACIONAL;O
- ;O
 DAS;O
- ;O
 OPERADORAS;O
- ;O
 CELULARES;O
- ;O
 (;O
 ACEL;O
 );O
- ;O
 em;O
- ;O
 face;O
- ;O
 do;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 caput;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 parágrafo;I_Ref. Legislativa
- ;I_Ref. Legislativa
 único;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 e;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 2º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 caput;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 parágrafo;I_Ref. Legislativa
- ;I_Ref. Legislativa
 único;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 ambos;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 13.189;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Estado;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Bahia;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 4;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 julho;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 2014;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 que;O
- ;O
 determina;O
- ;O
 que;O
- ;O
 as;O
- ;O
 operadoras;O
- ;O
 do;O
- ;O
 serviço;O
- ;O
 móvel;O
- ;O
 pessoal;O
- ;O
 instalem;O
- ;O
 nos;O
- ;O
 estabelecimentos;O
- ;O
 penais;O
- ;O
 de;O
- ;O
 todo;O
- ;O
 o;O
- ;O
 Estado;O
- ;O
 bloqueadores;O
- ;O
 de;O
- ;O
 sinais;O
- ;O
 de;O
- ;O
 radiocomunicações;O
- ;O
 (;O
 BSR;O
 );O
 ,;O
- ;O
 visando;O
- ;O
 impedir;O
- ;O
 a;O
- ;O
 comunicação;O
- ;O
 por;O
- ;O
 telefones;O
- ;O
 móveis;O
- ;O
 no;O
- ;O
 interior;O
- ;O
 dos;O
- ;O
 presídios;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Eis;O
- ;O
 o;O
- ;O
 teor;O
- ;O
 dos;O
- ;O
 dispositivos;O
- ;O
 impugnados;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 “Art;O
 .;O
- ;O
 1º;O
- ;O
 -;O
- ;O
 As;O
- ;O
 empresas;O
- ;O
 operadoras;O
- ;O
 do;O
- ;O
 Serviço;O
- ;O
 Móvel;O
- ;O
 Pessoal;O
- ;O
 deverão;O
- ;O
 instalar;O
 ,;O
- ;O
 no;O
- ;O
 prazo;O
- ;O
 máximo;O
- ;O
 de;O
- ;O
 180;O
- ;O
 (;O
 cento;O
- ;O
 e;O
- ;O
 oitenta;O
 );O
- ;O
 dias;O
- ;O
 a;O
- ;O
 contar;O
- ;O
 da;O
- ;O
 publicação;O
- ;O
 desta;O
- ;O
 Lei;O
 ,;O
- ;O
 Bloqueadores;O
- ;O
 de;O
- ;O
 Sinais;O
- ;O
 de;O
- ;O
 Radiocomunicações;O
- ;O
 (;O
 BSR;O
 );O
 ,;O
- ;O
 nos;O
- ;O
 estabelecimentos;O
- ;O
 penais;O
- ;O
 de;O
- ;O
 todo;O
- ;O
 Estado;O
 ,;O
- ;O
 de;O
- ;O
 modo;O
- ;O
 a;O
- ;O
 impedir;O
- ;O
 a;O
- ;O
 comunicação;O
- ;O
 por;O
- ;O
 telefones;O
- ;O
 móveis;O
- ;O
 no;O
- ;O
 interior;O
- ;O
 dos;O
- ;O
 referidos;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Parágrafo;O
- ;O
 único;O
- ;O
 -;O
- ;O
 As;O
- ;O
 operadoras;O
- ;O
 estão;O
- ;O
 igualmente;O
- ;O
 obrigadas;O
- ;O
 a;O
- ;O
 prestar;O
- ;O
 todos;O
- ;O
 os;O
- ;O
 serviços;O
- ;O
 de;O
- ;O
 manutenção;O
 ,;O
- ;O
 troca;O
- ;O
 e;O
- ;O
 atualização;O
- ;O
 tecnológica;O
- ;O
 dos;O
- ;O
 Bloqueadores;O
- ;O
 de;O
- ;O
 Sinais;O
- ;O
 de;O
- ;O
 Radiocomunicações;O
- ;O
 de;O
- ;O
 que;O
- ;O
 trata;O
- ;O
 o;O
- ;O
 caput;O
- ;O
 deste;O
- ;O
 artigo;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Art;O
 .;O
- ;O
 2º;O
- ;O
 -;O
- ;O
 A;O
- ;O
 inobservância;O
- ;O
 do;O
- ;O
 dever;O
- ;O
 estabelecido;O
- ;O
 nesta;O
- ;O
 Lei;O
- ;O
 sujeita;O
- ;O
 todas;O
- ;O
 as;O
- ;O
 operadoras;O
 ,;O
- ;O
 individualmente;O
 ,;O
- ;O
 à;O
- ;O
 pena;O
- ;O
 de;O
- ;O
 multa;O
- ;O
 mínima;O
- ;O
 de;O
- ;O
 R$50.000,00;O
- ;O
 (;O
 cinquenta;O
- ;O
 mil;O
- ;O
 reais;O
 );O
- ;O
 e;O
- ;O
 máxima;O
- ;O
 de;O
- ;O
 R$1.000.000,00;O
- ;O
 (;O
 um;O
- ;O
 milhão;O
- ;O
 de;O
- ;O
 reais;O
 );O
- ;O
 por;O
- ;O
 estabelecimento;O
- ;O
 penal;O
 ,;O
- ;O
 cuja;O
- ;O
 aplicação;O
- ;O
 será;O
- ;O
 regrada;O
- ;O
 em;O
- ;O
 regulamento;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Parágrafo;O
- ;O
 único;O
- ;O
 -;O
- ;O
 À;O
- ;O
 Secretaria;O
- ;O
 de;O
- ;O
 Administração;O
- ;O
 Penitenciária;O
- ;O
 e;O
- ;O
 Ressocialização;O
- ;O
 caberá;O
- ;O
 a;O
- ;O
 fiscalização;O
- ;O
 e;O
- ;O
 cumprimento;O
- ;O
 da;O
- ;O
 presente;O
- ;O
 Lei”;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Sustenta;O
- ;O
 o;O
- ;O
 autor;O
 ,;O
- ;O
 em;O
- ;O
 síntese;O
 :;O
- ;O
 a;O
 );O
- ;O
 ofensa;O
- ;O
 aos;O
- ;O
 arts;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 21;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 XI;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 22;B_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 "IV;";I_Ref. Legislativa
- ;O
 e;O
- ;O
 175;B_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 parágrafo;I_Ref. Legislativa
- ;I_Ref. Legislativa
 único;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 incisos;I_Ref. Legislativa
- ;I_Ref. Legislativa
 I;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 II;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 todos;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Federal;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 tendo;O
- ;O
 havido;O
- ;O
 usurpação;O
- ;O
 de;O
- ;O
 competência;O
- ;O
 legislativa;O
- ;O
 privativa;O
- ;O
 da;O
- ;O
 União;O
- ;O
 para;O
- ;O
 disciplinar;O
- ;O
 os;O
- ;O
 serviços;O
- ;O
 de;O
- ;O
 "telecomunicações;";O
- ;O
 b;O
 );O
- ;O
 violação;O
- ;O
 do;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 144;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Federal;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 decorrente;O
- ;O
 da;O
- ;O
 transferência;O
- ;O
 ao;O
- ;O
 particular;O
- ;O
 do;O
- ;O
 dever;O
 ,;O
- ;O
 atribuído;O
- ;O
 ao;O
- ;O
 Estado;O
 ,;O
- ;O
 de;O
- ;O
 prestar;O
- ;O
 segurança;O
- ;O
 "pública;";O
- ;O
 c;O
 );O
- ;O
 “violação;O
- ;O
 dos;O
- ;O
 arts;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 170;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 II;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 III;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;O
- ;O
 175;B_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 caput;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 5º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 XXIV;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 CR/88;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 pois;O
- ;O
 o;O
- ;O
 Estado;O
- ;O
 pretende;O
 ,;O
- ;O
 por;O
- ;O
 meio;O
- ;O
 de;O
- ;O
 lei;O
 ,;O
- ;O
 transferir;O
- ;O
 ao;O
- ;O
 particular;O
- ;O
 obrigação;O
- ;O
 pecuniária;O
- ;O
 que;O
- ;O
 lhe;O
- ;O
 incumbe;O
- ;O
 (;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 144;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 CR/88;I_Ref. Legislativa
 );I_Ref. Legislativa
 ,;O
- ;O
 sem;O
- ;O
 contraprestação;O
 ,;O
- ;O
 sem;O
- ;O
 disposição;O
- ;O
 contratual;O
- ;O
 e;O
- ;O
 que;O
- ;O
 sequer;O
- ;O
 se;O
- ;O
 insere;O
- ;O
 na;O
- ;O
 atividade;O
- ;O
 fim;O
- ;O
 das;O
- ;O
 empresas;O
- ;O
 de;O
- ;O
 telefonia;O
- ;O
 "obrigadas”;";O
- ;O
 e;O
- ;O
 d;O
 );O
- ;O
 violação;O
- ;O
 do;O
- ;O
 ato;O
- ;O
 jurídico;O
- ;O
 perfeito;O
- ;O
 (;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 5º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 XXXVI;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 CF/88;I_Ref. Legislativa
 );I_Ref. Legislativa
 ,;O
- ;O
 visto;O
- ;O
 que;O
- ;O
 “a;O
- ;O
 autorização;O
- ;O
 outorgada;O
- ;O
 para;O
- ;O
 a;O
- ;O
 prestação;O
- ;O
 do;O
- ;O
 serviço;O
- ;O
 de;O
- ;O
 telefonia;O
- ;O
 móvel;O
- ;O
 não;O
- ;O
 continha;O
- ;O
 previsão;O
- ;O
 ou;O
- ;O
 indicativo;O
- ;O
 de;O
- ;O
 que;O
- ;O
 a;O
- ;O
 implementação;O
- ;O
 do;O
- ;O
 projeto;O
- ;O
 previsto;O
- ;O
 na;O
- ;O
 lei;O
- ;O
 impugnada;O
- ;O
 poderia;O
- ;O
 ser;O
- ;O
 transferido;O
- ;O
 às;O
- ;O
 autorizatárias;O
 ,;O
- ;O
 juntamente;O
- ;O
 com;O
- ;O
 seus;O
- ;O
 ônus;O
- ;O
 de;O
- ;O
 execução”;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Quanto;O
- ;O
 ao;O
- ;O
 periculum;O
- ;O
 in;O
- ;O
 mora;O
 ,;O
- ;O
 a;O
- ;O
 autora;O
- ;O
 aduz;O
- ;O
 que;O
- ;O
 “as;O
- ;O
 operadoras;O
- ;O
 estão;O
- ;O
 na;O
- ;O
 iminência;O
- ;O
 de;O
- ;O
 sofrer;O
- ;O
 pesadas;O
- ;O
 multas;O
 ,;O
- ;O
 nos;O
- ;O
 termos;O
- ;O
 do;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 2º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 da;O
- ;O
 lei;O
- ;O
 do;O
- ;O
 Estado;O
- ;O
 da;O
- ;O
 Bahia”;O
 .;O
- ;O
 Assevera;O
 ,;O
- ;O
 também;O
 ,;O
- ;O
 “que;O
- ;O
 a;O
- ;O
 execução;O
- ;O
 da;O
- ;O
 medida;O
- ;O
 já;O
- ;O
 vem;O
- ;O
 sendo;O
- ;O
 implementada;O
- ;O
 em;O
- ;O
 Estados;O
- ;O
 com;O
- ;O
 normas;O
- ;O
 idênticas;O
 ,;O
- ;O
 como;O
- ;O
 ocorre;O
- ;O
 em;O
- ;O
 Santa;O
- ;O
 Catarina”;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Considerando;O
- ;O
 a;O
- ;O
 relevância;O
- ;O
 do;O
- ;O
 caso;O
- ;O
 e;O
- ;O
 a;O
- ;O
 iminência;O
- ;O
 dos;O
- ;O
 efeitos;O
- ;O
 da;O
- ;O
 norma;O
- ;O
 impugnada;O
 ,;O
- ;O
 em;O
- ;O
 caráter;O
- ;O
 excepcional;O
- ;O
 deferi;O
- ;O
 monocraticamente;O
 ,;O
- ;O
 ad;O
- ;O
 referendum;O
- ;O
 do;O
- ;O
 Plenário;O
 ,;O
- ;O
 a;O
- ;O
 medida;O
- ;O
 cautelar;O
- ;O
 pleiteada;O
 ,;O
- ;O
 sem;O
- ;O
 a;O
- ;O
 audiência;O
- ;O
 dos;O
- ;O
 órgãos;O
- ;O
 ou;O
- ;O
 das;O
- ;O
 autoridades;O
- ;O
 das;O
- ;O
 quais;O
- ;O
 emanou;O
- ;O
 a;O
- ;O
 lei;O
 ,;O
- ;O
 para;O
- ;O
 suspender;O
 ,;O
- ;O
 com;O
- ;O
 efeito;O
- ;O
 ex;O
- ;O
 nunc;O
 ,;O
- ;O
 a;O
- ;O
 eficácia;O
- ;O
 do;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 caput;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 parágrafo;I_Ref. Legislativa
- ;I_Ref. Legislativa
 único;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 e;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 2º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 caput;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 parágrafo;I_Ref. Legislativa
- ;I_Ref. Legislativa
 único;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 ambos;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Estadual;I_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 13.189;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 4;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 julho;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 2014;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Estado;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Bahia;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 "
 ";O
 "
 ";O
 Em;O
- ;O
 10/3/16;O
 ,;O
- ;O
 tendo;O
- ;O
 em;O
- ;O
 vista;O
- ;O
 a;O
- ;O
 relevância;O
- ;O
 da;O
- ;O
 matéria;O
 ,;O
- ;O
 e;O
- ;O
 por;O
- ;O
 razões;O
- ;O
 de;O
- ;O
 eficiência;O
- ;O
 e;O
- ;O
 celeridade;O
- ;O
 processuais;O
 ,;O
- ;O
 determinei;O
- ;O
 que;O
- ;O
 fossem;O
- ;O
 colhidas;O
- ;O
 as;O
- ;O
 informações;O
- ;O
 dos;O
- ;O
 requeridos;O
- ;O
 e;O
- ;O
 concedida;O
- ;O
 vista;O
- ;O
 ao;O
- ;O
 Advogado;O
 -;O
 Geral;O
- ;O
 da;O
- ;O
 União;O
- ;O
 e;O
- ;O
 ao;O
- ;O
 Procurador;O
 -;O
 Geral;O
- ;O
 da;O
- ;O
 República;O
- ;O
 (;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 12;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 9.868/99;I_Ref. Legislativa
 );I_Ref. Legislativa
 ,;O
- ;O
 a;O
- ;O
 fim;O
- ;O
 de;O
- ;O
 que;O
- ;O
 a;O
- ;O
 ação;O
- ;O
 fosse;O
- ;O
 julgada;O
- ;O
 em;O
- ;O
 caráter;O
- ;O
 definitivo;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 Assembleia;O
- ;O
 Legislativa;O
- ;O
 do;O
- ;O
 Estado;O
- ;O
 da;O
- ;O
 Bahia;O
- ;O
 apresentou;O
- ;O
 informações;O
- ;O
 em;O
- ;O
 que;O
- ;O
 defende;O
- ;O
 a;O
- ;O
 constitucionalidade;O
- ;O
 da;O
- ;O
 norma;O
- ;O
 impugnada;O
 .;O
- ;O
 O;O
- ;O
 Governador;O
- ;O
 do;O
- ;O
 Estado;O
- ;O
 da;O
- ;O
 Bahia;O
- ;O
 não;O
- ;O
 apresentou;O
- ;O
 informações;O
 ,;O
- ;O
 embora;O
- ;O
 devidamente;O
- ;O
 intimado;O
 ,;O
- ;O
 conforme;O
- ;O
 certificado;O
- ;O
 nos;O
- ;O
 autos;O
- ;O
 (;O
 documento;O
- ;O
 eletrônico;O
- ;O
 nº;O
- ;O
 30;O
 );O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 Advocacia;O
 -;O
 Geral;O
- ;O
 da;O
- ;O
 União;O
 ,;O
- ;O
 em;O
- ;O
 seu;O
- ;O
 parecer;O
 ,;O
- ;O
 sustenta;O
- ;O
 a;O
- ;O
 inconstitucionalidade;O
- ;O
 de;O
- ;O
 lei;O
- ;O
 impugnada;O
 ,;O
- ;O
 com;O
- ;O
 fundamento;O
- ;O
 em;O
- ;O
 ofensa;O
- ;O
 à;O
- ;O
 competência;O
- ;O
 privativa;O
- ;O
 da;O
- ;O
 União;O
- ;O
 para;O
- ;O
 legislar;O
- ;O
 sobre;O
- ;O
 telecomunicações;O
- ;O
 (;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 22;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 inciso;I_Ref. Legislativa
- ;I_Ref. Legislativa
 IV;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Federal;I_Ref. Legislativa
 );I_Ref. Legislativa
 ,;O
- ;O
 pugnando;O
- ;O
 pela;O
- ;O
 procedência;O
- ;O
 do;O
- ;O
 pedido;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 Procuradoria;O
 -;O
 Geral;O
- ;O
 da;O
- ;O
 República;O
 ,;O
- ;O
 por;O
- ;O
 seu;O
- ;O
 turno;O
 ,;O
- ;O
 apresentou;O
- ;O
 parecer;O
- ;O
 com;O
- ;O
 preliminar;O
- ;O
 de;O
- ;O
 não;O
- ;O
 conhecimento;O
- ;O
 do;O
- ;O
 pedido;O
 ,;O
- ;O
 com;O
- ;O
 fulcro;O
- ;O
 na;O
- ;O
 ilegitimidade;O
- ;O
 ativa;O
- ;O
 da;O
- ;O
 requerente;O
 ,;O
- ;O
 por;O
- ;O
 representar;O
- ;O
 mero;O
- ;O
 segmento;O
- ;O
 da;O
- ;O
 categoria;O
 .;O
- ;O
 No;O
- ;O
 mérito;O
 ,;O
- ;O
 sustenta;O
- ;O
 que;O
 ,;O
- ;O
 caso;O
- ;O
 superada;O
- ;O
 a;O
- ;O
 referida;O
- ;O
 preliminar;O
 ,;O
- ;O
 seja;O
- ;O
 julgado;O
- ;O
 procedente;O
- ;O
 o;O
- ;O
 pedido;O
 ,;O
- ;O
 com;O
- ;O
 base;O
- ;O
 na;O
- ;O
 usurpação;O
- ;O
 da;O
- ;O
 competência;O
- ;O
 privativa;O
- ;O
 da;O
- ;O
 União;O
- ;O
 para;O
- ;O
 dispor;O
- ;O
 sobre;O
- ;O
 telecomunicações;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 É;O
- ;O
 o;O
- ;O
 relatório;O
 .;O
- ;O
 03/08/2016;O
- ;O
 PLENÁRIO;O
- ;O
 "
 ";O
 "
 ";O
 AÇÃO;B_Precedente
- ;I_Precedente
 DIRETA;I_Precedente
- ;I_Precedente
 DE;I_Precedente
- ;I_Precedente
 INCONSTITUCIONALIDADE;I_Precedente
- ;I_Precedente
 5.253;I_Precedente
- ;I_Precedente
 BAHIA;I_Precedente
- ;I_Precedente
 "
 ";I_Precedente
 "
 ";O
 ESCLARECIMENTO;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 SENHORA;O
- ;O
 MINISTRA;B_Pessoa
- ;I_Pessoa
 CÁRMEN;I_Pessoa
- ;I_Pessoa
 LÚCIA;I_Pessoa
- ;I_Pessoa
 -;O
- ;O
 Senhor;O
- ;O
 Presidente;O
 ,;O
- ;O
 eu;O
- ;O
 poderia;O
- ;O
 fazer;O
- ;O
 uma;O
- ;O
 pergunta?;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 SENHOR;O
- ;O
 MINISTRO;B_Pessoa
- ;I_Pessoa
 RICARDO;I_Pessoa
- ;I_Pessoa
 LEWANDOWSKI;I_Pessoa
- ;I_Pessoa
 (;O
 PRESIDENTE;O
 );O
- ;O
 -;O
- ;O
 Claro;O
 .;O
- ;O
 Doutor;O
- ;O
 advogado;O
 ,;O
- ;O
 por;O
- ;O
 gentileza;O
 ,;O
- ;O
 a;O
- ;O
 Ministra;B_Pessoa
- ;I_Pessoa
 Cármen;I_Pessoa
- ;I_Pessoa
 tem;O
- ;O
 uma;O
- ;O
 pergunta;O
- ;O
 a;O
- ;O
 Vossa;O
- ;O
 Excelência;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 SENHORA;O
- ;O
 MINISTRA;B_Pessoa
- ;I_Pessoa
 CÁRMEN;I_Pessoa
- ;I_Pessoa
 LÚCIA;I_Pessoa
- ;I_Pessoa
 -;O
- ;O
 É;O
- ;O
 apenas;O
- ;O
 uma;O
- ;O
 questão;O
- ;O
 técnica;O
- ;O
 que;O
- ;O
 Vossa;O
- ;O
 Excelência;O
- ;O
 trouxe;O
- ;O
 na;O
- ;O
 argumentação;O
- ;O
 apresentada;O
 ,;O
- ;O
 Presidente;O
 .;O
- ;O
 O;O
- ;O
 nobre;O
- ;O
 advogado;O
- ;O
 afirma;O
- ;O
 que;O
- ;O
 haveria;O
 ,;O
- ;O
 entre;O
- ;O
 os;O
- ;O
 argumentos;O
 ,;O
- ;O
 a;O
- ;O
 impossibilidade;O
- ;O
 de;O
- ;O
 se;O
- ;O
 adotar;O
- ;O
 a;O
- ;O
 interpretação;O
- ;O
 no;O
- ;O
 sentido;O
- ;O
 de;O
- ;O
 que;O
- ;O
 o;O
- ;O
 contrato;O
- ;O
 de;O
- ;O
 concessão;O
- ;O
 feito;O
- ;O
 entre;O
- ;O
 a;O
- ;O
 União;O
- ;O
 e;O
- ;O
 a;O
- ;O
 empresa;O
- ;O
 concessionária;O
- ;O
 não;O
- ;O
 poderia;O
- ;O
 ser;O
- ;O
 onerado;O
 ,;O
- ;O
 como;O
- ;O
 é;O
- ;O
 óbvio;O
- ;O
 no;O
- ;O
 Direito;O
- ;O
 Administrativo;O
 .;O
- ;O
 Entretanto;O
 ,;O
- ;O
 a;O
- ;O
 Ação;B_Precedente
- ;I_Precedente
 Direta;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 Inconstitucionalidade;I_Precedente
- ;I_Precedente
 5.356;I_Precedente
 ,;I_Precedente
- ;O
 Presidente;O
 ,;O
- ;O
 de;O
- ;O
 que;O
- ;O
 aqui;O
- ;O
 se;O
- ;O
 cuida;O
 ,;O
- ;O
 traz;O
- ;O
 no;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1º;I_Ref. Legislativa
- ;I_Ref. Legislativa
 que;O
- ;O
 """as";O
- ;O
 empresas;O
- ;O
 operadoras;O
- ;O
 do;O
- ;O
 Serviço;O
- ;O
 Móvel;O
- ;O
 de;O
- ;O
 Telefonia;O
- ;O
 deverão;O
- ;O
 instalar;O
- ;O
 (;O
 .;O
 .;O
 .;O
 );O
- ;O
 -;O
- ;O
 caso;O
- ;O
 em;O
- ;O
 que;O
- ;O
 elas;O
- ;O
 se;O
- ;O
 onerariam;O
- ;O
 na;O
- ;O
 linha;O
- ;O
 da;O
- ;O
 argumentação;O
- ;O
 apresentada;O
- ;O
 pelo;O
- ;O
 nobre;O
- ;O
 advogado;O
- ;O
 -;O
- ;O
 ou;O
- ;O
 apresentar;O
- ;O
 solução;O
- ;O
 tecnológica;O
- ;O
 hábil;O
- ;O
 a;O
- ;O
 identificar;O
- ;O
 e;O
 /;O
 ou;O
- ;O
 bloquear;O
- ;O
 sinais;O
- ;O
 (;O
 .;O
 .;O
@@ -3509,1253 +2035,706 @@ sinais;O
 );O
 """";O
 .;O
- ;O
 Ou;O
- ;O
 seja;O
 ,;O
- ;O
 ela;O
- ;O
 apresentando;O
- ;O
 a;O
- ;O
 solução;O
 ,;O
- ;O
 o;O
- ;O
 Estado;O
- ;O
 se;O
- ;O
 encarregaria;O
 ,;O
- ;O
 Estado;O
 -;O
 Nação;O
 ,;O
- ;O
 o;O
- ;O
 Estado;O
- ;O
 no;O
- ;O
 qual;O
- ;O
 se;O
- ;O
 tem;O
- ;O
 a;O
- ;O
 penitenciária;O
 ,;O
- ;O
 aquela;O
- ;O
 medida;O
- ;O
 para;O
- ;O
 se;O
- ;O
 resolver;O
 .;O
- ;O
 O;O
- ;O
 que;O
- ;O
 temos;O
- ;O
 hoje;O
- ;O
 é;O
- ;O
 que;O
 ,;O
- ;O
 quando;O
- ;O
 se;O
- ;O
 trata;O
- ;O
 como;O
- ;O
 na;O
- ;O
 lei;O
- ;O
 cuidada;O
- ;O
 na;O
- ;O
 ação;O
- ;O
 direta;O
- ;O
 relatada;O
- ;O
 pelo;O
- ;O
 eminente;O
- ;O
 Ministro;O
- ;O
 Marco;O
- ;O
 Aurélio;O
- ;O
 manda;O
 -;O
 se;O
- ;O
 bloquear;O
 .;O
- ;O
 E;O
- ;O
 até;O
- ;O
 agora;O
- ;O
 as;O
- ;O
 empresas;O
- ;O
 concessionárias;O
- ;O
 avisam;O
- ;O
 para;O
- ;O
 o;O
- ;O
 juízo;O
- ;O
 ou;O
- ;O
 até;O
- ;O
 para;O
- ;O
 Conselho;O
- ;O
 Nacional;O
- ;O
 de;O
- ;O
 Justiça;O
- ;O
 que;O
 ,;O
- ;O
 quando;O
- ;O
 bloqueia;O
- ;O
 na;O
- ;O
 penitenciária;O
 ,;O
- ;O
 bloqueia;O
- ;O
 na;O
- ;O
 região;O
- ;O
 toda;O
 .;O
- ;O
 Essa;O
- ;O
 é;O
- ;O
 a;O
- ;O
 razão;O
- ;O
 pela;O
- ;O
 qual;O
- ;O
 eles;O
- ;O
 não;O
- ;O
 podem;O
- ;O
 adotar;O
 .;O
- ;O
 Mas;O
 ,;O
- ;O
 nesta;O
- ;O
 lei;O
- ;O
 questionada;O
- ;O
 na;O
- ;O
 ação;O
- ;O
 direta;O
- ;O
 relatada;O
- ;O
 pelo;O
- ;O
 eminente;O
- ;O
 Ministro;O
- ;O
 Fachin;O
 ,;O
- ;O
 o;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1º;I_Ref. Legislativa
- ;I_Ref. Legislativa
 oferece;O
- ;O
 dois;O
- ;O
 caminhos;O
 :;O
- ;O
 ou;O
- ;O
 bem;O
- ;O
 se;O
- ;O
 instala;O
 ,;O
- ;O
 ou;O
- ;O
 bem;O
- ;O
 se;O
- ;O
 oferece;O
- ;O
 a;O
- ;O
 solução;O
- ;O
 tecnológica;O
 ,;O
- ;O
 porque;O
- ;O
 essa;O
- ;O
 tecnologia;O
- ;O
 é;O
- ;O
 que;O
- ;O
 está;O
 .;O
 .;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 SENHOR;O
- ;O
 MINISTRO;B_Pessoa
- ;I_Pessoa
 MARCO;I_Pessoa
- ;I_Pessoa
 AURÉLIO;I_Pessoa
- ;I_Pessoa
 (;O
 RELATOR;O
 );O
- ;O
 –;O
- ;O
 Mas;O
- ;O
 sempre;O
- ;O
 buscando;O
- ;O
 um;O
- ;O
 resultado;O
 ,;O
- ;O
 que;O
- ;O
 é;O
- ;O
 a;O
- ;O
 utilidade;O
 .;O
- ;O
 A;O
- ;O
 impossibilidade;O
- ;O
 de;O
- ;O
 comunicação;O
- ;O
 do;O
- ;O
 penitenciário;O
- ;O
 com;O
- ;O
 o;O
- ;O
 mundo;O
- ;O
 exterior;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 SENHORA;O
- ;O
 MINISTRA;B_Pessoa
- ;I_Pessoa
 CÁRMEN;I_Pessoa
- ;I_Pessoa
 LÚCIA;I_Pessoa
- ;I_Pessoa
 -;O
- ;O
 Sim;O
 ,;O
- ;O
 mas;O
- ;O
 digo;O
- ;O
 por;O
- ;O
 quê;O
 .;O
- ;O
 O;O
- ;O
 que;O
- ;O
 o;O
- ;O
 nobre;O
- ;O
 advogado;O
- ;O
 oferece;O
- ;O
 é;O
- ;O
 que;O
- ;O
 haveria;O
- ;O
 um;O
- ;O
 ônus;O
- ;O
 num;O
- ;O
 contrato;O
- ;O
 do;O
- ;O
 qual;O
- ;O
 o;O
- ;O
 Estado;O
- ;O
 não;O
- ;O
 participaria;O
 .;O
- ;O
 E;O
- ;O
 por;O
- ;O
 isso;O
- ;O
 é;O
- ;O
 que;O
- ;O
 estou;O
- ;O
 indagando;O
- ;O
 se;O
- ;O
 tecnicamente;O
- ;O
 há;O
- ;O
 possibilidade;O
- ;O
 de;O
 ,;O
- ;O
 no;O
- ;O
 caso;O
- ;O
 dessa;O
- ;O
 lei;O
- ;O
 específica;O
 ,;O
- ;O
 haver;O
- ;O
 a;O
- ;O
 solução;O
- ;O
 tecnológica;O
- ;O
 hábil;O
- ;O
 no;O
- ;O
 sentido;O
- ;O
 de;O
- ;O
 apenas;O
- ;O
 oferecer;O
- ;O
 a;O
- ;O
 alternativa;O
- ;O
 do;O
- ;O
 uso;O
- ;O
 dos;O
- ;O
 mecanismos;O
- ;O
 sem;O
- ;O
 ônus;O
 ,;O
- ;O
 pois;O
- ;O
 aí;O
- ;O
 esse;O
- ;O
 argumento;O
- ;O
 não;O
- ;O
 pode;O
- ;O
 ser;O
- ;O
 oferecido;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 SENHOR;O
- ;O
 MINISTRO;B_Pessoa
- ;I_Pessoa
 MARCO;I_Pessoa
- ;I_Pessoa
 AURÉLIO;I_Pessoa
- ;I_Pessoa
 (;O
 RELATOR;O
 );O
- ;O
 –;O
- ;O
 A;O
- ;O
 solução;O
- ;O
 preconizada;O
- ;O
 pela;O
- ;O
 lei;O
 ,;O
- ;O
 Presidente;O
 ,;O
- ;O
 a;O
- ;O
 meu;O
- ;O
 ver;O
 ,;O
- ;O
 desagua;O
- ;O
 numa;O
- ;O
 obrigação;O
 ,;O
- ;O
 ou;O
- ;O
 seja;O
 ,;O
- ;O
 no;O
- ;O
 resultado;O
- ;O
 –;O
- ;O
 a;O
- ;O
 interrupção;O
 .;O
- ;O
 E;O
 ,;O
- ;O
 como;O
- ;O
 a;O
- ;O
 lei;O
- ;O
 prevê;O
- ;O
 inclusive;O
- ;O
 multa;O
- ;O
 para;O
- ;O
 o;O
- ;O
 descumprimento;O
- ;O
 do;O
- ;O
 que;O
- ;O
 nela;O
- ;O
 se;O
- ;O
 contém;O
 ,;O
- ;O
 essa;O
- ;O
 óptica;O
- ;O
 está;O
- ;O
 robustecida;O
 .;O
- ;O
 Não;O
- ;O
 se;O
- ;O
 trata;O
- ;O
 apenas;O
- ;O
 de;O
- ;O
 a;O
- ;O
 empresa;O
- ;O
 propor;O
- ;O
 solução;O
- ;O
 que;O
- ;O
 será;O
- ;O
 adotada;O
- ;O
 pelo;O
- ;O
 Estado;O
 .;O
- ;O
 Ela;O
- ;O
 própria;O
- ;O
 deve;O
- ;O
 adotá;O
 -;O
 la;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 SENHOR;O
- ;O
 FLÁVIO;B_Pessoa
- ;I_Pessoa
 HENRIQUE;I_Pessoa
- ;I_Pessoa
 UNES;I_Pessoa
- ;I_Pessoa
 PEREIRA;I_Pessoa
- ;I_Pessoa
 (;O
 ADVOGADO;O
 );O
- ;O
 -;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 senhora;O
- ;O
 me;O
- ;O
 permite;O
 ,;O
- ;O
 Ministra?;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 SENHOR;O
- ;O
 MINISTRO;B_Pessoa
- ;I_Pessoa
 MARCO;I_Pessoa
- ;I_Pessoa
 AURÉLIO;I_Pessoa
- ;I_Pessoa
 (;O
 RELATOR;O
 );O
- ;O
 –;O
- ;O
 Não;O
- ;O
 sei;O
- ;O
 se;O
 .;O
 .;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 SENHORA;O
- ;O
 MINISTRA;B_Pessoa
- ;I_Pessoa
 CÁRMEN;I_Pessoa
- ;I_Pessoa
 LÚCIA;I_Pessoa
- ;I_Pessoa
 -;O
- ;O
 Eu;O
- ;O
 quero;O
- ;O
 saber;O
- ;O
 exatamente;O
- ;O
 isso;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 SENHOR;O
- ;O
 FLÁVIO;B_Pessoa
- ;I_Pessoa
 HENRIQUE;I_Pessoa
- ;I_Pessoa
 UNES;I_Pessoa
- ;I_Pessoa
 PEREIRA;I_Pessoa
- ;I_Pessoa
 (;O
 ADVOGADO;O
 );O
- ;O
 -;O
- ;O
 É;O
- ;O
 nesse;O
- ;O
 sentido;O
 .;O
- ;O
 Se;O
- ;O
 fosse;O
- ;O
 apenas;O
- ;O
 propor;O
- ;O
 uma;O
- ;O
 solução;O
 ,;O
- ;O
 não;O
- ;O
 precisaria;O
- ;O
 da;O
- ;O
 lei;O
 .;O
- ;O
 As;O
- ;O
 empresas;O
- ;O
 têm;O
- ;O
 a;O
- ;O
 maior;O
- ;O
 disposição;O
- ;O
 de;O
- ;O
 poder;O
- ;O
 ofertar;O
- ;O
 soluções;O
 ,;O
- ;O
 sugestões;O
 ,;O
- ;O
 proposições;O
 .;O
- ;O
 Tanto;O
- ;O
 é;O
- ;O
 que;O
 ,;O
- ;O
 na;O
- ;O
 aplicação;O
- ;O
 dessas;O
- ;O
 leis;O
 ,;O
- ;O
 inclusive;O
- ;O
 nessa;O
- ;O
 redação;O
 ,;O
- ;O
 há;O
- ;O
 previsão;O
- ;O
 de;O
- ;O
 multa;O
 ,;O
- ;O
 e;O
- ;O
 autos;O
- ;O
 de;O
- ;O
 infração;O
- ;O
 já;O
- ;O
 estão;O
- ;O
 deflagrados;O
 ,;O
- ;O
 com;O
- ;O
 imposição;O
 ,;O
- ;O
 dando;O
- ;O
 prazo;O
 ,;O
- ;O
 tanto;O
- ;O
 é;O
- ;O
 que;O
 ,;O
- ;O
 na;O
- ;O
 ADI;O
- ;O
 da;O
- ;O
 relatoria;O
- ;O
 do;O
- ;O
 Ministro;B_Pessoa
- ;I_Pessoa
 Gilmar;I_Pessoa
- ;I_Pessoa
 Mendes;I_Pessoa
 ,;I_Pessoa
- ;O
 isso;O
- ;O
 foi;O
- ;O
 colocado;O
- ;O
 até;O
- ;O
 como;O
- ;O
 questão;O
- ;O
 de;O
- ;O
 urgência;O
- ;O
 para;O
- ;O
 o;O
- ;O
 exame;O
- ;O
 da;O
- ;O
 matéria;O
 ,;O
- ;O
 porque;O
- ;O
 já;O
- ;O
 há;O
- ;O
 autuação;O
 ,;O
- ;O
 prazos;O
- ;O
 no;O
- ;O
 processo;O
- ;O
 administrativo;O
 ,;O
- ;O
 conclusão;O
- ;O
 quanto;O
- ;O
 ao;O
- ;O
 dever;O
- ;O
 de;O
- ;O
 se;O
- ;O
 pagar;O
- ;O
 a;O
- ;O
 multa;O
 ,;O
- ;O
 na;O
- ;O
 medida;O
- ;O
 em;O
- ;O
 que;O
- ;O
 está;O
- ;O
 havendo;O
- ;O
 descumprimento;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Então;O
 ,;O
- ;O
 de;O
- ;O
 fato;O
 ,;O
- ;O
 conforme;O
- ;O
 a;O
- ;B_Pessoa
 Ministra;I_Pessoa
- ;I_Pessoa
 Cármen;I_Pessoa
- ;I_Pessoa
 Lúcia;I_Pessoa
- ;I_Pessoa
 e;I_Pessoa
- ;O
 o;O
- ;O
 Ministro;B_Pessoa
- ;I_Pessoa
 Marco;I_Pessoa
- ;I_Pessoa
 Aurélio;I_Pessoa
- ;I_Pessoa
 colocam;O
 ,;O
- ;O
 a;O
- ;O
 lei;O
- ;O
 tem;O
- ;O
 como;O
- ;O
 finalidade;O
- ;O
 não;O
- ;O
 apenas;O
- ;O
 uma;O
- ;O
 mera;O
- ;O
 proposição;O
 ,;O
- ;O
 uma;O
- ;O
 mera;O
- ;O
 sugestão;O
- ;O
 para;O
- ;O
 que;O
- ;O
 o;O
- ;O
 Estado;O
- ;O
 implemente;O
 ,;O
- ;O
 mas;O
- ;O
 sim;O
- ;O
 a;O
- ;O
 teleologia;O
- ;O
 da;O
- ;O
 norma;O
- ;O
 é;O
- ;O
 de;O
- ;O
 que;O
- ;O
 isso;O
- ;O
 seja;O
- ;O
 transferido;O
- ;O
 para;O
- ;O
 os;O
- ;O
 particulares;O
 ,;O
- ;O
 e;O
- ;O
 é;O
- ;O
 assim;O
- ;O
 que;O
- ;O
 elas;O
- ;O
 vêm;O
- ;O
 sendo;O
- ;O
 interpretadas;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Se;O
- ;O
 esta;O
- ;O
 Corte;O
 ,;O
- ;O
 porventura;O
 ,;O
- ;O
 entender;O
 ,;O
- ;O
 numa;O
- ;O
 interpretação;O
- ;O
 conforme;O
- ;O
 ou;O
- ;O
 coisa;O
- ;O
 do;O
- ;O
 gênero;O
 ,;O
- ;O
 que;O
- ;O
 apenas;O
- ;O
 ficaria;O
- ;O
 constitucional;O
- ;O
 uma;O
- ;O
 apresentação;O
- ;O
 de;O
- ;O
 solução;O
 ,;O
- ;O
 o;O
- ;O
 setor;O
- ;O
 não;O
- ;O
 se;O
- ;O
 oporia;O
 ,;O
- ;O
 pelo;O
- ;O
 contrário;O
 ,;O
- ;O
 o;O
- ;O
 setor;O
- ;O
 tem;O
- ;O
 todo;O
- ;O
 o;O
- ;O
 interesse;O
- ;O
 de;O
- ;O
 colaborar;O
 ,;O
- ;O
 de;O
- ;O
 apresentar;O
- ;O
 "soluções;";O
- ;O
 mas;O
- ;O
 não;O
- ;O
 de;O
- ;O
 assumir;O
- ;O
 os;O
- ;O
 ônus;O
- ;O
 disso;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 SENHOR;O
- ;O
 MINISTRO;B_Pessoa
- ;I_Pessoa
 MARCO;I_Pessoa
- ;I_Pessoa
 AURÉLIO;I_Pessoa
- ;I_Pessoa
 (;O
 RELATOR;O
 );O
- ;O
 –;O
- ;O
 A;O
- ;O
 cláusula;O
- ;O
 em;O
- ;O
 si;O
 ,;O
- ;O
 Presidente;O
 .;O
 .;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 SENHORA;O
- ;O
 MINISTRA;B_Pessoa
- ;I_Pessoa
 CÁRMEN;I_Pessoa
- ;I_Pessoa
 LÚCIA;I_Pessoa
- ;I_Pessoa
 -;I_Pessoa
- ;O
 Porque;O
- ;O
 eu;O
- ;O
 estou;O
- ;O
 lendo;O
- ;O
 o;O
- ;O
 texto;O
- ;O
 legal;O
 :;O
- ;O
 "
 ";O
 "
@@ -4766,626 +2745,379 @@ legal;O
 .;O
 .;O
 );O
- ;O
 ou;O
- ;O
 solução;O
- ;O
 tecnológica;O
- ;O
 hábil;O
 .;O
 """É";O
- ;O
 o;O
- ;O
 texto;O
- ;O
 da;O
- ;O
 lei;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 SENHOR;O
- ;O
 MINISTRO;B_Pessoa
- ;I_Pessoa
 MARCO;I_Pessoa
- ;I_Pessoa
 AURÉLIO;I_Pessoa
- ;I_Pessoa
 (;O
 RELATOR;O
 );O
- ;O
 –;O
- ;O
 A;O
- ;O
 cláusula;O
- ;O
 em;O
- ;O
 si;O
- ;O
 retrata;O
- ;O
 alternância;O
 :;O
- ;O
 ou;O
- ;O
 a;O
- ;O
 colocação;O
- ;O
 de;O
- ;O
 aparelho;O
 ,;O
- ;O
 ou;O
- ;O
 outra;O
- ;O
 solução;O
- ;O
 que;O
- ;O
 implique;O
- ;O
 a;O
- ;O
 interrupção;O
- ;O
 da;O
- ;O
 comunicação;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 SENHORA;O
- ;O
 MINISTRA;B_Pessoa
- ;I_Pessoa
 CÁRMEN;I_Pessoa
- ;I_Pessoa
 LÚCIA;I_Pessoa
- ;I_Pessoa
 -;O
- ;O
 Sim;O
 ,;O
- ;O
 mas;O
- ;O
 que;O
 ,;O
- ;O
 aí;O
 ,;O
- ;O
 não;O
- ;O
 precisaria;O
- ;O
 ser;O
- ;O
 feito;O
- ;O
 pela;O
- ;O
 concessionária;O
 .;O
- ;O
 Aqui;O
 ,;O
- ;O
 na;O
- ;O
 lei;O
 ,;O
- ;O
 está;O
 :;O
- ;O
 """instalar";O
- ;O
 ou;O
- ;O
 "solução""";O
 .;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 SENHOR;O
- ;O
 MINISTRO;B_Pessoa
- ;I_Pessoa
 MARCO;I_Pessoa
- ;I_Pessoa
 AURÉLIO;I_Pessoa
- ;I_Pessoa
 (;O
 RELATOR;O
 );O
- ;O
 –;O
- ;O
 Mas;O
- ;O
 por;O
- ;O
 que;O
- ;O
 seria?;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 SENHORA;O
- ;O
 MINISTRA;B_Pessoa
- ;I_Pessoa
 CÁRMEN;I_Pessoa
- ;I_Pessoa
 LÚCIA;I_Pessoa
- ;I_Pessoa
 -;O
- ;O
 Porque;O
- ;O
 a;O
- ;O
 expertise;O
- ;O
 é;O
- ;O
 realmente;O
- ;O
 da;O
- ;O
 concessionária;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 SENHOR;O
- ;O
 FLÁVIO;B_Pessoa
- ;I_Pessoa
 HENRIQUE;I_Pessoa
- ;I_Pessoa
 UNES;I_Pessoa
- ;I_Pessoa
 PEREIRA;I_Pessoa
- ;I_Pessoa
 (;O
 ADVOGADO;O
 );O
- ;O
 -;O
- ;O
 "
 ";O
 "
 ";O
 Ela;O
- ;O
 tem;O
- ;O
 todo;O
- ;O
 o;O
- ;O
 interesse;O
- ;O
 de;O
- ;O
 colaborar;O
- ;O
 no;O
- ;O
 sentido;O
- ;O
 de;O
- ;O
 propor;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 SENHORA;O
- ;O
 MINISTRA;B_Pessoa
- ;I_Pessoa
 CÁRMEN;I_Pessoa
- ;I_Pessoa
 LÚCIA;I_Pessoa
- ;I_Pessoa
 -;O
- ;O
 Tem;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 SENHOR;O
- ;O
 MINISTRO;B_Pessoa
- ;I_Pessoa
 MARCO;I_Pessoa
- ;I_Pessoa
 AURÉLIO;I_Pessoa
- ;I_Pessoa
 (;O
 RELATOR;O
 );O
- ;O
 –;O
- ;O
 Penso;O
- ;O
 que;O
- ;O
 vamos;O
- ;O
 discutir;O
 ,;O
- ;O
 de;O
- ;O
 qualquer;O
- ;O
 forma;O
 ,;O
- ;O
 essa;O
- ;O
 matéria;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 SENHORA;O
- ;O
 MINISTRA;B_Pessoa
- ;I_Pessoa
 CÁRMEN;I_Pessoa
- ;I_Pessoa
 LÚCIA;I_Pessoa
- ;I_Pessoa
 -;O
- ;O
 Agora;O
 ,;O
- ;O
 é;O
- ;O
 o;O
- ;O
 que;O
- ;O
 eu;O
- ;O
 digo;O
 ,;O
- ;O
 aqui;O
- ;O
 não;O
- ;O
 é;O
- ;O
 interpretação;O
 ,;O
- ;O
 é;O
- ;O
 texto;O
- ;O
 literal;O
 :;O
- ;O
 """ou";O
- ;O
 "solução""";O
 .;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 SENHOR;O
- ;O
 MINISTRO;B_Pessoa
- ;I_Pessoa
 MARCO;I_Pessoa
- ;I_Pessoa
 AURÉLIO;I_Pessoa
- ;I_Pessoa
 (;O
 RELATOR;O
 );O
- ;O
 –;O
- ;O
 Penso;O
- ;O
 que;O
- ;O
 o;O
- ;O
 vocábulo;O
- ;O
 """solução""";O
- ;O
 encerra;O
- ;O
 alternância;O
 :;O
- ;O
 ou;O
- ;O
 coloca;O
- ;O
 aparelho;O
- ;O
 bloqueador;O
 ,;O
- ;O
 ou;O
- ;O
 toma;O
- ;O
 outra;O
- ;O
 providência;O
- ;O
 que;O
- ;O
 também;O
- ;O
 resulte;O
- ;O
 na;O
- ;O
 interrupção;O
- ;O
 da;O
- ;O
 comunicação;O
 .;O
- ;O
 Pelo;O
- ;O
 menos;O
 ,;O
- ;O
 entendi;O
- ;O
 assim;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Agora;O
 ,;O
- ;O
 Presidente;O
 ,;O
- ;O
 como;O
- ;O
 Relator;O
 .;O
 .;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 SENHORA;O
- ;O
 MINISTRA;B_Pessoa
- ;I_Pessoa
 CÁRMEN;I_Pessoa
- ;I_Pessoa
 LÚCIA;I_Pessoa
- ;I_Pessoa
 -;O
- ;O
 Estou;O
- ;O
 satisfeita;O
 ,;O
- ;O
 "
 ";O
 "
 ";O
 Presidente;O
 ,;O
- ;O
 com;O
- ;O
 o;O
- ;O
 esclarecimento;O
- ;O
 do;O
- ;O
 advogado;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Agradeço;O
 .;O
- ;O
 03/08/2016;O
- ;O
 PLENÁRIO;O
- ;O
 "
 ";O
 "
 ";O
 AÇÃO;B_Precedente
- ;I_Precedente
 DIRETA;I_Precedente
- ;I_Precedente
 DE;I_Precedente
- ;I_Precedente
 INCONSTITUCIONALIDADE;I_Precedente
- ;I_Precedente
 5.253;I_Precedente
- ;I_Precedente
 BAHIA;I_Precedente
- ;I_Precedente
 "
 ";I_Precedente
 "
 ";O
 DEBATE;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 SENHOR;O
- ;O
 MINISTRO;B_Pessoa
- ;I_Pessoa
 DIAS;I_Pessoa
- ;I_Pessoa
 TOFFOLI;I_Pessoa
 :;I_Pessoa
 Já;O
- ;O
 que;O
- ;O
 se;O
- ;O
 antecipou;O
- ;O
 o;O
- ;O
 debate;O
 ,;O
- ;O
 para;O
- ;O
 reflexão;O
- ;O
 colegiada;O
 ,;O
- ;O
 não;O
- ;O
 somos;O
- ;O
 nós;O
- ;O
 os;O
- ;O
 competentes;O
- ;O
 para;O
- ;O
 pensar;O
- ;O
 soluções;O
- ;O
 a;O
- ;O
 respeito;O
- ;O
 disso;O
 .;O
- ;O
 Estamos;O
- ;O
 diante;O
- ;O
 de;O
- ;O
 uma;O
- ;O
 situação;O
- ;O
 concreta;O
 ,;O
- ;O
 cujas;O
- ;O
 complexidades;O
- ;O
 e;O
- ;O
 problemas;O
- ;O
 que;O
- ;O
 pode;O
- ;O
 trazer;O
- ;O
 bem;O
- ;O
 conhecemos;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 id;O
 :;O
- ;O
 20170801_ADI_5253_312309137;O

@@ -1,926 +1,531 @@
 Token;Tag
 DECISÃO;O
- ;O
 "
 ";O
 "
 ";O
 ADICIONAL;O
- ;O
 DE;O
- ;O
 INSALUBRIDADE;O
- ;O
 –;O
- ;O
 BASE;O
- ;O
 DE;O
- ;O
 CÁLCULO;O
- ;O
 –;O
- ;O
 LEI;O
- ;O
 COMPLEMENTAR;O
 /;O
 SP;O
- ;O
 Nº;O
- ;O
 432/1985;O
- ;O
 –;O
- ;O
 PRECEDENTE;O
- ;O
 DO;O
- ;O
 PLENO;O
- ;O
 –;O
- ;O
 RECURSO;O
- ;O
 EXTRAORDINÁRIO;O
- ;O
 –;O
- ;O
 CONHECIMENTO;O
- ;O
 E;O
- ;O
 PROVIMENTO;O
- ;O
 DECORRENTE;O
- ;O
 DE;O
- ;O
 AGRAVO;O
- ;O
 PROVIDO;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 1;O
 .;O
- ;O
 A;O
- ;O
 decisão;O
- ;O
 recorrida;O
- ;O
 implica;O
- ;O
 contrariedade;O
- ;O
 à;O
- ;O
 jurisprudência;O
- ;O
 do;O
- ;O
 Supremo;O
 .;O
- ;O
 Confiram;O
- ;O
 com;O
- ;O
 o;O
- ;O
 decidido;O
- ;O
 na;O
- ;O
 Medida;O
- ;O
 Cautelar;O
- ;O
 na;O
- ;O
 Arguição;B_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 Descumprimento;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 Preceito;I_Precedente
- ;I_Precedente
 Fundamental;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 151;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 redator;I_Precedente
- ;I_Precedente
 do;I_Precedente
- ;I_Precedente
 acórdão;I_Precedente
- ;I_Precedente
 ministro;I_Precedente
- ;I_Precedente
 Gilmar;I_Precedente
- ;I_Precedente
 Mendes;I_Precedente
 .;I_Precedente
- ;O
 Eis;O
- ;O
 a;O
- ;O
 ementa;O
- ;O
 elaborada;O
 ,;O
- ;O
 publicada;O
- ;O
 no;O
- ;O
 Diário;O
- ;O
 da;O
- ;O
 Justiça;O
- ;O
 eletrônico;O
- ;O
 de;O
- ;O
 6;O
- ;O
 de;O
- ;O
 maio;O
- ;O
 de;O
- ;O
 2011;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 Arguição;O
- ;O
 de;O
- ;O
 Descumprimento;O
- ;O
 de;O
- ;O
 Preceito;O
- ;O
 Fundamental;O
 .;O
- ;O
 Direito;O
- ;O
 do;O
- ;O
 Trabalho;O
 .;O
- ;O
 Art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 16;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 7.394/1985;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 Piso;O
- ;O
 salarial;O
- ;O
 dos;O
- ;O
 técnicos;O
- ;O
 em;O
- ;O
 radiologia;O
 .;O
- ;O
 Adicional;O
- ;O
 de;O
- ;O
 insalubridade;O
 .;O
- ;O
 Vinculação;O
- ;O
 ao;O
- ;O
 salário;O
- ;O
 mínimo;O
 .;O
- ;O
 Súmula;O
- ;O
 Vinculante;O
- ;O
 4;O
 .;O
- ;O
 Impossibilidade;O
- ;O
 de;O
- ;O
 fixação;O
- ;O
 de;O
- ;O
 piso;O
- ;O
 salarial;O
- ;O
 com;O
- ;O
 base;O
- ;O
 em;O
- ;O
 múltiplos;O
- ;O
 do;O
- ;O
 salário;O
- ;O
 mínimo;O
 .;O
- ;O
 Precedentes;O
 :;O
- ;O
 AI;B_Precedente
 -;I_Precedente
 AgR;I_Precedente
- ;I_Precedente
 357.477;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Rel;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Min;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Sepúlveda;I_Precedente
- ;I_Precedente
 Pertence;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Primeira;I_Precedente
- ;I_Precedente
 Turma;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 DJ;I_Precedente
- ;I_Precedente
 "14.10.2005;";I_Precedente
- ;O
 o;O
- ;O
 AI;B_Precedente
 -;I_Precedente
 AgR;I_Precedente
- ;I_Precedente
 524.020;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 minha;I_Precedente
- ;I_Precedente
 relatoria;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Segunda;I_Precedente
- ;I_Precedente
 Turma;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 DJe;I_Precedente
- ;I_Precedente
 "15.10.2010;";I_Precedente
- ;O
 e;O
- ;O
 o;O
- ;O
 AI;B_Precedente
 -;I_Precedente
 AgR;I_Precedente
- ;I_Precedente
 277.835;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Rel;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Min;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Cezar;I_Precedente
- ;I_Precedente
 Peluso;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Segunda;I_Precedente
- ;I_Precedente
 Turma;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 DJe;I_Precedente
- ;I_Precedente
 26.2.2010;I_Precedente
 .;I_Precedente
- ;O
 2;O
 .;O
- ;O
 Ilegitimidade;O
- ;O
 da;O
- ;O
 norma;O
 .;O
- ;O
 Nova;O
- ;O
 base;O
- ;O
 de;O
- ;O
 cálculo;O
 .;O
- ;O
 Impossibilidade;O
- ;O
 de;O
- ;O
 fixação;O
- ;O
 pelo;O
- ;O
 Poder;O
- ;O
 Judiciário;O
 .;O
- ;O
 Precedente;O
 :;O
- ;O
 RE;B_Precedente
- ;I_Precedente
 565.714;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Rei;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Min;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Cármen;I_Precedente
- ;I_Precedente
 Lúcia;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Tribunal;I_Precedente
- ;I_Precedente
 Pleno;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 DJe;I_Precedente
- ;I_Precedente
 "
 ";I_Precedente
 "
 ";I_Precedente
 7.11.2008;I_Precedente
 .;I_Precedente
- ;O
 Necessidade;O
- ;O
 de;O
- ;O
 manutenção;O
- ;O
 dos;O
- ;O
 critérios;O
- ;O
 estabelecidos;O
 .;O
- ;O
 O;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 16;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 7.394/1985;I_Ref. Legislativa
- ;I_Ref. Legislativa
 deve;O
- ;O
 ser;O
- ;O
 declarado;O
- ;O
 ilegítimo;O
 ,;O
- ;O
 por;O
- ;O
 não;O
- ;O
 recepção;O
 ,;O
- ;O
 mas;O
- ;O
 os;O
- ;O
 critérios;O
- ;O
 estabelecidos;O
- ;O
 pela;O
- ;O
 referida;O
- ;O
 lei;O
- ;O
 devem;O
- ;O
 continuar;O
- ;O
 sendo;O
- ;O
 aplicados;O
 ,;O
- ;O
 até;O
- ;O
 que;O
- ;O
 sobrevenha;O
- ;O
 norma;O
- ;O
 que;O
- ;O
 fixe;O
- ;O
 nova;O
- ;O
 base;O
- ;O
 de;O
- ;O
 cálculo;O
 ,;O
- ;O
 seja;O
- ;O
 lei;O
- ;O
 federal;O
 ,;O
- ;O
 editada;O
- ;O
 pelo;O
- ;O
 Congresso;O
- ;O
 Nacional;O
 ,;O
- ;O
 sejam;O
- ;O
 convenções;O
- ;O
 ou;O
- ;O
 acordos;O
- ;O
 coletivos;O
- ;O
 de;O
- ;O
 trabalho;O
 ,;O
- ;O
 ou;O
 ,;O
- ;O
 ainda;O
 ,;O
- ;O
 lei;O
- ;O
 estadual;O
 ,;O
- ;O
 editada;O
- ;O
 conforme;O
- ;O
 delegação;O
- ;O
 prevista;O
- ;O
 na;O
- ;O
 Lei;B_Ref. Legislativa
- ;I_Ref. Legislativa
 Complementar;I_Ref. Legislativa
- ;I_Ref. Legislativa
 103/2000;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 [;O
 .;O
 .;O
 .;O
 ];O
- ;O
 "
 ";O
 "
 ";O
 Ressalto;O
- ;O
 que;O
 ,;O
- ;O
 no;O
- ;O
 Recurso;B_Precedente
- ;I_Precedente
 Extraordinário;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 565.714;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 relatado;I_Precedente
- ;I_Precedente
 no;I_Precedente
- ;I_Precedente
 Pleno;I_Precedente
- ;I_Precedente
 pela;I_Precedente
- ;I_Precedente
 ministra;I_Precedente
- ;I_Precedente
 Cármen;I_Precedente
- ;I_Precedente
 Lúcia;I_Precedente
 ,;I_Precedente
- ;O
 o;O
- ;O
 Tribunal;O
- ;O
 concluiu;O
- ;O
 pela;O
- ;O
 não;O
- ;O
 recepção;O
- ;O
 do;O
- ;O
 disposto;O
- ;O
 no;O
- ;O
 artigo;B_Ref. Legislativa
- ;I_Ref. Legislativa
 3º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 cabeça;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Complementar;I_Ref. Legislativa
- ;I_Ref. Legislativa
 paulista;I_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 432/1985;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 Entretanto;O
 ,;O
- ;O
 diante;O
- ;O
 da;O
- ;O
 impossibilidade;O
- ;O
 de;O
- ;O
 o;O
- ;O
 Judiciário;O
- ;O
 fixar;O
- ;O
 nova;O
- ;O
 base;O
- ;O
 de;O
- ;O
 cálculo;O
- ;O
 do;O
- ;O
 adicional;O
- ;O
 de;O
- ;O
 insalubridade;O
 ,;O
- ;O
 determinou;O
- ;O
 a;O
- ;O
 observância;O
- ;O
 do;O
- ;O
 que;O
- ;O
 previsto;O
- ;O
 na;O
- ;O
 norma;O
- ;O
 de;O
- ;O
 regência;O
 ,;O
- ;O
 até;O
- ;O
 que;O
- ;O
 seja;O
- ;O
 editada;O
- ;O
 lei;O
- ;O
 estabelecendo;O
- ;O
 parâmetro;O
- ;O
 diverso;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 2;O
 .;O
- ;O
 Ante;O
- ;O
 o;O
- ;O
 quadro;O
 ,;O
- ;O
 conheço;O
- ;O
 deste;O
- ;O
 agravo;O
- ;O
 e;O
- ;O
 o;O
- ;O
 provejo;O
 ,;O
- ;O
 assentando;O
- ;O
 o;O
- ;O
 enquadramento;O
- ;O
 do;O
- ;O
 extraordinário;O
- ;O
 no;O
- ;O
 permissivo;O
- ;O
 da;O
- ;O
 alínea;O
- ;O
 “a”;O
- ;O
 do;O
- ;O
 artigo;O
- ;O
 102;O
- ;O
 da;O
- ;O
 Constituição;O
- ;O
 Federal;O
 .;O
- ;O
 Em;O
- ;O
 face;O
- ;O
 do;O
- ;O
 precedente;O
- ;O
 do;O
- ;O
 Plenário;O
 ,;O
- ;O
 julgo;O
 ,;O
- ;O
 desde;O
- ;O
 logo;O
 ,;O
- ;O
 o;O
- ;O
 extraordinário;O
 ,;O
- ;O
 nos;O
- ;O
 termos;O
- ;O
 do;O
- ;O
 artigo;B_Ref. Legislativa
- ;I_Ref. Legislativa
 544;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 4º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 inciso;I_Ref. Legislativa
- ;I_Ref. Legislativa
 II;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 alínea;I_Ref. Legislativa
- ;I_Ref. Legislativa
 “c”;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Código;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Processo;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Civil;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;O
- ;O
 o;O
- ;O
 provejo;O
- ;O
 para;O
 ,;O
- ;O
 reformando;O
- ;O
 o;O
- ;O
 acórdão;O
- ;O
 recorrido;O
 ,;O
- ;O
 restabelecer;O
- ;O
 o;O
- ;O
 contido;O
- ;O
 na;O
- ;O
 sentença;O
- ;O
 de;O
- ;O
 folhas;O
- ;O
 177;O
- ;O
 e;O
- ;O
 178;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 3;O
 .;O
- ;O
 Publiquem;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Brasília;O
 ,;O
- ;O
 19;O
- ;O
 de;O
- ;O
 setembro;O
- ;O
 de;O
- ;O
 2012;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Ministro;B_Pessoa
- ;I_Pessoa
 MARCO;I_Pessoa
- ;I_Pessoa
 AURÉLIO;I_Pessoa
- ;I_Pessoa
 "
 ";O
 "
@@ -930,5 +535,4 @@ Relator;O
 ";O
 id;O
 :;O
- ;O
 20120926_ARE_702093_100294704;O

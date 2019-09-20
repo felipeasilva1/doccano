@@ -1,60 +1,40 @@
 Token;Tag
 Ementa;O
- ;O
 e;O
- ;O
 Acórdão;O
- ;O
 03/03/2016;O
- ;O
 PLENÁRIO;O
- ;O
 "
 ";O
 "
 ";O
 AÇÃO;B_Precedente
- ;I_Precedente
 DIRETA;I_Precedente
- ;I_Precedente
 DE;I_Precedente
- ;I_Precedente
 INCONSTITUCIONALIDADE;I_Precedente
- ;I_Precedente
 3.278;I_Precedente
- ;I_Precedente
 SANTA;I_Precedente
- ;I_Precedente
 CATARINA;I_Precedente
- ;I_Precedente
 "
 ";O
 "
 ";O
 RELATOR;O
- ;O
 :;O
- ;O
 MIN;B_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 EDSON;I_Pessoa
- ;I_Pessoa
 FACHINREQTE;O
 .;O
 (;O
 S;O
 );O
- ;O
 :;O
 PROCURADOR;O
 -;O
 GERAL;O
- ;O
 DA;O
- ;O
 REPÚBLICA;O
- ;O
 INTDO;O
 .;O
 (;O
@@ -62,20 +42,13 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 GOVERNADOR;O
- ;O
 DO;O
- ;O
 ESTADO;O
- ;O
 DE;O
- ;O
 SANTA;O
- ;O
 CATARINA;O
- ;O
 INTDO;O
 .;O
 (;O
@@ -83,949 +56,535 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 ASSEMBLÉIA;O
- ;O
 LEGISLATIVA;O
- ;O
 DO;O
- ;O
 ESTADO;O
- ;O
 DE;O
- ;O
 SANTA;O
- ;O
 "
 ";O
 "
 ";O
 CATARINA;O
- ;O
 "
 ";O
 "
 ";O
 AÇÃO;O
- ;O
 DIRETA;O
- ;O
 DE;O
- ;O
 INCONSTITUCIONALIDADE;O
 .;O
- ;O
 DIREITO;O
- ;O
 TRIBUTÁRIO;O
 .;O
- ;O
 IMUNIDADES;O
- ;O
 TRIBUTÁRIAS;O
 .;O
- ;O
 TAXAS;O
 .;O
- ;O
 CUSTAS;O
- ;O
 E;O
- ;O
 EMOLUMENTOS;O
- ;O
 JUDICIAIS;O
 .;O
- ;O
 LEI;B_Ref. Legislativa
- ;I_Ref. Legislativa
 COMPLEMENTAR;I_Ref. Legislativa
- ;I_Ref. Legislativa
 156/97;I_Ref. Legislativa
- ;I_Ref. Legislativa
 DO;O
- ;O
 ESTADO;O
- ;O
 DE;O
- ;O
 SANTA;O
- ;O
 CATARINA;O
 .;O
- ;O
 DIREITO;O
- ;O
 DE;O
- ;O
 PETIÇÃO;O
 .;O
- ;O
 OBTENÇÃO;O
- ;O
 DE;O
- ;O
 CERTIDÕES;O
- ;O
 EM;O
- ;O
 REPARTIÇÕES;O
- ;O
 PÚBLICAS;O
 ,;O
- ;O
 PARA;O
- ;O
 DEFESA;O
- ;O
 DE;O
- ;O
 DIREITOS;O
- ;O
 OU;O
- ;O
 ESCLARECIMENTO;O
- ;O
 DE;O
- ;O
 SITUAÇÕES;O
- ;O
 DE;O
- ;O
 INTERESSE;O
- ;O
 PESSOAL;O
 .;O
- ;O
 ART;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 5º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 XXXIV;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 “B”;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 DA;I_Ref. Legislativa
- ;I_Ref. Legislativa
 CONSTITUIÇÃO;I_Ref. Legislativa
- ;I_Ref. Legislativa
 FEDERAL;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 NULIDADE;O
- ;O
 PARCIAL;O
- ;O
 SEM;O
- ;O
 REDUÇÃO;O
- ;O
 DE;O
- ;O
 TEXTO;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 1;O
 .;O
- ;O
 Viola;O
- ;O
 o;O
- ;O
 direito;O
- ;O
 de;O
- ;O
 petição;O
- ;O
 previsto;O
- ;O
 no;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 5º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 XXXIV;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 “b”;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Federal;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 a;O
- ;O
 exigência;O
- ;O
 de;O
- ;O
 recolhimento;O
- ;O
 de;O
- ;O
 taxa;O
- ;O
 para;O
- ;O
 emissão;O
- ;O
 de;O
- ;O
 certidão;O
- ;O
 em;O
- ;O
 repartições;O
- ;O
 públicas;O
 ,;O
- ;O
 para;O
- ;O
 defesa;O
- ;O
 de;O
- ;O
 direitos;O
- ;O
 e;O
- ;O
 esclarecimento;O
- ;O
 de;O
- ;O
 situações;O
- ;O
 de;O
- ;O
 interesse;O
- ;O
 pessoal;O
 ,;O
- ;O
 porquanto;O
- ;O
 essa;O
- ;O
 atividade;O
- ;O
 estatal;O
- ;O
 está;O
- ;O
 abarcada;O
- ;O
 por;O
- ;O
 regra;O
- ;O
 imunizante;O
- ;O
 de;O
- ;O
 natureza;O
- ;O
 objetiva;O
- ;O
 e;O
- ;O
 política;O
 .;O
- ;O
 Precedente;O
 :;O
- ;O
 ADI;B_Precedente
- ;I_Precedente
 2.969;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 relatoria;I_Precedente
- ;I_Precedente
 do;I_Precedente
- ;I_Precedente
 Ministro;I_Precedente
- ;I_Precedente
 Carlos;I_Precedente
- ;I_Precedente
 Britto;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 DJe;I_Precedente
- ;I_Precedente
 22.06.2007;I_Precedente
 .;I_Precedente
- ;O
 "
 ";O
 "
 ";O
 2;O
 .;O
- ;O
 A;O
- ;O
 imunidade;O
- ;O
 refere;O
 -;O
 se;O
- ;O
 tão;O
- ;O
 somente;O
- ;O
 a;O
- ;O
 certidões;O
- ;O
 solicitadas;O
- ;O
 objetivando;O
- ;O
 a;O
- ;O
 defesa;O
- ;O
 de;O
- ;O
 direitos;O
- ;O
 ou;O
- ;O
 o;O
- ;O
 esclarecimento;O
- ;O
 de;O
- ;O
 situação;O
- ;O
 de;O
- ;O
 interesse;O
- ;O
 pessoal;O
 ,;O
- ;O
 uma;O
- ;O
 vez;O
- ;O
 que;O
- ;O
 a;O
- ;O
 expedição;O
- ;O
 de;O
- ;O
 certidões;O
- ;O
 voltadas;O
- ;O
 à;O
- ;O
 prestação;O
- ;O
 de;O
- ;O
 informações;O
- ;O
 de;O
- ;O
 interesse;O
- ;O
 coletivo;O
- ;O
 ou;O
- ;O
 geral;O
- ;O
 (;O
 art;O
 .;O
- ;O
 5º;O
 ,;O
- ;O
 XXXIII;O
 );O
- ;O
 não;O
- ;O
 recebe;O
- ;O
 o;O
- ;O
 mesmo;O
- ;O
 tratamento;O
- ;O
 tributário;O
- ;O
 na;O
- ;O
 Carta;O
- ;O
 Constitucional;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 3;O
 .;O
- ;O
 Ação;O
- ;O
 direta;O
- ;O
 de;O
- ;O
 inconstitucionalidade;O
- ;O
 a;O
- ;O
 que;O
- ;O
 se;O
- ;O
 dá;O
- ;O
 parcial;O
- ;O
 procedência;O
 ,;O
- ;O
 para;O
- ;O
 fins;O
- ;O
 de;O
- ;O
 declarar;O
- ;O
 a;O
- ;O
 nulidade;O
- ;O
 do;O
- ;O
 dispositivo;O
 ,;O
- ;O
 sem;O
- ;O
 redução;O
- ;O
 de;O
- ;O
 texto;O
 ,;O
- ;O
 de;O
- ;O
 toda;O
- ;O
 e;O
- ;O
 qualquer;O
- ;O
 interpretação;O
- ;O
 do;O
- ;O
 item;O
- ;O
 02;O
- ;O
 da;O
- ;O
 Tabela;O
- ;O
 VI;O
- ;O
 da;O
- ;O
 Lei;B_Ref. Legislativa
- ;I_Ref. Legislativa
 Complementar;I_Ref. Legislativa
- ;I_Ref. Legislativa
 156/97;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 do;O
- ;O
 Estado;O
- ;O
 de;O
- ;O
 Santa;O
- ;O
 Catarina;O
 ,;O
- ;O
 a;O
- ;O
 qual;O
- ;O
 insira;O
- ;O
 no;O
- ;O
 âmbito;O
- ;O
 de;O
- ;O
 incidência;O
- ;O
 material;O
- ;O
 da;O
- ;O
 hipótese;O
- ;O
 de;O
- ;O
 incidência;O
- ;O
 da;O
- ;O
 taxa;O
- ;O
 em;O
- ;O
 questão;O
- ;O
 a;O
- ;O
 atividade;O
- ;O
 estatal;O
- ;O
 de;O
- ;O
 extração;O
- ;O
 e;O
- ;O
 fornecimento;O
- ;O
 de;O
- ;O
 certidões;O
- ;O
 administrativas;O
- ;O
 para;O
- ;O
 defesa;O
- ;O
 de;O
- ;O
 direitos;O
- ;O
 e;O
- ;O
 esclarecimento;O
- ;O
 de;O
- ;O
 situações;O
- ;O
 de;O
- ;O
 interesse;O
- ;O
 pessoal;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 C;O
- ;O
 Ó;O
- ;O
 R;O
- ;O
 D;O
- ;O
 Ã;O
- ;O
 O;O
- ;O
 "
 ";O
 "
 ";O
 Vistos;O
 ,;O
- ;O
 relatados;O
- ;O
 e;O
- ;O
 discutidos;O
- ;O
 estes;O
- ;O
 autos;O
 ,;O
- ;O
 acordam;O
- ;O
 os;O
- ;O
 Ministros;O
- ;O
 do;O
- ;O
 Supremo;O
- ;O
 Tribunal;O
- ;O
 Federal;O
 ,;O
- ;O
 em;O
- ;O
 Sessão;O
- ;O
 Plenária;O
 ,;O
- ;O
 sob;O
- ;O
 a;O
- ;O
 Presidência;O
- ;O
 do;O
- ;O
 Ministro;B_Pessoa
- ;I_Pessoa
 RICARDO;I_Pessoa
- ;I_Pessoa
 LEWANDOWSKI;I_Pessoa
 ,;I_Pessoa
- ;O
 na;O
- ;O
 conformidade;O
- ;O
 da;O
- ;O
 ata;O
- ;O
 de;O
- ;O
 julgamento;O
- ;O
 e;O
- ;O
 das;O
- ;O
 notas;O
- ;O
 taquigráficas;O
 ,;O
- ;O
 por;O
- ;O
 unanimidade;O
- ;O
 e;O
- ;O
 nos;O
- ;O
 termos;O
- ;O
 do;O
- ;O
 voto;O
- ;O
 do;O
- ;O
 Relator;O
 ,;O
- ;O
 em;O
- ;O
 julgar;O
- ;O
 parcialmente;O
- ;O
 procedente;O
- ;O
 o;O
- ;O
 pedido;O
- ;O
 formulado;O
- ;O
 na;O
- ;O
 ação;O
- ;O
 direta;O
 ,;O
- ;O
 para;O
- ;O
 fins;O
- ;O
 de;O
- ;O
 declarar;O
- ;O
 a;O
- ;O
 nulidade;O
- ;O
 do;O
- ;O
 dispositivo;O
 ,;O
- ;O
 sem;O
- ;O
 redução;O
- ;O
 de;O
- ;O
 texto;O
 ,;O
- ;O
 de;O
- ;O
 toda;O
- ;O
 e;O
- ;O
 qualquer;O
- ;O
 interpretação;O
- ;O
 do;O
- ;O
 item;O
- ;O
 02;O
- ;O
 da;O
- ;O
 Tabela;O
- ;O
 VI;O
- ;O
 da;O
- ;O
 Lei;B_Ref. Legislativa
- ;I_Ref. Legislativa
 Complementar;I_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 156/97;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 do;O
- ;O
 Estado;O
- ;O
 de;O
- ;O
 Santa;O
- ;O
 Catarina;O
 ,;O
- ;O
 a;O
- ;O
 qual;O
- ;O
 insira;O
- ;O
 no;O
- ;O
 âmbito;O
- ;O
 de;O
- ;O
 incidência;O
- ;O
 material;O
- ;O
 da;O
- ;O
 hipótese;O
- ;O
 de;O
- ;O
 incidência;O
- ;O
 da;O
- ;O
 taxa;O
- ;O
 em;O
- ;O
 questão;O
- ;O
 a;O
- ;O
 atividade;O
- ;O
 estatal;O
- ;O
 de;O
- ;O
 extração;O
- ;O
 e;O
- ;O
 fornecimento;O
- ;O
 de;O
- ;O
 certidões;O
- ;O
 administrativas;O
- ;O
 para;O
- ;O
 defesa;O
- ;O
 de;O
- ;O
 direitos;O
- ;O
 e;O
- ;O
 esclarecimento;O
- ;O
 de;O
- ;O
 situações;O
- ;O
 de;O
- ;O
 interesse;O
- ;O
 pessoal;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Brasília;O
 ,;O
- ;O
 03;O
- ;O
 de;O
- ;O
 março;O
- ;O
 de;O
- ;O
 2016;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Ministro;B_Pessoa
- ;I_Pessoa
 EDSON;I_Pessoa
- ;I_Pessoa
 FACHIN;I_Pessoa
- ;I_Pessoa
 "
 ";O
 "
 ";O
 Relator;O
- ;O
 "
 ";O
 "
 ";O
 PLENÁRIO;O
- ;O
 "
 ";O
 "
 ";O
 EXTRATO;O
- ;O
 DE;O
- ;O
 ATAAÇÃO;I_Precedente
- ;I_Precedente
 DIRETA;I_Precedente
- ;I_Precedente
 DE;I_Precedente
- ;I_Precedente
 INCONSTITUCIONALIDADE;I_Precedente
- ;I_Precedente
 3.278PROCED;O
 .;O
- ;O
 :;O
- ;O
 SANTA;O
- ;O
 CATARINARELATOR;O
- ;O
 :;O
- ;O
 MIN;B_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 JOAQUIM;I_Pessoa
- ;I_Pessoa
 BARBOSAREQTE;O
 .;O
 (;O
 S;O
 );O
- ;O
 :;O
- ;O
 PROCURADOR;O
 -;O
 GERAL;O
- ;O
 DA;O
- ;O
 REPÚBLICAINTDO;O
 .;O
 (;O
@@ -1033,19 +592,12 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
- ;O
 GOVERNADOR;O
- ;O
 DO;O
- ;O
 ESTADO;O
- ;O
 DE;O
- ;O
 SANTA;O
- ;O
 CATARINAINTDO;O
 .;O
 (;O
@@ -1053,169 +605,101 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
- ;O
 ASSEMBLÉIA;O
- ;O
 LEGISLATIVA;O
- ;O
 DO;O
- ;O
 ESTADO;O
- ;O
 DE;O
- ;O
 SANTA;O
- ;O
 CATARINA;O
- ;O
 "
 ";O
 "
 ";O
 Decisão;O
 :;O
- ;O
 Retirado;O
- ;O
 de;O
- ;O
 pauta;O
- ;O
 em;O
- ;O
 razão;O
- ;O
 da;O
- ;O
 aposentadoria;O
- ;O
 do;O
- ;O
 Relator;O
 .;O
- ;O
 Presidência;O
- ;O
 do;O
- ;O
 Ministro;B_Pessoa
- ;I_Pessoa
 Ricardo;I_Pessoa
- ;I_Pessoa
 Lewandowski;I_Pessoa
 ,;I_Pessoa
- ;O
 Vice;O
 -;O
 Presidente;O
- ;O
 no;O
- ;O
 exercício;O
- ;O
 da;O
- ;O
 Presidência;O
 .;O
- ;O
 Plenário;O
 ,;O
- ;O
 06.08.2014;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Presidência;O
- ;O
 do;O
- ;O
 Senhor;O
- ;O
 Ministro;B_Pessoa
- ;I_Pessoa
 Ricardo;I_Pessoa
- ;I_Pessoa
 Lewandowski;I_Pessoa
 ,;I_Pessoa
- ;O
 Vice;O
 -;O
 Presidente;O
- ;O
 no;O
- ;O
 exercício;O
- ;O
 da;O
- ;O
 Presidência;O
 .;O
- ;O
 Presentes;O
- ;O
 à;O
- ;O
 sessão;O
- ;O
 os;O
- ;O
 Senhores;O
- ;O
 Ministros;B_Pessoa
- ;I_Pessoa
 Celso;I_Pessoa
- ;I_Pessoa
 de;I_Pessoa
- ;I_Pessoa
 Mello;I_Pessoa
 ,;I_Pessoa
- ;O
 Marco;B_Pessoa
- ;I_Pessoa
 Aurélio;I_Pessoa
 ,;I_Pessoa
- ;O
 Gilmar;B_Pessoa
- ;I_Pessoa
 Mendes;I_Pessoa
 ,;I_Pessoa
- ;O
 Cármen;B_Pessoa
- ;I_Pessoa
 Lúcia;I_Pessoa
 ,;I_Pessoa
- ;O
 Dias;B_Pessoa
- ;I_Pessoa
 Toffoli;I_Pessoa
 ,;I_Pessoa
- ;O
 Luiz;B_Pessoa
- ;I_Pessoa
 Fux;I_Pessoa
 ,;I_Pessoa
- ;O
 Rosa;B_Pessoa
- ;I_Pessoa
 Weber;I_Pessoa
 ,;I_Pessoa
- ;O
 Teori;B_Pessoa
- ;I_Pessoa
 Zavascki;I_Pessoa
- ;I_Pessoa
 e;O
- ;O
 Roberto;B_Pessoa
- ;I_Pessoa
 Barroso;I_Pessoa
 .;I_Pessoa
- ;O
 "
 ";O
 "
@@ -1223,43 +707,28 @@ Barroso;I_Pessoa
 Procurador;O
 -;O
 Geral;O
- ;O
 da;O
- ;O
 República;O
 ,;O
- ;O
 Dr;O
 .;O
- ;O
 Rodrigo;B_Pessoa
- ;I_Pessoa
 Janot;I_Pessoa
- ;I_Pessoa
 Monteiro;I_Pessoa
- ;I_Pessoa
 de;I_Pessoa
- ;I_Pessoa
 "
 ";I_Pessoa
 "
 ";I_Pessoa
 Barros;I_Pessoa
 .;I_Pessoa
- ;O
 p;O
 /;O
- ;O
 Fabiane;B_Pessoa
- ;I_Pessoa
 Pereira;I_Pessoa
- ;I_Pessoa
 de;I_Pessoa
- ;I_Pessoa
 Oliveira;I_Pessoa
- ;I_Pessoa
 Duarte;I_Pessoa
- ;I_Pessoa
 "
 ";O
 "
@@ -1267,61 +736,41 @@ Duarte;I_Pessoa
 Assessora;O
 -;O
 Chefe;O
- ;O
 do;O
- ;O
 Plenário;O
- ;O
 03/03/2016;O
- ;O
 PLENÁRIO;O
- ;O
 "
 ";O
 "
 ";O
 AÇÃO;B_Precedente
- ;I_Precedente
 DIRETA;I_Precedente
- ;I_Precedente
 DE;I_Precedente
- ;I_Precedente
 INCONSTITUCIONALIDADE;I_Precedente
- ;I_Precedente
 3.278;I_Precedente
- ;I_Precedente
 SANTA;I_Precedente
- ;I_Precedente
 CATARINA;I_Precedente
- ;I_Precedente
 "
 ";O
 "
 ";O
 RELATOR;O
- ;O
 :;O
- ;O
 MIN;B_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 EDSON;I_Pessoa
- ;I_Pessoa
 FACHINREQTE;O
 .;O
 (;O
 S;O
 );O
- ;O
 :;O
 PROCURADOR;O
 -;O
 GERAL;O
- ;O
 DA;O
- ;O
 REPÚBLICA;O
- ;O
 INTDO;O
 .;O
 (;O
@@ -1329,20 +778,13 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 GOVERNADOR;O
- ;O
 DO;O
- ;O
 ESTADO;O
- ;O
 DE;O
- ;O
 SANTA;O
- ;O
 CATARINA;O
- ;O
 INTDO;O
 .;O
 (;O
@@ -1350,174 +792,103 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 ASSEMBLÉIA;O
- ;O
 LEGISLATIVA;O
- ;O
 DO;O
- ;O
 ESTADO;O
- ;O
 DE;O
- ;O
 SANTA;O
- ;O
 "
 ";O
 "
 ";O
 CATARINA;O
- ;O
 "
 ";O
 "
 ";O
 R;O
- ;O
 E;O
- ;O
 L;O
- ;O
 A;O
- ;O
 T;O
- ;O
 Ó;O
- ;O
 R;O
- ;O
 I;O
- ;O
 O;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 SENHOR;O
- ;O
 MINISTRO;B_Pessoa
- ;I_Pessoa
 EDSON;I_Pessoa
- ;I_Pessoa
 FACHIN;I_Pessoa
- ;I_Pessoa
 (;O
 RELATOR;O
 );O
 :;O
- ;O
 Trata;O
 -;O
 se;O
- ;O
 de;O
- ;O
 ação;O
- ;O
 direita;O
- ;O
 de;O
- ;O
 inconstitucionalidade;O
- ;O
 ajuizada;O
- ;O
 pela;O
- ;O
 Procuradoria;O
 -;O
 Geral;O
- ;O
 da;O
- ;O
 República;O
- ;O
 em;O
- ;O
 face;O
- ;O
 do;O
- ;O
 item;O
- ;O
 2;O
- ;O
 da;O
- ;O
 Tabela;O
- ;O
 VI;O
- ;O
 da;O
- ;O
 Lei;B_Ref. Legislativa
- ;I_Ref. Legislativa
 Complementar;I_Ref. Legislativa
- ;I_Ref. Legislativa
 156/97;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;O
- ;O
 estado;O
- ;O
 de;O
- ;O
 Santa;O
- ;O
 Catarina;O
 ,;O
- ;O
 que;O
- ;O
 dispõe;O
- ;O
 sobre;O
- ;O
 o;O
- ;O
 regimento;O
- ;O
 de;O
- ;O
 custas;O
- ;O
 e;O
- ;O
 emolumentos;O
 ,;O
- ;O
 com;O
- ;O
 parâmetro;O
- ;O
 constitucional;O
- ;O
 no;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 5º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 XXXIV;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 “b”;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Federal;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 "
 ";O
 "
@@ -1525,366 +896,218 @@ Federal;I_Ref. Legislativa
 Reproduz;O
 -;O
 se;O
- ;O
 o;O
- ;O
 dispositivo;O
- ;O
 impugnado;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 “Tabela;O
- ;O
 VI;O
- ;O
 –;O
- ;O
 Atos;O
- ;O
 do;O
- ;O
 Distribuidor;O
 (;O
 …;O
 );O
 2;O
 .;O
- ;O
 Expedição;O
- ;O
 de;O
- ;O
 certidão;O
 ,;O
- ;O
 com;O
- ;O
 uma;O
- ;O
 só;O
- ;O
 folha;O
- ;O
 –;O
- ;O
 3;O
- ;O
 (;O
 três;O
 );O
- ;O
 URCs;O
 ,;O
- ;O
 mais;O
- ;O
 1;O
- ;O
 (;O
 uma;O
 );O
- ;O
 URC;O
- ;O
 por;O
- ;O
 folha;O
- ;O
 excedente;O
- ;O
 ou;O
- ;O
 grupo;O
- ;O
 de;O
- ;O
 5;O
- ;O
 pessoas;O
- ;O
 objeto;O
- ;O
 da;O
- ;O
 busca”;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 Ministro;O
- ;O
 Joaquim;O
- ;O
 Barbosa;O
 ,;O
- ;O
 meu;O
- ;O
 antecessor;O
- ;O
 na;O
- ;O
 relatoria;O
- ;O
 do;O
- ;O
 feito;O
 ,;O
- ;O
 adotou;O
- ;O
 o;O
- ;O
 rito;O
- ;O
 do;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 12;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 9.868/1999;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 à;O
- ;O
 luz;O
- ;O
 da;O
- ;O
 relevância;O
- ;O
 da;O
- ;O
 matéria;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 Assembleia;O
- ;O
 Legislativa;O
- ;O
 do;O
- ;O
 Estado;O
- ;O
 de;O
- ;O
 Santa;O
- ;O
 Catarina;O
- ;O
 e;O
- ;O
 o;O
- ;O
 Chefe;O
- ;O
 do;O
- ;O
 "
 ";O
 "
 ";O
 Poder;O
- ;O
 Executivo;O
- ;O
 do;O
- ;O
 mesmo;O
- ;O
 ente;O
- ;O
 federado;O
- ;O
 prestaram;O
- ;O
 informações;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 Advocacia;O
 -;O
 Geral;O
- ;O
 da;O
- ;O
 União;O
- ;O
 opinou;O
- ;O
 pela;O
- ;O
 improcedência;O
- ;O
 da;O
- ;O
 ação;O
 ,;O
- ;O
 desde;O
- ;O
 que;O
- ;O
 excluídos;O
- ;O
 da;O
- ;O
 abrangência;O
- ;O
 do;O
- ;O
 vocábulo;O
- ;O
 “certidão”;O
- ;O
 os;O
- ;O
 atos;O
- ;O
 emanados;O
- ;O
 do;O
- ;O
 Poder;O
- ;O
 Público;O
- ;O
 que;O
- ;O
 tenham;O
- ;O
 como;O
- ;O
 escopo;O
- ;O
 a;O
- ;O
 defesa;O
- ;O
 de;O
- ;O
 direitos;O
- ;O
 ou;O
- ;O
 o;O
- ;O
 esclarecimento;O
- ;O
 de;O
- ;O
 situações;O
- ;O
 pessoais;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 Procuradoria;O
 -;O
 Geral;O
- ;O
 da;O
- ;O
 República;O
- ;O
 opinou;O
- ;O
 pela;O
- ;O
 procedência;O
- ;O
 da;O
- ;O
 ação;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Os;O
- ;O
 autos;O
- ;O
 vieram;O
- ;O
 a;O
- ;O
 mim;O
- ;O
 conclusos;O
 ,;O
- ;O
 por;O
- ;O
 substituição;O
- ;O
 de;O
- ;O
 relatoria;O
 ,;O
- ;O
 em;O
- ;O
 "
 ";O
 "
 ";O
 16.06.2015;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Requisitei;O
- ;O
 novas;O
- ;O
 informações;O
- ;O
 sobre;O
- ;O
 a;O
- ;O
 vigência;O
- ;O
 dos;O
- ;O
 dispositivos;O
- ;O
 impugnados;O
 .;O
- ;O
 "
 ";O
 "
@@ -1892,117 +1115,72 @@ impugnados;O
 Informou;O
 -;O
 se;O
- ;O
 a;O
- ;O
 plena;O
- ;O
 vigência;O
- ;O
 do;O
- ;O
 artigo;O
- ;O
 atacado;O
 .;O
 É;O
- ;O
 o;O
- ;O
 relatório;O
 .;O
- ;O
 03/03/2016;O
- ;O
 PLENÁRIO;O
- ;O
 "
 ";O
 "
 ";O
 AÇÃO;B_Precedente
- ;I_Precedente
 DIRETA;I_Precedente
- ;I_Precedente
 DE;I_Precedente
- ;I_Precedente
 INCONSTITUCIONALIDADE;I_Precedente
- ;I_Precedente
 3.278;I_Precedente
- ;I_Precedente
 SANTA;I_Precedente
- ;I_Precedente
 CATARINA;I_Precedente
- ;I_Precedente
 "
 ";O
 "
 ";O
 V;O
- ;O
 O;O
- ;O
 T;O
- ;O
 O;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 SENHOR;O
- ;O
 MINISTRO;B_Pessoa
- ;I_Pessoa
 EDSON;I_Pessoa
- ;I_Pessoa
 FACHIN;I_Pessoa
- ;I_Pessoa
 (;O
 RELATOR;O
 );O
 :;O
- ;O
 Inicialmente;O
 ,;O
- ;O
 cumpre;O
 -;O
 se;O
- ;O
 destacar;O
- ;O
 que;O
- ;O
 a;O
- ;O
 presente;O
- ;O
 controvérsia;O
- ;O
 não;O
- ;O
 é;O
- ;O
 inédita;O
- ;O
 na;O
- ;O
 ambiência;O
- ;O
 do;O
- ;O
 Tribunal;O
- ;O
 Pleno;O
- ;O
 desta;O
- ;O
 Corte;O
 .;O
- ;O
 "
 ";O
 "
@@ -2010,1713 +1188,963 @@ Corte;O
 Refiro;O
 -;O
 me;O
- ;O
 ao;O
- ;O
 assentado;O
 ,;O
- ;O
 por;O
- ;O
 unanimidade;O
 ,;O
- ;O
 na;O
- ;O
 ADI;B_Precedente
- ;I_Precedente
 2.969;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 relatoria;I_Precedente
- ;I_Precedente
 do;I_Precedente
- ;I_Precedente
 Ministro;I_Precedente
- ;I_Precedente
 Carlos;I_Precedente
- ;I_Precedente
 Britto;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 DJe;I_Precedente
- ;I_Precedente
 22.06.2007;I_Precedente
 ,;I_Precedente
- ;O
 cuja;O
- ;O
 ementa;O
- ;O
 se;O
- ;O
 transcreve;O
- ;O
 a;O
- ;O
 seguir;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 “AÇÃO;O
- ;O
 DIRETA;O
- ;O
 DE;O
- ;O
 INCONSTITUCIONALIDADE;O
 .;O
- ;O
 ARTIGO;B_Ref. Legislativa
- ;I_Ref. Legislativa
 178;I_Ref. Legislativa
- ;I_Ref. Legislativa
 DA;I_Ref. Legislativa
- ;I_Ref. Legislativa
 LEI;I_Ref. Legislativa
- ;I_Ref. Legislativa
 COMPLEMENTAR;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 19;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 DE;O
- ;O
 29;O
- ;O
 DE;O
- ;O
 DEZEMBRO;O
- ;O
 DE;O
- ;O
 1997;O
 ,;O
- ;O
 DO;O
- ;O
 ESTADO;O
- ;O
 DO;O
- ;O
 AMAZONAS;O
 .;O
- ;O
 EXTRAÇÃO;O
- ;O
 DE;O
- ;O
 CERTIDÕES;O
 ,;O
- ;O
 EM;O
- ;O
 REPARTIÇÕES;O
- ;O
 PÚBLICAS;O
 ,;O
- ;O
 CONDICIONADA;O
- ;O
 AO;O
- ;O
 RECOLHIMENTO;O
- ;O
 DA;O
- ;O
 """TAXA";O
- ;O
 DE;O
- ;O
 SEGURANÇA;O
- ;O
 "PÚBLICA""";O
 .;O
- ;O
 VIOLAÇÃO;O
- ;O
 À;O
- ;O
 ALÍNEA;B_Ref. Legislativa
- ;I_Ref. Legislativa
 """B""";I_Ref. Legislativa
- ;I_Ref. Legislativa
 DO;I_Ref. Legislativa
- ;I_Ref. Legislativa
 INCISO;I_Ref. Legislativa
- ;I_Ref. Legislativa
 XXXIV;I_Ref. Legislativa
- ;I_Ref. Legislativa
 DO;I_Ref. Legislativa
- ;I_Ref. Legislativa
 5º;I_Ref. Legislativa
- ;I_Ref. Legislativa
 DA;I_Ref. Legislativa
- ;I_Ref. Legislativa
 CONSTITUIÇÃO;I_Ref. Legislativa
- ;I_Ref. Legislativa
 FEDERAL;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 AÇÃO;O
- ;O
 JULGADA;O
- ;O
 PROCEDENTE;O
 .;O
 ”;O
- ;O
 "
 ";O
 "
 ";O
 De;O
- ;O
 fato;O
 ,;O
- ;O
 o;O
- ;O
 artigo;B_Ref. Legislativa
- ;I_Ref. Legislativa
 5º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 XXXIV;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 “b”;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Federal;I_Ref. Legislativa
- ;I_Ref. Legislativa
 estabelece;O
- ;O
 o;O
- ;O
 seguinte;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 “XXXIV;O
- ;O
 -;O
- ;O
 são;O
- ;O
 a;O
- ;O
 todos;O
- ;O
 assegurados;O
 ,;O
- ;O
 independentemente;O
- ;O
 do;O
- ;O
 pagamento;O
- ;O
 de;O
- ;O
 taxas;O
 :;O
- ;O
 (;O
 …;O
 );O
 b;O
 );O
- ;O
 a;O
- ;O
 obtenção;O
- ;O
 de;O
- ;O
 certidões;O
- ;O
 em;O
- ;O
 repartições;O
- ;O
 públicas;O
 ,;O
- ;O
 para;O
- ;O
 defesa;O
- ;O
 de;O
- ;O
 direitos;O
- ;O
 e;O
- ;O
 esclarecimento;O
- ;O
 de;O
- ;O
 situações;O
- ;O
 de;O
- ;O
 interesse;O
- ;O
 "pessoal;”";O
- ;O
 "
 ";O
 "
 ";O
 Acerca;O
- ;O
 do;O
- ;O
 direito;O
- ;O
 de;O
- ;O
 petição;O
 ,;O
- ;O
 o;O
- ;O
 eminente;O
- ;O
 Ministro;B_Pessoa
- ;I_Pessoa
 Celso;I_Pessoa
- ;I_Pessoa
 de;I_Pessoa
- ;I_Pessoa
 Mello;I_Pessoa
- ;I_Pessoa
 assim;O
- ;O
 consignou;O
- ;O
 na;O
- ;O
 ADI;B_Precedente
 -;I_Precedente
 MC;I_Precedente
- ;I_Precedente
 1.247;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 sua;I_Precedente
- ;I_Precedente
 relatoria;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 DJ;I_Precedente
- ;I_Precedente
 08.09.1995;I_Precedente
 :;I_Precedente
- ;O
 "
 ";O
 "
 ";O
 “DIREITO;O
- ;O
 DE;O
- ;O
 PETIÇÃO;O
- ;O
 E;O
- ;O
 AÇÃO;O
- ;O
 DIRETA;O
 :;O
- ;O
 O;O
- ;O
 direito;O
- ;O
 de;O
- ;O
 petição;O
 ,;O
- ;O
 presente;O
- ;O
 em;O
- ;O
 todas;O
- ;O
 as;O
- ;O
 Constituições;O
- ;O
 brasileiras;O
 ,;O
- ;O
 qualifica;O
 -;O
 se;O
- ;O
 como;O
- ;O
 importante;O
- ;O
 prerrogativa;O
- ;O
 de;O
- ;O
 caráter;O
- ;O
 democrático;O
 .;O
- ;O
 Trata;O
 -;O
 se;O
- ;O
 de;O
- ;O
 instrumento;O
- ;O
 jurídico;O
 -;O
 constitucional;O
- ;O
 posto;O
- ;O
 a;O
- ;O
 disposição;O
- ;O
 de;O
- ;O
 qualquer;O
- ;O
 interessado;O
- ;O
 -;O
- ;O
 mesmo;O
- ;O
 daqueles;O
- ;O
 destituídos;O
- ;O
 de;O
- ;O
 personalidade;O
- ;O
 jurídica;O
- ;O
 -;O
 ,;O
- ;O
 com;O
- ;O
 a;O
- ;O
 explicita;O
- ;O
 finalidade;O
- ;O
 de;O
- ;O
 viabilizar;O
- ;O
 a;O
- ;O
 defesa;O
 ,;O
- ;O
 perante;O
- ;O
 as;O
- ;O
 instituições;O
- ;O
 estatais;O
 ,;O
- ;O
 de;O
- ;O
 direitos;O
- ;O
 ou;O
- ;O
 valores;O
- ;O
 revestidos;O
- ;O
 tanto;O
- ;O
 de;O
- ;O
 natureza;O
- ;O
 pessoal;O
- ;O
 quanto;O
- ;O
 de;O
- ;O
 significação;O
- ;O
 coletiva;O
 .;O
 ”;O
- ;O
 "
 ";O
 "
 ";O
 Na;O
- ;O
 hipótese;O
 ,;O
- ;O
 colhe;O
 -;O
 se;O
- ;O
 da;O
- ;O
 doutrina;O
- ;O
 da;O
- ;O
 Ministra;O
- ;O
 do;O
- ;O
 Superior;O
- ;O
 Tribunal;O
- ;O
 de;O
- ;O
 Justiça;O
- ;O
 Regina;B_Pessoa
- ;I_Pessoa
 Helena;I_Pessoa
- ;I_Pessoa
 que;O
- ;O
 o;O
- ;O
 artigo;B_Ref. Legislativa
- ;I_Ref. Legislativa
 5º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 XXXIV;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Texto;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constitucional;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 cuida;O
- ;O
 de;O
- ;O
 duas;O
- ;O
 hipóteses;O
- ;O
 de;O
- ;O
 imunidades;O
 ,;O
- ;O
 com;O
- ;O
 natureza;O
- ;O
 objetiva;O
- ;O
 e;O
- ;O
 política;O
 ,;O
- ;O
 no;O
- ;O
 que;O
- ;O
 se;O
- ;O
 referem;O
- ;O
 a;O
- ;O
 taxas;O
 .;O
- ;O
 Igualmente;O
 ,;O
- ;O
 o;O
- ;O
 fundamento;O
- ;O
 imunizante;O
- ;O
 reside;O
- ;O
 no;O
- ;O
 prestígio;O
- ;O
 intencionado;O
- ;O
 pelo;O
- ;O
 Constituinte;O
- ;O
 às;O
- ;O
 manifestações;O
- ;O
 de;O
- ;O
 cidadania;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Assim;O
 ,;O
- ;O
 tendo;O
- ;O
 em;O
- ;O
 vista;O
- ;O
 que;O
- ;O
 as;O
- ;O
 alíneas;O
- ;O
 do;O
- ;O
 dispositivo;O
- ;O
 se;O
- ;O
 reportam;O
- ;O
 a;O
- ;O
 tributos;O
- ;O
 vinculados;O
- ;O
 a;O
- ;O
 uma;O
- ;O
 atuação;O
- ;O
 estatal;O
- ;O
 cujas;O
- ;O
 regras;O
 -;O
 matrizes;O
- ;O
 estão;O
- ;O
 contempladas;O
- ;O
 no;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 145;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 II;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Carta;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constitucional;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 “Se;O
- ;O
 inexistente;O
- ;O
 tal;O
- ;O
 norma;O
- ;O
 constitucional;O
- ;O
 autorizado;O
- ;O
 estaria;O
- ;O
 o;O
- ;O
 exercício;O
- ;O
 da;O
- ;O
 competência;O
- ;O
 tributária;O
- ;O
 para;O
- ;O
 a;O
- ;O
 instituição;O
- ;O
 de;O
- ;O
 taxas;O
- ;O
 nessas;O
- ;O
 hipóteses”;O
- ;O
 (;O
 COSTA;B_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 Regina;I_Doutrina
- ;I_Doutrina
 Helena;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 Imunidades;I_Doutrina
- ;I_Doutrina
 Tributárias;I_Doutrina
 :;I_Doutrina
- ;I_Doutrina
 Teoria;I_Doutrina
- ;I_Doutrina
 e;I_Doutrina
- ;I_Doutrina
 análise;I_Doutrina
- ;I_Doutrina
 da;I_Doutrina
- ;I_Doutrina
 Jurisprudência;I_Doutrina
- ;I_Doutrina
 do;I_Doutrina
- ;I_Doutrina
 STF;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 3;I_Doutrina
- ;I_Doutrina
 ed;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 São;I_Doutrina
- ;I_Doutrina
 Paulo;I_Doutrina
 :;I_Doutrina
- ;I_Doutrina
 Malheiros;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 2015;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 p;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 228;I_Doutrina
 );I_Doutrina
- ;O
 "
 ";O
 "
 ";O
 Ainda;O
- ;O
 na;O
- ;O
 esteira;O
- ;O
 da;O
- ;O
 iluminada;O
- ;O
 tributarista;O
 ,;O
- ;O
 há;O
- ;O
 o;O
- ;O
 seguinte;O
- ;O
 elemento;O
- ;O
 a;O
- ;O
 ser;O
- ;O
 considerado;O
- ;O
 para;O
- ;O
 o;O
- ;O
 deslinde;O
- ;O
 da;O
- ;O
 presente;O
- ;O
 controvérsia;O
- ;O
 objetiva;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 “Convém;O
- ;O
 enfatizar;O
- ;O
 que;O
- ;O
 a;O
- ;O
 expedição;O
- ;O
 de;O
- ;O
 certidão;O
- ;O
 em;O
- ;O
 repartição;O
- ;O
 pública;O
 ,;O
- ;O
 imune;O
- ;O
 à;O
- ;O
 exigência;O
- ;O
 de;O
- ;O
 taxa;O
 ,;O
- ;O
 refere;O
 -;O
 se;O
- ;O
 tão;O
- ;O
 somente;O
- ;O
 a;O
- ;O
 certidões;O
- ;O
 solicitadas;O
- ;O
 objetivando;O
- ;O
 a;O
- ;O
 defesa;O
- ;O
 de;O
- ;O
 direitos;O
- ;O
 ou;O
- ;O
 o;O
- ;O
 esclarecimento;O
- ;O
 de;O
- ;O
 situação;O
- ;O
 de;O
- ;O
 interesse;O
- ;O
 pessoal;O
 .;O
- ;O
 A;O
- ;O
 expedição;O
- ;O
 de;O
- ;O
 certidões;O
- ;O
 voltadas;O
- ;O
 à;O
- ;O
 prestação;O
- ;O
 de;O
- ;O
 informações;O
- ;O
 de;O
- ;O
 interesse;O
- ;O
 coletivo;O
- ;O
 ou;O
- ;O
 geral;O
- ;O
 (;O
 art;O
 .;O
- ;O
 5º;O
 ,;O
- ;O
 XXXIII;O
 );O
- ;O
 não;O
- ;O
 goza;O
- ;O
 de;O
- ;O
 imunidade”;O
- ;O
 (;O
 Ibid;O
 .;O
 ,;O
- ;O
 loc;O
 .;O
- ;O
 cit;O
 .;O
 );O
- ;O
 "
 ";O
 "
 ";O
 Por;O
- ;O
 conseguinte;O
 ,;O
- ;O
 parece;O
 -;O
 nos;O
- ;O
 acertada;O
- ;O
 a;O
- ;O
 conclusão;O
- ;O
 a;O
- ;O
 que;O
- ;O
 chega;O
- ;O
 o;O
- ;O
 eminente;O
- ;O
 Ministro;B_Pessoa
- ;I_Pessoa
 Ayres;I_Pessoa
- ;I_Pessoa
 Britto;I_Pessoa
- ;I_Pessoa
 na;O
- ;O
 ADI;O
- ;O
 supracitada;O
 ,;O
- ;O
 in;O
- ;O
 verbis;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 “14;O
 .;O
- ;O
 No;O
- ;O
 tema;O
 ,;O
- ;O
 penso;O
- ;O
 que;O
 ,;O
- ;O
 ao;O
- ;O
 garantir;O
- ;O
 a;O
- ;O
 obtenção;O
- ;O
 gratuita;O
- ;O
 de;O
- ;O
 certidões;O
- ;O
 em;O
- ;O
 repartições;O
- ;O
 públicas;O
 ,;O
- ;O
 o;O
- ;O
 Texto;O
- ;O
 Magno;O
- ;O
 impôs;O
- ;O
 limite;O
- ;O
 material;O
- ;O
 à;O
- ;O
 atividade;O
- ;O
 legislativa;O
- ;O
 do;O
- ;O
 Estado;O
 .;O
- ;O
 É;O
- ;O
 que;O
 ,;O
- ;O
 por;O
- ;O
 meio;O
- ;O
 da;O
- ;O
 alínea;B_Ref. Legislativa
- ;I_Ref. Legislativa
 b;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 inciso;I_Ref. Legislativa
- ;I_Ref. Legislativa
 XXXIV;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 artigo;I_Ref. Legislativa
- ;I_Ref. Legislativa
 5o;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 a;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1988;I_Ref. Legislativa
- ;I_Ref. Legislativa
 terminou;O
- ;O
 por;O
- ;O
 instituir;O
- ;O
 uma;O
- ;O
 espécie;O
- ;O
 de;O
- ;O
 imunidade;O
- ;O
 tributária;O
- ;O
 e;O
 ,;O
- ;O
 dessa;O
- ;O
 forma;O
 ,;O
- ;O
 impediu;O
- ;O
 qualquer;O
- ;O
 exação;O
- ;O
 que;O
- ;O
 tenha;O
- ;O
 por;O
- ;O
 fundamento;O
- ;O
 o;O
- ;O
 fornecimento;O
 ,;O
- ;O
 pelo;O
- ;O
 Poder;O
- ;O
 Público;O
 ,;O
- ;O
 de;O
- ;O
 certidões;O
- ;O
 que;O
- ;O
 visem;O
- ;O
 à;O
- ;O
 defesa;O
- ;O
 de;O
- ;O
 direitos;O
- ;O
 e;O
- ;O
 ao;O
- ;O
 esclarecimento;O
- ;O
 de;O
- ;O
 situações;O
- ;O
 de;O
- ;O
 interesse;O
- ;O
 pessoal;O
- ;O
 do;O
- ;O
 requerente;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 15;O
 .;O
- ;O
 Nesse;O
- ;O
 contexto;O
 ,;O
- ;O
 é;O
- ;O
 possível;O
- ;O
 conciliar;O
- ;O
 as;O
- ;O
 coisas;O
 .;O
- ;O
 Penso;O
- ;O
 que;O
- ;O
 a;O
- ;O
 taxa;O
- ;O
 de;O
- ;O
 segurança;O
- ;O
 pública;O
- ;O
 a;O
- ;O
 que;O
- ;O
 alude;O
- ;O
 o;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 178;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 LC;I_Ref. Legislativa
- ;I_Ref. Legislativa
 19/97;I_Ref. Legislativa
- ;I_Ref. Legislativa
 não;O
- ;O
 é;O
- ;O
 inconstitucional;O
 ,;O
- ;O
 se;O
- ;O
 se;O
- ;O
 entender;O
- ;O
 que;O
- ;O
 não;O
- ;O
 recai;O
- ;O
 sobre;O
- ;O
 as;O
- ;O
 certidões;O
- ;O
 expedidas;O
- ;O
 para;O
- ;O
 defesa;O
- ;O
 de;O
- ;O
 direitos;O
- ;O
 e;O
- ;O
 esclarecimento;O
- ;O
 de;O
- ;O
 situações;O
- ;O
 de;O
- ;O
 interesse;O
- ;O
 pessoal;O
 .;O
- ;O
 Cabendo;O
- ;O
 ao;O
- ;O
 interessado;O
 ,;O
- ;O
 naturalmente;O
 ,;O
- ;O
 ao;O
- ;O
 postular;O
- ;O
 a;O
- ;O
 certidão;O
 ,;O
- ;O
 declinar;O
- ;O
 a;O
- ;O
 finalidade;O
- ;O
 do;O
- ;O
 seu;O
- ;O
 requerimento;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 16;O
 .;O
- ;O
 Daqui;O
- ;O
 se;O
- ;O
 segue;O
- ;O
 que;O
- ;O
 a;O
- ;O
 minha;O
- ;O
 proposta;O
- ;O
 de;O
- ;O
 ponderado;O
- ;O
 equacionamento;O
- ;O
 do;O
- ;O
 feito;O
- ;O
 passa;O
- ;O
 pelo;O
- ;O
 manejo;O
- ;O
 da;O
- ;O
 técnica;O
- ;O
 de;O
- ;O
 controle;O
- ;O
 de;O
- ;O
 constitucionalidade;O
- ;O
 de;O
- ;O
 que;O
- ;O
 atende;O
- ;O
 pelo;O
- ;O
 nome;O
- ;O
 de;O
- ;O
 interpretação;O
- ;O
 conforme;O
 .;O
- ;O
 É;O
- ;O
 dizer;O
 :;O
- ;O
 contendo;O
- ;O
 o;O
- ;O
 texto;O
- ;O
 impugnado;O
- ;O
 mais;O
- ;O
 de;O
- ;O
 uma;O
- ;O
 base;O
- ;O
 significativa;O
- ;O
 ou;O
- ;O
 relato;O
- ;O
 deôntico;O
 ,;O
- ;O
 sou;O
- ;O
 pela;O
- ;O
 recusa;O
- ;O
 à;O
- ;O
 exegese;O
- ;O
 que;O
- ;O
 insira;O
- ;O
 no;O
- ;O
 âmbito;O
- ;O
 de;O
- ;O
 incidência;O
- ;O
 material;O
- ;O
 do;O
- ;O
 dispositivo;O
- ;O
 a;O
- ;O
 extração;O
- ;O
 e;O
- ;O
 o;O
- ;O
 fornecimento;O
- ;O
 de;O
- ;O
 certidões;O
- ;O
 administrativas;O
- ;O
 para;O
- ;O
 os;O
- ;O
 encarecidos;O
- ;O
 fins;O
- ;O
 de;O
- ;O
 defesa;O
- ;O
 de;O
- ;O
 direitos;O
 ,;O
- ;O
 ou;O
- ;O
 esclarecimento;O
- ;O
 de;O
- ;O
 situações;O
- ;O
 de;O
- ;O
 interesse;O
- ;O
 pessoal;O
 .;O
 ”;O
- ;O
 "
 ";O
 "
 ";O
 Ante;O
- ;O
 o;O
- ;O
 exposto;O
 ,;O
- ;O
 conheço;O
- ;O
 da;O
- ;O
 presente;O
- ;O
 ação;O
- ;O
 direta;O
- ;O
 de;O
- ;O
 inconstitucionalidade;O
- ;O
 a;O
- ;O
 que;O
- ;O
 se;O
- ;O
 dá;O
- ;O
 parcial;O
- ;O
 procedência;O
 ,;O
- ;O
 para;O
- ;O
 fins;O
- ;O
 de;O
- ;O
 declarar;O
- ;O
 a;O
- ;O
 nulidade;O
- ;O
 do;O
- ;O
 dispositivo;O
 ,;O
- ;O
 sem;O
- ;O
 redução;O
- ;O
 de;O
- ;O
 texto;O
 ,;O
- ;O
 de;O
- ;O
 toda;O
- ;O
 e;O
- ;O
 qualquer;O
- ;O
 interpretação;O
- ;O
 do;O
- ;O
 item;O
- ;O
 02;O
- ;O
 da;O
- ;O
 Tabela;O
- ;O
 VI;O
- ;O
 da;O
- ;O
 Lei;B_Ref. Legislativa
- ;I_Ref. Legislativa
 Complementar;I_Ref. Legislativa
- ;I_Ref. Legislativa
 156/97;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 do;O
- ;O
 estado;O
- ;O
 de;O
- ;O
 Santa;O
- ;O
 Catarina;O
 ,;O
- ;O
 a;O
- ;O
 qual;O
- ;O
 insira;O
- ;O
 no;O
- ;O
 âmbito;O
- ;O
 de;O
- ;O
 incidência;O
- ;O
 material;O
- ;O
 da;O
- ;O
 hipótese;O
- ;O
 de;O
- ;O
 incidência;O
- ;O
 da;O
- ;O
 taxa;O
- ;O
 em;O
- ;O
 questão;O
- ;O
 a;O
- ;O
 atividade;O
- ;O
 estatal;O
- ;O
 de;O
- ;O
 extração;O
- ;O
 e;O
- ;O
 fornecimento;O
- ;O
 de;O
- ;O
 certidões;O
- ;O
 administrativas;O
- ;O
 para;O
- ;O
 defesa;O
- ;O
 de;O
- ;O
 direitos;O
- ;O
 e;O
- ;O
 esclarecimento;O
- ;O
 de;O
- ;O
 situações;O
- ;O
 de;O
- ;O
 interesse;O
- ;O
 pessoal;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 PLENÁRIO;O
- ;O
 "
 ";O
 "
 ";O
 EXTRATO;O
- ;O
 DE;O
- ;O
 ATAAÇÃO;I_Precedente
- ;I_Precedente
 DIRETA;I_Precedente
- ;I_Precedente
 DE;I_Precedente
- ;I_Precedente
 INCONSTITUCIONALIDADE;I_Precedente
- ;I_Precedente
 3.278PROCED;O
 .;O
- ;O
 :;O
- ;O
 SANTA;O
- ;O
 CATARINARELATOR;O
- ;O
 :;O
- ;O
 MIN;B_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 EDSON;I_Pessoa
- ;I_Pessoa
 FACHINREQTE;O
 .;O
 (;O
 S;O
 );O
- ;O
 :;O
- ;O
 PROCURADOR;O
 -;O
 GERAL;O
- ;O
 DA;O
- ;O
 REPÚBLICAINTDO;O
 .;O
 (;O
@@ -3724,19 +2152,12 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
- ;O
 GOVERNADOR;O
- ;O
 DO;O
- ;O
 ESTADO;O
- ;O
 DE;O
- ;O
 SANTA;O
- ;O
 CATARINAINTDO;O
 .;O
 (;O
@@ -3744,405 +2165,228 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
- ;O
 ASSEMBLÉIA;O
- ;O
 LEGISLATIVA;O
- ;O
 DO;O
- ;O
 ESTADO;O
- ;O
 DE;O
- ;O
 SANTA;O
- ;O
 CATARINA;O
- ;O
 "
 ";O
 "
 ";O
 Decisão;O
 :;O
- ;O
 Retirado;O
- ;O
 de;O
- ;O
 pauta;O
- ;O
 em;O
- ;O
 razão;O
- ;O
 da;O
- ;O
 aposentadoria;O
- ;O
 do;O
- ;O
 Relator;O
 .;O
- ;O
 Presidência;O
- ;O
 do;O
- ;O
 Ministro;B_Pessoa
- ;I_Pessoa
 Ricardo;I_Pessoa
- ;I_Pessoa
 Lewandowski;I_Pessoa
 ,;I_Pessoa
- ;O
 Vice;O
 -;O
 Presidente;O
- ;O
 no;O
- ;O
 exercício;O
- ;O
 da;O
- ;O
 Presidência;O
 .;O
- ;O
 Plenário;O
 ,;O
- ;O
 06.08.2014;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Decisão;O
 :;O
- ;O
 O;O
- ;O
 Tribunal;O
 ,;O
- ;O
 por;O
- ;O
 unanimidade;O
- ;O
 e;O
- ;O
 nos;O
- ;O
 termos;O
- ;O
 do;O
- ;O
 voto;O
- ;O
 do;O
- ;O
 Relator;O
 ,;O
- ;O
 julgou;O
- ;O
 parcialmente;O
- ;O
 procedente;O
- ;O
 o;O
- ;O
 pedido;O
- ;O
 formulado;O
- ;O
 na;O
- ;O
 ação;O
- ;O
 direta;O
 ,;O
- ;O
 para;O
- ;O
 fins;O
- ;O
 de;O
- ;O
 declarar;O
- ;O
 a;O
- ;O
 nulidade;O
- ;O
 do;O
- ;O
 dispositivo;O
 ,;O
- ;O
 sem;O
- ;O
 redução;O
- ;O
 de;O
- ;O
 texto;O
 ,;O
- ;O
 de;O
- ;O
 toda;O
- ;O
 e;O
- ;O
 qualquer;O
- ;O
 interpretação;O
- ;O
 do;O
- ;O
 item;O
- ;O
 02;O
- ;O
 da;O
- ;O
 Tabela;O
- ;O
 VI;O
- ;O
 da;O
- ;O
 Lei;B_Ref. Legislativa
- ;I_Ref. Legislativa
 Complementar;I_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 156/97;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 do;O
- ;O
 Estado;O
- ;O
 de;O
- ;O
 Santa;O
- ;O
 Catarina;O
 ,;O
- ;O
 a;O
- ;O
 qual;O
- ;O
 insira;O
- ;O
 no;O
- ;O
 âmbito;O
- ;O
 de;O
- ;O
 incidência;O
- ;O
 material;O
- ;O
 da;O
- ;O
 hipótese;O
- ;O
 de;O
- ;O
 incidência;O
- ;O
 da;O
- ;O
 taxa;O
- ;O
 em;O
- ;O
 questão;O
- ;O
 a;O
- ;O
 atividade;O
- ;O
 estatal;O
- ;O
 de;O
- ;O
 extração;O
- ;O
 e;O
- ;O
 fornecimento;O
- ;O
 de;O
- ;O
 certidões;O
- ;O
 administrativas;O
- ;O
 para;O
- ;O
 defesa;O
- ;O
 de;O
- ;O
 direitos;O
- ;O
 e;O
- ;O
 esclarecimento;O
- ;O
 de;O
- ;O
 situações;O
- ;O
 de;O
- ;O
 interesse;O
- ;O
 pessoal;O
 .;O
- ;O
 Ausentes;O
 ,;O
- ;O
 justificadamente;O
 ,;O
- ;O
 os;O
- ;O
 Ministros;B_Pessoa
- ;I_Pessoa
 Cármen;I_Pessoa
- ;I_Pessoa
 Lúcia;I_Pessoa
- ;I_Pessoa
 e;O
- ;O
 Luiz;B_Pessoa
- ;I_Pessoa
 Fux;I_Pessoa
 ,;I_Pessoa
- ;O
 e;O
 ,;O
- ;O
 neste;O
- ;O
 julgamento;O
 ,;O
- ;O
 o;O
- ;O
 Ministro;B_Pessoa
- ;I_Pessoa
 Gilmar;I_Pessoa
- ;I_Pessoa
 Mendes;I_Pessoa
 .;I_Pessoa
- ;O
 Presidiu;O
- ;O
 o;O
- ;O
 julgamento;O
- ;O
 o;O
- ;O
 Ministro;B_Pessoa
- ;I_Pessoa
 Ricardo;I_Pessoa
- ;I_Pessoa
 Lewandowski;I_Pessoa
 .;I_Pessoa
- ;O
 Plenário;O
 ,;O
- ;O
 03.03.2016;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Presidência;O
- ;O
 do;O
- ;O
 Senhor;O
- ;O
 Ministro;B_Pessoa
- ;I_Pessoa
 Ricardo;I_Pessoa
- ;I_Pessoa
 Lewandowski;I_Pessoa
 .;I_Pessoa
- ;O
 Presentes;O
- ;O
 à;O
- ;O
 sessão;O
- ;O
 os;O
- ;O
 Senhores;O
- ;O
 Ministros;B_Pessoa
- ;I_Pessoa
 Celso;I_Pessoa
- ;I_Pessoa
 de;I_Pessoa
- ;I_Pessoa
 Mello;I_Pessoa
 ,;I_Pessoa
- ;O
 Marco;B_Pessoa
- ;I_Pessoa
 Aurélio;I_Pessoa
 ,;I_Pessoa
- ;O
 Gilmar;B_Pessoa
- ;I_Pessoa
 Mendes;I_Pessoa
 ,;I_Pessoa
- ;O
 Dias;B_Pessoa
- ;I_Pessoa
 Toffoli;I_Pessoa
 ,;I_Pessoa
- ;O
 Rosa;B_Pessoa
- ;I_Pessoa
 Weber;I_Pessoa
 ,;I_Pessoa
- ;O
 Teori;B_Pessoa
- ;I_Pessoa
 Zavascki;I_Pessoa
 ,;I_Pessoa
- ;O
 Roberto;B_Pessoa
- ;I_Pessoa
 Barroso;I_Pessoa
- ;I_Pessoa
 e;O
- ;O
 Edson;B_Pessoa
- ;I_Pessoa
 Fachin;I_Pessoa
 .;I_Pessoa
- ;O
 "
 ";O
 "
@@ -4150,43 +2394,28 @@ Fachin;I_Pessoa
 Procurador;O
 -;O
 Geral;O
- ;O
 da;O
- ;O
 República;O
 ,;O
- ;O
 Dr;O
 .;O
- ;O
 Rodrigo;B_Pessoa
- ;I_Pessoa
 Janot;I_Pessoa
- ;I_Pessoa
 Monteiro;I_Pessoa
- ;I_Pessoa
 de;I_Pessoa
- ;I_Pessoa
 "
 ";I_Pessoa
 "
 ";I_Pessoa
 Barros;I_Pessoa
 .;I_Pessoa
- ;O
 p;O
 /;O
- ;O
 Maria;B_Pessoa
- ;I_Pessoa
 Sílvia;I_Pessoa
- ;I_Pessoa
 Marques;I_Pessoa
- ;I_Pessoa
 dos;I_Pessoa
- ;I_Pessoa
 Santos;I_Pessoa
- ;I_Pessoa
 "
 ";O
 "
@@ -4194,13 +2423,10 @@ Santos;I_Pessoa
 Assessora;O
 -;O
 Chefe;O
- ;O
 do;O
- ;O
 Plenário;O
 "
 ";O
 id;O
 :;O
- ;O
 20160316_ADI_3278_308937139;O

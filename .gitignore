@@ -205,3 +205,6 @@ app/server/webpack-stats.json
 
 # vim
 *.swp
+
+# csv files
+data_quality/dados/*/

@@ -1,20 +1,14 @@
 Token;Tag
 Ementa;O
- ;O
 e;O
- ;O
 Acórdão;O
- ;O
 "
 ";O
 "
 ";O
 25/06/2014;O
- ;O
 PRIMEIRA;O
- ;O
 TURMA;O
- ;O
 "
 ";O
 "
@@ -23,51 +17,33 @@ AG;B_Precedente
 .;I_Precedente
 REG;I_Precedente
 .;I_Precedente
- ;I_Precedente
 NO;I_Precedente
- ;I_Precedente
 RECURSO;I_Precedente
- ;I_Precedente
 EXTRAORDINÁRIO;I_Precedente
- ;I_Precedente
 COM;I_Precedente
- ;I_Precedente
 AGRAVO;I_Precedente
- ;I_Precedente
 800.614;I_Precedente
- ;I_Precedente
 SÃO;I_Precedente
- ;I_Precedente
 PAULO;I_Precedente
- ;I_Precedente
 "
 ";I_Precedente
 "
 ";O
 RELATOR;B_Pessoa
- ;I_Pessoa
 :;I_Pessoa
- ;I_Pessoa
 MIN;I_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 DIAS;I_Pessoa
- ;I_Pessoa
 TOFFOLIAGTE;O
 .;O
 (;O
 S;O
 );O
- ;O
 :;O
 JEAN;I_Pessoa
- ;I_Pessoa
 LOUIS;I_Pessoa
- ;I_Pessoa
 BOUQUEREL;I_Pessoa
- ;I_Pessoa
 E;O
- ;O
 OUTRO;O
 (;O
 A;O
@@ -81,18 +57,12 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 CASSIANO;B_Pessoa
- ;I_Pessoa
 TORRES;I_Pessoa
- ;I_Pessoa
 GEROSA;I_Pessoa
- ;I_Pessoa
 GOMES;I_Pessoa
- ;I_Pessoa
 E;O
- ;O
 "
 ";O
 "
@@ -103,7 +73,6 @@ A;O
 /;O
 S;O
 );O
- ;O
 "
 ";O
 "
@@ -115,16 +84,11 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 ESTADO;O
- ;O
 DE;O
- ;O
 SÃO;O
- ;O
 PAULO;O
- ;O
 PROC;O
 .;O
 (;O
@@ -135,421 +99,251 @@ S;O
 (;O
 ES;O
 );O
- ;O
 :;O
 PROCURADOR;O
 -;O
 GERAL;O
- ;O
 DO;O
- ;O
 ESTADO;O
- ;O
 DE;O
- ;O
 SÃO;O
- ;O
 PAULO;O
- ;O
 "
 ";O
 "
 ";O
 EMENTA;O
- ;O
 "
 ";O
 "
 ";O
 Agravo;O
- ;O
 regimental;O
- ;O
 no;O
- ;O
 recurso;O
- ;O
 extraordinário;O
- ;O
 com;O
- ;O
 agravo;O
 .;O
- ;O
 Administrativo;O
 .;O
- ;O
 Servidor;O
- ;O
 Público;O
 .;O
- ;O
 Estabilidade;O
- ;O
 e;O
- ;O
 estágio;O
- ;O
 probatório;O
 .;O
- ;O
 Prazo;O
- ;O
 comum;O
- ;O
 de;O
- ;O
 três;O
- ;O
 anos;O
 .;O
- ;O
 Inteligência;O
- ;O
 do;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 41;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Federal;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 com;O
- ;O
 a;O
- ;O
 redação;O
- ;O
 conferida;O
- ;O
 pela;O
- ;B_Ref. Legislativa
 EC;I_Ref. Legislativa
- ;I_Ref. Legislativa
 19/98;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 Precedentes;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 1;O
 .;O
- ;O
 O;O
- ;O
 Plenário;O
- ;O
 da;O
- ;O
 Corte;O
 ,;O
- ;O
 no;O
- ;O
 julgamento;O
- ;O
 da;O
- ;O
 STA;B_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 269;I_Precedente
 /;I_Precedente
 DF;I_Precedente
 -;I_Precedente
 AgR;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Relator;I_Precedente
- ;I_Precedente
 o;I_Precedente
- ;I_Precedente
 Ministro;I_Precedente
- ;I_Precedente
 Gilmar;I_Precedente
- ;I_Precedente
 Mendes;I_Precedente
 ,;I_Precedente
- ;O
 firmou;O
- ;O
 orientação;O
- ;O
 no;O
- ;O
 sentido;O
- ;O
 de;O
- ;O
 que;O
 ,;O
- ;O
 embora;O
- ;O
 distintos;O
 ,;O
- ;O
 são;O
- ;O
 vinculados;O
- ;O
 os;O
- ;O
 institutos;O
- ;O
 da;O
- ;O
 estabilidade;O
- ;O
 e;O
- ;O
 do;O
- ;O
 estágio;O
- ;O
 probatório;O
 ,;O
- ;O
 devendo;O
 -;O
 se;O
- ;O
 aplicar;O
- ;O
 a;O
- ;O
 ambos;O
- ;O
 o;O
- ;O
 prazo;O
- ;O
 comum;O
- ;O
 de;O
- ;O
 três;O
- ;O
 anos;O
- ;O
 fixado;O
- ;O
 no;O
- ;O
 caput;O
- ;O
 do;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 41;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Federal;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 alterado;O
- ;O
 pela;O
- ;O
 Emenda;B_Ref. Legislativa
- ;I_Ref. Legislativa
 Constitucional;I_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 19/98;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 "
 ";O
 "
 ";O
 2;O
 .;O
- ;O
 Agravo;O
- ;O
 regimental;O
- ;O
 não;O
- ;O
 provido;O
 .;O
- ;O
 ACÓRDÃO;O
- ;O
 "
 ";O
 "
 ";O
 Vistos;O
 ,;O
- ;O
 relatados;O
- ;O
 e;O
- ;O
 discutidos;O
- ;O
 estes;O
- ;O
 autos;O
 ,;O
- ;O
 acordam;O
- ;O
 os;O
- ;O
 Ministros;O
- ;O
 da;O
- ;O
 Primeira;O
- ;O
 Turma;O
- ;O
 do;O
- ;O
 Supremo;O
- ;O
 Tribunal;O
- ;O
 Federal;O
 ,;O
- ;O
 sob;O
- ;O
 a;O
- ;O
 Presidência;O
- ;O
 do;O
- ;O
 Senhor;B_Pessoa
- ;I_Pessoa
 Ministro;I_Pessoa
- ;I_Pessoa
 Marco;I_Pessoa
- ;I_Pessoa
 Aurélio;I_Pessoa
 ,;I_Pessoa
- ;O
 na;O
- ;O
 conformidade;O
- ;O
 da;O
- ;O
 ata;O
- ;O
 do;O
- ;O
 julgamento;O
- ;O
 e;O
- ;O
 das;O
- ;O
 notas;O
- ;O
 taquigráficas;O
 ,;O
- ;O
 por;O
- ;O
 unanimidade;O
- ;O
 de;O
- ;O
 votos;O
 ,;O
- ;O
 em;O
- ;O
 negar;O
- ;O
 provimento;O
- ;O
 ao;O
- ;O
 agravo;O
- ;O
 regimental;O
 ,;O
- ;O
 nos;O
- ;O
 termos;O
- ;O
 do;O
- ;O
 voto;O
- ;O
 do;O
- ;O
 Relator;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Brasília;O
 ,;O
- ;O
 25;O
- ;O
 de;O
- ;O
 junho;O
- ;O
 de;O
- ;O
 2014;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 MINISTRO;B_Pessoa
- ;I_Pessoa
 DIAS;I_Pessoa
- ;I_Pessoa
 TOFFOLI;I_Pessoa
- ;I_Pessoa
 "
 ";I_Pessoa
 "
 ";O
 Relator;O
- ;O
 "
 ";O
 "
 ";O
 25/06/2014;O
- ;O
 PRIMEIRA;O
- ;O
 TURMA;O
- ;O
 "
 ";O
 "
@@ -558,51 +352,33 @@ AG;B_Precedente
 .;I_Precedente
 REG;I_Precedente
 .;I_Precedente
- ;I_Precedente
 NO;I_Precedente
- ;I_Precedente
 RECURSO;I_Precedente
- ;I_Precedente
 EXTRAORDINÁRIO;I_Precedente
- ;I_Precedente
 COM;I_Precedente
- ;I_Precedente
 AGRAVO;I_Precedente
- ;I_Precedente
 800.614;I_Precedente
- ;I_Precedente
 SÃO;I_Precedente
- ;I_Precedente
 PAULO;I_Precedente
- ;I_Precedente
 "
 ";I_Precedente
 "
 ";O
 RELATOR;B_Pessoa
- ;I_Pessoa
 :;I_Pessoa
- ;I_Pessoa
 MIN;I_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 DIAS;I_Pessoa
- ;I_Pessoa
 TOFFOLIAGTE;O
 .;O
 (;O
 S;O
 );O
- ;O
 :;O
 JEAN;B_Pessoa
- ;I_Pessoa
 LOUIS;I_Pessoa
- ;I_Pessoa
 BOUQUEREL;I_Pessoa
- ;I_Pessoa
 E;O
- ;O
 OUTRO;O
 (;O
 A;O
@@ -616,18 +392,12 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 CASSIANO;B_Pessoa
- ;I_Pessoa
 TORRES;I_Pessoa
- ;I_Pessoa
 GEROSA;I_Pessoa
- ;I_Pessoa
 GOMES;I_Pessoa
- ;I_Pessoa
 E;O
- ;O
 "
 ";O
 "
@@ -638,7 +408,6 @@ A;O
 /;O
 S;O
 );O
- ;O
 "
 ";O
 "
@@ -650,16 +419,11 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
 ESTADO;O
- ;O
 DE;O
- ;O
 SÃO;O
- ;O
 PAULO;O
- ;O
 PROC;O
 .;O
 (;O
@@ -670,100 +434,61 @@ S;O
 (;O
 ES;O
 );O
- ;O
 :;O
 PROCURADOR;O
 -;O
 GERAL;O
- ;O
 DO;O
- ;O
 ESTADO;O
- ;O
 DE;O
- ;O
 SÃO;O
- ;O
 PAULO;O
- ;O
 "
 ";O
 "
 ";O
 RELATÓRIO;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 SENHOR;B_Pessoa
- ;I_Pessoa
 MINISTRO;I_Pessoa
- ;I_Pessoa
 DIAS;I_Pessoa
- ;I_Pessoa
 TOFFOLI;I_Pessoa
- ;I_Pessoa
 (;O
 RELATOR;O
 );O
 :;O
 Jean;B_Pessoa
- ;I_Pessoa
 Louis;I_Pessoa
- ;I_Pessoa
 Bouquerel;I_Pessoa
- ;I_Pessoa
 e;O
- ;O
 outros;O
- ;O
 interpõem;O
- ;O
 tempestivo;O
- ;O
 agravo;O
- ;O
 regimental;O
- ;O
 contra;O
- ;O
 decisão;O
- ;O
 em;O
- ;O
 que;O
- ;O
 conheci;O
- ;O
 de;O
- ;O
 agravo;O
- ;O
 para;O
- ;O
 negar;O
- ;O
 seguimento;O
- ;O
 ao;O
- ;O
 recurso;O
- ;O
 extraordinário;O
 ,;O
- ;O
 com;O
- ;O
 a;O
- ;O
 seguinte;O
- ;O
 fundamentação;O
 :;O
- ;O
 "
 ";O
 "
@@ -773,157 +498,87 @@ fundamentação;O
 Trata;O
 -;O
 se;O
- ;O
 de;O
- ;O
 agravo;O
- ;O
 contra;O
- ;O
 a;O
- ;O
 decisão;O
- ;O
 que;O
- ;O
 não;O
- ;O
 admitiu;O
- ;O
 recurso;O
- ;O
 extraordinário;O
- ;O
 interposto;O
- ;O
 contra;O
- ;O
 acórdão;O
- ;O
 da;O
- ;O
 Segunda;O
- ;O
 Turma;O
- ;O
 dos;O
- ;O
 Juizados;O
- ;O
 Especiais;O
- ;O
 da;O
- ;O
 Fazenda;O
- ;O
 Pública;O
- ;O
 do;O
- ;O
 Primeiro;O
- ;O
 Colégio;O
- ;O
 Recursal;O
- ;O
 da;O
- ;O
 Capital;O
- ;O
 do;O
- ;O
 Estado;O
- ;O
 de;O
- ;O
 São;O
- ;O
 Paulo;O
 ,;O
- ;O
 assim;O
- ;O
 ementado;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 ‘Servidores;O
- ;O
 Públicos;O
- ;O
 –;O
- ;O
 Estágio;O
- ;O
 Probatório;O
- ;O
 –;O
- ;O
 Aplicabilidade;O
- ;O
 da;O
- ;O
 Emenda;B_Ref. Legislativa
- ;I_Ref. Legislativa
 Constitucional;I_Ref. Legislativa
- ;I_Ref. Legislativa
 n°;I_Ref. Legislativa
- ;I_Ref. Legislativa
 19/98;I_Ref. Legislativa
- ;I_Ref. Legislativa
 –;O
- ;O
 Período;O
- ;O
 de;O
- ;O
 03;O
- ;O
 (;O
 três;O
 );O
- ;O
 anos;O
- ;O
 a;O
- ;O
 partir;O
- ;O
 de;O
- ;O
 sua;O
- ;O
 edição;O
- ;O
 –;O
- ;O
 Norma;O
- ;O
 de;O
- ;O
 aplicabilidade;O
- ;O
 imediata;O
- ;O
 –;O
- ;O
 Recurso;O
- ;O
 não;O
- ;O
 provido’;O
- ;O
 (;O
 fl;O
 .;O
- ;O
 149;O
 );O
 .;O
- ;O
 "
 ";O
 "
@@ -932,116 +587,69 @@ Alega;O
 -;O
 se;O
 ,;O
- ;O
 no;O
- ;O
 apelo;O
- ;O
 extremo;O
 ,;O
- ;O
 que;O
- ;O
 a;O
- ;O
 controvérsia;O
- ;O
 cinge;O
 -;O
 se;O
- ;O
 sobre;O
- ;O
 ‘a;O
- ;O
 abrangência;O
- ;O
 do;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 41;I_Ref. Legislativa
- ;I_Ref. Legislativa
 (;I_Ref. Legislativa
 redação;I_Ref. Legislativa
- ;I_Ref. Legislativa
 dada;I_Ref. Legislativa
- ;I_Ref. Legislativa
 pela;I_Ref. Legislativa
- ;I_Ref. Legislativa
 EC;I_Ref. Legislativa
- ;I_Ref. Legislativa
 19/98;I_Ref. Legislativa
 );I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 ou;O
- ;O
 seja;O
 ,;O
- ;O
 se;O
- ;O
 o;O
- ;O
 período;O
- ;O
 de;O
- ;O
 três;O
- ;O
 anos;O
- ;O
 imposto;O
- ;O
 para;O
- ;O
 reconhecimento;O
- ;O
 da;O
- ;O
 estabilidade;O
- ;O
 do;O
- ;O
 servidor;O
- ;O
 público;O
- ;O
 é;O
- ;O
 ou;O
- ;O
 não;O
- ;O
 aplicável;O
- ;O
 ao;O
- ;O
 instituto;O
- ;O
 do;O
- ;O
 estágio;O
- ;O
 probatório’;O
- ;O
 (;O
 fl;O
 .;O
- ;O
 163;O
 );O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Decido;O
 .;O
- ;O
 "
 ";O
 "
@@ -1050,880 +658,501 @@ Anote;O
 -;O
 se;O
 ,;O
- ;O
 inicialmente;O
 ,;O
- ;O
 que;O
- ;O
 o;O
- ;O
 recurso;O
- ;O
 extraordinário;O
- ;O
 foi;O
- ;O
 interposto;O
- ;O
 contra;O
- ;O
 acórdão;O
- ;O
 publicado;O
- ;O
 após;O
- ;O
 3/5/07;O
 ,;O
- ;O
 quando;O
- ;O
 já;O
- ;O
 era;O
- ;O
 plenamente;O
- ;O
 exigível;O
- ;O
 a;O
- ;O
 demonstração;O
- ;O
 da;O
- ;O
 repercussão;O
- ;O
 geral;O
- ;O
 da;O
- ;O
 matéria;O
- ;O
 constitucional;O
- ;O
 objeto;O
- ;O
 do;O
- ;O
 recurso;O
 ,;O
- ;O
 conforme;O
- ;O
 decidido;O
- ;O
 na;O
- ;O
 Questão;B_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 Ordem;I_Precedente
- ;I_Precedente
 no;I_Precedente
- ;I_Precedente
 Agravo;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 Instrumento;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 664.567;I_Precedente
 /;I_Precedente
 RS;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Tribunal;I_Precedente
- ;I_Precedente
 Pleno;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Relator;I_Precedente
- ;I_Precedente
 o;I_Precedente
- ;I_Precedente
 Ministro;I_Precedente
- ;I_Precedente
 Sepúlveda;I_Precedente
- ;I_Precedente
 Pertence;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 DJ;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 6/9/07;I_Precedente
 .;I_Precedente
- ;O
 Todavia;O
 ,;O
- ;O
 apesar;O
- ;O
 da;O
- ;O
 petição;O
- ;O
 recursal;O
- ;O
 haver;O
- ;O
 trazido;O
- ;O
 a;O
- ;O
 preliminar;O
- ;O
 sobre;O
- ;O
 o;O
- ;O
 tema;O
 ,;O
- ;O
 não;O
- ;O
 é;O
- ;O
 de;O
- ;O
 se;O
- ;O
 proceder;O
- ;O
 ao;O
- ;O
 exame;O
- ;O
 de;O
- ;O
 sua;O
- ;O
 existência;O
 ,;O
- ;O
 uma;O
- ;O
 vez;O
- ;O
 que;O
 ,;O
- ;O
 nos;O
- ;O
 termos;O
- ;O
 do;O
- ;O
 artigo;B_Ref. Legislativa
- ;I_Ref. Legislativa
 323;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Regimento;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Interno;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Supremo;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Tribunal;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Federal;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 com;I_Ref. Legislativa
- ;I_Ref. Legislativa
 a;I_Ref. Legislativa
- ;I_Ref. Legislativa
 redação;I_Ref. Legislativa
- ;I_Ref. Legislativa
 introduzida;I_Ref. Legislativa
- ;I_Ref. Legislativa
 pela;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Emenda;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Regimental;I_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 21/07;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 primeira;O
- ;O
 parte;O
 ,;O
- ;O
 o;O
- ;O
 procedimento;O
- ;O
 acerca;O
- ;O
 da;O
- ;O
 existência;O
- ;O
 da;O
- ;O
 repercussão;O
- ;O
 geral;O
- ;O
 somente;O
- ;O
 ocorrerá;O
- ;O
 ‘quando;O
- ;O
 não;O
- ;O
 for;O
- ;O
 o;O
- ;O
 caso;O
- ;O
 de;O
- ;O
 inadmissibilidade;O
- ;O
 do;O
- ;O
 recurso;O
- ;O
 por;O
- ;O
 outra;O
- ;O
 razão’;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Não;O
- ;O
 merece;O
- ;O
 prosperar;O
- ;O
 a;O
- ;O
 irresignação;O
 .;O
 O;O
- ;O
 acórdão;O
- ;O
 recorrido;O
- ;O
 está;O
- ;O
 em;O
- ;O
 sintonia;O
- ;O
 com;O
- ;O
 a;O
- ;O
 jurisprudência;O
- ;O
 desta;O
- ;O
 Corte;O
- ;O
 que;O
- ;O
 no;O
- ;O
 julgamento;O
- ;O
 da;O
- ;O
 STA;B_Precedente
- ;I_Precedente
 n°;I_Precedente
- ;I_Precedente
 269;I_Precedente
 /;I_Precedente
 DF;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Relator;I_Precedente
- ;I_Precedente
 o;I_Precedente
- ;I_Precedente
 Ministro;I_Precedente
- ;I_Precedente
 Gilmar;I_Precedente
- ;I_Precedente
 Mendes;I_Precedente
 ,;I_Precedente
- ;O
 firmou;O
- ;O
 o;O
- ;O
 entendimento;O
- ;O
 de;O
- ;O
 que;O
- ;O
 os;O
- ;O
 institutos;O
- ;O
 da;O
- ;O
 estabilidade;O
- ;O
 e;O
- ;O
 do;O
- ;O
 estágio;O
- ;O
 probatório;O
 ,;O
- ;O
 apesar;O
- ;O
 de;O
- ;O
 distintos;O
 ,;O
- ;O
 são;O
- ;O
 vinculados;O
 ,;O
- ;O
 devendo;O
- ;O
 se;O
- ;O
 aplicar;O
- ;O
 a;O
- ;O
 ambos;O
- ;O
 o;O
- ;O
 prazo;O
- ;O
 comum;O
- ;O
 de;O
- ;O
 três;O
- ;O
 anos;O
- ;O
 fixado;O
- ;O
 no;O
- ;O
 caput;O
- ;O
 do;O
- ;O
 artigo;B_Ref. Legislativa
- ;I_Ref. Legislativa
 41;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Federal;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 alterado;I_Ref. Legislativa
- ;I_Ref. Legislativa
 pela;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Emenda;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constitucional;I_Ref. Legislativa
- ;I_Ref. Legislativa
 n°;I_Ref. Legislativa
- ;I_Ref. Legislativa
 19/98;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 O;O
- ;O
 referido;O
- ;O
 julgado;O
- ;O
 está;O
- ;O
 assim;O
- ;O
 ementado;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 ‘Agravo;O
- ;O
 Regimental;O
- ;O
 em;O
- ;O
 Suspensão;O
- ;O
 de;O
- ;O
 Tutela;O
- ;O
 Antecipada;O
 .;O
- ;O
 2;O
 .;O
- ;O
 Estágio;O
- ;O
 confirmatório;O
- ;O
 de;O
- ;O
 dois;O
- ;O
 anos;O
- ;O
 para;O
- ;O
 Advogados;O
- ;O
 da;O
- ;O
 União;O
- ;O
 de;O
- ;O
 acordo;O
- ;O
 com;O
- ;O
 o;O
- ;O
 artigo;B_Ref. Legislativa
- ;I_Ref. Legislativa
 22;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Complementar;I_Ref. Legislativa
- ;I_Ref. Legislativa
 n;I_Ref. Legislativa
 .;I_Ref. Legislativa
 º;I_Ref. Legislativa
- ;I_Ref. Legislativa
 73/1993;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 3;O
 .;O
- ;O
 Vinculação;O
- ;O
 entre;O
- ;O
 o;O
- ;O
 instituto;O
- ;O
 da;O
- ;O
 estabilidade;O
 ,;O
- ;O
 definida;O
- ;O
 no;O
- ;O
 art;O
 .;O
- ;O
 41;O
- ;O
 da;O
- ;O
 Constituição;O
- ;O
 Federal;O
 ,;O
- ;O
 e;O
- ;O
 o;O
- ;O
 instituto;O
- ;O
 do;O
- ;O
 estágio;O
- ;O
 probatório;O
 .;O
- ;O
 4;O
 .;O
- ;O
 Aplicação;O
- ;O
 de;O
- ;O
 prazo;O
- ;O
 comum;O
- ;O
 de;O
- ;O
 três;O
- ;O
 anos;O
- ;O
 a;O
- ;O
 ambos;O
- ;O
 os;O
- ;O
 institutos;O
 .;O
- ;O
 5;O
 .;O
- ;O
 Agravo;O
- ;O
 Regimental;O
- ;O
 desprovido’;O
- ;O
 (;O
 DJe;O
- ;O
 de;O
- ;O
 26/2/10;O
 );O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Também;O
- ;O
 sobre;O
- ;O
 o;O
- ;O
 tema;O
 ,;O
- ;O
 anote;O
 -;O
 se;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 ‘RECURSO;O
 .;O
- ;O
 Extraordinário;O
 .;O
- ;O
 Inadmissibilidade;O
 .;O
- ;O
 Estágio;O
- ;O
 probatório;O
- ;O
 e;O
- ;O
 estabilidade;O
 .;O
- ;O
 Institutos;O
- ;O
 distintos;O
 .;O
- ;O
 Promoção;O
- ;O
 e;O
- ;O
 progressão;O
- ;O
 funcionais;O
 .;O
- ;O
 Prazos;O
 .;O
- ;O
 Jurisprudência;O
- ;O
 assentada;O
 .;O
- ;O
 Ausência;O
- ;O
 de;O
- ;O
 razões;O
- ;O
 consistentes;O
 .;O
- ;O
 Decisão;O
- ;O
 mantida;O
 .;O
- ;O
 Agravo;O
- ;O
 regimental;O
- ;O
 improvido;O
 .;O
- ;O
 Nega;O
 -;O
 se;O
- ;O
 provimento;O
- ;O
 a;O
- ;O
 agravo;O
- ;O
 regimental;O
- ;O
 tendente;O
- ;O
 a;O
- ;O
 impugnar;O
 ,;O
- ;O
 sem;O
- ;O
 razões;O
- ;O
 consistentes;O
 ,;O
- ;O
 decisão;O
- ;O
 fundada;O
- ;O
 em;O
- ;O
 jurisprudência;O
- ;O
 assente;O
- ;O
 na;O
- ;O
 Corte’;O
- ;O
 (;O
 RE;B_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 603.617;I_Precedente
 /;I_Precedente
 DF;I_Precedente
 -;I_Precedente
 AgR;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Relator;I_Precedente
- ;I_Precedente
 o;I_Precedente
- ;I_Precedente
 Ministro;I_Precedente
- ;I_Precedente
 Cezar;I_Precedente
- ;I_Precedente
 Peluso;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 DJe;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 28/8/12;I_Precedente
 );I_Precedente
 .;O
- ;O
 "
 ";O
 "
 ";O
 No;O
- ;O
 mesmo;O
- ;O
 sentido;O
 ,;O
- ;O
 ainda;O
 ,;O
- ;O
 seguem;O
- ;O
 as;O
- ;O
 seguintes;O
- ;O
 decisões;O
- ;O
 monocráticas;O
 :;O
- ;O
 RE;B_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 797.128;I_Precedente
 /;I_Precedente
 RS;I_Precedente
 -;I_Precedente
 AgR;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Relator;I_Precedente
- ;I_Precedente
 o;I_Precedente
- ;I_Precedente
 Ministro;I_Precedente
- ;I_Precedente
 Marco;I_Precedente
- ;I_Precedente
 Aurélio;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 DJe;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 "6/5/14;";I_Precedente
- ;O
 ARE;B_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 640.679;I_Precedente
 /;I_Precedente
 SP;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Relator;I_Precedente
- ;I_Precedente
 o;I_Precedente
- ;I_Precedente
 Ministro;I_Precedente
- ;I_Precedente
 Ricardo;I_Precedente
- ;I_Precedente
 Lewandowski;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 DJe;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 "24/4/12;";I_Precedente
- ;O
 e;O
- ;O
 RE;B_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 603.617;I_Precedente
 /;I_Precedente
 DF;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Relator;I_Precedente
- ;I_Precedente
 o;I_Precedente
- ;I_Precedente
 Ministro;I_Precedente
- ;I_Precedente
 Ayres;I_Precedente
- ;I_Precedente
 Britto;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 DJe;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 6/2/12;I_Precedente
 .;I_Precedente
- ;O
 "
 ";O
 "
 ";O
 Ante;O
- ;O
 ao;O
- ;O
 exposto;O
 ,;O
- ;O
 conheço;O
- ;O
 do;O
- ;O
 agravo;O
- ;O
 para;O
- ;O
 negar;O
- ;O
 seguimento;O
- ;O
 ao;O
- ;O
 recurso;O
- ;O
 extraordinário;O
 .;O
- ;O
 "
 ";O
 "
@@ -1933,162 +1162,94 @@ Publique;O
 se;O
 .;O
 ”;O
- ;O
 "
 ";O
 "
 ";O
 Insistem;O
- ;O
 os;O
- ;O
 agravantes;O
- ;O
 que;O
- ;O
 os;O
- ;O
 institutos;O
- ;O
 da;O
- ;O
 estabilidade;O
- ;O
 e;O
- ;O
 do;O
- ;O
 estágio;O
- ;O
 probatório;O
- ;O
 são;O
- ;O
 distintos;O
- ;O
 e;O
- ;O
 que;O
- ;O
 “a;O
- ;O
 ampliação;O
- ;O
 do;O
- ;O
 período;O
- ;O
 aquisitivo;O
- ;O
 da;O
- ;O
 estabilidade;O
- ;O
 no;O
- ;O
 serviço;O
- ;O
 público;O
- ;O
 não;O
- ;O
 acarretou;O
 ,;O
- ;O
 necessariamente;O
 ,;O
- ;O
 a;O
- ;O
 majoração;O
- ;O
 do;O
- ;O
 período;O
- ;O
 estabelecido;O
- ;O
 para;O
- ;O
 o;O
- ;O
 estágio;O
- ;O
 probatório”;O
- ;O
 (;O
 fl;O
 .;O
- ;O
 233;O
 );O
 ,;O
- ;O
 o;O
- ;O
 qual;O
- ;O
 teria;O
- ;O
 permanecido;O
- ;O
 com;O
- ;O
 a;O
- ;O
 duração;O
- ;O
 de;O
- ;O
 24;O
- ;O
 meses;O
 ,;O
- ;O
 a;O
- ;O
 teor;O
- ;O
 da;O
- ;B_Ref. Legislativa
 Lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Complementar;I_Ref. Legislativa
- ;I_Ref. Legislativa
 790/94;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Estado;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 São;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Paulo;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 "
 ";O
 "
 ";O
 É;O
- ;O
 o;O
- ;O
 relatório;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 25/06/2014;O
- ;O
 PRIMEIRA;O
- ;O
 TURMA;O
- ;O
 "
 ";O
 "
@@ -2097,232 +1258,138 @@ AG;B_Precedente
 .;I_Precedente
 REG;I_Precedente
 .;I_Precedente
- ;I_Precedente
 NO;I_Precedente
- ;I_Precedente
 RECURSO;I_Precedente
- ;I_Precedente
 EXTRAORDINÁRIO;I_Precedente
- ;I_Precedente
 COM;I_Precedente
- ;I_Precedente
 AGRAVO;I_Precedente
- ;I_Precedente
 800.614;I_Precedente
- ;I_Precedente
 SÃO;I_Precedente
- ;I_Precedente
 PAULO;I_Precedente
- ;I_Precedente
 "
 ";I_Precedente
 "
 ";O
 VOTO;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 SENHOR;B_Pessoa
- ;I_Pessoa
 MINISTRO;I_Pessoa
- ;I_Pessoa
 DIAS;I_Pessoa
- ;I_Pessoa
 TOFFOLI;I_Pessoa
- ;I_Pessoa
 (;O
 RELATOR;O
 );O
 :;O
 O;O
- ;O
 inconformismo;O
- ;O
 não;O
- ;O
 merece;O
- ;O
 prosperar;O
 .;O
 Com;O
- ;O
 efeito;O
 ,;O
- ;O
 consoante;O
- ;O
 expresso;O
- ;O
 na;O
- ;O
 decisão;O
- ;O
 agravada;O
 ,;O
- ;O
 o;O
- ;O
 Plenário;O
- ;O
 desta;O
- ;O
 Corte;O
 ,;O
- ;O
 no;O
- ;O
 julgamento;O
- ;O
 da;O
- ;O
 STA;B_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 269;I_Precedente
 /;I_Precedente
 DF;I_Precedente
 -;I_Precedente
 AgR;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Relator;I_Precedente
- ;I_Precedente
 o;I_Precedente
- ;I_Precedente
 Ministro;I_Precedente
- ;I_Precedente
 Gilmar;I_Precedente
- ;I_Precedente
 Mendes;I_Precedente
 ,;I_Precedente
- ;O
 firmou;O
- ;O
 orientação;O
- ;O
 no;O
- ;O
 sentido;O
- ;O
 de;O
- ;O
 que;O
 ,;O
- ;O
 embora;O
- ;O
 distintos;O
 ,;O
- ;O
 são;O
- ;O
 vinculados;O
- ;O
 os;O
- ;O
 institutos;O
- ;O
 da;O
- ;O
 estabilidade;O
- ;O
 e;O
- ;O
 do;O
- ;O
 estágio;O
- ;O
 probatório;O
 ,;O
- ;O
 devendo;O
 -;O
 se;O
- ;O
 aplicar;O
- ;O
 a;O
- ;O
 ambos;O
- ;O
 o;O
- ;O
 prazo;O
- ;O
 comum;O
- ;O
 de;O
- ;O
 três;O
- ;O
 anos;O
- ;O
 fixado;O
- ;O
 no;O
- ;O
 caput;O
- ;O
 do;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 41;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Federal;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 alterado;I_Ref. Legislativa
- ;I_Ref. Legislativa
 pela;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Emenda;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constitucional;I_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 19/98;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 "
 ";O
 "
 ";O
 Do;O
- ;O
 referido;O
- ;O
 julgado;O
 ,;O
- ;O
 colhe;O
 -;O
 se;O
- ;O
 trecho;O
- ;O
 que;O
- ;O
 bem;O
- ;O
 elucida;O
- ;O
 a;O
- ;O
 questão;O
 :;O
- ;O
 "
 ";O
 "
@@ -2330,989 +1397,555 @@ questão;O
 “Discute;O
 -;O
 se;O
- ;O
 a;O
- ;O
 aplicação;O
- ;O
 do;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 41;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Federal;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 introduzido;I_Ref. Legislativa
- ;I_Ref. Legislativa
 pela;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Emenda;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constitucional;I_Ref. Legislativa
- ;I_Ref. Legislativa
 19/1998;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 para;O
- ;O
 efeitos;O
- ;O
 de;O
- ;O
 estágio;O
- ;O
 probatório;O
 ,;O
- ;O
 por;O
- ;O
 vinculação;O
- ;O
 temporal;O
- ;O
 lógica;O
- ;O
 com;O
- ;O
 o;O
- ;O
 instituto;O
- ;O
 da;O
- ;O
 estabilidade;O
 ,;O
- ;O
 ou;O
- ;O
 a;O
- ;O
 aplicação;O
- ;O
 do;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 20;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 8.112/90;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 (;O
 …;O
 );O
 Como;O
- ;O
 afirmei;O
- ;O
 em;O
- ;O
 decisão;O
- ;O
 de;O
- ;O
 fls;O
 .;O
- ;O
 40-46;O
 ,;O
- ;O
 a;O
- ;O
 Emenda;B_Ref. Legislativa
- ;I_Ref. Legislativa
 Constitucional;I_Ref. Legislativa
- ;I_Ref. Legislativa
 19/1998;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 que;O
- ;O
 alterou;O
- ;O
 o;O
- ;O
 Art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 41;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Federal;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 elevou;O
- ;O
 para;O
- ;O
 três;O
- ;O
 anos;O
- ;O
 o;O
- ;O
 prazo;O
- ;O
 para;O
- ;O
 a;O
- ;O
 aquisição;O
- ;O
 da;O
- ;O
 estabilidade;O
- ;O
 no;O
- ;O
 serviço;O
- ;O
 público;O
- ;O
 e;O
 ,;O
- ;O
 por;O
- ;O
 interpretação;O
- ;O
 lógica;O
 ,;O
- ;O
 o;O
- ;O
 prazo;O
- ;O
 do;O
- ;O
 estágio;O
- ;O
 probatório;O
 .;O
- ;O
 Logo;O
 ,;O
- ;O
 a;O
- ;O
 decisão;O
- ;O
 liminar;O
 ,;O
- ;O
 ao;O
- ;O
 decidir;O
- ;O
 de;O
- ;O
 maneira;O
- ;O
 diversa;O
 ,;O
- ;O
 gera;O
- ;O
 grave;O
- ;O
 lesão;O
- ;O
 à;O
- ;O
 ordem;O
- ;O
 pública;O
 ,;O
- ;O
 na;O
- ;O
 sua;O
- ;O
 acepção;O
- ;O
 jurídico;O
 -;O
 constitucional;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 ilustre;O
- ;O
 doutrinador;O
- ;O
 Hely;B_Pessoa
- ;I_Pessoa
 Lopes;I_Pessoa
- ;I_Pessoa
 Meirelles;I_Pessoa
 ,;I_Pessoa
- ;O
 ao;O
- ;O
 conceituar;O
- ;O
 os;O
- ;O
 dois;O
- ;O
 institutos;O
 ,;O
- ;O
 aplica;O
- ;O
 o;O
- ;O
 prazo;O
- ;O
 de;O
- ;O
 três;O
- ;O
 anos;O
- ;O
 a;O
- ;O
 ambos;O
 ,;O
- ;O
 nos;O
- ;O
 seguintes;O
- ;O
 termos;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 ‘Estabilidade;O
- ;O
 é;O
- ;O
 a;O
- ;O
 garantia;O
- ;O
 constitucional;O
- ;O
 de;O
- ;O
 permanência;O
- ;O
 no;O
- ;O
 serviço;O
- ;O
 público;O
- ;O
 outorgada;O
- ;O
 ao;O
- ;O
 servidor;O
- ;O
 que;O
 ,;O
- ;O
 nomeado;O
- ;O
 para;O
- ;O
 cargo;O
- ;O
 de;O
- ;O
 provimento;O
- ;O
 efetivo;O
 ,;O
- ;O
 em;O
- ;O
 virtude;O
- ;O
 de;O
- ;O
 concurso;O
- ;O
 público;O
 ,;O
- ;O
 tenha;O
- ;O
 transposto;O
- ;O
 o;O
- ;O
 estágio;O
- ;O
 probatório;O
- ;O
 de;O
- ;O
 três;O
- ;O
 anos;O
 ,;O
- ;O
 após;O
- ;O
 submetido;O
- ;O
 a;O
- ;O
 avaliação;O
- ;O
 especial;O
- ;O
 de;O
- ;O
 desempenho;O
- ;O
 por;O
- ;O
 comissão;O
- ;O
 instituída;O
- ;O
 para;O
- ;O
 essa;O
- ;O
 finalidade;O
- ;O
 (;O
 CF;B_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 art.41;I_Ref. Legislativa
 );I_Ref. Legislativa
 .;O
- ;O
 (;O
 .;O
 .;O
 .;O
 );O
 ‘Estágio;O
- ;O
 Probatório;O
- ;O
 de;O
- ;O
 três;O
- ;O
 anos;O
 ,;O
- ;O
 terceira;O
- ;O
 condição;O
- ;O
 para;O
- ;O
 a;O
- ;O
 estabilidade;O
 ,;O
- ;O
 é;O
- ;O
 o;O
- ;O
 período;O
- ;O
 de;O
- ;O
 exercício;O
- ;O
 do;O
- ;O
 servidor;O
- ;O
 durante;O
- ;O
 o;O
- ;O
 qual;O
- ;O
 é;O
- ;O
 observada;O
- ;O
 e;O
- ;O
 apurada;O
- ;O
 pela;O
- ;O
 Administração;O
- ;O
 a;O
- ;O
 conveniência;O
- ;O
 ou;O
- ;O
 não;O
- ;O
 de;O
- ;O
 sua;O
- ;O
 permanência;O
- ;O
 no;O
- ;O
 serviço;O
- ;O
 público;O
 ,;O
- ;O
 mediante;O
- ;O
 verificação;O
- ;O
 dos;O
- ;O
 requisitos;O
- ;O
 estabelecidos;O
- ;O
 em;O
- ;O
 lei;O
- ;O
 para;O
- ;O
 a;O
- ;O
 aquisição;O
- ;O
 da;O
- ;O
 estabilidade;O
- ;O
 (;O
 idoneidade;O
- ;O
 moral;O
 ,;O
- ;O
 aptidão;O
 ,;O
- ;O
 disciplina;O
 ,;O
- ;O
 assiduidade;O
 ,;O
- ;O
 dedicação;O
- ;O
 ao;O
- ;O
 serviço;O
 ,;O
- ;O
 eficiência;O
- ;O
 etc;O
 .;O
 );O
 .;O
- ;O
 O;O
- ;O
 prazo;O
- ;O
 era;O
- ;O
 de;O
- ;O
 dois;O
- ;O
 anos;O
- ;O
 antes;O
- ;O
 da;O
- ;O
 EC;B_Ref. Legislativa
- ;I_Ref. Legislativa
 19/98;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 Por;O
- ;O
 isso;O
 ,;O
- ;O
 esta;O
 ,;O
- ;O
 em;O
- ;O
 norma;O
- ;O
 transitória;O
- ;O
 (;O
 art;O
 .;O
- ;O
 28;O
 );O
 ,;O
- ;O
 assegura;O
- ;O
 tal;O
- ;O
 prazo;O
- ;O
 aos;O
- ;O
 servidores;O
- ;O
 em;O
- ;O
 estágio;O
- ;O
 probatório;O
- ;O
 na;O
- ;O
 data;O
- ;O
 de;O
- ;O
 sua;O
- ;O
 promulgação;O
 ,;O
- ;O
 sem;O
- ;O
 prejuízo;O
- ;O
 da;O
- ;O
 avaliação;O
- ;O
 especial;O
- ;O
 de;O
- ;O
 desempenho;O
 ,;O
- ;O
 examinada;O
- ;O
 a;O
- ;O
 seguir’;O
 .;O
- ;O
 (;O
 MEIRELLES;B_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 Hely;I_Doutrina
- ;I_Doutrina
 Lopes;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 Direito;I_Doutrina
- ;I_Doutrina
 Administrativo;I_Doutrina
- ;I_Doutrina
 Brasileiro;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 Malheiros;I_Doutrina
- ;I_Doutrina
 Editores;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 33ª;I_Doutrina
- ;I_Doutrina
 edição;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 Pág;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 445/446;I_Doutrina
 );I_Doutrina
 .;O
- ;O
 "
 ";O
 "
 ";O
 Do;O
- ;O
 mesmo;O
- ;O
 modo;O
 ,;O
- ;O
 o;O
- ;O
 autor;O
- ;O
 José;B_Pessoa
- ;I_Pessoa
 dos;I_Pessoa
- ;I_Pessoa
 Santos;I_Pessoa
- ;I_Pessoa
 Carvalho;I_Pessoa
- ;I_Pessoa
 Filho;I_Pessoa
- ;I_Pessoa
 defende;O
- ;O
 o;O
- ;O
 atrelamento;O
- ;O
 entre;O
- ;O
 os;O
- ;O
 dois;O
 ,;O
- ;O
 como;O
- ;O
 se;O
- ;O
 verifica;O
- ;O
 no;O
- ;O
 trecho;O
- ;O
 abaixo;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 ”Tem;O
- ;O
 havido;O
- ;O
 entendimento;O
- ;O
 de;O
- ;O
 que;O
- ;O
 o;O
- ;O
 prazo;O
- ;O
 de;O
- ;O
 três;O
- ;O
 anos;O
- ;O
 para;O
- ;O
 a;O
- ;O
 aquisição;O
- ;O
 da;O
- ;O
 estabilidade;O
- ;O
 no;O
- ;O
 serviço;O
- ;O
 público;O
- ;O
 não;O
- ;O
 está;O
- ;O
 vinculado;O
- ;O
 ao;O
- ;O
 prazo;O
- ;O
 do;O
- ;O
 estágio;O
- ;O
 probatório;O
 ,;O
- ;O
 o;O
- ;O
 que;O
- ;O
 teria;O
- ;O
 fundamento;O
- ;O
 na;O
- ;O
 interpretação;O
- ;O
 do;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 41;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 caput;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 4º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 "CF;";I_Ref. Legislativa
- ;O
 desse;O
- ;O
 modo;O
 ,;O
- ;O
 deveria;O
- ;O
 manter;O
 -;O
 se;O
- ;O
 para;O
- ;O
 o;O
- ;O
 estágio;O
- ;O
 o;O
- ;O
 prazo;O
- ;O
 anterior;O
- ;O
 de;O
- ;O
 dois;O
- ;O
 anos;O
 ,;O
- ;O
 que;O
- ;O
 continua;O
- ;O
 fixado;O
- ;O
 em;O
- ;O
 algumas;O
- ;O
 normas;O
- ;O
 dos;O
- ;O
 estatutos;O
- ;O
 funcionais;O
 .;O
- ;O
 Tal;O
- ;O
 entendimento;O
 ,;O
- ;O
 concessa;O
- ;O
 vênia;O
 ,;O
- ;O
 é;O
- ;O
 insustentável;O
- ;O
 e;O
- ;O
 incoerente;O
 .;O
- ;O
 Primeiramente;O
 ,;O
- ;O
 não;O
- ;O
 há;O
- ;O
 como;O
- ;O
 desatrelar;O
- ;O
 o;O
- ;O
 prazo;O
- ;O
 de;O
- ;O
 estabilidade;O
- ;O
 do;O
- ;O
 prazo;O
- ;O
 de;O
- ;O
 estágio;O
- ;O
 probatório;O
- ;O
 (;O
 nem;O
- ;O
 nunca;O
- ;O
 houve;O
 ,;O
- ;O
 aliás;O
 );O
 :;O
- ;O
 se;O
- ;O
 a;O
- ;O
 estabilidade;O
- ;O
 pressupõe;O
- ;O
 a;O
- ;O
 prova;O
- ;O
 de;O
- ;O
 aptidão;O
- ;O
 do;O
- ;O
 servidor;O
 ,;O
- ;O
 é;O
- ;O
 lógico;O
- ;O
 que;O
- ;O
 essa;O
- ;O
 prova;O
- ;O
 deverá;O
- ;O
 ser;O
- ;O
 produzida;O
- ;O
 no;O
- ;O
 mesmo;O
- ;O
 prazo;O
- ;O
 de;O
- ;O
 três;O
- ;O
 anos;O
 .;O
- ;O
 Em;O
- ;O
 segundo;O
- ;O
 lugar;O
 ,;O
- ;O
 o;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 41;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 4º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 inovou;O
- ;O
 apenas;O
- ;O
 na;O
- ;O
 parte;O
- ;O
 em;O
- ;O
 que;O
- ;O
 prevê;O
- ;O
 a;O
- ;O
 operacionalização;O
- ;O
 do;O
- ;O
 sistema;O
- ;O
 de;O
- ;O
 prova;O
 (;O
 .;O
@@ -3320,256 +1953,150 @@ prova;O
 .;O
 );O
 .;O
- ;O
 O;O
- ;O
 que;O
- ;O
 os;O
- ;O
 entes;O
- ;O
 federativos;O
- ;O
 devem;O
- ;O
 fazer;O
- ;O
 é;O
- ;O
 adequar;O
- ;O
 tais;O
- ;O
 normas;O
- ;O
 à;O
- ;O
 "Constituição;";O
- ;O
 enquanto;O
- ;O
 não;O
- ;O
 o;O
- ;O
 fazem;O
 ,;O
- ;O
 contudo;O
 ,;O
- ;O
 é;O
- ;O
 claro;O
- ;O
 que;O
- ;O
 prevalece;O
- ;O
 o;O
- ;O
 texto;O
- ;O
 constitucional;O
 .;O
 ”;O
- ;O
 (;O
 CARVALHO;B_Doutrina
- ;I_Doutrina
 FILHO;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 José;I_Doutrina
- ;I_Doutrina
 dos;I_Doutrina
- ;I_Doutrina
 Santos;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 Manual;I_Doutrina
- ;I_Doutrina
 de;I_Doutrina
- ;I_Doutrina
 Direito;I_Doutrina
- ;I_Doutrina
 Administrativo;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 14;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 ed;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 Lúmen;I_Doutrina
- ;I_Doutrina
 Júris;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 p;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 531/532;I_Doutrina
 );I_Doutrina
 .;O
- ;O
 "
 ";O
 "
 ";O
 Nesse;O
- ;O
 sentido;O
 ,;O
- ;O
 além;O
- ;O
 dos;O
- ;O
 precedentes;O
- ;O
 citados;O
- ;O
 na;O
- ;O
 decisão;O
- ;O
 agravada;O
 ,;O
- ;O
 anote;O
 -;O
 se;O
- ;O
 o;O
- ;O
 seguinte;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 “Embargos;O
- ;O
 de;O
- ;O
 declaração;O
- ;O
 em;O
- ;O
 agravo;O
- ;O
 regimental;O
- ;O
 em;O
- ;O
 agravo;O
- ;O
 de;O
- ;O
 instrumento;O
 .;O
- ;O
 2;O
 .;O
- ;O
 Vinculação;O
- ;O
 entre;O
- ;O
 o;O
- ;O
 instituto;O
- ;O
 da;O
- ;O
 estabilidade;O
 ,;O
- ;O
 definida;O
- ;O
 no;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 41;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Federal;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 e;O
- ;O
 o;O
- ;O
 do;O
- ;O
 estágio;O
- ;O
 probatório;O
 .;O
- ;O
 3;O
 .;O
- ;O
 Aplicação;O
- ;O
 de;O
- ;O
 prazo;O
- ;O
 comum;O
- ;O
 de;O
- ;O
 três;O
- ;O
 anos;O
- ;O
 a;O
- ;O
 ambos;O
- ;O
 os;O
- ;O
 institutos;O
 .;O
- ;O
 4;O
 .;O
- ;O
 Precedentes;O
 .;O
- ;O
 5;O
 .;O
- ;O
 Embargos;O
- ;O
 de;O
- ;O
 declaração;O
- ;O
 acolhidos;O
- ;O
 com;O
- ;O
 efeitos;O
- ;O
 infringentes”;O
- ;O
 (;O
 AI;B_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 754.802;I_Precedente
 /;I_Precedente
 DF;I_Precedente
@@ -3578,64 +2105,43 @@ AgR;I_Precedente
 -;I_Precedente
 ED;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Segunda;I_Precedente
- ;I_Precedente
 Turma;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Relator;I_Precedente
- ;I_Precedente
 o;I_Precedente
- ;I_Precedente
 Ministro;I_Precedente
- ;I_Precedente
 Gilmar;I_Precedente
- ;I_Precedente
 Mendes;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 DJe;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 21/6/11;I_Precedente
 );I_Precedente
 .;O
- ;O
 "
 ";O
 "
 ";O
 Nego;O
- ;O
 provimento;O
- ;O
 ao;O
- ;O
 agravo;O
- ;O
 regimental;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 EXTRATO;O
- ;O
 DE;O
- ;O
 ATA;O
- ;O
 "
 ";O
 "
 ";O
 PRIMEIRA;O
- ;O
 TURMA;O
- ;O
 "
 ";O
 "
@@ -3644,49 +2150,30 @@ AG;B_Precedente
 .;I_Precedente
 REG;I_Precedente
 .;I_Precedente
- ;I_Precedente
 NO;I_Precedente
- ;I_Precedente
 RECURSO;I_Precedente
- ;I_Precedente
 EXTRAORDINÁRIO;I_Precedente
- ;I_Precedente
 COM;I_Precedente
- ;I_Precedente
 AGRAVO;I_Precedente
- ;I_Precedente
 800.614PROCED;O
 .;O
- ;O
 :;O
- ;O
 SÃO;O
- ;O
 PAULORELATOR;I_Pessoa
- ;I_Pessoa
 :;I_Pessoa
- ;I_Pessoa
 MIN;I_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 DIAS;I_Pessoa
- ;I_Pessoa
 TOFFOLIAGTE;O
 .;O
 (;O
 S;O
 );O
- ;O
 :;O
- ;O
 JEAN;B_Pessoa
- ;I_Pessoa
 LOUIS;I_Pessoa
- ;I_Pessoa
 BOUQUEREL;I_Pessoa
- ;I_Pessoa
 E;O
- ;O
 OUTRO;O
 (;O
 A;O
@@ -3700,19 +2187,12 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
- ;O
 CASSIANO;B_Pessoa
- ;I_Pessoa
 TORRES;I_Pessoa
- ;I_Pessoa
 GEROSA;I_Pessoa
- ;I_Pessoa
 GOMES;I_Pessoa
- ;I_Pessoa
 E;O
- ;O
 OUTRO;O
 (;O
 A;O
@@ -3726,15 +2206,10 @@ A;O
 /;O
 S;O
 );O
- ;O
 :;O
- ;O
 ESTADO;O
- ;O
 DE;O
- ;O
 SÃO;O
- ;O
 PAULOPROC;O
 .;O
 (;O
@@ -3745,227 +2220,132 @@ S;O
 (;O
 ES;O
 );O
- ;O
 :;O
- ;O
 PROCURADOR;O
 -;O
 GERAL;O
- ;O
 DO;O
- ;O
 ESTADO;O
- ;O
 DE;O
- ;O
 SÃO;O
- ;O
 PAULO;O
- ;O
 "
 ";O
 "
 ";O
 Decisão;O
 :;O
- ;O
 A;O
- ;O
 Turma;O
- ;O
 negou;O
- ;O
 provimento;O
- ;O
 ao;O
- ;O
 agravo;O
- ;O
 regimental;O
 ,;O
- ;O
 nos;O
- ;O
 termos;O
- ;O
 do;O
- ;O
 voto;O
- ;O
 do;O
- ;O
 relator;O
 .;O
- ;O
 Unânime;O
 .;O
- ;O
 Não;O
- ;O
 participou;O
 ,;O
- ;O
 justificadamente;O
 ,;O
- ;O
 deste;O
- ;O
 julgamento;O
 ,;O
- ;O
 a;O
- ;O
 Senhora;B_Pessoa
- ;I_Pessoa
 Ministra;I_Pessoa
- ;I_Pessoa
 Rosa;I_Pessoa
- ;I_Pessoa
 Weber;I_Pessoa
 .;I_Pessoa
- ;O
 Ausente;O
 ,;O
- ;O
 justificadamente;O
 ,;O
- ;O
 o;O
- ;O
 Senhor;B_Pessoa
- ;I_Pessoa
 Ministro;I_Pessoa
- ;I_Pessoa
 Roberto;I_Pessoa
- ;I_Pessoa
 Barroso;I_Pessoa
 .;I_Pessoa
- ;O
 Presidência;O
- ;O
 do;O
- ;O
 Senhor;B_Pessoa
- ;I_Pessoa
 Ministro;I_Pessoa
- ;I_Pessoa
 Marco;I_Pessoa
- ;I_Pessoa
 Aurélio;I_Pessoa
 .;I_Pessoa
- ;O
 Primeira;O
- ;O
 Turma;O
 ,;O
- ;O
 25.6.2014;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Presidência;O
- ;O
 do;O
- ;O
 Senhor;B_Pessoa
- ;I_Pessoa
 Ministro;I_Pessoa
- ;I_Pessoa
 Marco;I_Pessoa
- ;I_Pessoa
 Aurélio;I_Pessoa
 .;I_Pessoa
- ;O
 Presentes;O
- ;O
 à;O
- ;O
 Sessão;O
- ;O
 os;O
- ;O
 Senhores;O
- ;O
 Ministros;B_Pessoa
- ;I_Pessoa
 Dias;I_Pessoa
- ;I_Pessoa
 Toffoli;I_Pessoa
 ,;I_Pessoa
- ;O
 Luiz;B_Pessoa
- ;I_Pessoa
 Fux;I_Pessoa
- ;I_Pessoa
 e;O
- ;O
 Rosa;B_Pessoa
- ;I_Pessoa
 Weber;I_Pessoa
 .;I_Pessoa
- ;O
 Ausente;O
 ,;O
- ;O
 justificadamente;O
 ,;O
- ;O
 o;O
- ;O
 Senhor;B_Pessoa
- ;I_Pessoa
 Ministro;I_Pessoa
- ;I_Pessoa
 Roberto;I_Pessoa
- ;I_Pessoa
 Barroso;I_Pessoa
 .;I_Pessoa
- ;O
 Compareceu;O
- ;O
 o;O
- ;O
 Senhor;B_Pessoa
- ;I_Pessoa
 Ministro;I_Pessoa
- ;I_Pessoa
 Ricardo;I_Pessoa
- ;I_Pessoa
 Lewandowski;I_Pessoa
- ;I_Pessoa
 para;O
- ;O
 julgar;O
- ;O
 processos;O
- ;O
 a;O
- ;O
 ele;O
- ;O
 vinculados;O
 ,;O
- ;O
 assumindo;O
- ;O
 a;O
- ;O
 cadeira;O
- ;O
 da;O
- ;O
 Senhora;B_Pessoa
- ;I_Pessoa
 Ministra;I_Pessoa
- ;I_Pessoa
 Rosa;I_Pessoa
- ;I_Pessoa
 Weber;I_Pessoa
 .;I_Pessoa
- ;O
 "
 ";O
 "
@@ -3973,56 +2353,39 @@ Weber;I_Pessoa
 Subprocurador;B_Pessoa
 -;I_Pessoa
 Geral;I_Pessoa
- ;I_Pessoa
 da;I_Pessoa
- ;I_Pessoa
 República;I_Pessoa
 ,;I_Pessoa
- ;I_Pessoa
 Dr;I_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 Paulo;I_Pessoa
- ;I_Pessoa
 Gustavo;I_Pessoa
- ;I_Pessoa
 Gonet;I_Pessoa
- ;I_Pessoa
 "
 ";I_Pessoa
 "
 ";I_Pessoa
 Branco;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Carmen;B_Pessoa
- ;I_Pessoa
 Lilian;I_Pessoa
- ;I_Pessoa
 Oliveira;I_Pessoa
- ;I_Pessoa
 de;I_Pessoa
- ;I_Pessoa
 Souza;I_Pessoa
- ;I_Pessoa
 "
 ";O
 "
 ";O
 Secretária;O
- ;O
 da;O
- ;O
 Primeira;O
- ;O
 Turma;O
 "
 ";O
 id;O
 :;O
- ;O
 20140819_ARE_800614_251550678;O

@@ -1,12 +1,10 @@
 Token;Tag
 RELATOR;O
- ;O
 EMBTE;O
 .;O
 (;O
 S;O
 );O
- ;O
 ADV;O
 .;O
 (;O
@@ -14,7 +12,6 @@ A;O
 /;O
 S;O
 );O
- ;O
 ADV;O
 .;O
 (;O
@@ -22,7 +19,6 @@ A;O
 /;O
 S;O
 );O
- ;O
 EMBDO;O
 .;O
 (;O
@@ -30,7 +26,6 @@ A;O
 /;O
 S;O
 );O
- ;O
 ADV;O
 .;O
 (;O
@@ -38,438 +33,253 @@ A;O
 /;O
 S;O
 );O
- ;O
 "
 ";O
 "
 ";O
 EMENTA;O
 :;O
- ;O
 EMBARGOS;O
- ;O
 DE;O
- ;O
 DNERGÊNCIA;O
 .;O
- ;O
 RECURSO;O
- ;O
 EXTRAORDINÁRIO;O
 .;O
- ;O
 INCIDÊNCIA;O
- ;O
 DO;O
- ;O
 ICMS;O
- ;O
 SOBRE;O
- ;O
 OPERAÇÕES;O
- ;O
 "DE;;";O
- ;O
 EXPORTAÇÃO;O
- ;O
 ENTRE;O
- ;O
 MARÇO;O
- ;O
 E;O
- ;O
 MAIO;O
- ;O
 DE;O
- ;O
 1989;O
 .;O
- ;O
 ACÓRDÃOS;O
- ;O
 CONFRONTADOS;O
- ;O
 APOIADOS;O
- ;O
 EM;O
- ;O
 FUNDAMENTADOS;O
- ;O
 JURÍDICOS;O
- ;O
 DNERSOS;O
 .;O
- ;O
 AUSÊNCIA;O
- ;O
 DE;O
- ;O
 DISSENSO;O
- ;O
 JURISPRUDENCIAL;O
 .;O
- ;O
 EMBARGOS;O
- ;O
 DE;O
- ;O
 DIVERGÊNCIA;O
- ;O
 NÃO;O
- ;O
 CONHECIDOS;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 I;O
- ;O
 -;O
- ;O
 Inexistência;O
- ;O
 de;O
- ;O
 divergência;O
- ;O
 entre;O
- ;O
 os;O
- ;O
 acórdãos;O
- ;O
 confrontados;O
 ,;O
- ;O
 dado;O
- ;O
 que;O
- ;O
 examinaram;O
- ;O
 a;O
- ;O
 questão;O
- ;O
 com;O
- ;O
 apoio;O
- ;O
 em;O
- ;O
 fundamentos;O
- ;O
 jurídicos;O
- ;O
 diversos;O
 .;O
- ;O
 Enquanto;O
- ;O
 no;O
- ;O
 acórdão;O
- ;O
 recorrido;O
- ;O
 a;O
- ;O
 causa;O
- ;O
 foi;O
- ;O
 dirimida;O
- ;O
 com;O
- ;O
 apoio;O
- ;O
 no;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 34;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 52;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 ADCT;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 o;O
- ;O
 aresto;O
- ;O
 paradigma;O
- ;O
 não;O
- ;O
 examinou;O
- ;O
 a;O
- ;O
 questão;O
- ;O
 à;O
- ;O
 luz;O
- ;O
 do;O
- ;O
 aludido;O
- ;O
 dispositivo;O
 ,;O
- ;O
 em;O
- ;O
 face;O
- ;O
 da;O
- ;O
 ausência;O
- ;O
 de;O
- ;O
 prequestionamento;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 II;O
- ;O
 -;O
- ;O
 Embargos;O
- ;O
 de;O
- ;O
 divergência;O
- ;O
 não;O
- ;O
 conhecidos;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 ACÓRDÃO;O
- ;O
 "
 ";O
 "
 ";O
 Vistos;O
 ,;O
- ;O
 relatados;O
- ;O
 e;O
- ;O
 discutidos;O
- ;O
 estes;O
- ;O
 autos;O
 ,;O
- ;O
 acordam;O
- ;O
 os;O
- ;O
 Ministros;O
- ;O
 do;O
- ;O
 Supremo;O
- ;O
 Tribunal;O
- ;O
 Federal;O
 ,;O
- ;O
 em;O
- ;O
 Sessão;O
- ;O
 Plenária;O
 ,;O
- ;O
 sob;O
- ;O
 a;O
- ;O
 Presidência;O
- ;O
 do;O
- ;O
 Senhor;O
- ;O
 Ministro;B_Pessoa
- ;I_Pessoa
 Cezar;I_Pessoa
- ;I_Pessoa
 Peluso;I_Pessoa
 ,;I_Pessoa
- ;O
 na;O
- ;O
 "conformidi;lde";O
- ;O
 da;O
- ;O
 ata;O
- ;O
 de;O
- ;O
 julgamentos;O
- ;O
 e;O
- ;O
 das;O
- ;O
 notas;O
- ;O
 taquigráficas;O
 ,;O
- ;O
 por;O
- ;O
 unanimidade;O
- ;O
 e;O
- ;O
 nos;O
- ;O
 termos;O
- ;O
 do;O
- ;O
 ·;O
- ;O
 voto;O
- ;O
 do;O
- ;O
 Relator;O
 ,;O
- ;O
 não;O
- ;O
 conhecer;O
- ;O
 dos;O
- ;O
 embargos;O
- ;O
 de;O
- ;O
 divergência;O
 .;O
- ;O
 Votou;O
- ;O
 o;O
- ;O
 Presidente;O
 ,;O
- ;O
 Ministro;B_Pessoa
- ;I_Pessoa
 Cezar;I_Pessoa
- ;I_Pessoa
 Peluso;I_Pessoa
 .;I_Pessoa
- ;O
 Reajustaram;O
- ;O
 os;O
- ;O
 votos;O
- ;O
 proferidos;O
- ;O
 o;O
- ;O
 Relator;O
- ;O
 e;O
- ;O
 o;O
- ;O
 Ministro;B_Pessoa
- ;I_Pessoa
 Dias;I_Pessoa
- ;I_Pessoa
 Toffoli;I_Pessoa
 .;I_Pessoa
- ;O
 Ausente;O
- ;O
 o;O
- ;O
 Senhor;O
- ;O
 Ministro;B_Pessoa
- ;I_Pessoa
 Joaquim;I_Pessoa
- ;I_Pessoa
 Barbosa;I_Pessoa
 ,;I_Pessoa
- ;O
 licenciado;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Brasília;O
 ,;O
- ;O
 12;O
- ;O
 de;O
- ;O
 agosto;O
- ;O
 de;O
- ;O
 2011;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 RICARDO;B_Pessoa
- ;I_Pessoa
 LEWANDOWSKI;I_Pessoa
- ;I_Pessoa
 -;O
- ;O
 RELATOR;O
- ;O
 "
 ";O
 "
 ";O
 PLENÁRIO;O
- ;O
 06/10/2010;O
- ;O
 "
 ";O
 "
@@ -478,101 +288,59 @@ EMB;O
 .;O
 DIV;O
 .;O
- ;O
 NO;O
- ;O
 RECURSO;O
- ;O
 EXTRAORDINÁRIO;O
- ;O
 208.277;O
- ;O
 SÃO;O
- ;O
 PAULO;O
- ;O
 ";";O
- ;O
 M1N;B_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 RICARDO;I_Pessoa
- ;I_Pessoa
 LEWANDOWSKI;I_Pessoa
- ;I_Pessoa
 :;O
- ;O
 CAFENORTE;O
- ;O
 S;O
 /;O
- ;O
 A;O
- ;O
 lMPORT;O
- ;O
 ADORA;O
- ;O
 E;O
- ;O
 EXPORTADORA;O
- ;O
 :;O
- ;O
 MARCO;B_Pessoa
- ;I_Pessoa
 ANDRÉ;I_Pessoa
- ;I_Pessoa
 DUNLEY;I_Pessoa
- ;I_Pessoa
 GOMES;I_Pessoa
- ;I_Pessoa
 E;O
- ;O
 ÜUTROS;O
- ;O
 :;O
- ;O
 EMÍLIA;B_Pessoa
- ;I_Pessoa
 MARIA;I_Pessoa
- ;I_Pessoa
 VELANO;I_Pessoa
- ;I_Pessoa
 :;O
- ;O
 EsTADo;O
- ;O
 DE;O
- ;O
 SAo;O
- ;O
 PAuto;O
- ;O
 :;O
 PGE;O
 -;O
 SP;O
- ;O
 -;O
 AYLTON;B_Pessoa
- ;I_Pessoa
 MARCELO;I_Pessoa
- ;I_Pessoa
 BARBOSA;I_Pessoa
- ;I_Pessoa
 DA;O
- ;O
 511;O
 ,;O
 VA;O
- ;O
 "
 ";O
 "
 ";O
 RELATOR;O
- ;O
 "
 ";O
 "
@@ -582,7 +350,6 @@ EMBTE;O
 (;O
 s;O
 );O
- ;O
 "
 ";O
 "
@@ -594,7 +361,6 @@ A;O
 /;O
 s;O
 );O
- ;O
 "
 ";O
 "
@@ -606,7 +372,6 @@ A;O
 /;O
 s;O
 );O
- ;O
 "
 ";O
 "
@@ -616,7 +381,6 @@ EMBDO;O
 (;O
 A/5;O
 );O
- ;O
 "
 ";O
 "
@@ -628,1304 +392,765 @@ A;O
 /;O
 s;O
 );O
- ;O
 "
 ";O
 "
 ";O
 RELATÓRIO;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 Sr;O
 .;O
- ;O
 Ministro;B_Pessoa
- ;I_Pessoa
 RICARDO;I_Pessoa
- ;I_Pessoa
 LEWANDOWSKI;I_Pessoa
 :;I_Pessoa
- ;O
 Trata;O
 -;O
 se;O
- ;O
 de;O
- ;O
 embargos;O
- ;O
 de;O
- ;O
 divergência;O
 ,;O
- ;O
 opostos;O
- ;O
 por;O
- ;O
 CAFÉNORTE;O
- ;O
 S;O
 /;O
 A;O
- ;O
 IMPORTADORA;O
- ;O
 E;O
- ;O
 EXPORTADORA;O
 ,;O
- ;O
 contra;O
- ;O
 acórdão;O
- ;O
 prolatado;O
- ;O
 pela;O
- ;O
 Primeira;O
- ;O
 Turma;O
- ;O
 deste;O
- ;O
 Supremo;O
- ;O
 Tribunal;O
 ,;O
- ;O
 que;O
- ;O
 não;O
- ;O
 conheceu;O
- ;O
 do;O
- ;O
 recurso;O
- ;O
 extraordinário;O
- ;O
 interposto;O
- ;O
 pela;O
- ;O
 ora;O
- ;O
 embargante;O
 ,;O
- ;O
 nos;O
- ;O
 seguintes;O
- ;O
 termos;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 """ICMS";O
 :;O
- ;O
 alíquota;O
- ;O
 do;O
- ;O
 imposto;O
- ;O
 incidente;O
- ;O
 nas;O
- ;O
 operações;O
- ;O
 de;O
- ;O
 exportação;O
 :;O
- ;O
 L;O
 .;O
- ;O
 6374/89;O
 ,;O
- ;O
 do;O
- ;O
 Estado;O
- ;O
 de;O
- ;O
 São;O
- ;O
 Paulo;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Na;O
- ;O
 falta;O
- ;O
 de;O
- ;O
 alíquota;O
- ;O
 fixada;O
- ;O
 pelo;O
- ;O
 Senado;O
- ;O
 Federal;O
- ;O
 (;O
 CF;B_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 155;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 2º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 IV;I_Ref. Legislativa
 );I_Ref. Legislativa
 ,;O
- ;O
 era;O
- ;O
 lícito;O
- ;O
 aos;O
- ;O
 Estados;O
- ;O
 adotar;O
 ,;O
- ;O
 nas;O
- ;O
 operações;O
- ;O
 de;O
- ;O
 exportação;O
 ,;O
- ;O
 a;O
- ;O
 alíquota;O
- ;O
 máxima;O
- ;O
 anteriormente;O
- ;O
 fixada;O
- ;O
 pelo;O
- ;O
 Senado;O
- ;O
 Federal;O
 ,;O
- ;O
 no;O
- ;O
 exercício;O
- ;O
 da;O
- ;O
 competência;O
- ;O
 prevista;O
- ;O
 no;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 23;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 5°;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Carta;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1969;I_Ref. Legislativa
- ;I_Ref. Legislativa
 (;O
 Resolução;B_Precedente
- ;I_Precedente
 n•;I_Precedente
- ;I_Precedente
 129179;I_Precedente
 );I_Precedente
 """";O
- ;O
 (;O
 RE;B_Precedente
- ;I_Precedente
 208.277;I_Precedente
 /;I_Precedente
 SP;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Rei;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Min;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Sepúlveda;I_Precedente
- ;I_Precedente
 Pertence;I_Precedente
- ;I_Precedente
 -;I_Precedente
- ;I_Precedente
 fl;I_Precedente
 .;I_Precedente
- ;I_Precedente
 532;I_Precedente
 );I_Precedente
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 embargante;O
- ;O
 invoca;O
- ;O
 como;O
- ;O
 paradigma;O
- ;O
 o;O
- ;O
 Acórdão;O
- ;O
 proferido;O
- ;O
 pela;O
- ;O
 Segunda;O
- ;O
 Turma;O
- ;O
 no;O
- ;O
 RE;B_Precedente
- ;I_Precedente
 145.491;I_Precedente
 /;I_Precedente
 SP;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Rel;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Min;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Carlos;I_Precedente
- ;I_Precedente
 Velloso;I_Precedente
 ,;I_Precedente
- ;O
 que;O
- ;O
 recebeu;O
- ;O
 a;O
- ;O
 seguinte;O
- ;O
 ementa;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 """CONSTITUCIONAL";O
 .;O
- ;O
 TRIBUTÁRIO;O
 .;O
- ;O
 ICMS;O
 :;O
- ;O
 PRODUTOS;O
- ;O
 INDUSTRIALIZADOS;O
- ;O
 REMETIDOS;O
- ;O
 PARA;O
- ;O
 O;O
- ;O
 EXTERIOR;O
 :;O
- ;O
 INCIDÊNCIA;O
 .;O
- ;O
 LEGITIMIDADE;O
- ;O
 DO;O
- ;O
 CONVÊNIO;O
 .;O
- ;O
 C;B_Ref. Legislativa
 .;I_Ref. Legislativa
 F;I_Ref. Legislativa
 .;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 155;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 "
 ";I_Ref. Legislativa
 "
 ";I_Ref. Legislativa
 2';I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 X;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 'a';I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 ADCT;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 34;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 "8""";I_Ref. Legislativa
 .;O
- ;O
 ALÍQUOTA;O
 :;O
- ;O
 RESOLUÇÃO;O
- ;O
 DO;O
- ;O
 SENADO;O
 .;O
- ;O
 C;B_Ref. Legislativa
 .;I_Ref. Legislativa
 F;I_Ref. Legislativa
 .;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 155;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 2';I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 IV;I_Ref. Legislativa
- ;I_Ref. Legislativa
 INCIDÊNCIA;O
- ;O
 do;O
- ;O
 ICMS;O
- ;O
 sobre;O
- ;O
 os;O
- ;O
 semi;O
 -;O
 elaborados;O
- ;O
 na;O
- ;O
 falta;O
- ;O
 da;O
- ;O
 lei;O
- ;O
 complementar;O
 ,;O
- ;O
 dado;O
- ;O
 que;O
- ;O
 se;O
- ;O
 trata;O
- ;O
 de;O
- ;O
 incidência;O
- ;O
 nova;O
 ,;O
- ;O
 já;O
- ;O
 que;O
- ;O
 a;O
- ;O
 CF/67;O
- ;O
 não;O
- ;O
 a;O
- ;O
 previa;O
 .;O
- ;O
 Por;O
- ;O
 isso;O
 ,;O
- ;O
 não;O
- ;O
 editada;O
- ;O
 a;O
- ;O
 lei;O
- ;O
 complementar;O
 ,;O
- ;O
 no;O
- ;O
 prazo;O
- ;O
 de;O
- ;O
 sessenta;O
- ;O
 dias;O
 ,;O
- ;O
 necessária;O
- ;O
 a;O
- ;O
 efetivação;O
- ;O
 da;O
- ;O
 nova;O
- ;O
 incidência;O
 ,;O
- ;O
 vale;O
- ;O
 o;O
- ;O
 convénio;O
 :;O
- ;O
 ADCT;B_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 34;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 8º;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 II;I_Ref. Legislativa
- ;I_Ref. Legislativa
 -;O
- ;O
 Precedente;O
- ;O
 do;O
- ;O
 STF;O
 :;O
- ;B_Precedente
 RE;I_Precedente
- ;I_Precedente
 205634;I_Precedente
 -;I_Precedente
 RS;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 M;I_Precedente
 .;I_Precedente
- ;I_Precedente
 Corrêa;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 Plenário;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 07.08.97;I_Precedente
 .;I_Precedente
- ;O
 III;O
- ;O
 -;O
 Impossibilidade;O
- ;O
 de;O
- ;O
 a;O
- ;O
 alíquota;O
 ,;O
- ;O
 nas;O
- ;O
 operações;O
- ;O
 de;O
- ;O
 exportação;O
 ,;O
- ;O
 ser;O
- ;O
 fixado;O
- ;O
 pelo;O
- ;O
 convênio;O
 .;O
- ;O
 É;O
- ;O
 que;O
- ;O
 se;O
- ;O
 à;O
- ;O
 lei;O
- ;O
 complementar;O
- ;O
 não;O
- ;O
 cabe;O
- ;O
 fixar;O
- ;O
 a;O
- ;O
 alíquota;O
 ,;O
- ;O
 também;O
- ;O
 não;O
- ;O
 poderia;O
- ;O
 fazê;O
 -;O
 lo;O
- ;O
 o;O
- ;O
 convênio;O
 .;O
- ;O
 A;O
- ;O
 fixação;O
- ;O
 da;O
- ;O
 alíquota;O
 ,;O
- ;O
 em;O
- ;O
 tal;O
- ;O
 caso;O
 ,;O
- ;O
 cabe;O
- ;O
 ao;O
- ;O
 Senado;O
- ;O
 Federal;O
 :;O
- ;O
 C;B_Ref. Legislativa
 .;I_Ref. Legislativa
 F;I_Ref. Legislativa
 .;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 155;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 2•;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 IV;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Essa;O
- ;O
 fixação;O
- ;O
 somente;O
- ;O
 ocorreu;O
- ;O
 com;O
- ;O
 a;O
- ;O
 Resolução;B_Precedente
- ;I_Precedente
 n•;I_Precedente
- ;I_Precedente
 22;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 19.05.89;I_Precedente
 .;I_Precedente
- ;O
 Destarte;O
 ,;O
- ;O
 entre;O
- ;O
 01.03.89;O
- ;O
 a;O
- ;O
 31.05.89;O
 ,;O
- ;O
 não;O
- ;O
 houve;O
- ;O
 a;O
- ;O
 incidência;O
- ;O
 do;O
- ;O
 ICMS;O
- ;O
 na;O
- ;O
 saída;O
- ;O
 de;O
- ;O
 produtos;O
- ;O
 semi;O
 -;O
 elaborados;O
- ;O
 remetidos;O
- ;O
 para;O
- ;O
 o;O
- ;O
 exterior;O
 .;O
- ;O
 IV;O
- ;O
 -;O
- ;O
 Recursos;O
- ;O
 extraordinários;O
- ;O
 não;O
- ;O
 "conhecidos""";O
- ;O
 (;O
 fls;O
 .;O
- ;O
 543-550;O
 );O
 .;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 Estado;O
- ;O
 de;O
- ;O
 São;O
- ;O
 Paulo;O
 ,;O
- ;O
 ora;O
- ;O
 embargado;O
 ,;O
- ;O
 apresentou;O
- ;O
 sua;O
- ;O
 impugnação;O
- ;O
 às;O
- ;O
 fls;O
 .;O
- ;O
 ·;O
- ;O
 560-562;O
 .;O
- ;O
 Preliminarmente;O
 ,;O
- ;O
 aduziu;O
- ;O
 que;O
- ;O
 não;O
- ;O
 houve;O
- ;O
 o;O
- ;O
 devido;O
- ;O
 cotejo;O
- ;O
 das;O
- ;O
 teses;O
- ;O
 que;O
- ;O
 se;O
- ;O
 encontram;O
- ;O
 em;O
- ;O
 debate;O
 ,;O
- ;O
 nem;O
- ;O
 foram;O
- ;O
 explicitados;O
- ;O
 os;O
- ;O
 trechos;O
- ;O
 das;O
- ;O
 decisões;O
- ;O
 que;O
- ;O
 se;O
- ;O
 assemelham;O
- ;O
 e;O
- ;O
 se;O
- ;O
 distanciam;O
- ;O
 do;O
- ;O
 paradigma;O
- ;O
 aventado;O
 ,;O
- ;O
 o;O
- ;O
 que;O
- ;O
 impediria;O
- ;O
 a;O
- ;O
 verificação;O
- ;O
 do;O
- ;O
 dissenso;O
- ;O
 jurisprudencial;O
 .;O
- ;O
 No;O
- ;O
 mérito;O
 ,;O
- ;O
 sustentou;O
- ;O
 que;O
- ;O
 este;O
- ;O
 Supremo;O
- ;O
 Tribunal;O
- ;O
 consolidou;O
- ;O
 entendimento;O
- ;O
 no;O
- ;O
 mesmo;O
- ;O
 sentido;O
- ;O
 daquele;O
- ;O
 adotado;O
- ;O
 pelo;O
- ;O
 acórdão;O
- ;O
 aqui;O
- ;O
 impugnado;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 divergência;O
- ;O
 foi;O
- ;O
 reconhecida;O
- ;O
 pelo;O
- ;O
 então;O
- ;O
 Relator;O
 ,;O
- ;O
 Min;B_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 Carlos;I_Pessoa
- ;I_Pessoa
 Velloso;I_Pessoa
 .;I_Pessoa
- ;O
 Na;O
- ;O
 seqüência;O
 ,;O
- ;O
 a;O
- ;O
 Procuradoria;O
 -;O
 Geral;O
- ;O
 da;O
- ;O
 República;O
- ;O
 opinou;O
- ;O
 pelo;O
- ;O
 desprovimento;O
- ;O
 destes;O
- ;O
 embargos;O
- ;O
 conforme;O
- ;O
 segue;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 """A";O
- ;O
 decisão;O
- ;O
 embargada;O
- ;O
 não;O
- ;O
 merece;O
- ;O
 reparos;O
 .;O
- ;O
 Parece;O
 -;O
 nos;O
- ;O
 mais;O
- ;O
 acertado;O
- ;O
 o;O
- ;O
 entendimento;O
- ;O
 firmado;O
- ;O
 pela;O
- ;O
 C;O
 .;O
- ;O
 Primeira;O
- ;O
 Turma;O
 ,;O
- ;O
 onde;O
- ;O
 a;O
- ;O
 Res;B_Precedente
 .;I_Precedente
- ;I_Precedente
 n';I_Precedente
- ;I_Precedente
 129179;I_Precedente
- ;I_Precedente
 do;O
- ;O
 Senado;O
- ;O
 Federal;O
- ;O
 continuou;O
- ;O
 validando;O
- ;O
 a;O
- ;O
 cobrança;O
- ;O
 do;O
- ;O
 ICMS;O
- ;O
 após;O
- ;O
 a;O
- ;O
 promulgação;O
- ;O
 da;O
- ;O
 Constituição;O
- ;O
 de;O
- ;O
 1988;O
 ,;O
- ;O
 e;O
- ;O
 até;O
- ;O
 edição;O
- ;O
 da;O
- ;O
 Res;B_Precedente
 .;I_Precedente
- ;I_Precedente
 22189;I_Precedente
 .;I_Precedente
- ;O
 A;O
- ;O
 Constituição;O
- ;O
 de;O
- ;O
 1967;O
 ,;O
- ;O
 com;O
- ;O
 a;O
- ;O
 redação;O
- ;O
 emprestada;O
- ;O
 pela;O
- ;O
 Emenda;O
- ;O
 Constitucional;O
- ;O
 de;O
- ;O
 1969;O
 ,;O
- ;O
 determinava;O
- ;O
 ao;O
- ;O
 Senado;O
- ;O
 Federal;O
- ;O
 a;O
- ;O
 competência;O
- ;O
 para;O
- ;O
 estabelecer;O
- ;O
 a;O
- ;O
 alíquota;O
- ;O
 máxima;O
- ;O
 do;O
- ;O
 ICMS;B_Ref. Legislativa
- ;I_Ref. Legislativa
 (;I_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 23;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 5ª;I_Ref. Legislativa
 );I_Ref. Legislativa
 .;O
- ;O
 Como;O
- ;O
 a;O
- ;O
 Constituição;O
- ;O
 vigente;O
- ;O
 também;O
- ;O
 determina;O
- ;O
 a;O
- ;O
 mesma;O
- ;O
 competência;O
- ;O
 ao;O
- ;O
 Senado;O
- ;O
 Federal;O
- ;O
 (;O
 art;O
 .;O
- ;O
 155;O
 ,;O
- ;O
 §;O
- ;O
 2•;O
 ,;O
- ;O
 N;O
 );O
- ;O
 e;O
- ;O
 a;O
- ;O
 Resolução;B_Precedente
- ;I_Precedente
 11•;I_Precedente
- ;I_Precedente
 129/79;I_Precedente
- ;I_Precedente
 não;O
- ;O
 é;O
- ;O
 incompatível;O
- ;O
 com;O
- ;O
 o;O
- ;O
 ordenamento;O
- ;O
 estabelecido;O
- ;O
 com;O
- ;O
 a;O
- ;O
 nova;O
- ;O
 Constituição;O
 ,;O
- ;O
 permaneceu;O
 ,;O
- ;O
 nesta;O
- ;O
 forma;O
 ,;O
- ;O
 em;O
- ;O
 vigor;O
- ;O
 até;O
- ;O
 a;O
- ;O
 edição;O
- ;O
 da;O
- ;O
 Resolução;B_Precedente
- ;I_Precedente
 "n""";I_Precedente
- ;I_Precedente
 "22/89""";I_Precedente
- ;O
 (;O
 fl;O
 .;O
- ;O
 568;O
 );O
 .;O
- ;O
 "
 ";O
 "
 ";O
 É;O
- ;O
 o;O
- ;O
 relatório;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 PLENÁRIO;O
- ;O
 06/10/2010;O
- ;O
 "
 ";O
 "
@@ -1934,942 +1159,540 @@ EMB;O
 .;O
 D!V;O
 .;O
- ;O
 NO;O
- ;O
 RECURSO;B_Precedente
- ;I_Precedente
 EXTRAORDINÁRIO;I_Precedente
- ;I_Precedente
 208.277;I_Precedente
- ;I_Precedente
 SÃO;I_Precedente
- ;I_Precedente
 PAULO;I_Precedente
- ;I_Precedente
 "
 ";O
 "
 ";O
 VOIO;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 Sr;O
 .;O
- ;O
 Ministro;B_Pessoa
- ;I_Pessoa
 RICARDO;I_Pessoa
- ;I_Pessoa
 LEWANDOWSKI;I_Pessoa
- ;I_Pessoa
 (;O
 Relator;O
 );O
 :;O
- ;O
 Atendidos;O
- ;O
 os;O
- ;O
 pressupostos;O
- ;O
 legais;O
 ,;O
- ;O
 conheço;O
- ;O
 dos;O
- ;O
 presentes;O
- ;O
 embargos;O
 ,;O
- ;O
 os;O
- ;O
 quais;O
- ;O
 visam;O
- ;O
 a;O
- ;O
 solucionar;O
- ;O
 divergência;O
- ;O
 de;O
- ;O
 entendimento;O
- ;O
 entre;O
- ;O
 as;O
- ;O
 Turmas;O
- ;O
 deste;O
- ;O
 Supremo;O
- ;O
 Tribunal;O
- ;O
 Federal;O
- ;O
 acerca;O
- ;O
 da;O
- ;O
 incidência;O
- ;O
 do;O
- ;O
 ICMS;O
- ;O
 na;O
- ;O
 saída;O
- ;O
 de;O
- ;O
 produtos;O
- ;O
 semi;O
 -;O
 elaborados;O
- ;O
 remetidos;O
- ;O
 para;O
- ;O
 o;O
- ;O
 exterior;O
- ;O
 entre;O
- ;O
 1º;O
- ;O
 de;O
- ;O
 março;O
- ;O
 de;O
- ;O
 1989;O
- ;O
 e;O
- ;O
 31;O
- ;O
 de;O
- ;O
 maio;O
- ;O
 de;O
- ;O
 1989;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 De;O
- ;O
 acordo;O
- ;O
 com;O
- ;O
 o;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 23;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 II;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 5°;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Carta;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1967;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 com;O
- ;O
 a;O
- ;O
 redação;O
- ;O
 que;O
- ;O
 lhe;O
- ;O
 deu;O
- ;O
 a;O
- ;O
 Emenda;O
- ;O
 Constitucional;O
- ;O
 nº;O
- ;O
 1;O
- ;O
 de;O
- ;O
 1969;O
 ,;O
- ;O
 cabia;O
- ;O
 ao;O
- ;O
 Senado;O
- ;O
 Federal;O
- ;O
 estabelecer;O
- ;O
 a;O
- ;O
 alíquota;O
- ;O
 máxima;O
- ;O
 do;O
- ;O
 ICMS;O
- ;O
 para;O
- ;O
 as;O
- ;O
 operações;O
- ;O
 de;O
- ;O
 exportação;O
 .;O
- ;O
 Eis;O
- ;O
 o;O
- ;O
 teor;O
- ;O
 do;O
- ;O
 dispositivo;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 """Art";O
 .;O
- ;O
 23;O
- ;O
 -;O
- ;O
 Compete;O
- ;O
 aos;O
- ;O
 Estados;O
- ;O
 e;O
- ;O
 ao;O
- ;O
 Distrito;O
- ;O
 Federal;O
- ;O
 instituir;O
- ;O
 impostos;O
- ;O
 sobre;O
 :;O
- ;O
 (;O
- ;O
 .;O
 .;O
 .;O
- ;O
 );O
- ;O
 II;O
- ;O
 -;O
- ;O
 operações;O
- ;O
 relativas;O
- ;O
 à;O
- ;O
 circulação;O
- ;O
 de;O
- ;O
 mercadorias;O
 ,;O
- ;O
 realizadas;O
- ;O
 por;O
- ;O
 produtores;O
 ,;O
- ;O
 industriais;O
- ;O
 e;O
- ;O
 comerciantes;O
 ,;O
- ;O
 impostos;O
- ;O
 que;O
- ;O
 não;O
- ;O
 serão;O
- ;O
 cumulativos;O
- ;O
 e;O
- ;O
 dos;O
- ;O
 quais;O
- ;O
 se;O
- ;O
 abaterá;O
 ,;O
- ;O
 nos;O
- ;O
 termos;O
- ;O
 do;O
- ;O
 disposto;O
- ;O
 em;O
- ;O
 lei;O
- ;O
 complementar;O
 ,;O
- ;O
 o;O
- ;O
 montante;O
- ;O
 cobrado;O
- ;O
 nas;O
- ;O
 anteriores;O
- ;O
 pelo;O
- ;O
 mesmo;O
- ;O
 ou;O
- ;O
 por;O
- ;O
 outro;O
- ;O
 Estado;O
 .;O
- ;O
 (;O
 .;O
- ;O
 .;O
 .;O
- ;O
 );O
- ;O
 §;O
- ;O
 5';O
- ;O
 -;O
- ;O
 A;O
- ;O
 alíquota;O
- ;O
 do;O
- ;O
 imposto;O
- ;O
 a;O
- ;O
 que;O
- ;O
 se;O
- ;O
 refere;O
- ;O
 o;O
- ;O
 item;O
- ;O
 II;O
- ;O
 será;O
- ;O
 uniforme;O
- ;O
 para;O
- ;O
 todas;O
- ;O
 as;O
- ;O
 mercadorias;O
- ;O
 nas;O
- ;O
 operações;O
- ;O
 internas;O
- ;O
 e;O
- ;O
 "interestaduais;";O
- ;O
 o;O
- ;O
 Senado;O
- ;O
 Federal;O
 ,;O
- ;O
 mediante;O
- ;O
 resolução;O
- ;O
 tomada;O
- ;O
 por;O
- ;O
 iniciativa;O
- ;O
 do;O
- ;O
 Presidente;O
- ;O
 da;O
- ;O
 República;O
 ,;O
- ;O
 fixará;O
- ;O
 as;O
- ;O
 alíquotas;O
- ;O
 máximas;O
- ;O
 para;O
- ;O
 as;O
- ;O
 operações;O
- ;O
 internas;O
 ,;O
- ;O
 as;O
- ;O
 interestaduais;O
- ;O
 e;O
- ;O
 as;O
- ;O
 de;O
- ;O
 "exportação""";O
- ;O
 (;O
 grifos;O
- ;O
 nossos;O
 );O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Tal;O
- ;O
 poder;O
 -;O
 dever;O
- ;O
 efetivou;O
 -;O
 se;O
- ;O
 com;O
- ;O
 a;O
- ;O
 promulgação;O
- ;O
 da;O
- ;O
 Resolução;B_Precedente
- ;I_Precedente
 129/1979;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 cujo;I_Precedente
- ;I_Precedente
 art;I_Precedente
 .;I_Precedente
- ;I_Precedente
 1º;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 II;I_Precedente
 ,;I_Precedente
- ;O
 fixou;O
- ;O
 como;O
- ;O
 parâmetro;O
- ;O
 máximo;O
- ;O
 a;O
- ;O
 alíquota;O
- ;O
 de;O
- ;O
 13%;O
 ,;O
- ;O
 a;O
- ;O
 partir;O
- ;O
 do;O
- ;O
 qual;O
- ;O
 foram;O
- ;O
 editadas;O
- ;O
 as;O
- ;O
 leis;O
- ;O
 estaduais;O
- ;O
 relativas;O
- ;O
 tributo;O
- ;O
 em;O
- ;O
 questão;O
 ,;O
- ;O
 in;O
- ;O
 verbis;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 """Estabelece";O
- ;O
 alíquotas;O
- ;O
 máximas;O
- ;O
 do;O
- ;O
 imposto;O
- ;O
 sobre;O
- ;O
 operações;O
- ;O
 relativas;O
- ;O
 à;O
- ;O
 circulação;O
- ;O
 de;O
- ;O
 mercadorias;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Art;O
 .;O
- ;O
 1;O
- ;O
 º;O
- ;O
 -;O
- ;O
 As;O
- ;O
 alíquotas;O
- ;O
 máximas;O
- ;O
 do;O
- ;O
 imposto;O
- ;O
 sobre;O
- ;O
 operações;O
- ;O
 relativas;O
- ;O
 à;O
- ;O
 circulação;O
- ;O
 de;O
- ;O
 mercadorias;O
- ;O
 serão;O
- ;O
 as;O
- ;O
 seguintes;O
 :;O
- ;O
 (;O
- ;O
 .;O
 .;O
- ;O
 .;O
 );O
 .;O
- ;O
 II;O
- ;O
 -;O
- ;O
 para;O
- ;O
 as;O
- ;O
 operações;O
- ;O
 de;O
- ;O
 exportação;O
 :;O
- ;O
 13%;O
- ;O
 (;O
 treze;O
- ;O
 por;O
- ;O
 cento;O
 );O
- ;O
 em;O
- ;O
 "
 ";O
 "
 ";O
 1980;O
- ;O
 e;O
- ;O
 exercícios;O
- ;O
 "subseqüentes""";O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 Constituição;O
- ;O
 Federal;O
- ;O
 de;O
- ;O
 1988;O
 ,;O
- ;O
 por;O
- ;O
 sua;O
- ;O
 vez;O
 ,;O
- ;O
 consigna;O
 ,;O
- ;O
 em;O
- ;O
 seu;O
- ;O
 art;O
 .;O
- ;O
 ,;O
- ;O
 IV;O
 ,;O
- ;O
 que;O
- ;O
 "
 ";O
 "
 ";O
 155;O
 ,;O
- ;O
 §;O
- ;O
 22;O
- ;O
 "
 ";O
 "
 ";O
 """resolução";O
- ;O
 do;O
- ;O
 Senado;O
- ;O
 Federal;O
 ,;O
- ;O
 de;O
- ;O
 iniciativa;O
- ;O
 do;O
- ;O
 Presidente;O
- ;O
 da;O
- ;O
 República;O
- ;O
 ou;O
- ;O
 de;O
- ;O
 um;O
- ;O
 terço;O
- ;O
 dos;O
- ;O
 Senadores;O
 ,;O
- ;O
 aprovada;O
- ;O
 pela;O
- ;O
 maioria;O
- ;O
 absoluta;O
- ;O
 de;O
- ;O
 seus;O
- ;O
 membros;O
 ,;O
- ;O
 estabelecerá;O
- ;O
 as;O
- ;O
 alíquotas;O
- ;O
 aplicáveis;O
- ;O
 às;O
- ;O
 operações;O
- ;O
 e;O
- ;O
 prestações;O
 ,;O
- ;O
 interestaduais;O
- ;O
 e;O
- ;O
 de;O
- ;O
 "exportação""";O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Em;O
- ;O
 cumprimento;O
- ;O
 a;O
- ;O
 esta;O
- ;O
 norma;O
 ,;O
- ;O
 o;O
- ;O
 Senado;O
- ;O
 Federal;O
- ;O
 aprovou;O
- ;O
 a;O
- ;O
 "
 ";O
 "
 ";O
 Resolução;B_Precedente
- ;I_Precedente
 22/1989;I_Precedente
 ,;I_Precedente
- ;O
 com;O
- ;O
 a;O
- ;O
 seguinte;O
- ;O
 redação;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 """Faço";O
- ;O
 saber;O
- ;O
 que;O
- ;O
 o;O
- ;O
 Senado;O
- ;O
 Federal;O
- ;O
 aprovou;O
 ,;O
- ;O
 nos;O
- ;O
 termos;O
- ;O
 do;O
- ;B_Ref. Legislativa
 artigo;I_Ref. Legislativa
- ;I_Ref. Legislativa
 155;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 2;I_Ref. Legislativa
- ;I_Ref. Legislativa
 º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 inciso;I_Ref. Legislativa
- ;I_Ref. Legislativa
 W;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 eu;O
 ,;O
- ;O
 Iram;O
- ;O
 Saraiva;O
 ,;O
- ;O
 1;O
- ;O
 º;O
- ;O
 Vice;O
 (;O
 cid;O
@@ -2878,1457 +1701,829 @@ cid;O
 );O
 Presidente;O
 ,;O
- ;O
 no;O
- ;O
 exercício;O
- ;O
 da;O
- ;O
 Presidência;O
 ,;O
- ;O
 promulgo;O
- ;O
 a;O
- ;O
 seguinte;O
- ;O
 RESOLUÇÃO;B_Precedente
- ;I_Precedente
 Nº;I_Precedente
- ;I_Precedente
 22;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 DE;I_Precedente
- ;I_Precedente
 1989;I_Precedente
 :;I_Precedente
- ;O
 "
 ";O
 "
 ";O
 Estabelece;O
- ;O
 alíquotas;O
- ;O
 do;O
- ;O
 Imposto;O
- ;O
 sobre;O
- ;O
 Operações;O
- ;O
 Relativas;O
- ;O
 a;O
- ;O
 Circulação;O
- ;O
 de;O
- ;O
 Mercadorias;O
- ;O
 e;O
- ;O
 sobre;O
- ;O
 Prestação;O
- ;O
 de;O
- ;O
 Serviços;O
- ;O
 de;O
- ;O
 Transporte;O
- ;O
 Interestadual;O
- ;O
 e;O
- ;O
 Intermunicipal;O
- ;O
 e;O
- ;O
 de;O
- ;O
 Comunicação;O
 ,;O
- ;O
 nas;O
- ;O
 operações;O
- ;O
 e;O
- ;O
 prestações;O
- ;O
 interestaduais;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Art;O
 .;O
- ;O
 1;O
- ;O
 º;O
- ;O
 A;O
- ;O
 alíquota;O
- ;O
 do;O
- ;O
 Imposto;O
- ;O
 sobre;O
- ;O
 Operações;O
- ;O
 Relativas;O
- ;O
 à;O
- ;O
 Circulação;O
- ;O
 de;O
- ;O
 Mercadorias;O
- ;O
 e;O
- ;O
 sobre;O
- ;O
 Prestação;O
- ;O
 de;O
- ;O
 Serviços;O
- ;O
 de;O
- ;O
 Transporte;O
- ;O
 Interestadual;O
- ;O
 e;O
- ;O
 Intermunicipal;O
- ;O
 e;O
- ;O
 de;O
- ;O
 Comunicação;O
 ,;O
- ;O
 nas;O
- ;O
 operações;O
- ;O
 e;O
- ;O
 prestações;O
- ;O
 interestaduais;O
 ,;O
- ;O
 será;O
- ;O
 de;O
- ;O
 doze;O
- ;O
 por;O
- ;O
 cento;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Parágrafo;O
- ;O
 único;O
 .;O
- ;O
 Nas;O
- ;O
 operações;O
- ;O
 e;O
- ;O
 prestações;O
- ;O
 realizadas;O
- ;O
 nas;O
- ;O
 "
 ";O
 "
 ";O
 Regiões;O
- ;O
 Sul;O
- ;O
 e;O
- ;O
 Sudeste;O
 ,;O
- ;O
 destinadas;O
- ;O
 às;O
- ;O
 Regiões;O
- ;O
 Norte;O
 ,;O
- ;O
 Nordeste;O
- ;O
 e;O
- ;O
 Centro;O
 -;O
 Oeste;O
- ;O
 e;O
- ;O
 ao;O
- ;O
 Estado;O
- ;O
 do;O
- ;O
 Espírito;O
- ;O
 Santo;O
 ,;O
- ;O
 ns;O
- ;O
 alíquotas;O
- ;O
 serão;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 1;O
- ;O
 -;O
- ;O
 em;O
- ;O
 1989;O
 ,;O
- ;O
 oito;O
- ;O
 por;O
- ;O
 "cento;";O
- ;O
 II;O
- ;O
 -;O
- ;O
 a;O
- ;O
 partir;O
- ;O
 de;O
- ;O
 1990;O
 ,;O
- ;O
 sete;O
- ;O
 por;O
- ;O
 cento;O
 .;O
- ;O
 Art;O
 .;O
- ;O
 2;O
- ;O
 º;O
- ;O
 A;O
- ;O
 alíquota;O
- ;O
 do;O
- ;O
 imposto;O
- ;O
 de;O
- ;O
 que;O
- ;O
 trata;O
- ;O
 o;O
- ;O
 art;O
 .;O
- ;O
 1;O
- ;O
 º;O
 ,;O
- ;O
 nas;O
- ;O
 operações;O
- ;O
 de;O
- ;O
 exportação;O
- ;O
 para;O
- ;O
 o;O
- ;O
 exterior;O
 ,;O
- ;O
 será;O
- ;O
 de;O
- ;O
 treze;O
- ;O
 por;O
- ;O
 cento;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Art;O
 .;O
- ;O
 3°;O
- ;O
 Esta;O
- ;O
 Resolução;O
- ;O
 entra;O
- ;O
 em;O
- ;O
 vigor;O
- ;O
 em;O
- ;O
 1;O
- ;O
 º;O
- ;O
 de;O
- ;O
 junho;O
- ;O
 de;O
- ;O
 "1989""";O
 .;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 própria;O
- ;O
 Constituição;O
- ;O
 de;O
- ;O
 1988;O
 ,;O
- ;O
 porém;O
 ,;O
- ;O
 estabeleceu;O
 ,;O
- ;O
 no;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 34;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 caput;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 5°;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 ADCT;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 o;O
- ;O
 quanto;O
- ;O
 segue;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 """Art";O
 .;O
- ;O
 34;O
 .;O
- ;O
 O;O
- ;O
 sistema;O
- ;O
 tributário;O
- ;O
 nacional;O
- ;O
 entrará;O
- ;O
 em;O
- ;O
 vigor;O
- ;O
 a;O
- ;O
 partir;O
- ;O
 do;O
- ;O
 primeiro;O
- ;O
 dia;O
- ;O
 do;O
- ;O
 quinto;O
- ;O
 mês;O
- ;O
 seguinte;O
- ;O
 ao;O
- ;O
 da;O
- ;O
 promulgação;O
- ;O
 da;O
- ;O
 Constituição;O
 ,;O
- ;O
 mantido;O
 ,;O
- ;O
 até;O
- ;O
 então;O
 ,;O
- ;O
 o;O
- ;O
 da;O
- ;O
 Constituição;O
- ;O
 de;O
- ;O
 1967;O
 ,;O
- ;O
 com;O
- ;O
 a;O
- ;O
 redação;O
- ;O
 dnda;O
- ;O
 pela;O
- ;O
 Emenda;O
- ;O
 n•1;O
 ,;O
- ;O
 de;O
- ;O
 1969;O
 ,;O
- ;O
 e;O
- ;O
 pelas;O
- ;O
 posteriores;O
 .;O
- ;O
 (;O
 .;O
- ;O
 .;O
 );O
 .;O
- ;O
 §;O
- ;O
 s•;O
 .;O
- ;O
 Vigente;O
- ;O
 o;O
- ;O
 novo;O
- ;O
 sistema;O
- ;O
 tributário;O
- ;O
 nacional;O
 ,;O
- ;O
 fica;O
- ;O
 assegurada;O
- ;O
 a;O
- ;O
 aplicação;O
- ;O
 da;O
- ;O
 legislação;O
- ;O
 anterior;O
 ,;O
- ;O
 no;O
- ;O
 que;O
- ;O
 não;O
- ;O
 seja;O
- ;O
 incompatível;O
- ;O
 com;O
- ;O
 ele;O
- ;O
 (;O
 .;O
- ;O
 .;O
- ;O
 .;O
 );O
- ;O
 """";O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Desse;O
- ;O
 modo;O
 ,;O
- ;O
 o;O
- ;O
 cerne;O
- ;O
 da;O
- ;O
 questão;O
- ;O
 sob;O
- ;O
 análise;O
- ;O
 nestes;O
- ;O
 embargos;O
- ;O
 é;O
- ;O
 saber;O
- ;O
 se;O
- ;O
 os;O
- ;O
 efeitos;O
- ;O
 da;O
- ;O
 Resolução;B_Precedente
- ;I_Precedente
 129/1979;I_Precedente
- ;I_Precedente
 perduraram;O
- ;O
 até;O
- ;O
 a;O
- ;O
 edição;O
- ;O
 da;O
- ;O
 Resolução;B_Precedente
- ;I_Precedente
 22/1989;I_Precedente
 ,;I_Precedente
- ;O
 ambas;O
- ;O
 do;O
- ;O
 Senado;O
- ;O
 Federal;O
 ,;O
- ;O
 a;O
- ;O
 teor;O
- ;O
 do;O
- ;O
 que;O
- ;O
 dispõe;O
- ;O
 o§;O
- ;O
 5°;O
- ;O
 do;O
- ;O
 art;O
 .;O
- ;O
 34;O
- ;O
 do;O
- ;O
 ADCT;O
 ,;O
- ;O
 ou;O
- ;O
 se;O
- ;O
 ela;O
- ;O
 deixou;O
- ;O
 de;O
- ;O
 ter;O
- ;O
 aplicação;O
- ;O
 após;O
- ;O
 o;O
- ;O
 """primeiro";O
- ;O
 dia;O
- ;O
 do;O
- ;O
 quinto;O
- ;O
 mês;O
- ;O
 seguinte;O
- ;O
 ao;O
- ;O
 da;O
- ;O
 promulgação;O
- ;O
 da;O
- ;O
 "Constituição""";O
 ,;O
- ;O
 conforme;O
- ;O
 estatui;O
- ;O
 o;O
- ;O
 caput;O
- ;O
 do;O
- ;O
 mesmo;O
- ;O
 dispositivo;O
- ;O
 constitucional;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Bem;O
- ;O
 examinada;O
- ;O
 a;O
- ;O
 questão;O
 ,;O
- ;O
 entendo;O
 ,;O
- ;O
 data;O
- ;O
 venia;O
 ,;O
- ;O
 que;O
- ;O
 o;O
- ;B_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 155;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 2°;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 IV;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
- ;I_Ref. Legislativa
 em;O
- ;O
 vigor;O
- ;O
 instituiu;O
- ;O
 um;O
- ;O
 poder;O
 -;O
 dever;O
- ;O
 em;O
- ;O
 favor;O
- ;O
 do;O
- ;O
 Senado;O
- ;O
 Federal;O
 ,;O
- ;O
 qual;O
- ;O
 seja;O
- ;O
 o;O
- ;O
 de;O
- ;O
 estabelecer;O
- ;O
 as;O
- ;O
 alíquotas;O
- ;O
 aplicáveis;O
- ;O
 às;O
- ;O
 operações;O
- ;O
 de;O
- ;O
 exportação;O
 ,;O
- ;O
 distinto;O
- ;O
 daquele;O
- ;O
 definido;O
- ;O
 pelo;O
- ;O
 regime;O
- ;O
 constitucional;O
- ;O
 anterior;O
 ,;O
- ;O
 consistente;O
- ;O
 tão;O
 -;O
 somente;O
- ;O
 em;O
- ;O
 fixar;O
- ;O
 a;O
- ;O
 alíquota;O
- ;O
 máxima;O
- ;O
 para;O
- ;O
 essas;O
- ;O
 atividades;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Essa;O
- ;O
 é;O
- ;O
 a;O
- ;O
 lição;O
- ;O
 de;O
- ;O
 José;B_Pessoa
- ;I_Pessoa
 Afonso;I_Pessoa
- ;I_Pessoa
 da;I_Pessoa
- ;I_Pessoa
 Silva;I_Pessoa
 :;I_Pessoa
- ;O
 "
 ";O
 "
 ";O
 """O";O
- ;O
 campo;O
- ;O
 de;O
- ;O
 atuação;O
- ;O
 das;O
- ;O
 resoluções;O
- ;O
 do;O
- ;O
 Senado;O
- ;O
 Federal;O
 ,;O
- ;O
 em;O
- ;O
 matéria;O
- ;O
 tributária;O
 ,;O
- ;O
 circunscreve;O
 -;O
 se;O
- ;O
 ao;O
- ;O
 disposto;O
- ;O
 no;O
- ;O
 art;O
 .;O
- ;O
 155;O
 ,;O
- ;O
 §;O
- ;O
 2•;O
 ,;O
- ;O
 IV;O
- ;O
 e;O
- ;O
 V;O
 .;O
- ;O
 O;O
- ;O
 primeiro;O
- ;O
 prevê;O
- ;O
 que;O
- ;O
 resolução;O
- ;O
 do;O
- ;O
 Senado;O
- ;O
 Federal;O
 ,;O
- ;O
 de;O
- ;O
 iniciativa;O
- ;O
 do;O
- ;O
 Presidente;O
- ;O
 da;O
- ;O
 República;O
- ;O
 011;O
- ;O
 de;O
- ;O
 um;O
- ;O
 terço;O
- ;O
 dos;O
- ;O
 Senadores;O
 ,;O
- ;O
 aprovada;O
- ;O
 pela;O
- ;O
 maioria;O
- ;O
 absoluta;O
- ;O
 de;O
- ;O
 seus;O
- ;O
 membros;O
 ,;O
- ;O
 estabelecerá;O
- ;O
 as;O
- ;O
 alíq11otas;O
- ;O
 aplicáveis;O
- ;O
 às;O
- ;O
 operações;O
- ;O
 e;O
- ;O
 prestações;O
 ,;O
- ;O
 interestaduais;O
- ;O
 e;O
- ;O
 de;O
- ;O
 exportação;O
- ;O
 (;O
 quando;O
- ;O
 incidente;O
 ,;O
- ;O
 cf;O
- ;O
 X;O
 ,;O
- ;O
 'a';O
 );O
 .;O
- ;O
 Aqui;O
 ,;O
- ;O
 a;O
- ;O
 resolução;O
- ;O
 do;O
- ;O
 Senado;O
- ;O
 é;O
- ;O
 requerida;O
- ;O
 de;O
- ;O
 modo;O
- ;O
 "peremptório""";O
- ;O
 .1;O
- ;O
 "
 ";O
 "
 ";O
 Ora;O
 ,;O
- ;O
 o;O
- ;O
 próprio;O
- ;O
 Senado;O
- ;O
 Federal;O
 ,;O
- ;O
 ao;O
- ;O
 editar;O
- ;O
 a;O
- ;O
 Resolução;B_Precedente
- ;I_Precedente
 22/1989;I_Precedente
 ,;I_Precedente
- ;O
 para;O
- ;O
 fixar;O
- ;O
 como;O
- ;O
 alíquota;O
- ;O
 do;O
- ;O
 ICMS;O
- ;O
 nas;O
- ;O
 exportações;O
- ;O
 o;O
- ;O
 teto;O
- ;O
 adotado;O
- ;O
 pela;O
- ;O
 Resolução;B_Precedente
- ;I_Precedente
 129/1979;I_Precedente
 ,;I_Precedente
- ;O
 implicitamente;O
- ;O
 reconheceu;O
- ;O
 que;O
- ;O
 o;O
- ;O
 ato;O
- ;O
 editado;O
- ;O
 sob;O
- ;O
 o;O
- ;O
 regime;O
- ;O
 anterior;O
- ;O
 não;O
- ;O
 foi;O
- ;O
 recepcionado;O
- ;O
 pela;O
- ;O
 nova;O
- ;O
 Constituição;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Em;O
- ;O
 outras;O
- ;O
 palavras;O
 ,;O
- ;O
 o;O
- ;O
 próprio;O
- ;O
 órgão;O
- ;O
 ao;O
- ;O
 qual;O
- ;O
 o;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 155;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 22;I_Ref. Legislativa
- ;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 rv;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
- ;I_Ref. Legislativa
 atribuiu;O
- ;O
 a;O
- ;O
 competência;O
- ;O
 de;O
- ;O
 regular;O
- ;O
 a;O
- ;O
 matéria;O
- ;O
 reformou;O
- ;O
 a;O
- ;O
 Resolução;O
- ;O
 editada;O
- ;O
 sob;O
- ;O
 a;O
- ;O
 égide;O
- ;O
 da;O
- ;O
 Carta;O
- ;O
 pretérita;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Diante;O
- ;O
 disso;O
 ,;O
- ;O
 entendo;O
- ;O
 que;O
- ;O
 o;O
- ;O
 Acórdão;O
- ;O
 invocado;O
- ;O
 como;O
- ;O
 paradigma;O
- ;O
 pela;O
- ;O
 embargante;O
 ,;O
- ;O
 a;O
- ;O
 saber;O
 ,;O
- ;O
 o;O
- ;O
 RE;B_Precedente
- ;I_Precedente
 145.491;I_Precedente
 /;I_Precedente
 SP;I_Precedente
 ,;I_Precedente
- ;O
 de;O
- ;O
 relatoria;O
- ;O
 do;O
- ;O
 Min;B_Pessoa
 .;I_Pessoa
- ;I_Pessoa
 Carlos;I_Pessoa
- ;I_Pessoa
 Velloso;I_Pessoa
 ,;I_Pessoa
- ;O
 é;O
- ;O
 o;O
- ;O
 que;O
- ;O
 melhor;O
- ;O
 atende;O
- ;O
 ao;O
- ;O
 modelo;O
- ;O
 constitucional;O
- ;O
 instituído;O
- ;O
 em;O
- ;O
 1988;O
 ,;O
- ;O
 porquanto;O
- ;O
 concluiu;O
- ;O
 que;O
- ;O
 a;O
- ;O
 Resolução;B_Precedente
- ;I_Precedente
 129/1979;I_Precedente
- ;O
 não;O
- ;O
 foi;O
- ;O
 recepcionada;O
- ;O
 pela;O
- ;O
 vigente;O
- ;O
 Carta;O
- ;O
 Magna;O
 ,;O
- ;O
 desautorizando;O
 ,;O
- ;O
 em;O
- ;O
 conseqüência;O
 ,;O
- ;O
 a;O
- ;O
 incidência;O
- ;O
 da;O
- ;O
 alíquota;O
- ;O
 instituída;O
- ;O
 por;O
- ;O
 esta;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Isso;O
- ;O
 posto;O
 ,;O
- ;O
 acolho;O
- ;O
 os;O
- ;O
 presentes;O
- ;O
 embargos;O
- ;O
 de;O
- ;O
 divergência;O
- ;O
 para;O
- ;O
 conhecer;O
- ;O
 do;O
- ;O
 recurso;O
- ;O
 extraordinário;O
- ;O
 e;O
- ;O
 dar;O
 -;O
 lhe;O
- ;O
 provimento;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 1;O
- ;O
 SILVA;B_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 José;I_Doutrina
- ;I_Doutrina
 Afonso;I_Doutrina
- ;I_Doutrina
 da;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 Curso;I_Doutrina
- ;I_Doutrina
 de;I_Doutrina
- ;I_Doutrina
 Direito;I_Doutrina
- ;I_Doutrina
 Constitucional;I_Doutrina
- ;I_Doutrina
 Positivo;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 São;I_Doutrina
- ;I_Doutrina
 Paulo;I_Doutrina
 :;I_Doutrina
- ;I_Doutrina
 RT;I_Doutrina
 ,;I_Doutrina
- ;I_Doutrina
 1990;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 p;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 593;I_Doutrina
 .;I_Doutrina
- ;I_Doutrina
 06/10/2010;I_Doutrina
- ;I_Doutrina
 PLENÁRIO;O
- ;O
 "
 ";O
 "
@@ -4337,1194 +2532,671 @@ EMB;O
 .;O
 DIV;O
 .;O
- ;O
 NO;O
- ;O
 RECURSO;B_Precedente
- ;I_Precedente
 EXTRAORDINÁRIO;I_Precedente
- ;I_Precedente
 208.277;I_Precedente
- ;I_Precedente
 SÃO;I_Precedente
- ;I_Precedente
 PAULO;I_Precedente
- ;I_Precedente
 "
 ";O
 "
 ";O
 VOTO;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 SENHOR;O
- ;O
 MINISTRO;B_Pessoa
- ;I_Pessoa
 DIAS;I_Pessoa
- ;I_Pessoa
 TOFFOLI;I_Pessoa
 :;I_Pessoa
- ;O
 Senhor;O
- ;O
 Presidente;O
 ,;O
- ;O
 vou;O
- ;O
 pedir;O
- ;O
 vênia;O
- ;O
 ao;O
- ;O
 eminente;O
- ;O
 Relator;O
 ,;O
- ;O
 porque;O
- ;O
 entendo;O
- ;O
 que;O
- ;O
 a;O
- ;O
 decisão;O
- ;O
 embargada;O
- ;O
 a;O
- ;O
 mim;O
- ;O
 me;O
- ;O
 parece;O
- ;O
 mais;O
- ;O
 acertada;O
- ;O
 e;O
 ,;O
- ;O
 por;O
- ;O
 isso;O
 ,;O
- ;O
 mantenho;O
 ,;O
- ;O
 em;O
- ;O
 meu;O
- ;O
 voto;O
 ,;O
- ;O
 o;O
- ;O
 entendimento;O
- ;O
 firmado;O
- ;O
 pela;O
- ;O
 Primeira;O
- ;O
 Turma;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Na;O
- ;O
 vigência;O
- ;O
 da;O
- ;O
 Constituição;O
- ;O
 de;O
- ;O
 1967;O
 ,;O
- ;O
 era;O
- ;O
 o;O
- ;O
 Senado;O
- ;O
 Federal;O
 ,;O
- ;O
 com;O
- ;O
 base;O
- ;O
 no;O
- ;O
 art;O
 .;O
- ;O
 XXIII;O
 ,;O
- ;O
 §;O
- ;O
 5º;O
 ,;O
- ;O
 daquela;O
- ;O
 Carta;O
 ,;O
- ;O
 que;O
- ;O
 estabelecia;O
- ;O
 a;O
- ;O
 alíquota;O
- ;O
 máxima;O
- ;O
 do;O
- ;O
 ICMS;O
- ;O
 incidente;O
- ;O
 nas;O
- ;O
 exportações;O
 ,;O
- ;O
 ficando;O
- ;O
 a;O
- ;O
 cargo;O
- ;O
 dos;O
- ;O
 Estados;O
- ;O
 a;O
- ;O
 fixação;O
- ;O
 da;O
- ;O
 alíquota;O
- ;O
 em;O
- ;O
 concreto;O
 .;O
- ;O
 Foi;O
- ;O
 com;O
- ;O
 base;O
- ;O
 nesse;O
- ;O
 dispositivo;O
- ;O
 que;O
- ;O
 se;O
- ;O
 editou;O
- ;O
 a;O
- ;O
 Resolução;B_Precedente
- ;I_Precedente
 ng;I_Precedente
- ;I_Precedente
 129;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 1979;I_Precedente
 ,;I_Precedente
- ;O
 a;O
- ;O
 qual;O
- ;O
 fixou;O
- ;O
 em;O
- ;O
 13%;O
- ;O
 (;O
 treze;O
- ;O
 por;O
- ;O
 cento;O
 );O
- ;O
 esse;O
- ;O
 teto;O
- ;O
 máximo;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Com;O
- ;O
 a;O
- ;O
 Constituição;B_Ref. Legislativa
- ;I_Ref. Legislativa
 Federal;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1988;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 por;I_Ref. Legislativa
- ;I_Ref. Legislativa
 força;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 155;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 2°;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 IV;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 manteve;O
 -;O
 se;O
- ;O
 a;O
- ;O
 competência;O
- ;O
 do;O
- ;O
 Senado;O
- ;O
 para;O
- ;O
 dispor;O
- ;O
 sobre;O
- ;O
 a;O
- ;O
 matéria;O
 ,;O
- ;O
 mas;O
- ;O
 agora;O
- ;O
 não;O
- ;O
 para;O
- ;O
 fixar;O
- ;O
 o;O
- ;O
 teto;O
 ,;O
- ;O
 mas;O
- ;O
 para;O
- ;O
 estabelecer;O
- ;O
 a;O
- ;O
 alíquota;O
- ;O
 de;O
- ;O
 incidência;O
- ;O
 aplicável;O
- ;O
 às;O
- ;O
 operações;O
- ;O
 de;O
- ;O
 exportação;O
 .;O
- ;O
 Essa;O
- ;O
 competência;O
- ;O
 foi;O
- ;O
 exercida;O
- ;O
 a;O
- ;O
 partir;O
- ;O
 da;O
- ;O
 Resolução;B_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 22;I_Precedente
 ,;I_Precedente
- ;O
 com;O
- ;O
 vigência;O
- ;O
 desde;O
- ;O
 l2;O
- ;O
 de;O
- ;O
 junho;O
- ;O
 de;O
- ;O
 1989;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Por;O
- ;O
 sua;O
- ;O
 vez;O
- ;O
 -;O
- ;O
 e;O
- ;O
 aqui;O
- ;O
 o;O
- ;O
 meu;O
- ;O
 entendimento;O
- ;O
 é;O
- ;O
 da;O
- ;O
 aplicação;O
- ;O
 do;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 34;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 5°;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 ADCT;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 no;O
- ;O
 sentido;O
- ;O
 de;O
- ;O
 que;O
- ;O
 o;O
- ;O
 regime;O
- ;O
 de;O
- ;O
 incidência;O
- ;O
 de;O
- ;O
 tributação;O
 ,;O
- ;O
 no;O
- ;O
 caso;O
- ;O
 específico;O
- ;O
 do;O
- ;O
 tributo;O
- ;O
 do;O
- ;O
 ICMS;O
- ;O
 à;O
- ;O
 exportação;O
 ,;O
- ;O
 também;O
- ;O
 foi;O
- ;O
 previsto;O
- ;O
 na;O
- ;O
 nova;O
- ;O
 Constituição;O
 ,;O
- ;O
 e;O
 ,;O
- ;O
 portanto;O
 ,;O
- ;O
 aqui;O
- ;O
 eu;O
- ;O
 aplico;O
 ,;O
- ;O
 como;O
- ;O
 aplicou;O
- ;O
 a;O
- ;O
 Primeira;O
- ;O
 Turma;O
 ,;O
- ;O
 aquilo;O
- ;O
 que;O
- ;O
 dispõe;O
- ;O
 o§;I_Ref. Legislativa
- ;I_Ref. Legislativa
 5°;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 art;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 34;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 ADCT;I_Ref. Legislativa
- ;I_Ref. Legislativa
 -;O
 ,;O
- ;O
 esse;O
- ;O
 dispositivo;O
- ;O
 do;O
- ;O
 ADCT;O
- ;O
 assegurou;O
- ;O
 a;O
- ;O
 aplicação;O
- ;O
 da;O
- ;O
 legislação;O
- ;O
 tributária;O
- ;O
 anterior;O
 ,;O
- ;O
 no;O
- ;O
 que;O
- ;O
 não;O
- ;O
 fosse;O
- ;O
 incompatível;O
- ;O
 com;O
- ;O
 o;O
- ;O
 novo;O
- ;O
 sistema;O
- ;O
 tributário;O
- ;O
 nacional;O
 ,;O
- ;O
 inaugurado;O
- ;O
 com;O
- ;O
 a;O
- ;O
 Constituição;O
- ;O
 Federal;O
- ;O
 de;O
- ;O
 1988;O
 ,;O
- ;O
 com;O
- ;O
 a;O
- ;O
 vigência;O
- ;O
 a;O
- ;O
 partir;O
- ;O
 de;O
- ;O
 1º;O
- ;O
 de;O
- ;O
 março;O
- ;O
 de;O
- ;O
 1989;O
 .;O
- ;O
 Ou;O
- ;O
 seja;O
 ,;O
- ;O
 a;O
- ;O
 partir;O
- ;O
 de;O
- ;O
 1989;O
- ;O
 continuou;O
- ;O
 possível;O
- ;O
 se;O
- ;O
 tributar;O
 ,;O
- ;O
 via;O
- ;O
 ICMS;O
 ,;O
- ;O
 as;O
- ;O
 exportações;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Foi;O
- ;O
 por;O
- ;O
 força;O
- ;O
 dessa;O
- ;O
 norma;O
- ;O
 transitória;O
 ,;O
- ;O
 que;O
- ;O
 ampara;O
- ;O
 o;O
- ;O
 fenômeno;O
- ;O
 da;O
- ;O
 recepção;O
- ;O
 e;O
- ;O
 legitima;O
- ;O
 a;O
- ;O
 aplicação;O
- ;O
 de;O
- ;O
 todo;O
- ;O
 o;O
- ;O
 arcabouço;O
- ;O
 normativo;O
- ;O
 anterior;O
 ,;O
- ;O
 adaptando;O
 -;O
 o;O
- ;O
 naquilo;O
- ;O
 que;O
- ;O
 não;O
- ;O
 conflita;O
- ;O
 com;O
- ;O
 a;O
- ;O
 nova;O
- ;O
 ordem;O
- ;O
 constitucional;O
 ,;O
- ;O
 que;O
 ,;O
- ;O
 no;O
- ;O
 período;O
- ;O
 questionado;O
 ,;O
- ;O
 12;O
- ;O
 de;O
- ;O
 março;O
- ;O
 a;O
- ;O
 31;O
- ;O
 de;O
- ;O
 maio;O
- ;O
 de;O
- ;O
 1989;O
 ,;O
- ;O
 a;O
- ;O
 resolução;B_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 129/79;I_Precedente
- ;I_Precedente
 continuou;O
- ;O
 validando;O
- ;O
 a;O
- ;O
 incidência;O
- ;O
 do;O
- ;O
 ICMS;O
- ;O
 nas;O
- ;O
 operações;O
- ;O
 de;O
- ;O
 exportação;O
 ,;O
- ;O
 passando;O
- ;O
 a;O
- ;O
 alíquota;O
- ;O
 de;O
- ;O
 13%;O
- ;O
 (;O
 treze;O
- ;O
 por;O
- ;O
 cento;O
 );O
 ,;O
- ;O
 antes;O
- ;O
 fixada;O
- ;O
 como;O
- ;O
 teto;O
 ,;O
- ;O
 a;O
- ;O
 ter;O
- ;O
 eficácia;O
- ;O
 como;O
- ;O
 alíquota;O
- ;O
 fixa;O
 ,;O
- ;O
 em;O
- ;O
 harmonia;O
- ;O
 com;O
- ;O
 o;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 155;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 2º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 quadro;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 "
 ";O
 "
 ";O
 Essa;O
- ;O
 foi;O
- ;O
 a;O
- ;O
 solução;O
- ;O
 dada;O
- ;O
 pelo;O
- ;O
 Ministro;B_Pessoa
- ;I_Pessoa
 limar;I_Pessoa
- ;I_Pessoa
 Galvão;I_Pessoa
 ,;I_Pessoa
- ;O
 que;O
 ,;O
- ;O
 ao;O
- ;O
 apreciar;O
- ;O
 o;O
- ;O
 RE;B_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 156.564;I_Precedente
 /;I_Precedente
 PR;I_Precedente
 ,;I_Precedente
- ;O
 asseverou;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 """";O
 (;O
- ;O
 .;O
 .;O
 .;O
- ;O
 );O
- ;O
 a;O
- ;O
 partir;O
- ;O
 do;O
- ;O
 mês;O
- ;O
 de;O
- ;O
 rnarço/89;O
 ,;O
- ;O
 a;O
- ;O
 alíquota;O
- ;O
 fixada;O
- ;O
 passou;O
- ;O
 a;O
- ;O
 ser;O
- ;O
 inflexível;O
 ,;O
- ;O
 cumprindo;O
- ;O
 aos;O
- ;O
 Estados;O
- ;O
 reajustar;O
- ;O
 os;O
- ;O
 respectivos;O
- ;O
 valores;O
- ;O
 na;O
- ;O
 conformidade;O
- ;O
 desse;O
- ;O
 novo;O
- ;O
 entendimento;O
 .;O
 """";O
- ;O
 "
 ";O
 "
 ";O
 No;O
- ;O
 caso;O
- ;O
 concreto;O
 ,;O
- ;O
 verifico;O
- ;O
 que;O
- ;O
 a;O
- ;O
 Lei;B_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Estado;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 São;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Paulo;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 6.374;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 que;O
- ;O
 entrou;O
- ;O
 em;O
- ;O
 vigor;O
- ;O
 exatamente;O
- ;O
 em;O
- ;O
 l2;O
- ;O
 de;O
- ;O
 março;O
- ;O
 de;O
- ;O
 1989;O
 ,;O
- ;O
 dispôs;O
- ;O
 ser;O
- ;O
 aplicável;O
- ;O
 a;O
- ;O
 alíquota;O
- ;O
 de;O
- ;O
 13%;O
- ;O
 (;O
 treze;O
- ;O
 por;O
- ;O
 cento;O
 );O
- ;O
 -;O
- ;O
 a;O
- ;O
 mesma;O
- ;O
 prevista;O
- ;O
 na;O
- ;O
 Resolução;B_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 129;I_Precedente
- ;I_Precedente
 -;O
 ,;O
- ;O
 até;O
- ;O
 que;O
- ;O
 o;O
- ;O
 Senado;O
- ;O
 viesse;O
- ;O
 a;O
- ;O
 exercer;O
- ;O
 a;O
- ;O
 competência;O
- ;O
 dada;O
- ;O
 pela;O
- ;O
 nova;O
- ;O
 ordem;O
- ;O
 constitucional;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Nesse;O
- ;O
 ponto;O
 ,;O
- ;O
 mais;O
- ;O
 uma;O
- ;O
 vez;O
 ,;O
- ;O
 o;O
- ;O
 voto;O
- ;O
 do;O
- ;O
 Ministro;B_Pessoa
- ;I_Pessoa
 limar;I_Pessoa
- ;I_Pessoa
 Galvão;I_Pessoa
- ;I_Pessoa
 foi;O
- ;O
 preciso;O
 ,;O
- ;O
 ao;O
- ;O
 registrar;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 """Não";O
- ;O
 consta;O
- ;O
 dos;O
- ;O
 autos;O
- ;O
 ter;O
- ;O
 havido;O
- ;O
 omissão;O
- ;O
 do;O
- ;O
 Estado;O
- ;O
 do;O
- ;O
 Paraná;O
- ;O
 nesse;O
- ;O
 sentido;O
 ,;O
- ;O
 sendo;O
- ;O
 certo;O
- ;O
 que;O
 ,;O
- ;O
 em;O
- ;O
 caso;O
- ;O
 afirmativo;O
 ,;O
- ;O
 teria;O
- ;O
 sido;O
- ;O
 prejudicial;O
- ;O
 à;O
- ;O
 recorrente;O
 .;O
- ;O
 "
 ";O
 "
@@ -5533,122 +3205,73 @@ Registre;O
 -;O
 se;O
 ,;O
- ;O
 por;O
- ;O
 derradeiro;O
 ,;O
- ;O
 que;O
- ;O
 a;O
- ;O
 Resolução;B_Precedente
- ;I_Precedente
 n2;I_Precedente
- ;I_Precedente
 22;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 rnaio/89;I_Precedente
 ,;I_Precedente
- ;O
 manteve;O
- ;O
 a;O
- ;O
 alíquota;O
- ;O
 do;O
- ;O
 ICMS;O
- ;O
 no;O
- ;O
 percentual;O
- ;O
 que;O
- ;O
 fora;O
- ;O
 estipulado;O
- ;O
 pelo;O
- ;O
 Senado;O
 ,;O
- ;O
 corno;O
- ;O
 limite;O
 -;O
 teto;O
 ,;O
- ;O
 em;O
- ;O
 1979;O
 .;O
 """";O
- ;O
 "
 ";O
 "
 ";O
 Com;O
- ;O
 essas;O
- ;O
 breves;O
- ;O
 considerações;O
 ,;O
- ;O
 Senhor;O
- ;O
 Presidente;O
 ,;O
- ;O
 pedindo;O
 ,;O
- ;O
 mais;O
- ;O
 uma;O
- ;O
 vez;O
 ,;O
- ;O
 vênia;O
- ;O
 ao;O
- ;O
 eminente;O
- ;O
 Relator;O
 ,;O
- ;O
 eu;O
- ;O
 rejeito;O
- ;O
 os;O
- ;O
 embargos;O
- ;O
 de;O
- ;O
 divergência;O
 .;O
- ;O
 06/10/2010;O
- ;O
 TRIBUNAL;O
- ;O
 PLENO;O
- ;O
 "
 ";O
 "
@@ -5657,30 +3280,21 @@ EMB;O
 .;O
 DIV;O
 .;O
- ;O
 NO;O
- ;O
 RECURSO;B_Precedente
- ;I_Precedente
 EXTRAORDINÁRIO;I_Precedente
- ;I_Precedente
 208.277;I_Precedente
- ;I_Precedente
 SÃO;I_Precedente
- ;I_Precedente
 PAULO;I_Precedente
- ;I_Precedente
 "
 ";O
 "
 ";O
 VISTA;O
- ;O
 "
 ";O
 "
 ";O
 id;O
 :;O
- ;O
 20110801_RE_208277_626612;O

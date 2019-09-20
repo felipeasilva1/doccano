@@ -1,6 +1,5 @@
 Token;Tag
 REGIÃO;O
- ;O
 "
 ";O
 "
@@ -11,1728 +10,970 @@ A;O
 /;O
 S;O
 );O
- ;O
 "
 ";O
 "
 ";O
 DECISÃO;O
- ;O
 "
 ";O
 "
 ";O
 REMUNERAÇÃO;O
- ;O
 –;O
- ;O
 SALÁRIO;O
- ;O
 MÍNIMO;O
- ;O
 –;O
- ;O
 VERBETE;B_Precedente
- ;I_Precedente
 VINCULANTE;I_Precedente
- ;I_Precedente
 Nº;I_Precedente
- ;I_Precedente
 4;I_Precedente
- ;I_Precedente
 DA;I_Precedente
- ;I_Precedente
 SÚMULA;I_Precedente
- ;I_Precedente
 DO;I_Precedente
- ;I_Precedente
 SUPREMO;I_Precedente
- ;I_Precedente
 –;O
- ;O
 DESRESPEITO;O
- ;O
 –;O
- ;O
 RECLAMAÇÃO;O
- ;O
 –;O
- ;O
 PROCEDÊNCIA;O
- ;O
 DO;O
- ;O
 PEDIDO;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 1;O
 .;O
- ;O
 O;O
- ;O
 assessor;O
- ;O
 Dr;O
 .;O
- ;O
 Vinicius;O
- ;O
 de;O
- ;O
 Andrade;O
- ;O
 Prado;O
- ;O
 assim;O
- ;O
 revelou;O
- ;O
 as;O
- ;O
 balizas;O
- ;O
 do;O
- ;O
 caso;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 Em;O
- ;O
 22;O
- ;O
 de;O
- ;O
 dezembro;O
- ;O
 de;O
- ;O
 2012;O
 ,;O
- ;O
 ao;O
- ;O
 implementar;O
- ;O
 a;O
- ;O
 medida;O
- ;O
 acauteladora;O
 ,;O
- ;O
 Vossa;O
- ;O
 Excelência;O
- ;O
 consignou;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 REMUNERAÇÃO;O
- ;O
 –;O
- ;O
 SALÁRIO;O
- ;O
 MÍNIMO;O
- ;O
 –;O
- ;O
 VERBETE;B_Precedente
- ;I_Precedente
 VINCULANTE;I_Precedente
- ;I_Precedente
 Nº;I_Precedente
- ;I_Precedente
 4;I_Precedente
- ;I_Precedente
 –;O
- ;O
 RELEVÂNCIA;O
- ;O
 DEMONSTRADA;O
- ;O
 –;O
- ;O
 LIMINAR;O
- ;O
 DEFERIDA;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 1;O
 .;O
- ;O
 O;O
- ;O
 Gabinete;O
- ;O
 prestou;O
- ;O
 as;O
- ;O
 seguintes;O
- ;O
 informações;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 A;O
- ;O
 Companhia;O
- ;O
 Paulista;O
- ;O
 de;O
- ;O
 Obras;O
- ;O
 e;O
- ;O
 Serviços;O
- ;O
 –;O
- ;O
 CPOS;O
 ,;O
- ;O
 sociedade;O
- ;O
 de;O
- ;O
 economia;O
- ;O
 mista;O
- ;O
 do;O
- ;O
 Estado;O
- ;O
 de;O
- ;O
 São;O
- ;O
 Paulo;O
 ,;O
- ;O
 argui;O
- ;O
 ilegalidade;O
- ;O
 da;O
- ;O
 decisão;O
- ;O
 proferida;O
- ;O
 pela;O
- ;O
 Quinta;O
- ;O
 Turma;O
- ;O
 do;O
- ;O
 Tribunal;O
- ;O
 Regional;O
- ;O
 do;O
- ;O
 Trabalho;O
- ;O
 da;O
- ;O
 2ª;O
- ;O
 Região;O
- ;O
 no;O
- ;O
 Processo;B_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 0001252-48.2010.5.02.0053;I_Precedente
 .;I_Precedente
- ;O
 "
 ";O
 "
 ";O
 Segundo;O
- ;O
 narra;O
 ,;O
- ;O
 figura;O
- ;O
 como;O
- ;O
 ré;O
- ;O
 em;O
- ;O
 reclamação;O
- ;O
 trabalhista;O
- ;O
 formalizada;O
- ;O
 por;O
- ;O
 Jefferson;B_Pessoa
- ;I_Pessoa
 Deodoro;I_Pessoa
- ;I_Pessoa
 Teixeira;I_Pessoa
- ;I_Pessoa
 da;I_Pessoa
- ;I_Pessoa
 Costa;I_Pessoa
 ,;I_Pessoa
- ;O
 engenheiro;O
- ;O
 empregado;O
- ;O
 admitido;O
- ;O
 em;O
- ;O
 9;O
- ;O
 de;O
- ;O
 fevereiro;O
- ;O
 de;O
- ;O
 2009;O
 ,;O
- ;O
 após;O
- ;O
 aprovação;O
- ;O
 no;O
- ;O
 concurso;O
- ;O
 realizado;O
- ;O
 em;O
- ;O
 2008;O
 .;O
- ;O
 Afirma;O
- ;O
 que;O
- ;O
 o;O
- ;O
 salário;O
- ;O
 previsto;O
- ;O
 no;O
- ;O
 edital;O
- ;O
 era;O
- ;O
 de;O
- ;O
 R$;O
- ;O
 2.888,64;O
 ,;O
- ;O
 reajustado;O
 ,;O
- ;O
 quando;O
- ;O
 da;O
- ;O
 contratação;O
 ,;O
- ;O
 para;O
- ;O
 R$;O
- ;O
 3.119,73;O
 .;O
- ;O
 Menciona;O
- ;O
 que;O
- ;O
 a;O
- ;O
 causa;O
- ;O
 de;O
- ;O
 pedir;O
- ;O
 da;O
- ;O
 ação;O
- ;O
 está;O
- ;O
 relacionada;O
- ;O
 ao;O
- ;O
 piso;O
- ;O
 salarial;O
- ;O
 para;O
- ;O
 profissionais;O
- ;O
 de;O
- ;O
 engenharia;O
- ;O
 versado;O
- ;O
 nos;O
- ;O
 artigos;B_Ref. Legislativa
- ;I_Ref. Legislativa
 3º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 4º;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 5º;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 4.950;I_Ref. Legislativa
 -;I_Ref. Legislativa
 A/1966;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 que;O
- ;O
 o;O
- ;O
 estipula;O
- ;O
 em;O
- ;O
 6;O
- ;O
 salários;O
- ;O
 mínimos;O
 ,;O
- ;O
 e;O
- ;O
 o;O
- ;O
 pedido;O
- ;O
 é;O
- ;O
 de;O
- ;O
 condenação;O
- ;O
 ao;O
- ;O
 pagamento;O
- ;O
 das;O
- ;O
 diferenças;O
- ;O
 salariais;O
- ;O
 e;O
- ;O
 respectivos;O
- ;O
 reflexos;O
 .;O
- ;O
 Assevera;O
- ;O
 haver;O
- ;O
 argumentado;O
- ;O
 que;O
- ;O
 os;O
- ;O
 referidos;O
- ;O
 dispositivos;O
- ;O
 não;O
- ;O
 foram;O
- ;O
 recepcionados;O
- ;O
 pela;O
- ;O
 Carta;B_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1988;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 ante;I_Ref. Legislativa
- ;I_Ref. Legislativa
 a;I_Ref. Legislativa
- ;I_Ref. Legislativa
 proibição;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 no;I_Ref. Legislativa
- ;I_Ref. Legislativa
 inciso;I_Ref. Legislativa
- ;I_Ref. Legislativa
 IV;I_Ref. Legislativa
- ;I_Ref. Legislativa
 do;I_Ref. Legislativa
- ;I_Ref. Legislativa
 artigo;I_Ref. Legislativa
- ;I_Ref. Legislativa
 7º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 de;O
- ;O
 utilização;O
- ;O
 do;O
- ;O
 salário;O
- ;O
 mínimo;O
- ;O
 como;O
- ;O
 indexador;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Noticia;O
- ;O
 que;O
- ;O
 o;O
- ;O
 Juízo;O
- ;O
 da;O
- ;O
 53ª;O
- ;O
 Vara;O
- ;O
 do;O
- ;O
 Trabalho;O
- ;O
 de;O
- ;O
 São;O
- ;O
 Paulo;O
- ;O
 julgou;O
- ;O
 procedente;O
- ;O
 o;O
- ;O
 pleito;O
 .;O
- ;O
 No;O
- ;O
 Regional;O
- ;O
 do;O
- ;O
 Trabalho;O
- ;O
 da;O
- ;O
 2ª;O
- ;O
 Região;O
 ,;O
- ;O
 a;O
- ;O
 Quinta;O
- ;O
 Turma;O
- ;O
 negou;O
- ;O
 provimento;O
- ;O
 ao;O
- ;O
 recurso;O
- ;O
 ordinário;O
 ,;O
- ;O
 assentando;O
- ;O
 a;O
- ;O
 constitucionalidade;O
- ;O
 do;O
- ;O
 piso;O
- ;O
 salarial;O
- ;O
 dos;O
- ;O
 engenheiros;O
- ;O
 fixado;O
- ;O
 em;O
- ;O
 múltiplos;O
- ;O
 do;O
- ;O
 salário;O
- ;O
 mínimo;O
 .;O
- ;O
 Contra;O
- ;O
 essa;O
- ;O
 decisão;O
 ,;O
- ;O
 pendem;O
- ;O
 de;O
- ;O
 apreciação;O
- ;O
 embargos;O
- ;O
 declaratórios;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Consoante;O
- ;O
 articula;O
 ,;O
- ;O
 na;O
- ;O
 Representação;O
- ;O
 de;O
- ;O
 "
 ";O
 "
 ";O
 Inconstitucionalidade;B_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 716;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 da;I_Precedente
- ;I_Precedente
 relatoria;I_Precedente
- ;I_Precedente
 do;I_Precedente
- ;I_Precedente
 ministro;I_Precedente
- ;I_Precedente
 Eloy;I_Precedente
- ;I_Precedente
 da;I_Precedente
- ;I_Precedente
 Rocha;I_Precedente
 ,;I_Precedente
- ;O
 o;O
- ;O
 Supremo;O
- ;O
 declarou;O
- ;O
 a;O
- ;O
 inconstitucionalidade;O
- ;O
 da;O
- ;O
 aplicação;O
- ;O
 da;O
- ;O
 Lei;B_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 4.950;I_Ref. Legislativa
 -;I_Ref. Legislativa
 A/66;I_Ref. Legislativa
- ;I_Ref. Legislativa
 aos;O
- ;O
 funcionários;O
- ;O
 públicos;O
- ;O
 estatutários;O
 .;O
- ;O
 Ressalta;O
- ;O
 que;O
 ,;O
- ;O
 na;O
- ;O
 Arguição;B_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 Descumprimento;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 Preceito;I_Precedente
- ;I_Precedente
 Fundamental;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 53;I_Precedente
 /;I_Precedente
 PI;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 o;I_Precedente
- ;I_Precedente
 ministro;I_Precedente
- ;I_Precedente
 Gilmar;I_Precedente
- ;I_Precedente
 Mendes;I_Precedente
 ,;I_Precedente
- ;O
 mediante;O
- ;O
 ato;O
- ;O
 monocrático;O
 ,;O
- ;O
 suspendeu;O
- ;O
 todas;O
- ;O
 as;O
- ;O
 decisões;O
- ;O
 do;O
- ;O
 Tribunal;O
- ;O
 Regional;O
- ;O
 do;O
- ;O
 Trabalho;O
- ;O
 da;O
- ;O
 22ª;O
- ;O
 Região;O
- ;O
 e;O
- ;O
 do;O
- ;O
 Tribunal;O
- ;O
 de;O
- ;O
 Justiça;O
- ;O
 do;O
- ;O
 Estado;O
- ;O
 do;O
- ;O
 Piauí;O
- ;O
 em;O
- ;O
 que;O
- ;O
 se;O
- ;O
 reconhecia;O
 ,;O
- ;O
 com;O
- ;O
 fundamento;O
- ;O
 no;O
- ;O
 artigo;O
- ;O
 5º;O
- ;O
 da;O
- ;O
 referida;O
- ;O
 norma;O
 ,;O
- ;O
 o;O
- ;O
 direito;O
- ;O
 ao;O
- ;O
 piso;O
- ;O
 de;O
- ;O
 seis;O
- ;O
 salários;O
- ;O
 mínimos;O
 .;O
- ;O
 Diz;O
- ;O
 da;O
- ;O
 concessão;O
- ;O
 de;O
- ;O
 medidas;O
- ;O
 acauteladoras;O
 ,;O
- ;O
 com;O
- ;O
 base;O
- ;O
 no;O
- ;O
 Verbete;B_Precedente
- ;I_Precedente
 Vinculante;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 4;I_Precedente
- ;I_Precedente
 da;I_Precedente
- ;I_Precedente
 Súmula;I_Precedente
- ;I_Precedente
 do;I_Precedente
- ;I_Precedente
 Supremo;I_Precedente
- ;I_Precedente
 e;O
- ;O
 no;O
- ;O
 mencionado;O
- ;O
 pronunciamento;O
 ,;O
- ;O
 nas;O
- ;O
 Reclamações;B_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 7.521;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 relator;I_Precedente
- ;I_Precedente
 ministro;I_Precedente
- ;I_Precedente
 Celso;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 Mello;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 7.709;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 relator;I_Precedente
- ;I_Precedente
 ministro;I_Precedente
- ;I_Precedente
 Menezes;I_Precedente
- ;I_Precedente
 Direito;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 e;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 13.426;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 relator;I_Precedente
- ;I_Precedente
 ministro;I_Precedente
- ;I_Precedente
 Joaquim;I_Precedente
- ;I_Precedente
 Barbosa;I_Precedente
 .;I_Precedente
- ;O
 "
 ";O
 "
 ";O
 Sob;O
- ;O
 o;O
- ;O
 ângulo;O
- ;O
 do;O
- ;O
 risco;O
 ,;O
- ;O
 alude;O
- ;O
 à;O
- ;O
 possibilidade;O
- ;O
 de;O
- ;O
 execução;O
- ;O
 da;O
- ;O
 condenação;O
 .;O
- ;O
 Postula;O
- ;O
 a;O
- ;O
 concessão;O
- ;O
 de;O
- ;O
 liminar;O
 ,;O
- ;O
 determinando;O
 -;O
 se;O
- ;O
 o;O
- ;O
 afastamento;O
- ;O
 dos;O
- ;O
 efeitos;O
- ;O
 do;O
- ;O
 acórdão;O
- ;O
 reclamado;O
 .;O
- ;O
 No;O
- ;O
 mérito;O
 ,;O
- ;O
 requer;O
- ;O
 seja;O
- ;O
 ele;O
- ;O
 cassado;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Vossa;O
- ;O
 Excelência;O
- ;O
 projetou;O
- ;O
 o;O
- ;O
 exame;O
- ;O
 da;O
- ;O
 medida;O
- ;O
 acauteladora;O
- ;O
 para;O
- ;O
 momento;O
- ;O
 posterior;O
- ;O
 à;O
- ;O
 vinda;O
- ;O
 das;O
- ;O
 informações;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 Presidente;O
- ;O
 do;O
- ;O
 Tribunal;O
- ;O
 Regional;O
- ;O
 do;O
- ;O
 Trabalho;O
- ;O
 da;O
- ;O
 2ª;O
- ;O
 Região;O
- ;O
 afirma;O
- ;O
 inexistir;O
- ;O
 violação;O
- ;O
 ao;O
- ;O
 artigo;B_Ref. Legislativa
- ;I_Ref. Legislativa
 7º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 inciso;I_Ref. Legislativa
- ;I_Ref. Legislativa
 IV;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Federal;I_Ref. Legislativa
- ;I_Ref. Legislativa
 ou;O
- ;O
 inobservância;O
- ;O
 ao;O
- ;O
 citado;O
- ;O
 Verbete;B_Precedente
- ;I_Precedente
 Vinculante;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 4;I_Precedente
 .;I_Precedente
- ;O
 Transcreve;O
- ;O
 trechos;O
- ;O
 da;O
- ;O
 sentença;O
- ;O
 de;O
- ;O
 primeiro;O
- ;O
 grau;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 processo;O
- ;O
 encontra;O
 -;O
 se;O
- ;O
 concluso;O
- ;O
 para;O
- ;O
 a;O
- ;O
 apreciação;O
- ;O
 do;O
- ;O
 pedido;O
- ;O
 de;O
- ;O
 liminar;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 2;O
 .;O
- ;O
 Surge;O
- ;O
 a;O
- ;O
 relevância;O
- ;O
 do;O
- ;O
 pedido;O
- ;O
 presente;O
- ;O
 o;O
- ;O
 Verbete;B_Precedente
- ;I_Precedente
 Vinculante;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 4;I_Precedente
- ;I_Precedente
 da;I_Precedente
- ;I_Precedente
 Súmula;I_Precedente
- ;I_Precedente
 do;I_Precedente
- ;I_Precedente
 Supremo;I_Precedente
 ,;I_Precedente
- ;O
 a;O
- ;O
 afastar;O
- ;O
 a;O
- ;O
 possibilidade;O
- ;O
 de;O
- ;O
 ter;O
 -;O
 se;O
- ;O
 o;O
- ;O
 salário;O
- ;O
 mínimo;O
- ;O
 como;O
- ;O
 verdadeiro;O
- ;O
 fator;O
- ;O
 de;O
- ;O
 indexação;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 3;O
 .;O
- ;O
 Defiro;O
- ;O
 a;O
- ;O
 liminar;O
- ;O
 pleiteada;O
 .;O
- ;O
 Suspendo;O
 ,;O
- ;O
 até;O
- ;O
 a;O
- ;O
 decisão;O
- ;O
 final;O
- ;O
 desta;O
- ;O
 reclamação;O
 ,;O
- ;O
 a;O
- ;O
 eficácia;O
- ;O
 do;O
- ;O
 acórdão;O
- ;O
 formalizado;O
- ;O
 pelo;O
- ;O
 Tribunal;O
- ;O
 Regional;O
- ;O
 do;O
- ;O
 Trabalho;O
- ;O
 da;O
- ;O
 2ª;O
- ;O
 Região;O
- ;O
 no;O
- ;O
 Processo;B_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 12524820105020053;I_Precedente
 .;I_Precedente
- ;O
 "
 ";O
 "
 ";O
 4;O
 .;O
- ;O
 Colham;O
- ;O
 o;O
- ;O
 parecer;O
- ;O
 da;O
- ;O
 Procuradoria;O
- ;O
 Geral;O
- ;O
 da;O
- ;O
 "
 ";O
 "
 ";O
 República;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 5;O
 .;O
- ;O
 Publiquem;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 O;O
- ;O
 Ministério;O
- ;O
 Público;O
- ;O
 Federal;O
- ;O
 manifesta;O
 -;O
 se;O
- ;O
 pela;O
- ;O
 improcedência;O
- ;O
 do;O
- ;O
 pedido;O
 ,;O
- ;O
 reportando;O
 -;O
 se;O
- ;O
 às;O
- ;O
 razões;O
- ;O
 consignadas;O
- ;O
 no;O
- ;O
 parecer;O
- ;O
 ofertado;O
- ;O
 no;O
- ;O
 curso;O
- ;O
 da;O
- ;O
 reclamação;B_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 14.075;I_Precedente
 ,;I_Precedente
- ;I_Precedente
 relator;I_Precedente
- ;I_Precedente
 o;I_Precedente
- ;I_Precedente
 ministro;I_Precedente
- ;I_Precedente
 Celso;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 Mello;I_Precedente
 .;I_Precedente
- ;O
 Relativamente;O
- ;O
 à;O
- ;O
 apontada;O
- ;O
 inobservância;O
- ;O
 do;O
- ;O
 decidido;O
- ;O
 na;O
- ;O
 medida;O
- ;O
 cautelar;O
- ;O
 na;O
- ;O
 arguição;B_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 descumprimento;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 preceito;I_Precedente
- ;I_Precedente
 fundamental;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 53;I_Precedente
 /;I_Precedente
 PI;I_Precedente
 ,;I_Precedente
- ;O
 articula;O
- ;O
 com;O
- ;O
 a;O
- ;O
 impertinência;O
- ;O
 da;O
- ;O
 tese;O
- ;O
 da;O
- ;O
 eficácia;O
- ;O
 transcendental;O
- ;O
 dos;O
- ;O
 motivos;O
- ;O
 determinantes;O
 ,;O
- ;O
 asseverando;O
- ;O
 que;O
- ;O
 a;O
- ;O
 providência;O
- ;O
 nela;O
- ;O
 assentada;O
- ;O
 alcança;O
- ;O
 apenas;O
- ;O
 pronunciamentos;O
- ;O
 do;O
- ;O
 Tribunal;O
- ;O
 Regional;O
- ;O
 do;O
- ;O
 Trabalho;O
- ;O
 da;O
- ;O
 22ª;O
- ;O
 Região;O
- ;O
 e;O
- ;O
 do;O
- ;O
 Tribunal;O
- ;O
 de;O
- ;O
 Justiça;O
- ;O
 do;O
- ;O
 Estado;O
- ;O
 do;O
- ;O
 Piauí;O
- ;O
 a;O
- ;O
 envolverem;O
- ;O
 servidores;O
- ;O
 celetistas;O
 .;O
- ;O
 Complementa;O
- ;O
 dizendo;O
- ;O
 que;O
 ,;O
- ;O
 considerado;O
- ;O
 o;O
- ;O
 caráter;O
- ;O
 precário;O
- ;O
 e;O
- ;O
 efêmero;O
- ;O
 da;O
- ;O
 decisão;O
 ,;O
- ;O
 não;O
- ;O
 se;O
- ;O
 pode;O
- ;O
 concluir;O
- ;O
 no;O
- ;O
 sentido;O
- ;O
 da;O
- ;O
 declaração;O
- ;O
 da;O
- ;O
 inconstitucionalidade;O
- ;O
 da;O
- ;B_Ref. Legislativa
 Lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 4.950;I_Ref. Legislativa
 -;I_Ref. Legislativa
 A/1966;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 Ressalta;O
 ,;O
- ;O
 presente;O
- ;O
 o;O
- ;O
 verbete;B_Precedente
- ;I_Precedente
 vinculante;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 4;I_Precedente
 ,;I_Precedente
- ;O
 inadequada;O
- ;O
 a;O
- ;O
 vinculação;O
- ;O
 de;O
- ;O
 qualquer;O
- ;O
 vantagem;O
- ;O
 de;O
- ;O
 servidor;O
- ;O
 ao;O
- ;O
 salário;O
- ;O
 mínimo;O
 ,;O
- ;O
 ficando;O
- ;O
 obstada;O
- ;O
 a;O
- ;O
 substituição;O
- ;O
 deste;O
- ;O
 por;O
- ;O
 meio;O
- ;O
 de;O
- ;O
 ato;O
- ;O
 judicial;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 2;O
 .;O
- ;O
 No;O
- ;O
 que;O
- ;O
 diz;O
- ;O
 respeito;O
- ;O
 à;O
- ;O
 apontada;O
- ;O
 inobservância;O
- ;O
 da;O
- ;O
 liminar;O
- ;O
 deferida;O
- ;O
 na;O
- ;O
 arguição;B_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 descumprimento;I_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 preceito;I_Precedente
- ;I_Precedente
 fundamental;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 53;I_Precedente
 /;I_Precedente
 PI;I_Precedente
 ,;I_Precedente
- ;O
 mostra;O
 -;O
 se;O
- ;O
 impróprio;O
- ;O
 o;O
- ;O
 inconformismo;O
 .;O
- ;O
 Confiram;O
- ;O
 os;O
- ;O
 seguintes;O
- ;O
 trechos;O
- ;O
 do;O
- ;O
 pronunciamento;O
 :;O
- ;O
 [;O
 .;O
 .;O
@@ -1740,1146 +981,649 @@ pronunciamento;O
 ]Trata;O
 -;O
 se;O
- ;O
 de;O
- ;O
 argüição;O
- ;O
 de;O
- ;O
 descumprimento;O
- ;O
 de;O
- ;O
 preceito;O
- ;O
 fundamental;O
- ;O
 contra;O
- ;O
 decisões;O
- ;O
 reiteradas;O
- ;O
 do;O
- ;O
 Tribunal;O
- ;O
 Regional;O
- ;O
 do;O
- ;O
 Trabalho;O
- ;O
 da;O
- ;O
 22ª;O
- ;O
 Região;O
- ;O
 e;O
- ;O
 do;O
- ;O
 Tribunal;O
- ;O
 de;O
- ;O
 Justiça;O
- ;O
 do;O
- ;O
 Estado;O
- ;O
 do;O
- ;O
 Piauí;O
 ,;O
- ;O
 que;O
- ;O
 dispondo;O
- ;O
 sobre;O
- ;O
 a;O
- ;O
 remuneração;O
- ;O
 dos;O
- ;O
 profissionais;O
- ;O
 de;O
- ;O
 Engenharia;O
 ,;O
- ;O
 Química;O
 ,;O
- ;O
 Arquitetura;O
 ,;O
- ;O
 Agronomia;O
- ;O
 e;O
- ;O
 Veterinária;O
 ,;O
- ;O
 reconheceu;O
- ;O
 aos;O
- ;O
 respectivos;O
- ;O
 profissionais;O
- ;O
 o;O
- ;O
 direito;O
- ;O
 ao;O
- ;O
 piso;O
- ;O
 de;O
- ;O
 seis;O
- ;O
 salários;O
- ;O
 mínimos;O
 .;O
- ;O
 Alega;O
 -;O
 se;O
- ;O
 ofensa;O
- ;O
 aos;O
- ;O
 arts;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 7º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 IV;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 18;I_Ref. Legislativa
- ;I_Ref. Legislativa
 e;I_Ref. Legislativa
- ;I_Ref. Legislativa
 37;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 XIII;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Constituição;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1988;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 sob;O
- ;O
 os;O
- ;O
 seguintes;O
- ;O
 fundamentos;O
 :;O
- ;O
 [;O
 .;O
 .;O
 .;O
 ];O
- ;O
 "
 ";O
 "
 ";O
 Assim;O
 ,;O
- ;O
 indefiro;O
- ;O
 a;O
- ;O
 inicial;O
- ;O
 da;O
- ;O
 presente;O
- ;O
 adpf;O
 ,;O
- ;O
 em;O
- ;O
 face;O
- ;O
 do;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 4º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §1º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 9.882/99;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 em;O
- ;O
 relação;O
- ;O
 às;O
- ;O
 decisões;O
- ;O
 que;O
- ;O
 contemplaram;O
- ;O
 funcionários;O
- ;O
 estatutários;O
- ;O
 e;O
- ;O
 defiro;O
- ;O
 o;O
- ;O
 pedido;O
- ;O
 liminar;O
 ,;O
- ;O
 ad;O
- ;O
 referendum;O
- ;O
 do;O
- ;O
 Plenário;O
- ;O
 desta;O
- ;O
 Corte;O
 ,;O
- ;O
 para;O
- ;O
 a;O
- ;O
 suspensão;O
- ;O
 das;O
- ;O
 decisões;O
- ;O
 impugnadas;O
- ;O
 que;O
- ;O
 se;O
- ;O
 referem;O
- ;O
 a;O
- ;O
 servidores;O
- ;O
 celetistas;O
 ,;O
- ;O
 nos;O
- ;O
 termos;O
- ;O
 do;O
- ;O
 art;B_Ref. Legislativa
 .;I_Ref. Legislativa
- ;I_Ref. Legislativa
 5º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 §;I_Ref. Legislativa
- ;I_Ref. Legislativa
 3º;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 da;I_Ref. Legislativa
- ;I_Ref. Legislativa
 Lei;I_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 9.882/99;I_Ref. Legislativa
 .;I_Ref. Legislativa
- ;O
 "
 ";O
 "
 ";O
 Percebam;O
- ;O
 que;O
- ;O
 o;O
- ;O
 Relator;O
- ;O
 do;O
- ;O
 processo;O
- ;O
 objetivo;O
- ;O
 limitou;O
 -;O
 se;O
- ;O
 a;O
- ;O
 suspender;O
- ;O
 certas;O
- ;O
 decisões;O
- ;O
 proferidas;O
- ;O
 pelo;O
- ;O
 Regional;O
- ;O
 do;O
- ;O
 Trabalho;O
- ;O
 da;O
- ;O
 22ª;O
- ;O
 Região;O
- ;O
 e;O
- ;O
 pelo;O
- ;O
 Tribunal;O
- ;O
 de;O
- ;O
 Justiça;O
- ;O
 do;O
- ;O
 Estado;O
- ;O
 do;O
- ;O
 Piauí;O
 .;O
- ;O
 A;O
- ;O
 eficácia;O
- ;O
 do;O
- ;O
 ato;O
- ;O
 não;O
- ;O
 alcança;O
- ;O
 o;O
- ;O
 pronunciamento;O
- ;O
 ora;O
- ;O
 reclamado;O
 ,;O
- ;O
 de;O
- ;O
 Órgão;O
- ;O
 judiciário;O
- ;O
 diverso;O
 ,;O
- ;O
 descabendo;O
- ;O
 articular;O
- ;O
 com;O
- ;O
 a;O
- ;O
 tese;O
- ;O
 da;O
- ;O
 eficácia;O
- ;O
 transcendental;O
- ;O
 dos;O
- ;O
 motivos;O
- ;O
 determinantes;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 No;O
- ;O
 tocante;O
- ;O
 à;O
- ;O
 alegada;O
- ;O
 ofensa;O
- ;O
 ao;O
- ;O
 assentado;O
- ;O
 na;O
- ;O
 representação;B_Precedente
- ;I_Precedente
 de;I_Precedente
- ;I_Precedente
 inconstitucionalidade;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 716;I_Precedente
 /;I_Precedente
 DF;I_Precedente
 ,;I_Precedente
- ;O
 o;O
- ;O
 Supremo;O
- ;O
 declarou;O
 ,;O
- ;O
 em;O
- ;O
 1969;O
 ,;O
- ;O
 a;O
- ;O
 invalidade;O
- ;O
 da;O
- ;O
 Lei;B_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 4.950;I_Ref. Legislativa
 -;I_Ref. Legislativa
 A/1966;I_Ref. Legislativa
- ;I_Ref. Legislativa
 apenas;O
- ;O
 relativamente;O
- ;O
 aos;O
- ;O
 profissionais;O
 ,;O
- ;O
 nela;O
- ;O
 identificados;O
 ,;O
- ;O
 submetidos;O
- ;O
 ao;O
- ;O
 regime;O
- ;O
 estatutário;O
 ,;O
- ;O
 não;O
- ;O
 estando;O
- ;O
 englobados;O
- ;O
 aqueles;O
- ;O
 regidos;O
- ;O
 por;O
- ;O
 vínculo;O
- ;O
 de;O
- ;O
 natureza;O
- ;O
 celetista;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Quanto;O
- ;O
 à;O
- ;O
 arguida;O
- ;O
 contrariedade;O
- ;O
 ao;O
- ;O
 verbete;B_Precedente
- ;I_Precedente
 vinculante;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 4;I_Precedente
 ,;I_Precedente
- ;O
 percebam;O
- ;O
 as;O
- ;O
 balizas;O
- ;O
 do;O
- ;O
 caso;O
- ;O
 concreto;O
 .;O
- ;O
 A;O
- ;O
 reclamante;O
- ;O
 figura;O
- ;O
 como;O
- ;O
 ré;O
- ;O
 em;O
- ;O
 demanda;O
- ;O
 na;O
- ;O
 qual;O
- ;O
 engenheiro;O
- ;O
 busca;O
- ;O
 ver;O
- ;O
 observado;O
- ;O
 o;O
- ;O
 salário;O
- ;O
 profissional;O
- ;O
 estipulado;O
- ;O
 na;O
- ;O
 Lei;B_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 4.950;I_Ref. Legislativa
 -;I_Ref. Legislativa
 A;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 22;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 abril;I_Ref. Legislativa
- ;I_Ref. Legislativa
 de;I_Ref. Legislativa
- ;I_Ref. Legislativa
 1966;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 mediante;O
- ;O
 o;O
- ;O
 pagamento;O
- ;O
 de;O
- ;O
 diferenças;O
- ;O
 remuneratórias;O
 .;O
- ;O
 Recurso;O
- ;O
 ordinário;O
- ;O
 acabou;O
- ;O
 parcialmente;O
- ;O
 provido;O
- ;O
 pelo;O
- ;O
 Tribunal;O
- ;O
 Regional;O
- ;O
 do;O
- ;O
 Trabalho;O
- ;O
 da;O
- ;O
 2ª;O
- ;O
 Região;O
 ,;O
- ;O
 tendo;O
- ;O
 sido;O
- ;O
 consignadas;O
 ,;O
- ;O
 no;O
- ;O
 que;O
- ;O
 interessa;O
- ;O
 ao;O
- ;O
 desenlace;O
- ;O
 desta;O
- ;O
 reclamação;O
 ,;O
- ;O
 as;O
- ;O
 seguintes;O
- ;O
 razões;O
 :;O
- ;O
 [;O
 .;O
 .;O
 .;O
 ]O;O
- ;O
 salário;O
- ;O
 inicial;O
 ,;O
- ;O
 de;O
- ;O
 acordo;O
- ;O
 com;O
- ;O
 a;O
- ;O
 Lei;B_Ref. Legislativa
- ;I_Ref. Legislativa
 4950;I_Ref. Legislativa
 -;I_Ref. Legislativa
 A/66;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 deveria;O
- ;O
 observar;O
- ;O
 6;O
- ;O
 salários;O
- ;O
 mínimos;O
- ;O
 para;O
- ;O
 6;O
- ;O
 horas;O
- ;O
 diárias;O
 .;O
- ;O
 Tendo;O
- ;O
 o;O
- ;O
 recte;O
- ;O
 (;O
 sic;O
 );O
- ;O
 laborado;O
- ;O
 8;O
- ;O
 horas;O
- ;O
 diárias;O
 ,;O
- ;O
 o;O
- ;O
 valor;O
- ;O
 correto;O
- ;O
 seria;O
- ;O
 de;O
- ;O
 R$;O
- ;O
 3.720,00;O
 ,;O
- ;O
 conforme;O
- ;O
 cálculo;O
- ;O
 a;O
- ;O
 seguir;O
 :;O
- ;O
 [;O
 .;O
 .;O
 .;O
 ];O
- ;O
 "
 ";O
 "
 ";O
 Este;O
- ;O
 critério;O
- ;O
 deve;O
- ;O
 ser;O
- ;O
 seguido;O
- ;O
 para;O
- ;O
 a;O
- ;O
 apuração;O
- ;O
 das;O
- ;O
 diferenças;O
- ;O
 por;O
- ;O
 ocasião;O
- ;O
 da;O
- ;O
 mudança;O
- ;O
 do;O
- ;O
 valor;O
- ;O
 do;O
- ;O
 salário;O
- ;O
 mínimo;O
- ;O
 nos;O
- ;O
 anos;O
- ;O
 subsequentes;O
 .;O
- ;O
 [;O
 .;O
 .;O
 .;O
 ];O
- ;O
 "
 ";O
 "
 ";O
 Procede;O
- ;O
 a;O
- ;O
 irresignação;O
 .;O
- ;O
 O;O
- ;O
 Órgão;O
- ;O
 reclamado;O
- ;O
 assegurou;O
- ;O
 a;O
- ;O
 observância;O
- ;O
 do;O
- ;O
 piso;O
- ;O
 salarial;O
- ;O
 estipulado;O
- ;O
 na;O
- ;O
 Lei;B_Ref. Legislativa
- ;I_Ref. Legislativa
 nº;I_Ref. Legislativa
- ;I_Ref. Legislativa
 4.950;I_Ref. Legislativa
 -;I_Ref. Legislativa
 A/1966;I_Ref. Legislativa
 ,;I_Ref. Legislativa
- ;O
 garantindo;O
 ,;O
- ;O
 até;O
- ;O
 mesmo;O
 ,;O
- ;O
 o;O
- ;O
 pagamento;O
- ;O
 de;O
- ;O
 diferenças;O
- ;O
 em;O
- ;O
 virtude;O
- ;O
 das;O
- ;O
 alterações;O
- ;O
 supervenientes;O
- ;O
 no;O
- ;O
 valor;O
- ;O
 do;O
- ;O
 salário;O
- ;O
 mínimo;O
 .;O
- ;O
 O;O
- ;O
 quadro;O
- ;O
 evidencia;O
- ;O
 a;O
- ;O
 utilização;O
- ;O
 deste;O
- ;O
 como;O
- ;O
 fator;O
- ;O
 de;O
- ;O
 indexação;O
- ;O
 de;O
- ;O
 remuneração;O
- ;O
 de;O
- ;O
 servidor;O
- ;O
 público;O
 ,;O
- ;O
 a;O
- ;O
 revelar;O
- ;O
 ofensa;O
- ;O
 ao;O
- ;O
 verbete;B_Precedente
- ;I_Precedente
 vinculante;I_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 4;I_Precedente
 ,;I_Precedente
- ;O
 cujo;O
- ;O
 teor;O
- ;O
 transcrevo;O
 :;O
- ;O
 "
 ";O
 "
 ";O
 Salvo;O
- ;O
 nos;O
- ;O
 casos;O
- ;O
 previstos;O
- ;O
 na;O
- ;O
 Constituição;O
 ,;O
- ;O
 o;O
- ;O
 salário;O
- ;O
 mínimo;O
- ;O
 não;O
- ;O
 pode;O
- ;O
 ser;O
- ;O
 usado;O
- ;O
 como;O
- ;O
 indexador;O
- ;O
 de;O
- ;O
 base;O
- ;O
 de;O
- ;O
 cálculo;O
- ;O
 de;O
- ;O
 vantagem;O
- ;O
 de;O
- ;O
 servidor;O
- ;O
 público;O
- ;O
 ou;O
- ;O
 de;O
- ;O
 empregado;O
 ,;O
- ;O
 nem;O
- ;O
 ser;O
- ;O
 substituído;O
- ;O
 por;O
- ;O
 decisão;O
- ;O
 judicial;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 3;O
 .;O
- ;O
 Julgo;O
- ;O
 procedente;O
- ;O
 o;O
- ;O
 pedido;O
- ;O
 formulado;O
- ;O
 nesta;O
- ;O
 reclamação;O
- ;O
 para;O
- ;O
 cassar;O
- ;O
 o;O
- ;O
 acórdão;O
- ;O
 da;O
- ;O
 Quinta;O
- ;O
 Turma;O
- ;O
 do;O
- ;O
 Tribunal;O
- ;O
 Regional;O
- ;O
 do;O
- ;O
 Trabalho;O
- ;O
 da;O
- ;O
 2ª;O
- ;O
 Região;O
- ;O
 no;O
- ;O
 processo;B_Precedente
- ;I_Precedente
 nº;I_Precedente
- ;I_Precedente
 0001252-48.2010.5.02.0053;I_Precedente
 .;I_Precedente
- ;O
 "
 ";O
 "
 ";O
 4;O
 .;O
- ;O
 Publiquem;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Brasília;O
 ,;O
- ;O
 2;O
- ;O
 de;O
- ;O
 março;O
- ;O
 de;O
- ;O
 2018;O
 .;O
- ;O
 "
 ";O
 "
 ";O
 Ministro;B_Pessoa
- ;I_Pessoa
 MARCO;I_Pessoa
- ;I_Pessoa
 AURÉLIO;I_Pessoa
- ;I_Pessoa
 "
 ";O
 "
@@ -2889,5 +1633,4 @@ Relator;O
 ";O
 id;O
 :;O
- ;O
 20180307_Rcl_14466_313825278;O

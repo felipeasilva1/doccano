@@ -1,0 +1,1153 @@
+Token;Tag
+DECISÃO;O
+:;O
+ ;O
+Vistos;O
+.;O
+Cuida;O
+-;O
+se;O
+ ;O
+de;O
+ ;O
+recurso;O
+ ;O
+ordinário;O
+ ;O
+em;O
+ ;O
+mandado;O
+ ;O
+de;O
+ ;O
+segurança;O
+ ;O
+interposto;O
+ ;O
+por;O
+ ;O
+CILON;B_Pessoa
+ ;I_Pessoa
+TAROUCO;I_Pessoa
+ ;I_Pessoa
+DE;I_Pessoa
+ ;I_Pessoa
+OLIVEIRA;I_Pessoa
+ ;I_Pessoa
+contra;O
+ ;O
+acórdão;O
+ ;O
+da;O
+ ;O
+Corte;O
+ ;O
+Especial;O
+ ;O
+do;O
+ ;O
+Superior;O
+ ;O
+Tribunal;O
+ ;O
+de;O
+ ;O
+Justiça;O
+ ;O
+–;O
+ ;O
+STJ;O
+ ;O
+que;O
+ ;O
+negou;O
+ ;O
+provimento;O
+ ;O
+ao;O
+ ;O
+agravo;O
+ ;O
+regimental;O
+ ;O
+interposto;O
+ ;O
+da;O
+ ;O
+decisão;O
+ ;O
+de;O
+ ;O
+indeferimento;O
+ ;O
+liminar;O
+ ;O
+do;O
+ ;O
+Mandado;B_Precedente
+ ;I_Precedente
+de;I_Precedente
+ ;I_Precedente
+Segurança;I_Precedente
+ ;I_Precedente
+nº;I_Precedente
+ ;I_Precedente
+15.445;I_Precedente
+/;I_Precedente
+DF;I_Precedente
+,;I_Precedente
+ ;O
+impetrado;O
+ ;O
+com;O
+ ;O
+o;O
+ ;O
+objetivo;O
+ ;O
+de;O
+ ;O
+cassar;O
+ ;O
+a;O
+ ;O
+decisão;O
+ ;O
+proferida;O
+ ;O
+pela;O
+ ;O
+Sexta;O
+ ;O
+Turma;O
+ ;O
+do;O
+ ;O
+STJ;O
+ ;O
+nos;O
+ ;O
+autos;O
+ ;O
+do;O
+ ;O
+Agravo;O
+ ;O
+Regimental;O
+ ;O
+em;O
+ ;O
+Recurso;B_Precedente
+ ;I_Precedente
+Especial;I_Precedente
+ ;I_Precedente
+nº;I_Precedente
+ ;I_Precedente
+886.523;I_Precedente
+.;I_Precedente
+ ;O
+"
+";O
+"
+";O
+O;O
+ ;O
+acórdão;O
+ ;O
+recorrido;O
+ ;O
+está;O
+ ;O
+assim;O
+ ;O
+ementado;O
+:;O
+ ;O
+"
+";O
+"
+";O
+“PROCESSUAL;O
+ ;O
+CIVIL;O
+.;O
+ ;O
+MANDADO;O
+ ;O
+DE;O
+ ;O
+SEGURANÇA;O
+ ;O
+CONTRA;O
+ ;O
+ATO;O
+ ;O
+JUDICIAL;O
+.;O
+ ;O
+ATO;O
+ ;O
+COATOR;O
+.;O
+ ;O
+INEXISTÊNCIA;O
+ ;O
+DE;O
+ ;O
+DIREITO;O
+ ;O
+LÍQUIDO;O
+ ;O
+E;O
+ ;O
+CERTO;O
+.;O
+ ;O
+PRESSUPOSTOS;O
+ ;O
+DE;O
+ ;O
+ADMISSIBILIDADE;O
+.;O
+ ;O
+RECURSO;O
+ ;O
+INTERPOSTO;O
+ ;O
+ANTES;O
+ ;O
+DO;O
+ ;O
+JULGAMENTO;O
+ ;O
+DOS;O
+ ;O
+EMBARGOS;O
+ ;O
+DE;O
+ ;O
+INFRINGÊNCIA;O
+.;O
+ ;O
+AUSÊNCIA;O
+ ;O
+DE;O
+ ;O
+REITERAÇÃO;O
+.;O
+ ;O
+ESGOTAMENTO;O
+ ;O
+DA;O
+ ;O
+INSTÂNCIA;O
+ ;O
+ORDINÁRIA;O
+.;O
+ ;O
+NÃO;O
+ ;O
+CONHECIMENTO;O
+.;O
+ ;O
+AGRAVO;O
+ ;O
+REGIMENTAL;O
+.;O
+ ;O
+DECISÃO;O
+ ;O
+DA;O
+ ;O
+TURMA;O
+ ;O
+EM;O
+ ;O
+CONSONÂNCIA;O
+ ;O
+COM;O
+ ;O
+A;O
+ ;O
+HODIERNA;O
+ ;O
+JURISPRUDÊNCIA;O
+ ;O
+DESTA;O
+ ;O
+CORTE;O
+.;O
+ ;O
+"
+";O
+"
+";O
+1;O
+.;O
+ ;O
+O;O
+ ;O
+Mandado;O
+ ;O
+de;O
+ ;O
+Segurança;O
+ ;O
+reclama;O
+ ;O
+direito;O
+ ;O
+prima;O
+ ;O
+facie;O
+ ;O
+evidente;O
+,;O
+ ;O
+porquanto;O
+ ;O
+não;O
+ ;O
+comporta;O
+ ;O
+a;O
+ ;O
+fase;O
+ ;O
+instrutória;O
+,;O
+ ;O
+posto;O
+ ;O
+rito;O
+ ;O
+de;O
+ ;O
+cognição;O
+ ;O
+primária;O
+.;O
+ ;O
+Precedentes;O
+ ;O
+do;O
+ ;O
+STJ;B_Precedente
+:;I_Precedente
+ ;I_Precedente
+MS;I_Precedente
+ ;I_Precedente
+13.261;I_Precedente
+/;I_Precedente
+DF;I_Precedente
+,;I_Precedente
+ ;I_Precedente
+Rel;I_Precedente
+.;I_Precedente
+ ;I_Precedente
+Ministro;I_Precedente
+ ;I_Precedente
+HUMBERTO;I_Precedente
+ ;I_Precedente
+MARTINS;I_Precedente
+,;I_Precedente
+ ;I_Precedente
+PRIMEIRA;I_Precedente
+ ;I_Precedente
+SEÇÃO;I_Precedente
+,;I_Precedente
+ ;I_Precedente
+DJe;I_Precedente
+ ;I_Precedente
+"04/03/2010;";I_Precedente
+ ;I_Precedente
+RMS;I_Precedente
+ ;I_Precedente
+30.976;I_Precedente
+/;I_Precedente
+PR;I_Precedente
+,;I_Precedente
+ ;I_Precedente
+Rel;I_Precedente
+.;I_Precedente
+ ;I_Precedente
+Ministra;I_Precedente
+ ;I_Precedente
+ELIANA;I_Precedente
+ ;I_Precedente
+CALMON;I_Precedente
+,;I_Precedente
+ ;I_Precedente
+DJe;I_Precedente
+ ;I_Precedente
+"24/03/2010;";I_Precedente
+ ;I_Precedente
+REsp;I_Precedente
+ ;I_Precedente
+1149379;I_Precedente
+/;I_Precedente
+MG;I_Precedente
+,;I_Precedente
+ ;I_Precedente
+Rel;I_Precedente
+.;I_Precedente
+ ;I_Precedente
+Ministro;I_Precedente
+ ;I_Precedente
+MAURO;I_Precedente
+ ;I_Precedente
+CAMPBELL;I_Precedente
+ ;I_Precedente
+MARQUES;I_Precedente
+,;I_Precedente
+ ;I_Precedente
+DJe;I_Precedente
+ ;I_Precedente
+30/03/2010;I_Precedente
+);I_Precedente
+.;O
+ ;O
+"
+";O
+"
+";O
+2;O
+.;O
+ ;O
+Ao;O
+ ;O
+tratar;O
+ ;O
+do;O
+ ;O
+art;B_Ref. Legislativa
+.;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+10;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+da;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+Lei;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+12.016/2009;I_Ref. Legislativa
+,;I_Ref. Legislativa
+ ;O
+a;O
+ ;O
+doutrina;O
+ ;O
+ressalta;O
+ ;O
+que;O
+ ;O
+‘a;O
+ ;O
+petição;O
+ ;O
+inicial;O
+ ;O
+será;O
+ ;O
+indeferida;O
+ ;O
+desde;O
+ ;O
+logo;O
+ ;O
+'quando;O
+ ;O
+não;O
+ ;O
+for;O
+ ;O
+o;O
+ ;O
+caso;O
+ ;O
+de;O
+ ;O
+mandado;O
+ ;O
+de;O
+ ;O
+segurança;O
+ ;O
+ou;O
+ ;O
+lhe;O
+ ;O
+faltar;O
+ ;O
+algum;O
+ ;O
+dos;O
+ ;O
+requisitos;O
+ ;O
+legais;O
+ ;O
+ou;O
+ ;O
+quando;O
+ ;O
+decorrido;O
+ ;O
+o;O
+ ;O
+prazo;O
+ ;O
+legal;O
+ ;O
+para;O
+ ;O
+a;O
+ ;O
+impetração';O
+ ;O
+(;O
+.;O
+.;O
+.;O
+);O
+ ;O
+Quando;O
+,;O
+ ;O
+entretanto;O
+,;O
+ ;O
+a;O
+ ;O
+hipótese;O
+ ;O
+definitivamente;O
+ ;O
+não;O
+ ;O
+for;O
+ ;O
+de;O
+ ;O
+mandado;O
+ ;O
+de;O
+ ;O
+segurança;O
+ ;O
+-;O
+ ;O
+porque;O
+,;O
+ ;O
+por;O
+ ;O
+exemplo;O
+,;O
+ ;O
+não;O
+ ;O
+há;O
+ ;O
+direito;O
+ ;O
+líquido;O
+ ;O
+e;O
+ ;O
+certo;O
+ ;O
+e;O
+ ;O
+não;O
+ ;O
+é;O
+ ;O
+caso;O
+ ;O
+de;O
+ ;O
+aplicação;O
+ ;O
+do;O
+ ;O
+art;B_Ref. Legislativa
+.;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+6º;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+da;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+Lei;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+n;I_Ref. Legislativa
+.;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+12.016/2009;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+ou;O
+,;O
+ ;O
+mais;O
+ ;O
+amplamente;O
+,;O
+ ;O
+quando;O
+ ;O
+não;O
+ ;O
+for;O
+ ;O
+viável;O
+ ;O
+de;O
+ ;O
+ser;O
+ ;O
+complementada;O
+ ;O
+a;O
+ ;O
+documentação;O
+ ;O
+trazida;O
+ ;O
+com;O
+ ;O
+a;O
+ ;O
+"inicial;";O
+ ;O
+o;O
+ ;O
+impetrante;O
+ ;O
+não;O
+ ;O
+tem;O
+ ;O
+interesse;O
+ ;O
+de;O
+ ;O
+agir;O
+ ;O
+(;O
+porque;O
+ ;O
+aguarda;O
+ ;O
+julgamento;O
+ ;O
+de;O
+ ;O
+recurso;O
+ ;O
+administrativo;O
+ ;O
+recebido;O
+ ;O
+no;O
+ ;O
+efeito;O
+ ;O
+suspensivo;O
+);O
+";";O
+ ;O
+o;O
+ ;O
+impetrante;O
+ ;O
+pretende;O
+ ;O
+impugnar;O
+ ;O
+lei;O
+ ;O
+em;O
+ ;O
+tese;O
+ ;O
+sem;O
+ ;O
+quaisquer;O
+ ;O
+efeitos;O
+ ;O
+concretos;O
+ ;O
+(;O
+Súmula;B_Precedente
+ ;I_Precedente
+266;I_Precedente
+ ;I_Precedente
+do;I_Precedente
+ ;I_Precedente
+STF;I_Precedente
+);I_Precedente
+ ;O
+-;O
+,;O
+ ;O
+a;O
+ ;O
+rejeição;O
+ ;O
+da;O
+ ;O
+inicial;O
+ ;O
+é;O
+ ;O
+de;O
+ ;O
+rigor;O
+.;O
+ ;O
+É;O
+ ;O
+descabida;O
+,;O
+ ;O
+nesses;O
+ ;O
+casos;O
+,;O
+ ;O
+a;O
+ ;O
+emenda;O
+,;O
+ ;O
+nos;O
+ ;O
+termos;O
+ ;O
+do;O
+ ;O
+art;B_Ref. Legislativa
+.;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+284;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+do;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+Código;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+de;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+Processo;I_Ref. Legislativa
+ ;I_Ref. Legislativa
+Civil;I_Ref. Legislativa
+.;I_Ref. Legislativa
+ ;O
+Isso;O
+ ;O
+porque;O
+ ;O
+o;O
+ ;O
+motivo;O
+ ;O
+da;O
+ ;O
+rejeição;O
+ ;O
+da;O
+ ;O
+petição;O
+ ;O
+inicial;O
+ ;O
+não;O
+ ;O
+é;O
+ ;O
+passível;O
+ ;O
+de;O
+ ;O
+qualquer;O
+ ;O
+correção;O
+ ;O
+imediata’;O
+ ;O
+(;O
+Bueno;B_Doutrina
+,;I_Doutrina
+ ;I_Doutrina
+Cassio;I_Doutrina
+ ;I_Doutrina
+Scarpinella;I_Doutrina
+.;I_Doutrina
+ ;I_Doutrina
+A;I_Doutrina
+ ;I_Doutrina
+nova;I_Doutrina
+ ;I_Doutrina
+Lei;I_Doutrina
+ ;I_Doutrina
+do;I_Doutrina
+ ;I_Doutrina
+mandado;I_Doutrina
+ ;I_Doutrina
+de;I_Doutrina
+ ;I_Doutrina
+segurança;I_Doutrina
+.;I_Doutrina
+ ;I_Doutrina
+-;I_Doutrina
+São;I_Doutrina
+ ;I_Doutrina
+Paulo;I_Doutrina
+:;I_Doutrina
+ ;I_Doutrina
+Saraiva;I_Doutrina
+,;I_Doutrina
+ ;I_Doutrina
+2009;I_Doutrina
+,;I_Doutrina
+ ;I_Doutrina
+p;I_Doutrina
+.;I_Doutrina
+ ;I_Doutrina
+62/63;I_Doutrina
+);I_Doutrina
+.;O
+ ;O
+"
+";O
+"
+";O
+3;O
+.;O
+ ;O
+In;O
+ ;O
+casu;O
+,;O
+ ;O
+trata;O
+-;O
+se;O
+ ;O
+de;O
+ ;O
+Mandado;O
+ ;O
+de;O
+ ;O
+Segurança;O
+ ;O
+objetivando;O
+ ;O
+a;O
+ ;O
+suspensão;O
+ ;O
+dos;O
+ ;O
+efeitos;O
+ ;O
+de;O
+ ;O
+acórdão;O
+ ;O
+da;O
+ ;O
+Sexta;O
+ ;O
+Turma;O
+ ;O
+do;O
+ ;O
+STJ;O
+ ;O
+que;O
+ ;O
+negou;O
+ ;O
+provimento;O
+ ;O
+ao;O
+ ;O
+agravo;O
+ ;O
+regimental;O
+ ;O
+interposto;O
+ ;O
+contra;O
+ ;O
+decisão;O
+ ;O
+monocrática;O
+ ;O
+do;O
+ ;O
+relator;O
+ ;O
+no;O
+ ;O
+Resp;B_Precedente
+ ;I_Precedente
+n°;I_Precedente
+ ;I_Precedente
+886523;I_Precedente
+/;I_Precedente
+RS;I_Precedente
+,;I_Precedente
+ ;O
+que;O
+ ;O
+negou;O
+ ;O
+seguimento;O
+ ;O
+ao;O
+ ;O
+recurso;O
+ ;O
+ao;O
+ ;O
+fundamento;O
+ ;O
+de;O
+ ;O
+que;O
+ ;O
+‘em;O
+ ;O
+casos;O
+ ;O
+de;O
+ ;O
+interposição;O
+ ;O
+simultânea;O
+ ;O
+de;O
+ ;O
+recursos;O
+ ;O
+desafiando;O
+ ;O
+acórdão;O
+ ;O
+não;O
+ ;O
+unânime;O
+,;O
+ ;O
+deve;O
+ ;O
+o;O
+ ;O
+recorrente;O
+,;O
+ ;O
+após;O
+ ;O
+o;O
+ ;O
+julgamento;O
+ ;O
+dos;O
+ ;O
+embargos;O
+ ;O
+infringentes;O
+,;O
+ ;O
+ratificar;O
+ ;O
+os;O
+ ;O
+termos;O
+ ;O
+do;O
+ ;O
+apelo;O
+ ;O
+especial;O
+ ;O
+anteriormente;O
+ ;O
+interposto;O
+ ;O
+ou;O
+ ;O
+apresentar;O
+ ;O
+novo;O
+ ;O
+recurso’;O
+.;O
+ ;O
+"
+";O
+"
+";O
+4;O
+.;O
+ ;O
+Ocorre;O
+ ;O
+que;O
+ ;O
+não;O
+ ;O
+há;O
+ ;O
+que;O
+ ;O
+se;O
+ ;O
+falar;O
+ ;O
+em;O
+ ;O
+direito;O
+ ;O
+líquido;O
+ ;O
+e;O
+ ;O
+certo;O
+ ;O
+na;O
+ ;O
+hipótese;O
+ ;O
+delineada;O
+ ;O
+nos;O
+ ;O
+autos;O
+,;O
+ ;O
+haja;O
+ ;O
+vista;O
+ ;O
+que;O
+ ;O
+não;O
+ ;O
+revela;O
+ ;O
+teratologia;O
+ ;O
+da;O
+ ;O
+decisão;O
+ ;O
+fustigada;O
+,;O
+ ;O
+ao;O
+ ;O
+revés;O
+,;O
+ ;O
+perfeita;O
+ ;O
+consonância;O
+ ;O
+com;O
+ ;O
+a;O
+ ;O
+hodierna;O
+ ;O
+jurisprudência;O
+ ;O
+desta;O
+ ;O
+Corte;O
+ ;O
+no;O
+ ;O
+sentido;O
+ ;O
+de;O
+ ;O
+ser;O
+ ;O
+necessário;O
+,;O
+ ;O
+em;O
+ ;O
+casos;O
+ ;O
+de;O
+ ;O
+interposição;O
+ ;O
+simultânea;O
+ ;O
+de;O
+ ;O
+recursos;O
+ ;O
+desafiando;O
+ ;O
+acórdão;O
+ ;O
+não;O
+ ;O
+unânime;O
+,;O
+ ;O
+que;O
+ ;O
+o;O
+ ;O
+recorrente;O
+,;O
+ ;O
+após;O
+ ;O
+o;O
+ ;O
+julgamento;O
+ ;O
+dos;O
+ ;O
+embargos;O
+ ;O
+infringentes;O
+,;O
+ ;O
+ratifique;O
+ ;O
+os;O
+ ;O
+termos;O
+ ;O
+do;O
+ ;O
+apelo;O
+ ;O
+especial;O
+ ;O
+anteriormente;O
+ ;O
+interposto;O
+ ;O
+ou;O
+ ;O
+apresente;O
+ ;O
+novo;O
+ ;O
+1>;O
+"
+";O
+id;O
+:;O
+ ;O
+20160629_RMS_30629_309824853;O

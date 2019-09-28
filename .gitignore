@@ -208,6 +208,7 @@ app/server/webpack-stats.json
 
 # csv files
 data_quality/dados/*/
+data_quality/*.csv
 
 # ner export
 ncdj-tools/export_utility/NER_EXPORT/

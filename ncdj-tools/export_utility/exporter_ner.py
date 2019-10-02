@@ -5,6 +5,7 @@ import sys
 import csv
 import json
 import django
+import hashlib
 import argparse
 import pandas as pd
 
@@ -39,12 +40,18 @@ def parse_command_line_arguments():
 
     return cli
 
-def parse_id(phase, document):
+def parse_id(phase, doc_type, document):
 
     if phase == 'treino_1' or phase == 'treino_2':
-        id_ = document.id
+        if doc_type == 'Precedente' or doc_type == 'Doutrinador':
+            id_ = hashlib.sha256(document.text.encode()).hexdigest()[:12]
+        else:
+            id_ = document.id
     elif phase == '[PRATICA_ETAPA_1]':
-        id_ = document.text.split('\n')[-1].split(': ')[-1]
+        if doc_type == 'Precedente' or doc_type == 'Doutrinador':
+            id_ = hashlib.sha256(document.text.encode()).hexdigest()[:12]
+        else:
+            id_ = document.text.split('\n')[-1].split(': ')[-1]
     elif phase == 'PRATICA_ETAPA1':
         id_ = document.text.split('\n')[-1].split(': ')[-1]
 
@@ -124,7 +131,7 @@ if __name__ == '__main__':
 
         for document in documents:
             # id_ = document.text.split('\n')[-1].split(': ')[-1]
-            id_ = parse_id(phase, document)
+            id_ = parse_id(phase, doc_type, document)
             annotations = SequenceAnnotation.objects.filter(document=document)
             offsets = [(a.start_offset, a.end_offset, a.label.text) for a in annotations]
             if annotations.count() > 0:

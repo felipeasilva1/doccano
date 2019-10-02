@@ -49,7 +49,7 @@ def parse_id(phase, doc_type, document):
             id_ = document.id
     elif phase == '[PRATICA_ETAPA_1]':
         if doc_type == 'Precedente' or doc_type == 'Doutrinador':
-            id_ = hashlib.sha256(document.text.encode()).digest()
+            id_ = hashlib.sha256(document.text.encode()).hexdigest()[:12]
         else:
             id_ = document.text.split('\n')[-1].split(': ')[-1]
     elif phase == 'PRATICA_ETAPA1':

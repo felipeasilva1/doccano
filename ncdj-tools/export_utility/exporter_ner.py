@@ -26,7 +26,9 @@ PATTERNS = [
     r'\s',  # whitespace delimiter
     r'\n',  # newline delimiter
     r'\(',
-    r'\)'
+    r'\)',
+    r'\'',
+    r'\"'
 ]
 
 BASEDIR='data/'
@@ -90,7 +92,7 @@ def process(text, offsets):
     zipped = zip(splitted, output)
 
     # filtering unwanted chars (improve regex later, maybe?)
-    zipped = [(token, label) for token, label in zipped if token not in [r'', r'\n']]
+    zipped = [(token, label) for token, label in zipped]
 
     return zipped
 

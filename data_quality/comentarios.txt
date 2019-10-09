@@ -1,0 +1,9 @@
+1) Sobre base de dados atualizada pelo Felipe: É necessário escolher se pedimos para ele mudar os nomes dos Documentos das etapas de treino_1 e treino_2, ou se atualizamos os notebooks de treino_1 e treino_2 para a nova padronização.
+
+2)Sobre próximos passos.
+Colocar aqui um arquivo LaTeX com os problemas da anotação e os entendimentos.
+> Labels mais difíceis (que é a de precedentes)
+> Como foi feita a avaliação da concordância das anotações
+> Alunos com maior concordância
+
+Resumidamente, precisamos começar a escrever o relatório técnico das concordâncias.

@@ -183,9 +183,9 @@ def read_csv(filename):
 def get_username_and_password_tuple_from(file_):
     with open(file_, 'r') as fh:
         data = fh.readlines()
-        data = [datum[:-1] for datum in data[1:]]
-        data = [datum.split(',') for datum in data if datum]
-        data = [datum[1:3] for datum in data if datum]
+        data = [datum[:-1] for datum in data]
+        data = [datum.split(';') for datum in data if datum]
+        # data = [datum[1:3] for datum in data if datum]
 
     return data
 

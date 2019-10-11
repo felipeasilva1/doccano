@@ -32,8 +32,9 @@ connection = Elasticsearch([{'host': 'aplcldrjvpr0017.acad.fgv.br', 'port': 9200
 
 DATASET = 'data/df_10_mono_coleg.csv'
 
-with open('data/df_1a_fase_pratica.json', 'r') as fh:
-    DATASET_WITH_LOOKUP = json.load(fh)
+# ETAPA PRATICA
+# with open('data/df_1a_fase_pratica.json', 'r') as fh:
+#     DATASET_WITH_LOOKUP = json.load(fh)
 
 def setup_environment():
     """
@@ -86,7 +87,7 @@ def create_project(owner, project_phase=None, suffix=None):
     project_phase = project_phase if project_phase else 'Documentos'
     user = User.objects.all().filter(username=owner).first()
     admin = User.objects.all().filter(username='admin').first()
-    carla = User.objects.all().filter(username='carla').first()
+    # carla = User.objects.all().filter(username='carla').first()
 
     if suffix:
         project_name = '{0} - {1} - {2}'.format(project_phase, owner, suffix)
@@ -106,7 +107,7 @@ def create_project(owner, project_phase=None, suffix=None):
 
     project.users.add(user)
     project.users.add(admin)
-    project.users.add(carla)
+    # project.users.add(carla)
     project.save()
 
     return project.id
@@ -161,7 +162,12 @@ def run_pipeline_for(username, password, suffix):
     user_id, user = create_user(username, password)
     project_id = create_project(owner=user, suffix=suffix)
 
-    ids = DATASET_WITH_LOOKUP[username]
+    # ETAPA PRATICA
+    # ids = DATASET_WITH_LOOKUP[username]
+    ids = ['20120802_Rcl_14003_76217662',
+           '20150302_RE_861115_305513530',
+           '20151001_RHC_128515_307832857',
+           '20120828_ARE_689457_2906011']
     payload = retrieve_documents_for_annotator(ids=ids, annotator_id=user)
     create_documents_and_associate_to_project(project_id, user, payload)
     create_project_labels(project_id)

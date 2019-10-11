@@ -1,8 +1,8 @@
 
 LABELS_PROPERTIES = {
         'Documento': {
-            'Precedente direto': (None, 'p', '#eea420', '#ffffff'),
-            'Precedente indireto': (None, 'i', '#00b1ff', '#ffffff'),
+            'Precedente': (None, 'p', '#eea420', '#ffffff'),
+            'Precedente Indireto': (None, 'i', '#00b1ff', '#ffffff'),
             'Doutrina': (None, 'd', '#ee3720', '#ffffff'),
             'Ref. Legislativa': (None, 'r', '#2ca014', '#ffffff'),
             'Pessoa': (None, 'e', '#34495e', '#ffffff')
